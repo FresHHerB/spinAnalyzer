@@ -4,6 +4,13 @@
 
 Este projeto está configurado para deploy completo (backend + frontend) no Easypanel com um único clique.
 
+### Arquitetura
+
+- **Backend:** FastAPI rodando na porta 8000
+- **Frontend:** React + Vite servido via Nginx na porta 3000
+- **Comunicação:** Frontend se conecta ao backend via variável de ambiente `VITE_API_URL`
+- **IMPORTANTE:** Backend e frontend são serviços separados com domínios próprios
+
 ## Pré-requisitos
 
 - Conta no Easypanel
@@ -49,16 +56,20 @@ Este projeto está configurado para deploy completo (backend + frontend) no Easy
    - **Branch:** `master`
    - **Build Method:** Dockerfile
    - **Dockerfile Path:** `./frontend/Dockerfile`
-   - **Port:** `80`
+   - **Port:** `3000`
 
-3. Variáveis de Ambiente:
-   ```
-   VITE_API_URL=https://api.spinanalyzer.com  # URL do backend
-   ```
+3. **IMPORTANTE:** Antes de criar o serviço, anote a URL do backend criada no passo 2
 
-4. Domínio:
+4. Variáveis de Ambiente:
+   ```
+   VITE_API_URL=https://spin-dash-api.gpqg9h.easypanel.host
+   ```
+   **Substitua pela URL real do seu backend!**
+
+5. Domínio (opcional):
    - Configure domínio principal
    - Exemplo: `spinanalyzer.com`
+   - Ou use o domínio gerado: `spin-dash.gpqg9h.easypanel.host`
 
 ### 4. Volumes (Persistência de Dados)
 
@@ -137,7 +148,7 @@ Timeout: 10s
 
 **Frontend:**
 ```
-GET http://localhost/
+GET http://localhost:3000/
 Interval: 30s
 Timeout: 10s
 ```
@@ -204,9 +215,24 @@ Configure backups automáticos nos volumes:
 
 ### Frontend não conecta ao backend
 
-1. Verifique `VITE_API_URL` está correto
-2. Teste endpoint: `curl https://api.spinanalyzer.com/health`
-3. Verifique CORS no backend
+1. **Verifique se `VITE_API_URL` está configurado corretamente:**
+   - Vá em Services → frontend → Environment
+   - Confirme que `VITE_API_URL` aponta para o domínio do backend
+   - Exemplo: `https://spin-dash-api.gpqg9h.easypanel.host`
+   - **ATENÇÃO:** Não use `http://backend:8000` - isso não funciona no Easypanel!
+
+2. **Teste o endpoint do backend:**
+   ```bash
+   curl https://spin-dash-api.gpqg9h.easypanel.host/health
+   ```
+   - Deve retornar `{"status": "healthy"}`
+
+3. **Se alterou `VITE_API_URL`, force rebuild do frontend:**
+   - Services → frontend → Rebuild
+   - A variável é injetada no build-time, não runtime
+
+4. **Verifique CORS no backend:**
+   - Backend já está configurado para aceitar todas as origens em produção
 
 ### Dados não persistem
 
