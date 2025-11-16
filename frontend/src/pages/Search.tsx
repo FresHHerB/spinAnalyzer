@@ -3,7 +3,6 @@ import { useQuery, useMutation } from '@tanstack/react-query';
 import { Search as SearchIcon, Loader2 } from 'lucide-react';
 import { getVillains, searchByContext } from '@/services/api';
 import type { ContextSearchRequest, DecisionPoint } from '@/types';
-import ResultsTable from '@/components/ResultsTable';
 import HandReplayer from '@/components/HandReplayer';
 import ExportMenu, { FileText, FileJson, Copy, type ExportOption } from '@/components/ExportMenu';
 import { exportDecisionPointsToCSV, exportDecisionPointsToJSON, copyToClipboard } from '@/utils/export';

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Bookmark, Trash2, Play, Edit2, Download, Upload, Search, Clock, TrendingUp } from 'lucide-react';
+import { Bookmark, Trash2, Play, Download, Upload, Search, Clock, TrendingUp } from 'lucide-react';
 import type { SavedQuery } from '@/utils/savedQueries';
 import {
   loadSavedQueries,

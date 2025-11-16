@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
-import { Loader2, TrendingUp, MapPin, Activity } from 'lucide-react';
+import { Loader2 } from 'lucide-react';
 import { getVillainStats } from '@/services/api';
 import ActionDistributionChart from '@/components/charts/ActionDistributionChart';
 import DistributionBarChart from '@/components/charts/DistributionBarChart';

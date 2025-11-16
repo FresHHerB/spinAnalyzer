@@ -22,6 +22,18 @@ export interface DecisionPoint {
   went_to_showdown?: boolean;
   villain_won?: boolean;
   distance?: number;
+
+  // Hand replayer fields
+  preflop_actions?: string;
+  flop_actions?: string;
+  turn_actions?: string;
+  river_actions?: string;
+  flop_board?: string;
+  turn_board?: string;
+  river_board?: string;
+  villain_stack_bb?: number;
+  hero_stack_bb?: number;
+  hero_position?: Position;
 }
 
 export interface VillainInfo {

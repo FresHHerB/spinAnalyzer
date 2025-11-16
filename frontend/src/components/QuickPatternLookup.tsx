@@ -2,16 +2,16 @@ import { useState } from 'react';
 import { useQuery, useMutation } from '@tanstack/react-query';
 import { Search, TrendingUp, Loader2, Info, Bookmark, Save, FolderOpen } from 'lucide-react';
 import { getVillains, searchByContext, analyzeRange } from '@/services/api';
-import type { ContextSearchRequest, RangeAnalysisRequest } from '@/types';
+import type { ContextSearchRequest, RangeAnalysisRequest, Street, Position } from '@/types';
 import type { SavedQuery } from '@/utils/savedQueries';
-import { saveQuery, loadSavedQueries } from '@/utils/savedQueries';
+import { saveQuery } from '@/utils/savedQueries';
 import RangeAnalysisDisplay from './RangeAnalysisDisplay';
 import SavedQueriesManager from './SavedQueriesManager';
 
 export default function QuickPatternLookup() {
   const [villain, setVillain] = useState('');
-  const [street, setStreet] = useState<string>('');
-  const [position, setPosition] = useState<string>('');
+  const [street, setStreet] = useState<Street | ''>('');
+  const [position, setPosition] = useState<Position | ''>('');
   const [potMin, setPotMin] = useState<number | undefined>();
   const [potMax, setPotMax] = useState<number | undefined>();
   const [action, setAction] = useState<string>('');
@@ -83,8 +83,8 @@ export default function QuickPatternLookup() {
 
   const handleLoadQuery = (query: SavedQuery) => {
     setVillain(query.villain_name);
-    setStreet(query.street || '');
-    setPosition(query.position || '');
+    setStreet((query.street as Street) || '');
+    setPosition((query.position as Position) || '');
     setAction(query.action || '');
     setPotMin(query.pot_bb_min);
     setPotMax(query.pot_bb_max);
@@ -94,8 +94,8 @@ export default function QuickPatternLookup() {
     setTimeout(() => {
       const contextRequest: ContextSearchRequest = {
         villain_name: query.villain_name,
-        street: query.street || undefined,
-        position: query.position || undefined,
+        street: query.street as Street | undefined,
+        position: query.position as Position | undefined,
         pot_bb_min: query.pot_bb_min,
         pot_bb_max: query.pot_bb_max,
         k: 50,
@@ -103,8 +103,8 @@ export default function QuickPatternLookup() {
 
       const rangeRequest: RangeAnalysisRequest = {
         villain_name: query.villain_name,
-        street: query.street || undefined,
-        position: query.position || undefined,
+        street: query.street as Street | undefined,
+        position: query.position as Position | undefined,
         action: query.action || undefined,
         pot_bb_min: query.pot_bb_min,
         pot_bb_max: query.pot_bb_max,
@@ -180,7 +180,7 @@ export default function QuickPatternLookup() {
           </label>
           <select
             value={street}
-            onChange={(e) => setStreet(e.target.value)}
+            onChange={(e) => setStreet(e.target.value as Street | '')}
             className="select text-sm"
           >
             <option value="">Qualquer</option>
@@ -198,7 +198,7 @@ export default function QuickPatternLookup() {
           </label>
           <select
             value={position}
-            onChange={(e) => setPosition(e.target.value)}
+            onChange={(e) => setPosition(e.target.value as Position | '')}
             className="select text-sm"
           >
             <option value="">Qualquer</option>

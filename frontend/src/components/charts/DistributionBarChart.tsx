@@ -14,7 +14,7 @@ const COLORS = [
   '#ef4444', // red
 ];
 
-export default function DistributionBarChart({ data, title, color = '#0ea5e9' }: DistributionBarChartProps) {
+export default function DistributionBarChart({ data, title: _title, color: _color = '#0ea5e9' }: DistributionBarChartProps) {
   const { theme } = useTheme();
 
   const chartData = Object.entries(data).map(([name, value]) => ({
@@ -62,7 +62,7 @@ export default function DistributionBarChart({ data, title, color = '#0ea5e9' }:
         />
         <Tooltip content={<CustomTooltip />} />
         <Bar dataKey="value" radius={[8, 8, 0, 0]}>
-          {chartData.map((entry, index) => (
+          {chartData.map((_entry, index) => (
             <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
           ))}
         </Bar>
