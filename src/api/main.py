@@ -53,10 +53,15 @@ async def lifespan(app: FastAPI):
     # Startup
     logger.info("🚀 Starting SpinAnalyzer API v2.0...")
 
-    # Load data
-    logger.info(f"Loading data from {app_state['data_file']}...")
-    app_state["df"] = pd.read_parquet(app_state["data_file"])
-    logger.info(f"✓ Loaded {len(app_state['df'])} decision points")
+    # Load data (or create empty DataFrame for fresh deployments)
+    if app_state["data_file"].exists():
+        logger.info(f"Loading data from {app_state['data_file']}...")
+        app_state["df"] = pd.read_parquet(app_state["data_file"])
+        logger.info(f"✓ Loaded {len(app_state['df'])} decision points")
+    else:
+        logger.warning(f"No data file found at {app_state['data_file']}")
+        logger.info("Creating empty DataFrame - upload files to populate data")
+        app_state["df"] = pd.DataFrame()  # Empty DataFrame for fresh deployment
 
     # Load street features for hand strength and draws
     street_features_file = Path("dataset/street_features.parquet")

@@ -20,9 +20,13 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code
 COPY src/ ./src/
-COPY dataset/ ./dataset/
-COPY indices/ ./indices/
 COPY run_api.py .
+
+# Create necessary directories
+RUN mkdir -p dataset/phh_hands dataset/decision_points indices uploads/temp uploads/processed
+
+# Copy dataset files if they exist (optional for fresh deployments)
+COPY dataset/*.parquet ./dataset/ 2>/dev/null || echo "No parquet files found, will be generated on upload"
 
 # Expose port
 EXPOSE 8000

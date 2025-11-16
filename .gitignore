@@ -57,10 +57,12 @@ Thumbs.db
 # Generated data files
 *.parquet
 *.phh
-dataset/phh_hands/
-dataset/decision_points/
-dataset/street_features.parquet
-indices/
+dataset/phh_hands/*
+!dataset/phh_hands/.gitkeep
+dataset/decision_points/*
+!dataset/decision_points/.gitkeep
+indices/*
+!indices/.gitkeep
 
 # Uploads (user data)
 uploads/

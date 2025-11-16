@@ -16,7 +16,8 @@
       "Bash(ping:*)",
       "Bash(git init:*)",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfix: Configure project for Easypanel deployment\n\nChanges for production-ready deployment:\n\nDockerfile:\n- Remove dependency on non-existent indices/ directory\n- Create directories dynamically at build time\n- Handle missing dataset files gracefully\n- Copy only necessary source files\n\nAPI Startup:\n- Handle missing data files on fresh deployment\n- Create empty DataFrame if no data exists\n- Allow system to start without pre-existing data\n- User can populate data via /upload endpoint\n\nDirectory Structure:\n- Add .gitkeep files to maintain empty directories\n- Update .gitignore to track empty directories\n- Ensure required folders exist for uploads\n\nEasypanel Configuration:\n- Add easypanel.yml for simple deployment\n- Configure volumes for data persistence\n- Setup health checks and auto-restart\n- Document complete deployment process\n\nDeploy Features:\n- Zero-configuration deployment\n- Automatic directory creation\n- Graceful handling of missing data\n- Ready for file uploads on first run\n- Full stack (backend + frontend) deployment\n\nDocumentation:\n- EASYPANEL_DEPLOY.md: Complete deployment guide\n- METODOS_ANALISE.md: Analysis methods documentation\n\nThis allows the project to be deployed to Easypanel\nand be fully functional immediately after deployment.\n\n🤖 Generated with Claude Code\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": []
