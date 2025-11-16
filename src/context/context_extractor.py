@@ -222,7 +222,7 @@ class ContextExtractor:
         actions_by_street = self._group_actions_by_street(actions)
 
         # Board cards por street
-        board_by_street = self._extract_board_by_street(actions)
+        board_by_street = self._extract_board_by_street(phh)
 
         # Processar cada street
         for street in ['preflop', 'flop', 'turn', 'river']:
@@ -237,9 +237,11 @@ class ContextExtractor:
             board_cards = board_by_street.get(street, [])
 
             # Filtrar ações do vilão nesta street
+            # Ignorar blinds/antes (sb, bb, ante) - apenas ações de decisão (call, raise, fold, bet, check)
+            decision_actions = ['call', 'raise', 'fold', 'bet', 'check', 'all_in']
             villain_actions_in_street = [
                 a for a in street_actions
-                if a.get('player') == villain_name and a.get('event') == 'action'
+                if a.get('player') == villain_name and a.get('action') in decision_actions
             ]
 
             # Para cada ação do vilão, criar um decision point
@@ -402,7 +404,12 @@ class ContextExtractor:
     # ============================================
 
     def _group_actions_by_street(self, actions: List[Dict]) -> Dict[str, List[Dict]]:
-        """Agrupa ações por street"""
+        """
+        Agrupa ações por street
+
+        Como o PHH atual não tem campo 'street', todas as ações são tratadas como preflop
+        TODO: Implementar detecção de streets baseado em padrões de ação
+        """
         by_street = {
             'preflop': [],
             'flop': [],
@@ -410,15 +417,19 @@ class ContextExtractor:
             'river': []
         }
 
-        for action in actions:
-            street = action.get('street', 'preflop')
-            if street in by_street:
-                by_street[street].append(action)
+        # Por ora, tratar todas as ações como preflop
+        by_street['preflop'] = actions
 
         return by_street
 
-    def _extract_board_by_street(self, actions: List[Dict]) -> Dict[str, List[str]]:
-        """Extrai board cards por street"""
+    def _extract_board_by_street(self, phh: Dict) -> Dict[str, List[str]]:
+        """
+        Extrai board cards por street
+
+        O board está em phh['board'] como lista plana [flop1, flop2, flop3, turn, river]
+        """
+        board_cards = phh.get('board', [])
+
         board = {
             'preflop': [],
             'flop': [],
@@ -426,20 +437,18 @@ class ContextExtractor:
             'river': []
         }
 
-        for action in actions:
-            if action.get('event') == 'cards' and 'cards' in action:
-                street = action.get('street', 'preflop')
-                cards = action.get('cards', [])
+        # Distribuir cartas por street
+        if len(board_cards) >= 3:
+            board['flop'] = board_cards[:3]
+            board['turn'] = board_cards[:3]
+            board['river'] = board_cards[:3]
 
-                if street == 'flop':
-                    board['flop'] = cards
-                    board['turn'] = cards.copy()
-                    board['river'] = cards.copy()
-                elif street == 'turn':
-                    board['turn'].extend(cards)
-                    board['river'].extend(cards)
-                elif street == 'river':
-                    board['river'].extend(cards)
+        if len(board_cards) >= 4:
+            board['turn'] = board_cards[:4]
+            board['river'] = board_cards[:4]
+
+        if len(board_cards) >= 5:
+            board['river'] = board_cards[:5]
 
         return board
 
@@ -447,16 +456,15 @@ class ContextExtractor:
         self, actions_by_street: Dict, current_street: str, sb: float, bb: float
     ) -> float:
         """Calcula pot size no início de uma street"""
-        pot = sb + bb
+        pot = 0
 
         street_order = ['preflop', 'flop', 'turn', 'river']
         current_idx = street_order.index(current_street)
 
-        # Somar ações de streets anteriores
+        # Somar TODAS as ações (incluindo blinds/antes) de streets anteriores e atual
         for street in street_order[:current_idx + 1]:
             for action in actions_by_street.get(street, []):
-                if action.get('event') == 'action':
-                    pot += action.get('amount', 0)
+                pot += action.get('amount', 0)
 
         return pot
 
@@ -471,9 +479,6 @@ class ContextExtractor:
         sequence = []
 
         for action in actions:
-            if action.get('event') != 'action':
-                continue
-
             player = action.get('player', '')
             action_type = action.get('action', '')
             amount = action.get('amount', 0)
@@ -506,9 +511,6 @@ class ContextExtractor:
         last_aggressor = None
 
         for action in actions:
-            if action.get('event') != 'action':
-                continue
-
             player = action.get('player', '')
             action_type = action.get('action', '')
 
