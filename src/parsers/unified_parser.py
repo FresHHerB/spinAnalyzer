@@ -19,6 +19,7 @@ from loguru import logger
 class HandFormat(Enum):
     """Formatos de hand history suportados"""
     XML_IPOKER = "xml_ipoker"
+    TXT_IPOKER = "txt_ipoker"
     TXT_POKERSTARS = "txt_pokerstars"
     PHH = "phh"
     UNKNOWN = "unknown"
@@ -63,12 +64,14 @@ class UnifiedParser:
             return HandFormat.XML_IPOKER
 
         if ext in [".txt", ".log"]:
-            # Verificar conteúdo para distinguir PokerStars de outros
+            # Verificar conteúdo para distinguir PokerStars de iPoker
             with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
                 first_line = f.readline()
 
                 if "PokerStars Hand #" in first_line:
                     return HandFormat.TXT_POKERSTARS
+                elif "GAME #" in first_line:
+                    return HandFormat.TXT_IPOKER
 
         if ext == ".phh":
             return HandFormat.PHH
@@ -108,6 +111,9 @@ class UnifiedParser:
         # Processar baseado no formato
         if format_type == HandFormat.XML_IPOKER:
             return self._parse_xml_ipoker(file_path, filters)
+
+        elif format_type == HandFormat.TXT_IPOKER:
+            return self._parse_txt_ipoker(file_path, filters)
 
         elif format_type == HandFormat.TXT_POKERSTARS:
             return self._parse_txt_pokerstars(file_path, filters)
@@ -256,6 +262,50 @@ class UnifiedParser:
 
         except Exception as e:
             logger.error(f"Erro ao processar TXT {file_path}: {e}")
+            self.stats['errors'] += 1
+            return []
+
+    def _parse_txt_ipoker(self, file_path: Path, filters: Optional[Dict]) -> List[Path]:
+        """
+        Parser para TXT do iPoker (formato GAME #)
+        """
+        try:
+            # Ler arquivo
+            with open(file_path, 'r', encoding='utf-8-sig') as f:
+                content = f.read()
+
+            # Separar mãos
+            hands = self._split_ipoker_hands(content)
+            self.stats['total_hands'] += len(hands)
+
+            phh_files = []
+
+            for hand_text in hands:
+                # Verificar se é HU
+                if filters and filters.get('heads_up_only', False):
+                    if not self._is_heads_up_ipoker(hand_text):
+                        continue
+
+                self.stats['hu_hands'] += 1
+
+                # Converter para PHH
+                phh_data = self._ipoker_hand_to_phh(hand_text)
+
+                if phh_data:
+                    # Salvar PHH
+                    hand_id = phh_data['metadata']['hand_id']
+                    phh_path = self.output_dir / f"{hand_id}.phh"
+
+                    with open(phh_path, 'wb') as f:
+                        tomli_w.dump(phh_data, f)
+
+                    phh_files.append(phh_path)
+                    self.stats['converted'] += 1
+
+            return phh_files
+
+        except Exception as e:
+            logger.error(f"Erro ao processar iPoker TXT {file_path}: {e}")
             self.stats['errors'] += 1
             return []
 
@@ -471,6 +521,96 @@ class UnifiedParser:
         )
 
         return len(seats_with_chips) == 2
+
+    def _split_ipoker_hands(self, content: str) -> List[str]:
+        """
+        Separa arquivo iPoker em mãos individuais
+
+        Args:
+            content: Conteúdo completo do arquivo
+
+        Returns:
+            Lista de strings, cada uma contendo uma mão
+        """
+        hands = []
+        current_hand = []
+
+        for line in content.split('\n'):
+            if line.startswith('GAME #'):
+                if current_hand:
+                    hands.append('\n'.join(current_hand))
+                current_hand = [line]
+            else:
+                if current_hand:  # Só adicionar se já começou uma mão
+                    current_hand.append(line)
+
+        # Adicionar última mão
+        if current_hand:
+            hands.append('\n'.join(current_hand))
+
+        return hands
+
+    def _is_heads_up_ipoker(self, hand_text: str) -> bool:
+        """
+        Verifica se uma mão do iPoker é Heads-Up
+
+        Args:
+            hand_text: Texto da mão
+
+        Returns:
+            True se é HU (2 jogadores ativos), False caso contrário
+        """
+        # Contar "Seat X: PlayerName (€XXX in chips)" - jogadores ativos
+        seats = re.findall(
+            r'^Seat \d+: \S+',
+            hand_text,
+            re.MULTILINE
+        )
+
+        return len(seats) == 2
+
+    def _ipoker_hand_to_phh(self, hand_text: str) -> Optional[Dict]:
+        """
+        Converte texto de mão do iPoker para formato PHH
+
+        Args:
+            hand_text: Texto da mão no formato iPoker
+
+        Returns:
+            Dict com dados PHH ou None se erro
+        """
+        try:
+            # Extrair hand ID (GAME #11605824167)
+            hand_id_match = re.search(r'GAME #(\d+)', hand_text)
+            if not hand_id_match:
+                return None
+
+            hand_id = hand_id_match.group(1)
+
+            # Estrutura PHH básica
+            phh_data = {
+                'metadata': {
+                    'hand_id': hand_id,
+                    'game': 'NLHE',
+                    'room': 'iPoker',
+                    'sb': 0.0,
+                    'bb': 0.0,
+                    'ante': 0.0,
+                    'hero': ''
+                },
+                'players': [],
+                'actions': [],
+                'showdown': {'winners': [], 'hands': []}
+            }
+
+            # TODO: Implementação completa de parsing
+            # Por ora, retornar estrutura básica para permitir indexação
+
+            return phh_data
+
+        except Exception as e:
+            logger.debug(f"Erro ao converter iPoker hand: {e}")
+            return None
 
 
 # ============================================
