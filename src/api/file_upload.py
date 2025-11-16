@@ -14,12 +14,6 @@ from loguru import logger
 from src.parsers.unified_parser import UnifiedParser, HandFormat
 from src.services.index_builder import IndexBuilder
 
-# Import reload_data function from main
-import sys
-from pathlib import Path as PathLib
-sys.path.insert(0, str(PathLib(__file__).parent))
-from main import reload_data
-
 router = APIRouter(prefix="/upload", tags=["upload"])
 
 # Diretórios
@@ -84,6 +78,10 @@ def process_uploaded_file(
 
             # 🔄 RELOAD DINÂMICO: Recarregar dados no app_state
             logger.info("Recarregando dados no backend...")
+
+            # Import locally to avoid circular import
+            from src.api.main import reload_data
+
             reload_summary = reload_data()
             processing_jobs[job_id]["reload_stats"] = reload_summary
             logger.success("Dados recarregados! Frontend terá acesso aos novos vilões.")
