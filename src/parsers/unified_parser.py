@@ -580,37 +580,165 @@ class UnifiedParser:
             Dict com dados PHH ou None se erro
         """
         try:
-            # Extrair hand ID (GAME #11605824167)
+            # Extrair hand ID
             hand_id_match = re.search(r'GAME #(\d+)', hand_text)
             if not hand_id_match:
                 return None
-
             hand_id = hand_id_match.group(1)
 
-            # Estrutura PHH básica
+            # Extrair hero (Dealt to)
+            hero_match = re.search(r'Dealt to (\S+)', hand_text)
+            hero = hero_match.group(1) if hero_match else ''
+
+            # Extrair jogadores
+            players = []
+            seat_pattern = r'Seat (\d+): (\S+) \(€?([\d,\.]+) in chips\)\s*(DEALER)?'
+            for match in re.finditer(seat_pattern, hand_text):
+                seat_num = int(match.group(1))
+                name = match.group(2)
+                stack_str = match.group(3).replace(',', '')
+                stack = float(stack_str)
+                is_btn = bool(match.group(4))
+
+                players.append({
+                    'name': name,
+                    'seat': seat_num,
+                    'stack': stack,
+                    'is_btn': is_btn
+                })
+
+            # Extrair blinds e antes
+            sb_match = re.search(r'Post SB €?([\d,\.]+)', hand_text)
+            bb_match = re.search(r'Post BB €?([\d,\.]+)', hand_text)
+            ante_match = re.search(r'Post Ante €?([\d,\.]+)', hand_text)
+
+            sb = float(sb_match.group(1).replace(',', '')) if sb_match else 0.0
+            bb = float(bb_match.group(1).replace(',', '')) if bb_match else 0.0
+            ante = float(ante_match.group(1).replace(',', '')) if ante_match else 0.0
+
+            # Extrair ações
+            actions = []
+
+            # Padrões de ação
+            action_patterns = [
+                (r'(\S+): Post Ante €?([\d,\.]+)', 'ante'),
+                (r'(\S+): Post SB €?([\d,\.]+)', 'sb'),
+                (r'(\S+): Post BB €?([\d,\.]+)', 'bb'),
+                (r'(\S+): Fold', 'fold'),
+                (r'(\S+): Check', 'check'),
+                (r'(\S+): Call €?([\d,\.]+)', 'call'),
+                (r'(\S+): Raise(?:\s+\(NF\))? €?([\d,\.]+)', 'raise'),
+                (r'(\S+): Bet €?([\d,\.]+)', 'bet'),
+                (r'(\S+): All-in(?:\(raise\))? €?([\d,\.]+)', 'allin'),
+            ]
+
+            for line in hand_text.split('\n'):
+                for pattern, action_type in action_patterns:
+                    match = re.search(pattern, line)
+                    if match:
+                        player = match.group(1)
+                        amount = 0.0
+                        if len(match.groups()) > 1:
+                            amount = float(match.group(2).replace(',', ''))
+
+                        actions.append({
+                            'player': player,
+                            'action': action_type,
+                            'amount': amount
+                        })
+                        break
+
+            # Extrair board cards
+            flop_match = re.search(r'\*\*\* FLOP \*\*\* \[([^\]]+)\]', hand_text)
+            turn_match = re.search(r'\*\*\* TURN \*\*\* \[([^\]]+)\]', hand_text)
+            river_match = re.search(r'\*\*\* RIVER \*\*\* \[([^\]]+)\]', hand_text)
+
+            board = []
+            if flop_match:
+                flop_cards = flop_match.group(1).split()
+                board.extend([self._normalize_card(c) for c in flop_cards])
+            if turn_match:
+                turn_card = turn_match.group(1).strip()
+                board.append(self._normalize_card(turn_card))
+            if river_match:
+                river_card = river_match.group(1).strip()
+                board.append(self._normalize_card(river_card))
+
+            # Extrair showdown
+            winners = []
+            shown_hands = []
+
+            winner_pattern = r'(\S+): wins €?([\d,\.]+)'
+            for match in re.finditer(winner_pattern, hand_text):
+                winners.append(match.group(1))
+
+            shows_pattern = r'(\S+): Shows \[([^\]]+)\]'
+            for match in re.finditer(shows_pattern, hand_text):
+                player = match.group(1)
+                cards_str = match.group(2)
+                cards = [self._normalize_card(c) for c in cards_str.split()]
+                shown_hands.append({
+                    'player': player,
+                    'cards': cards
+                })
+
+            # Estrutura PHH completa
             phh_data = {
                 'metadata': {
                     'hand_id': hand_id,
                     'game': 'NLHE',
                     'room': 'iPoker',
-                    'sb': 0.0,
-                    'bb': 0.0,
-                    'ante': 0.0,
-                    'hero': ''
+                    'sb': sb,
+                    'bb': bb,
+                    'ante': ante,
+                    'hero': hero
                 },
-                'players': [],
-                'actions': [],
-                'showdown': {'winners': [], 'hands': []}
+                'players': players,
+                'board': board,
+                'actions': actions,
+                'showdown': {
+                    'winners': winners,
+                    'hands': shown_hands
+                }
             }
-
-            # TODO: Implementação completa de parsing
-            # Por ora, retornar estrutura básica para permitir indexação
 
             return phh_data
 
         except Exception as e:
             logger.debug(f"Erro ao converter iPoker hand: {e}")
             return None
+
+    def _normalize_card(self, card: str) -> str:
+        """
+        Normaliza carta do formato iPoker (D7, H10, SK) para formato padrão (7d, Th, Ks)
+
+        Args:
+            card: Carta no formato iPoker (suit + rank)
+
+        Returns:
+            Carta normalizada (rank + suit lowercase)
+        """
+        if len(card) < 2:
+            return card
+
+        # iPoker: D7 = 7 de ouros, H10 = 10 de copas
+        # Formato: [Suit][Rank]
+        suit_map = {
+            'S': 's',  # Spades
+            'H': 'h',  # Hearts
+            'D': 'd',  # Diamonds
+            'C': 'c'   # Clubs
+        }
+
+        suit = card[0]
+        rank = card[1:]
+
+        # Mapear rank especial
+        if rank == '10':
+            rank = 'T'
+
+        normalized_suit = suit_map.get(suit, suit.lower())
+        return f"{rank}{normalized_suit}"
 
 
 # ============================================
