@@ -47,6 +47,49 @@ app_state = {
 }
 
 
+def reload_data():
+    """
+    Recarrega dados e índices após processamento de upload
+    Esta função replica a lógica do lifespan para hot-reload
+    """
+    logger.info("🔄 Recarregando dados e índices...")
+
+    # Recarregar DataFrame
+    if app_state["data_file"].exists():
+        app_state["df"] = pd.read_parquet(app_state["data_file"])
+        logger.info(f"✓ Recarregado {len(app_state['df'])} decision points")
+
+        # Recarregar street features
+        street_features_file = Path("dataset/street_features.parquet")
+        if street_features_file.exists():
+            street_df = pd.read_parquet(street_features_file)
+            street_df_subset = street_df[['hand_id', 'player', 'street', 'hand_strength_lbl', 'draw_type', 'fd_flag', 'oe_flag', 'gs_flag']].copy()
+            street_df_subset = street_df_subset.rename(columns={'player': 'villain_name'})
+
+            app_state["df"] = app_state["df"].merge(
+                street_df_subset,
+                on=['hand_id', 'villain_name', 'street'],
+                how='left'
+            )
+
+            app_state["df"]['villain_hand_strength'] = app_state["df"]['hand_strength_lbl'].fillna('Unknown')
+            app_state["df"]['villain_draws'] = app_state["df"]['draw_type'].fillna('none')
+    else:
+        logger.warning(f"Arquivo de dados não encontrado: {app_state['data_file']}")
+        app_state["df"] = pd.DataFrame()
+
+    # Recarregar índices FAISS
+    app_state["index_builder"] = IndexBuilder(
+        indices_dir=app_state["indices_dir"],
+        dimension=99
+    )
+
+    summary = app_state["index_builder"].get_summary()
+    logger.success(f"✓ Reload concluído! {summary['total_indices']} índices, {summary['total_vectors']} vetores")
+
+    return summary
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Lifespan context manager for startup/shutdown"""
