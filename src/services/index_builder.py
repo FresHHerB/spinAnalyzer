@@ -84,6 +84,17 @@ class IndexBuilder:
             logger.info(f"✓ Vectorized {len(vectors)} decision points (dimension: {vectors.shape[1]})")
 
             # ============================================
+            # SALVAR DECISION POINTS VETORIZADOS
+            # ============================================
+            logger.info("Saving vectorized decision points to parquet...")
+
+            decision_points_file = Path("dataset/decision_points/decision_points_vectorized.parquet")
+            decision_points_file.parent.mkdir(parents=True, exist_ok=True)
+            df_decision_points.to_parquet(decision_points_file, index=False)
+
+            logger.success(f"✓ Saved {len(df_decision_points)} decision points to {decision_points_file}")
+
+            # ============================================
             # ETAPA 3: FAISS INDEXING
             # ============================================
             logger.info("STEP 3/3: Building FAISS indices...")
