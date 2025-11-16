@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392790916">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128647452</tablename>
+<tournamentcode>1128647451</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>12</gamecount>
+<startdate>2025-06-27 10:10:57</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11536550045"><general><startdate>2025-06-27 10:11:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="saiger1" chips="500" dealer="0" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="500" dealer="0" win="96" bet="48" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mastersaber87" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="saiger1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="saiger1">C6 S5</cards>
+<cards type="Pocket" player="oreiasccp">D9 C7</cards>
+<cards type="Pocket" player="mastersaber87">D7 H8</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="mastersaber87" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 S4 C9</cards>
+<action no="6" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="8" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="10" player="mastersaber87" type="5" discard="1" dealt="1" sum="28"/>
+<action no="11" player="saiger1" type="3" discard="1" dealt="1" sum="28"/>
+</round>
+</game>
+<game gamecode="11536550128"><general><startdate>2025-06-27 10:11:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="548" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="452" dealer="0" win="60" bet="452" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 D9</cards>
+<cards type="Pocket" player="mastersaber87">X X</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="3" player="mastersaber87" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="saiger1" type="23" discard="1" dealt="1" sum="452"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="mastersaber87" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550168"><general><startdate>2025-06-27 10:11:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mastersaber87" chips="528" dealer="0" win="0" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="492" dealer="1" win="420" bet="205" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="mastersaber87" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">C2 DK</cards>
+<cards type="Pocket" player="oreiasccp">H5 CQ</cards>
+<cards type="Pocket" player="saiger1">CK SK</cards>
+<action no="3" player="saiger1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="mastersaber87" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D7 C7 S2</cards>
+<action no="6" player="mastersaber87" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="saiger1" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="mastersaber87" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="9" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="saiger1" type="5" discard="1" dealt="1" sum="105"/>
+<action no="11" player="mastersaber87" type="3" discard="1" dealt="1" sum="105"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="12" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550264"><general><startdate>2025-06-27 10:12:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="saiger1" chips="707" dealer="0" win="80" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="323" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mastersaber87" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="saiger1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S9</cards>
+<cards type="Pocket" player="mastersaber87">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="mastersaber87" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA HK CJ</cards>
+<action no="6" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="8" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="saiger1" type="5" discard="1" dealt="1" sum="20"/>
+<action no="10" player="mastersaber87" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="11" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="saiger1" type="5" discard="1" dealt="1" sum="48"/>
+<action no="13" player="mastersaber87" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550358"><general><startdate>2025-06-27 10:12:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="470" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="283" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="747" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 H9</cards>
+<cards type="Pocket" player="mastersaber87">X X</cards>
+<action no="3" player="mastersaber87" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550388"><general><startdate>2025-06-27 10:12:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mastersaber87" chips="313" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="737" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="450" dealer="0" win="40" bet="313" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="mastersaber87" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">X X</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA S7</cards>
+<action no="3" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="313"/>
+<action no="5" player="mastersaber87" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550416"><general><startdate>2025-06-27 10:13:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="saiger1" chips="737" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="470" dealer="1" win="0" bet="293" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="293" dealer="0" win="606" bet="293" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mastersaber87" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="saiger1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">D7 S7</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 DK</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="mastersaber87" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 SK D9</cards>
+<action no="6" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="25"/>
+<action no="8" player="mastersaber87" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="9" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="110"/>
+<action no="11" player="mastersaber87" type="3" discard="1" dealt="1" sum="110"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="12" player="mastersaber87" type="5" discard="1" dealt="1" sum="118"/>
+<action no="13" player="oreiasccp" type="3" sum="118"/>
+</round>
+</game>
+<game gamecode="11536550501"><general><startdate>2025-06-27 10:13:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="177" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="606" dealer="1" win="90" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="717" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mastersaber87" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="saiger1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ S7</cards>
+<cards type="Pocket" player="mastersaber87">S10 C2</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="6" player="mastersaber87" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 HK H6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550563"><general><startdate>2025-06-27 10:13:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mastersaber87" chips="661" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="697" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="142" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mastersaber87" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="saiger1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="mastersaber87" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 CJ</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="6" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550582"><general><startdate>2025-06-27 10:14:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="saiger1" chips="692" dealer="0" win="75" bet="91" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="122" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="686" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mastersaber87" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="saiger1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="mastersaber87" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="saiger1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 H3</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="mastersaber87" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 CQ D4</cards>
+<action no="9" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="11" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="saiger1" type="5" discard="1" dealt="1" sum="56"/>
+<action no="13" player="mastersaber87" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536550646"><general><startdate>2025-06-27 10:14:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="117" dealer="0" win="254" bet="117" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+<player seat="10" name="mastersaber87" chips="651" dealer="1" win="0" bet="117" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="732" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mastersaber87" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="saiger1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="mastersaber87">CK DQ</cards>
+<cards type="Pocket" player="oreiasccp">CQ C8</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="6" player="mastersaber87" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S8 CA D6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="mastersaber87" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="mastersaber87" type="5" discard="1" dealt="1" sum="45"/>
+<action no="13" player="oreiasccp" type="7" sum="82"/>
+<action no="14" player="mastersaber87" type="3" discard="1" dealt="1" sum="37"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11536550719"><general><startdate>2025-06-27 10:14:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mastersaber87" chips="534" dealer="0" win="513" bet="254" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790991"/>
+<player seat="3" name="saiger1" chips="712" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790679"/>
+<player seat="6" name="oreiasccp" chips="254" dealer="0" win="0" bet="254" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392790916"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mastersaber87" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="saiger1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="mastersaber87" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="mastersaber87">DK CQ</cards>
+<cards type="Pocket" player="oreiasccp">H2 S2</cards>
+<action no="6" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="249"/>
+<action no="8" player="mastersaber87" type="3" discard="1" dealt="1" sum="219"/>
+</round>
+<round no="2"><cards type="Flop">D6 DQ C5</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+</session>

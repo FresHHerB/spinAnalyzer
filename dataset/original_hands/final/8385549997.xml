@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385549997">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127670703</tablename>
+<tournamentcode>1127670702</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-17 11:46:54</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516944845"><general><startdate>2025-06-17 11:47:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385549997"/>
+<player seat="10" name="Powerfulsword49" chips="500" dealer="1" win="90" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385550047"/>
+<player seat="3" name="doctorbrave29" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385549952"/>
+</players>
+</general>
+<round no="0"><action no="1" player="doctorbrave29" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Powerfulsword49">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H2</cards>
+<cards type="Pocket" player="doctorbrave29">X X</cards>
+<action no="3" player="Powerfulsword49" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="doctorbrave29" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 C3 C9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Powerfulsword49" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Powerfulsword49" type="5" discard="1" dealt="1" sum="20"/>
+<action no="10" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Powerfulsword49" type="5" discard="1" dealt="1" sum="40"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516944939"><general><startdate>2025-06-17 11:47:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Powerfulsword49" chips="550" dealer="0" win="920" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385550047"/>
+<player seat="3" name="doctorbrave29" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385549952"/>
+<player seat="6" name="oreiasccp" chips="460" dealer="0" win="0" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385549997"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Powerfulsword49" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="doctorbrave29">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 C2</cards>
+<cards type="Pocket" player="Powerfulsword49">H5 D5</cards>
+<action no="3" player="doctorbrave29" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="460"/>
+<action no="5" player="Powerfulsword49" type="3" discard="1" dealt="1" sum="440"/>
+</round>
+<round no="2"><cards type="Flop">HQ SQ S7</cards>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+</session>

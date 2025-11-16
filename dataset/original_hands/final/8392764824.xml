@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392764824">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128643665</tablename>
+<tournamentcode>1128643664</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>18</gamecount>
+<startdate>2025-06-27 08:33:02</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11536479923"><general><startdate>2025-06-27 08:33:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="500" dealer="0" win="90" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="cosmicturnip" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 S5</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="3" player="troybomber" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="cosmicturnip" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D4 C4 CQ</cards>
+<action no="6" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="8" player="cosmicturnip" type="5" discard="1" dealt="1" sum="55"/>
+<action no="9" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536479998"><general><startdate>2025-06-27 08:33:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="550" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="troybomber" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S6</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="cosmicturnip" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 CA SQ</cards>
+<action no="6" player="cosmicturnip" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480043"><general><startdate>2025-06-27 08:34:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="570" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H3</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="3" player="cosmicturnip" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480088"><general><startdate>2025-06-27 08:34:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="600" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="430" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="cosmicturnip" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 S6</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<action no="3" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480122"><general><startdate>2025-06-27 08:34:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="430" dealer="0" win="240" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="580" dealer="0" win="0" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="troybomber" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 C8</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="cosmicturnip" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="troybomber" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CJ DJ D7</cards>
+<action no="6" player="cosmicturnip" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="troybomber" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="8" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="troybomber" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="cosmicturnip" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="11" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="troybomber" type="5" discard="1" dealt="1" sum="180"/>
+<action no="13" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480225"><general><startdate>2025-06-27 08:35:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="490" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ H6</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480250"><general><startdate>2025-06-27 08:35:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="455" dealer="0" win="195" bet="231" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="530" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="515" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="cosmicturnip" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 SK</cards>
+<action no="6" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="cosmicturnip" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D8 C6 C8</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="cosmicturnip" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="cosmicturnip" type="5" discard="1" dealt="1" sum="136"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480310"><general><startdate>2025-06-27 08:35:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="525" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="555" dealer="0" win="75" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="cosmicturnip" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 S10</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="cosmicturnip" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480353"><general><startdate>2025-06-27 08:36:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="415" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="595" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C9</cards>
+<action no="6" player="cosmicturnip" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480382"><general><startdate>2025-06-27 08:36:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="650" dealer="0" win="226" bet="223" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="470" dealer="1" win="0" bet="103" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="380" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="cosmicturnip" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H2</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="troybomber" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="cosmicturnip" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H3 S6 SK</cards>
+<action no="9" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="troybomber" type="5" discard="1" dealt="1" sum="38"/>
+<action no="11" player="cosmicturnip" type="3" discard="1" dealt="1" sum="38"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="12" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="14" player="cosmicturnip" type="5" discard="1" dealt="1" sum="120"/>
+<action no="15" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480443"><general><startdate>2025-06-27 08:36:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="367" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="360" dealer="1" win="90" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="773" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="cosmicturnip" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ DA</cards>
+<action no="6" player="oreiasccp" type="23" sum="355"/>
+<action no="7" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480472"><general><startdate>2025-06-27 08:36:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="415" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="753" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="332" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 SK</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<action no="6" player="cosmicturnip" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480511"><general><startdate>2025-06-27 08:37:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="808" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="312" dealer="1" win="90" bet="312" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="380" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="cosmicturnip" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 DJ</cards>
+<action no="6" player="troybomber" type="23" discard="1" dealt="1" sum="307"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536480543"><general><startdate>2025-06-27 08:37:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="367" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="360" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="773" dealer="0" win="95" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="cosmicturnip" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 CK</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="cosmicturnip" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA H7 C7</cards>
+<action no="9" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="11" player="cosmicturnip" type="5" discard="1" dealt="1" sum="80"/>
+<action no="12" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536485836"><general><startdate>2025-06-27 08:37:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="355" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="823" dealer="1" win="115" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="322" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ C7</cards>
+<action no="6" player="cosmicturnip" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536485857"><general><startdate>2025-06-27 08:38:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="893" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="297" dealer="1" win="115" bet="297" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="310" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="cosmicturnip" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 H6</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="troybomber" type="23" discard="1" dealt="1" sum="292"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536485893"><general><startdate>2025-06-27 08:38:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="troybomber" chips="367" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+<player seat="10" name="oreiasccp" chips="285" dealer="1" win="115" bet="285" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="848" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="cosmicturnip" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 H8</cards>
+<action no="6" player="oreiasccp" type="23" sum="280"/>
+<action no="7" player="cosmicturnip" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536485931"><general><startdate>2025-06-27 08:38:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="355" dealer="0" win="0" bet="355" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764824"/>
+<player seat="3" name="cosmicturnip" chips="823" dealer="1" win="735" bet="823" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764783"/>
+<player seat="6" name="troybomber" chips="322" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392764806"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="cosmicturnip" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 H3</cards>
+<cards type="Pocket" player="cosmicturnip">C5 D5</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="6" player="cosmicturnip" type="23" discard="1" dealt="1" sum="818"/>
+<action no="7" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="7" sum="310"/>
+</round>
+<round no="2"><cards type="Flop">CK HJ C2</cards>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+</round>
+<round no="4"><cards type="River">S7</cards>
+</round>
+</game>
+</session>

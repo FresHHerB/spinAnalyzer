@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392860576">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128655885</tablename>
+<tournamentcode>1128655883</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>10</gamecount>
+<startdate>2025-06-27 13:10:11</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11536710974"><general><startdate>2025-06-27 13:10:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Rhai" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 H7</cards>
+<cards type="Pocket" player="goedzo">X X</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="3" player="goedzo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711072"><general><startdate>2025-06-27 13:10:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="goedzo" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Rhai" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="goedzo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 D4</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="goedzo">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711150"><general><startdate>2025-06-27 13:11:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="490" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="540" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+</players>
+</general>
+<round no="0"><action no="1" player="goedzo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 D6</cards>
+<cards type="Pocket" player="goedzo">SJ C7</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="3" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="goedzo" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 C5 SA</cards>
+<action no="6" player="goedzo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="goedzo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="9" player="goedzo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C10</cards>
+<action no="11" player="goedzo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="20"/>
+<action no="13" player="goedzo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+</game>
+<game gamecode="11536711351"><general><startdate>2025-06-27 13:12:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="470" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="480" dealer="1" win="50" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Rhai" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 D2</cards>
+<cards type="Pocket" player="goedzo">X X</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="3" player="goedzo" type="23" discard="1" dealt="1" sum="480"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711458"><general><startdate>2025-06-27 13:12:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="goedzo" chips="510" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="150" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Rhai" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="goedzo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="goedzo">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ DQ</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="goedzo" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H2 H4 D4</cards>
+<action no="9" player="goedzo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="30"/>
+<action no="11" player="goedzo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711580"><general><startdate>2025-06-27 13:13:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="625" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="430" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="445" dealer="0" win="75" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+</players>
+</general>
+<round no="0"><action no="1" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="goedzo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="goedzo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 C2</cards>
+<action no="6" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="goedzo" type="23" discard="1" dealt="1" sum="440"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711662"><general><startdate>2025-06-27 13:13:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="425" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="485" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="590" dealer="0" win="75" bet="425" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Rhai" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA C5</cards>
+<cards type="Pocket" player="goedzo">X X</cards>
+<action no="6" player="goedzo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="420"/>
+<action no="8" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711742"><general><startdate>2025-06-27 13:14:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="goedzo" chips="480" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="630" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="390" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Rhai" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="goedzo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="goedzo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 DK</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536711829"><general><startdate>2025-06-27 13:14:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="625" dealer="0" win="0" bet="505" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+<player seat="10" name="Rhai" chips="370" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="505" dealer="0" win="1,015" bet="505" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+</players>
+</general>
+<round no="0"><action no="1" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="goedzo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="goedzo">DQ SA</cards>
+<cards type="Pocket" player="oreiasccp">S10 H10</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<action no="6" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="goedzo" type="23" discard="1" dealt="1" sum="500"/>
+<action no="8" player="oreiasccp" type="3" sum="470"/>
+</round>
+<round no="2"><cards type="Flop">CA DJ H6</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">C2</cards>
+</round>
+</game>
+<game gamecode="11536717969"><general><startdate>2025-06-27 13:14:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="365" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860622"/>
+<player seat="3" name="goedzo" chips="1,015" dealer="1" win="285" bet="1,015" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860524"/>
+<player seat="6" name="oreiasccp" chips="120" dealer="0" win="0" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392860576"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Rhai" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="goedzo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Rhai" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="goedzo">H3 SA</cards>
+<cards type="Pocket" player="oreiasccp">HA S2</cards>
+<action no="6" player="goedzo" type="23" discard="1" dealt="1" sum="1,010"/>
+<action no="7" player="oreiasccp" type="7" sum="95"/>
+<action no="8" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK H9 C4</cards>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+</session>

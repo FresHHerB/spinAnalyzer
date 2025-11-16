@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8408355118">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130741063</tablename>
+<tournamentcode>1130741062</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-07-17 23:27:45</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11579546149"><general><startdate>2025-07-17 23:28:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="4444KING" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355117"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355118"/>
+<player seat="10" name="ArthurLuppoCar" chips="500" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355157"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ArthurLuppoCar" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="4444KING" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ArthurLuppoCar">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ S3</cards>
+<cards type="Pocket" player="4444KING">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="ArthurLuppoCar" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="4444KING" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 DQ D5</cards>
+<action no="6" player="ArthurLuppoCar" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="4444KING" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11579546282"><general><startdate>2025-07-17 23:28:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355118"/>
+<player seat="10" name="ArthurLuppoCar" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355157"/>
+<player seat="3" name="4444KING" chips="480" dealer="0" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355117"/>
+</players>
+</general>
+<round no="0"><action no="1" player="4444KING" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="4444KING">CA CJ</cards>
+<cards type="Pocket" player="oreiasccp">DQ SQ</cards>
+<cards type="Pocket" player="ArthurLuppoCar">X X</cards>
+<action no="3" player="ArthurLuppoCar" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="4444KING" type="23" discard="1" dealt="1" sum="80"/>
+<action no="5" player="oreiasccp" type="23" sum="200"/>
+<action no="6" player="4444KING" type="23" discard="1" dealt="1" sum="480"/>
+<action no="7" player="oreiasccp" type="3" sum="280"/>
+</round>
+<round no="2"><cards type="Flop">SK SA SJ</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">C2</cards>
+</round>
+</game>
+<game gamecode="11579562581"><general><startdate>2025-07-17 23:28:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="ArthurLuppoCar" chips="520" dealer="0" win="500" bet="520" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355157"/>
+<player seat="3" name="4444KING" chips="960" dealer="1" win="0" bet="240" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355117"/>
+<player seat="6" name="oreiasccp" chips="20" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8408355118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="ArthurLuppoCar" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ArthurLuppoCar">S10 HQ</cards>
+<cards type="Pocket" player="4444KING">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C7</cards>
+<action no="3" player="4444KING" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="7" sum="10"/>
+<action no="5" player="ArthurLuppoCar" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DQ C8 S4</cards>
+<action no="6" player="ArthurLuppoCar" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="4444KING" type="5" discard="1" dealt="1" sum="100"/>
+<action no="8" player="ArthurLuppoCar" type="23" discard="1" dealt="1" sum="200"/>
+<action no="9" player="4444KING" type="3" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="10" player="ArthurLuppoCar" type="5" discard="1" dealt="1" sum="280"/>
+<action no="11" player="4444KING" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+</session>

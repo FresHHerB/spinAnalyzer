@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407792658">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130667072</tablename>
+<tournamentcode>1130667071</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>24</gamecount>
+<startdate>2025-07-17 07:09:40</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11578020275"><general><startdate>2025-07-17 07:09:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="500" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="10" name="09Leo09" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792696"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Elivass" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="09Leo09">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA H4</cards>
+<cards type="Pocket" player="Elivass">D5 C10</cards>
+<action no="3" player="09Leo09" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D10 DQ S4</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Elivass" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="10" player="oreiasccp" type="5" sum="20"/>
+<action no="11" player="Elivass" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+</game>
+<game gamecode="11578020425"><general><startdate>2025-07-17 07:10:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="09Leo09" chips="500" dealer="0" win="90" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792696"/>
+<player seat="3" name="oreiasccp" chips="420" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="580" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="09Leo09" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA S8</cards>
+<cards type="Pocket" player="09Leo09">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="09Leo09" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020466"><general><startdate>2025-07-17 07:10:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="380" dealer="0" win="80" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="570" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="10" name="09Leo09" chips="550" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792696"/>
+</players>
+</general>
+<round no="0"><action no="1" player="09Leo09" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="09Leo09">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ HA</cards>
+<action no="3" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="09Leo09" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="23" sum="380"/>
+<action no="6" player="09Leo09" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020519"><general><startdate>2025-07-17 07:11:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="570" dealer="0" win="1,030" bet="570" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="10" name="09Leo09" chips="510" dealer="1" win="0" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792696"/>
+<player seat="3" name="oreiasccp" chips="420" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Elivass" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="09Leo09">S9 SA</cards>
+<cards type="Pocket" player="oreiasccp">HQ S7</cards>
+<cards type="Pocket" player="Elivass">SK SQ</cards>
+<action no="3" player="09Leo09" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Elivass" type="23" discard="1" dealt="1" sum="570"/>
+<action no="6" player="09Leo09" type="7" discard="1" dealt="1" sum="470"/>
+</round>
+<round no="2"><cards type="Flop">HK D5 SJ</cards>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+<game gamecode="11578020612"><general><startdate>2025-07-17 07:11:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="1,090" dealer="0" win="100" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="410" dealer="1" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Elivass" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 D10</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SJ D5 CQ</cards>
+<action no="5" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="7" player="Elivass" type="5" discard="1" dealt="1" sum="30"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="9" player="Elivass" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020742"><general><startdate>2025-07-17 07:12:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="360" dealer="0" win="70" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="1,140" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK H2</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="355"/>
+<action no="7" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020802"><general><startdate>2025-07-17 07:12:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="1,105" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="395" dealer="1" win="70" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 CA</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="390"/>
+<action no="6" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020852"><general><startdate>2025-07-17 07:12:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="430" dealer="0" win="190" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="1,070" dealer="1" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK H9</cards>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="90"/>
+<action no="7" player="Elivass" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C9 C2 H3</cards>
+<action no="8" player="oreiasccp" type="5" sum="68"/>
+<action no="9" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578020942"><general><startdate>2025-07-17 07:13:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="975" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="525" dealer="1" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 H9</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 C4 S8</cards>
+<action no="7" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Elivass" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="10" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="95"/>
+<action no="12" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024679"><general><startdate>2025-07-17 07:14:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="590" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="910" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 H4</cards>
+<action no="5" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024705"><general><startdate>2025-07-17 07:14:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="885" dealer="0" win="0" bet="285" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="615" dealer="1" win="570" bet="285" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">D7 SJ</cards>
+<cards type="Pocket" player="oreiasccp">H9 DJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 HJ H5</cards>
+<action no="7" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Elivass" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="10" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+<action no="12" player="Elivass" type="5" discard="1" dealt="1" sum="80"/>
+<action no="13" player="oreiasccp" type="23" sum="200"/>
+<action no="14" player="Elivass" type="3" discard="1" dealt="1" sum="120"/>
+</round>
+</game>
+<game gamecode="11578024874"><general><startdate>2025-07-17 07:15:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="900" dealer="0" win="170" bet="600" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="600" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA HJ</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="23" sum="595"/>
+<action no="7" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024915"><general><startdate>2025-07-17 07:15:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="515" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="985" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 S3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024937"><general><startdate>2025-07-17 07:15:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="960" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="540" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ HK</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024956"><general><startdate>2025-07-17 07:15:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="515" dealer="0" win="90" bet="515" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="985" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H4</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Elivass" type="23" discard="1" dealt="1" sum="510"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578024996"><general><startdate>2025-07-17 07:15:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="940" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="560" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 S4</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA H10 D3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Elivass" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025058"><general><startdate>2025-07-17 07:16:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="605" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="895" dealer="1" win="130" bet="605" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA S5</cards>
+<action no="5" player="oreiasccp" type="23" sum="600"/>
+<action no="6" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025084"><general><startdate>2025-07-17 07:16:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="960" dealer="0" win="130" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="540" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 SQ</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="150"/>
+<action no="7" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025144"><general><startdate>2025-07-17 07:16:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="475" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="1,025" dealer="1" win="130" bet="475" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA S2</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="470"/>
+<action no="6" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025175"><general><startdate>2025-07-17 07:16:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,090" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="410" dealer="1" win="130" bet="410" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 H3</cards>
+<cards type="Pocket" player="Elivass">X X</cards>
+<action no="5" player="Elivass" type="23" discard="1" dealt="1" sum="405"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025209"><general><startdate>2025-07-17 07:16:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="475" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="1,025" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 S6</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025227"><general><startdate>2025-07-17 07:17:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="990" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="510" dealer="1" win="250" bet="510" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 HJ</cards>
+<action no="5" player="Elivass" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ H8 HK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Elivass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="11" player="oreiasccp" type="5" sum="60"/>
+<action no="12" player="Elivass" type="23" discard="1" dealt="1" sum="445"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025358"><general><startdate>2025-07-17 07:17:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Elivass" chips="635" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+<player seat="3" name="oreiasccp" chips="865" dealer="1" win="130" bet="635" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Elivass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Elivass" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Elivass">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 HA</cards>
+<action no="5" player="oreiasccp" type="23" sum="630"/>
+<action no="6" player="Elivass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578025404"><general><startdate>2025-07-17 07:17:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="930" dealer="0" win="1,140" bet="570" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792658"/>
+<player seat="6" name="Elivass" chips="570" dealer="1" win="0" bet="570" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407792684"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Elivass" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Elivass" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ DJ</cards>
+<cards type="Pocket" player="Elivass">S8 D9</cards>
+<action no="5" player="Elivass" type="23" discard="1" dealt="1" sum="562"/>
+<action no="6" player="oreiasccp" type="3" sum="482"/>
+</round>
+<round no="2"><cards type="Flop">C9 HJ SJ</cards>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+</round>
+<round no="4"><cards type="River">H5</cards>
+</round>
+</game>
+</session>

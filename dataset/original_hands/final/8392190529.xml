@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392190529">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128568062</tablename>
+<tournamentcode>1128568061</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>36</gamecount>
+<startdate>2025-06-26 16:05:06</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11534947196"><general><startdate>2025-06-26 16:05:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="500" dealer="0" win="138" bet="158" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="10" name="Rhai" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190660"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Tonni5" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 SQ</cards>
+<action no="3" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Tonni5" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK C5 H5</cards>
+<action no="6" player="oreiasccp" type="5" sum="29"/>
+<action no="7" player="Tonni5" type="23" discard="1" dealt="1" sum="118"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534947330"><general><startdate>2025-06-26 16:05:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190660"/>
+<player seat="3" name="oreiasccp" chips="431" dealer="1" win="150" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="569" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Rhai" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Tonni5">S8 CK</cards>
+<cards type="Pocket" player="oreiasccp">H6 HA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 C2 D5</cards>
+<action no="6" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="25"/>
+<action no="8" player="Tonni5" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="11" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11534947516"><general><startdate>2025-06-26 16:06:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="516" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="504" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="10" name="Rhai" chips="480" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190660"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Rhai" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 HQ</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="3" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Rhai" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534947564"><general><startdate>2025-06-26 16:06:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="504" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="10" name="Rhai" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190660"/>
+<player seat="3" name="oreiasccp" chips="496" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Tonni5" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 D2</cards>
+<action no="3" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958151"><general><startdate>2025-06-26 16:06:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Rhai" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190660"/>
+<player seat="3" name="oreiasccp" chips="516" dealer="1" win="1,040" bet="516" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="484" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Rhai" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="Rhai">S4 D4</cards>
+<cards type="Pocket" player="oreiasccp">HQ HA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Rhai" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="7" sum="476"/>
+<action no="7" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA SQ CQ</cards>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+</round>
+<round no="4"><cards type="River">SK</cards>
+</round>
+</game>
+<game gamecode="11534958365"><general><startdate>2025-06-26 16:07:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,056" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="444" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK D6</cards>
+<action no="3" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958398"><general><startdate>2025-06-26 16:07:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="434" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,066" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 HQ</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958469"><general><startdate>2025-06-26 16:07:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,101" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="399" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ S10</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958513"><general><startdate>2025-06-26 16:07:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="379" dealer="0" win="130" bet="379" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,121" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ SK</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA HJ C4</cards>
+<action no="7" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="10" player="Tonni5" type="5" discard="1" dealt="1" sum="314"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958667"><general><startdate>2025-06-26 16:08:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,056" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="444" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ D6</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958698"><general><startdate>2025-06-26 16:08:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="424" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,076" dealer="1" win="70" bet="424" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 D4</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="419"/>
+<action no="6" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958768"><general><startdate>2025-06-26 16:08:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,111" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="389" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ S6</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958810"><general><startdate>2025-06-26 16:08:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="369" dealer="0" win="70" bet="369" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,131" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 D4</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 H8 S7</cards>
+<action no="7" player="Tonni5" type="5" discard="1" dealt="1" sum="334"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958887"><general><startdate>2025-06-26 16:08:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,096" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="404" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 HJ</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534958931"><general><startdate>2025-06-26 16:09:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="384" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,116" dealer="1" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">C7 C8</cards>
+<cards type="Pocket" player="oreiasccp">CK C4</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 SA S9</cards>
+<action no="7" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="10" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="12" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959122"><general><startdate>2025-06-26 16:09:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,181" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="319" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 HK</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959178"><general><startdate>2025-06-26 16:09:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="294" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,206" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 H6</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959215"><general><startdate>2025-06-26 16:09:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,181" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="319" dealer="1" win="90" bet="319" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 H6</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="23" discard="1" dealt="1" sum="314"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959266"><general><startdate>2025-06-26 16:10:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="364" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,136" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 H2</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959317"><general><startdate>2025-06-26 16:10:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,111" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="389" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 SJ</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959372"><general><startdate>2025-06-26 16:10:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="364" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,136" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 C4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959407"><general><startdate>2025-06-26 16:10:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,111" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="389" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 H4</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959460"><general><startdate>2025-06-26 16:10:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="364" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,136" dealer="1" win="90" bet="364" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA D2</cards>
+<action no="5" player="oreiasccp" type="23" sum="359"/>
+<action no="6" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959524"><general><startdate>2025-06-26 16:10:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,181" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="319" dealer="1" win="90" bet="319" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HQ</cards>
+<action no="5" player="Tonni5" type="23" discard="1" dealt="1" sum="314"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959598"><general><startdate>2025-06-26 16:11:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="364" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,136" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 C10</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959662"><general><startdate>2025-06-26 16:11:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,111" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="389" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C2</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959697"><general><startdate>2025-06-26 16:11:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="364" dealer="0" win="270" bet="135" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,136" dealer="1" win="0" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">HA H4</cards>
+<cards type="Pocket" player="oreiasccp">C9 H8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S8 DJ DQ</cards>
+<action no="7" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="9" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="11" player="Tonni5" type="5" discard="1" dealt="1" sum="90"/>
+<action no="12" player="oreiasccp" type="3" sum="90"/>
+</round>
+</game>
+<game gamecode="11534959854"><general><startdate>2025-06-26 16:11:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,001" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="499" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 S3</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534959896"><general><startdate>2025-06-26 16:11:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="464" dealer="0" win="928" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="1,036" dealer="1" win="0" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">HA SA</cards>
+<cards type="Pocket" player="oreiasccp">C10 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="459"/>
+<action no="6" player="Tonni5" type="7" discard="1" dealt="1" sum="399"/>
+</round>
+<round no="2"><cards type="Flop">D8 H5 C7</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+<game gamecode="11534959991"><general><startdate>2025-06-26 16:12:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="572" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="928" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 C2</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534960051"><general><startdate>2025-06-26 16:12:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="893" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="607" dealer="1" win="130" bet="607" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 SJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="602"/>
+<action no="6" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534960115"><general><startdate>2025-06-26 16:12:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="672" dealer="0" win="0" bet="275" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="828" dealer="1" win="550" bet="828" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK HA</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="210"/>
+<action no="7" player="Tonni5" type="3" discard="1" dealt="1" sum="150"/>
+</round>
+<round no="2"><cards type="Flop">CJ D9 SQ</cards>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="Tonni5" type="23" discard="1" dealt="1" sum="613"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534960196"><general><startdate>2025-06-26 16:12:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="1,103" dealer="0" win="0" bet="397" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="397" dealer="1" win="794" bet="397" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">CJ SK</cards>
+<cards type="Pocket" player="oreiasccp">SA CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="392"/>
+<action no="6" player="Tonni5" type="3" discard="1" dealt="1" sum="332"/>
+</round>
+<round no="2"><cards type="Flop">D6 H4 SQ</cards>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+<game gamecode="11534960302"><general><startdate>2025-06-26 16:13:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="794" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="706" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ D10</cards>
+<action no="5" player="Tonni5" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 C4 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Tonni5" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D6</cards>
+<action no="11" player="oreiasccp" type="5" sum="60"/>
+<action no="12" player="Tonni5" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534968126"><general><startdate>2025-06-26 16:13:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Tonni5" chips="641" dealer="0" win="96" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+<player seat="3" name="oreiasccp" chips="859" dealer="1" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Tonni5" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Tonni5" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 S2</cards>
+<cards type="Pocket" player="Tonni5">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534968164"><general><startdate>2025-06-26 16:13:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="811" dealer="0" win="1,378" bet="689" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190529"/>
+<player seat="6" name="Tonni5" chips="689" dealer="1" win="0" bet="689" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392190571"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tonni5" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Tonni5" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tonni5">S6 HA</cards>
+<cards type="Pocket" player="oreiasccp">CA CK</cards>
+<action no="5" player="Tonni5" type="23" discard="1" dealt="1" sum="240"/>
+<action no="6" player="oreiasccp" type="23" sum="681"/>
+<action no="7" player="Tonni5" type="7" discard="1" dealt="1" sum="441"/>
+</round>
+<round no="2"><cards type="Flop">H7 D10 SA</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+</session>

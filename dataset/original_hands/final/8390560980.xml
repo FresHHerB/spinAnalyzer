@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390560980">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128346550</tablename>
+<tournamentcode>1128346549</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>22</gamecount>
+<startdate>2025-06-24 07:08:05</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530518901"><general><startdate>2025-06-24 07:08:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="HakunaMatata1" chips="500" dealer="0" win="0" bet="175" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+<player seat="3" name="SamStarr" chips="500" dealer="1" win="360" bet="175" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="HakunaMatata1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="HakunaMatata1">D8 CJ</cards>
+<cards type="Pocket" player="oreiasccp">SQ S7</cards>
+<cards type="Pocket" player="SamStarr">S10 C9</cards>
+<action no="3" player="SamStarr" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="HakunaMatata1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C6 HK D9</cards>
+<action no="6" player="HakunaMatata1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="SamStarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="8" player="HakunaMatata1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="SamStarr" type="5" discard="1" dealt="1" sum="45"/>
+<action no="10" player="HakunaMatata1" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="11" player="HakunaMatata1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="SamStarr" type="5" discard="1" dealt="1" sum="90"/>
+<action no="13" player="HakunaMatata1" type="3" discard="1" dealt="1" sum="90"/>
+</round>
+</game>
+<game gamecode="11530519060"><general><startdate>2025-06-24 07:09:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="685" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="10" name="HakunaMatata1" chips="325" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HakunaMatata1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="SamStarr" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="HakunaMatata1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 HK</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="HakunaMatata1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530519094"><general><startdate>2025-06-24 07:09:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="520" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="10" name="HakunaMatata1" chips="315" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+<player seat="3" name="SamStarr" chips="665" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA D9</cards>
+<cards type="Pocket" player="SamStarr">H9 S7</cards>
+<cards type="Pocket" player="HakunaMatata1">X X</cards>
+<action no="3" player="HakunaMatata1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="SamStarr" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DJ S3 S9</cards>
+<action no="6" player="SamStarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="8" player="SamStarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="40"/>
+<action no="10" player="SamStarr" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="11" player="SamStarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11530519180"><general><startdate>2025-06-24 07:10:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="HakunaMatata1" chips="315" dealer="0" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+<player seat="3" name="SamStarr" chips="745" dealer="1" win="190" bet="745" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="HakunaMatata1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="HakunaMatata1">X X</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 C3</cards>
+<action no="3" player="SamStarr" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="HakunaMatata1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H10 C5 HJ</cards>
+<action no="6" player="HakunaMatata1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="SamStarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="8" player="HakunaMatata1" type="5" discard="1" dealt="1" sum="50"/>
+<action no="9" player="SamStarr" type="3" discard="1" dealt="1" sum="50"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="10" player="HakunaMatata1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="SamStarr" type="5" discard="1" dealt="1" sum="655"/>
+<action no="12" player="HakunaMatata1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522262"><general><startdate>2025-06-24 07:11:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="845" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="430" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="10" name="HakunaMatata1" chips="225" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HakunaMatata1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HakunaMatata1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="SamStarr" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 S10</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="HakunaMatata1">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="HakunaMatata1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522290"><general><startdate>2025-06-24 07:11:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="485" dealer="0" win="430" bet="205" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="10" name="HakunaMatata1" chips="205" dealer="1" win="0" bet="205" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560981"/>
+<player seat="3" name="SamStarr" chips="810" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HakunaMatata1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="SamStarr" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="HakunaMatata1">C9 CJ</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 DJ</cards>
+<action no="6" player="HakunaMatata1" type="23" discard="1" dealt="1" sum="200"/>
+<action no="7" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="170"/>
+</round>
+<round no="2"><cards type="Flop">H5 D8 DQ</cards>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11530522339"><general><startdate>2025-06-24 07:11:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="710" dealer="0" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="790" dealer="1" win="140" bet="175" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK C5</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="SamStarr" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 HA D5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SamStarr" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="3" sum="35"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="SamStarr" type="5" discard="1" dealt="1" sum="105"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522402"><general><startdate>2025-06-24 07:12:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="860" dealer="0" win="500" bet="860" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="640" dealer="1" win="0" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 DJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="SamStarr" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C7 S8 CQ</cards>
+<action no="8" player="SamStarr" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="10" player="SamStarr" type="5" discard="1" dealt="1" sum="125"/>
+<action no="11" player="oreiasccp" type="3" sum="125"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="12" player="SamStarr" type="5" discard="1" dealt="1" sum="610"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522488"><general><startdate>2025-06-24 07:12:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="390" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="1,110" dealer="1" win="90" bet="1,110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 C3</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="SamStarr" type="23" discard="1" dealt="1" sum="1,105"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522516"><general><startdate>2025-06-24 07:13:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="1,155" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="345" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 D4</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522532"><general><startdate>2025-06-24 07:13:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="320" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="1,180" dealer="1" win="90" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C10</cards>
+<action no="5" player="SamStarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 HK H6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SamStarr" type="5" discard="1" dealt="1" sum="45"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522564"><general><startdate>2025-06-24 07:13:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="1,225" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="275" dealer="1" win="90" bet="275" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK H4</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="270"/>
+<action no="6" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522591"><general><startdate>2025-06-24 07:13:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="320" dealer="0" win="90" bet="145" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="1,180" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ C10</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="SamStarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="140"/>
+<action no="7" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522634"><general><startdate>2025-06-24 07:13:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="1,135" dealer="0" win="0" bet="365" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="365" dealer="1" win="730" bet="365" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">D5 H5</cards>
+<cards type="Pocket" player="oreiasccp">DK D6</cards>
+<action no="5" player="oreiasccp" type="23" sum="360"/>
+<action no="6" player="SamStarr" type="3" discard="1" dealt="1" sum="320"/>
+</round>
+<round no="2"><cards type="Flop">SJ H6 S3</cards>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+<game gamecode="11530522676"><general><startdate>2025-06-24 07:14:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="730" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="770" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 S4</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="SamStarr" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522700"><general><startdate>2025-06-24 07:14:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="815" dealer="0" win="130" bet="815" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="685" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK C3</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="SamStarr" type="23" discard="1" dealt="1" sum="810"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522737"><general><startdate>2025-06-24 07:14:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="620" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="880" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 H6</cards>
+<action no="5" player="SamStarr" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522759"><general><startdate>2025-06-24 07:14:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="945" dealer="0" win="0" bet="555" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="555" dealer="1" win="1,110" bet="555" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">D5 H5</cards>
+<cards type="Pocket" player="oreiasccp">H6 HK</cards>
+<action no="5" player="oreiasccp" type="23" sum="550"/>
+<action no="6" player="SamStarr" type="3" discard="1" dealt="1" sum="490"/>
+</round>
+<round no="2"><cards type="Flop">D6 D2 D7</cards>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+<game gamecode="11530522808"><general><startdate>2025-06-24 07:15:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,110" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="390" dealer="1" win="130" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 H7</cards>
+<action no="5" player="SamStarr" type="23" discard="1" dealt="1" sum="385"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522839"><general><startdate>2025-06-24 07:15:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="455" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="1,045" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H3</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522857"><general><startdate>2025-06-24 07:15:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,010" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+<player seat="3" name="SamStarr" chips="490" dealer="1" win="130" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SamStarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 D5</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<action no="5" player="SamStarr" type="23" discard="1" dealt="1" sum="485"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530522878"><general><startdate>2025-06-24 07:15:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="SamStarr" chips="555" dealer="0" win="0" bet="555" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560890"/>
+<player seat="6" name="oreiasccp" chips="945" dealer="1" win="1,110" bet="555" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390560980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SamStarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SamStarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SamStarr">DK CQ</cards>
+<cards type="Pocket" player="oreiasccp">H9 HA</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="SamStarr" type="23" discard="1" dealt="1" sum="550"/>
+<action no="7" player="oreiasccp" type="3" sum="490"/>
+</round>
+<round no="2"><cards type="Flop">S2 H3 S8</cards>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+</session>

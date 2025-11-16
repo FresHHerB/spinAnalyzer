@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8406166156">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130458049</tablename>
+<tournamentcode>1130458048</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>37</gamecount>
+<startdate>2025-07-15 07:31:27</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11573745567"><general><startdate>2025-07-15 07:31:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="rainbowred349" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166154"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="rainbowred349" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="rainbowred349">X X</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 H10</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745593"><general><startdate>2025-07-15 07:31:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="280" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="6" name="rainbowred349" chips="510" dealer="0" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166154"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rainbowred349" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 D10</cards>
+<cards type="Pocket" player="rainbowred349">X X</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="3" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="rainbowred349" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S9 C7 C5</cards>
+<action no="6" player="rainbowred349" type="5" discard="1" dealt="1" sum="80"/>
+<action no="7" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="8" player="rainbowred349" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="10" player="rainbowred349" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="60"/>
+<action no="12" player="rainbowred349" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745696"><general><startdate>2025-07-15 07:32:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="6" name="rainbowred349" chips="370" dealer="1" win="0" bet="370" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166154"/>
+<player seat="10" name="oreiasccp" chips="640" dealer="0" win="760" bet="370" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Kemba16" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H10</cards>
+<cards type="Pocket" player="rainbowred349">SA C8</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="3" player="rainbowred349" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 C9 D4</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="rainbowred349" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="23" sum="120"/>
+<action no="10" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+<action no="11" player="rainbowred349" type="23" discard="1" dealt="1" sum="350"/>
+<action no="12" player="oreiasccp" type="3" sum="230"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="11573745788"><general><startdate>2025-07-15 07:33:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="470" dealer="0" win="0" bet="103" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="1,030" dealer="1" win="206" bet="103" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Kemba16" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">S7 S3</cards>
+<cards type="Pocket" player="oreiasccp">C9 D9</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Kemba16" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CK D3 D5</cards>
+<action no="5" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Kemba16" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="8" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="43"/>
+<action no="10" player="Kemba16" type="3" discard="1" dealt="1" sum="43"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="11" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745866"><general><startdate>2025-07-15 07:33:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,133" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="367" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 S4</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="3" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745885"><general><startdate>2025-07-15 07:33:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="357" dealer="0" win="80" bet="357" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="1,143" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Kemba16" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 CQ</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Kemba16" type="23" discard="1" dealt="1" sum="357"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745910"><general><startdate>2025-07-15 07:33:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,103" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="397" dealer="1" win="70" bet="397" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 S6</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="23" discard="1" dealt="1" sum="392"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573745940"><general><startdate>2025-07-15 07:33:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="432" dealer="0" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="1,068" dealer="1" win="0" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 C9</cards>
+<cards type="Pocket" player="Kemba16">D5 D10</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 H8 H2</cards>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="9" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="11" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="30"/>
+<action no="13" player="Kemba16" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11573746004"><general><startdate>2025-07-15 07:34:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,003" dealer="0" win="65" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="497" dealer="1" win="65" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 DJ</cards>
+<cards type="Pocket" player="Kemba16">S7 SJ</cards>
+<action no="5" player="Kemba16" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 D9 S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DK</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Kemba16" type="5" discard="1" dealt="1" sum="30"/>
+<action no="13" player="oreiasccp" type="3" sum="30"/>
+</round>
+</game>
+<game gamecode="11573746088"><general><startdate>2025-07-15 07:34:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="497" dealer="0" win="70" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="1,003" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C2</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 S4 CQ</cards>
+<action no="7" player="Kemba16" type="5" discard="1" dealt="1" sum="70"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573746135"><general><startdate>2025-07-15 07:35:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="968" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="532" dealer="1" win="190" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 D10</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">HQ H3 H10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Kemba16" type="5" discard="1" dealt="1" sum="95"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748366"><general><startdate>2025-07-15 07:35:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="627" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="873" dealer="1" win="70" bet="627" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 C4</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="622"/>
+<action no="6" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748387"><general><startdate>2025-07-15 07:35:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="908" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="592" dealer="1" win="70" bet="592" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 CJ</cards>
+<action no="5" player="Kemba16" type="23" discard="1" dealt="1" sum="587"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748421"><general><startdate>2025-07-15 07:35:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="627" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="873" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 S10</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 D4 S5</cards>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748496"><general><startdate>2025-07-15 07:36:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="908" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="592" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 HQ</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748515"><general><startdate>2025-07-15 07:36:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="567" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="933" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 HJ SA</cards>
+<action no="7" player="Kemba16" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748547"><general><startdate>2025-07-15 07:36:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="888" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="612" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA SQ</cards>
+<action no="5" player="Kemba16" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748587"><general><startdate>2025-07-15 07:36:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="567" dealer="0" win="170" bet="567" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="933" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ H6</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="Kemba16" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H5 C10 C6</cards>
+<action no="7" player="Kemba16" type="5" discard="1" dealt="1" sum="482"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748617"><general><startdate>2025-07-15 07:36:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="848" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="652" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 SA</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748633"><general><startdate>2025-07-15 07:36:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="627" dealer="0" win="90" bet="627" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="873" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 SQ</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kemba16" type="23" discard="1" dealt="1" sum="622"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748656"><general><startdate>2025-07-15 07:37:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="828" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="672" dealer="1" win="170" bet="672" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H8</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">SQ CJ H4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kemba16" type="5" discard="1" dealt="1" sum="587"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748693"><general><startdate>2025-07-15 07:37:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="757" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="743" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ H8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 D9 D8</cards>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="11" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="40"/>
+<action no="13" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748744"><general><startdate>2025-07-15 07:37:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="788" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="712" dealer="1" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK HJ</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C7 HA C3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kemba16" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748790"><general><startdate>2025-07-15 07:37:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="797" dealer="0" win="260" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="703" dealer="1" win="0" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ D2</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 CQ S2</cards>
+<action no="7" player="Kemba16" type="5" discard="1" dealt="1" sum="65"/>
+<action no="8" player="oreiasccp" type="3" sum="65"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="9" player="Kemba16" type="5" discard="1" dealt="1" sum="260"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748824"><general><startdate>2025-07-15 07:38:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="573" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="927" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ S3</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 C6 HA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kemba16" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748861"><general><startdate>2025-07-15 07:38:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="992" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="508" dealer="1" win="130" bet="508" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ CA</cards>
+<action no="5" player="oreiasccp" type="23" sum="503"/>
+<action no="6" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748883"><general><startdate>2025-07-15 07:38:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="573" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="927" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 SQ</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748909"><general><startdate>2025-07-15 07:38:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="892" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="608" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 D4</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 D6 H10</cards>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="9" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748943"><general><startdate>2025-07-15 07:38:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="673" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="827" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H7</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748961"><general><startdate>2025-07-15 07:38:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="792" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="708" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 S5</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748978"><general><startdate>2025-07-15 07:39:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="673" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="827" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA H10</cards>
+<cards type="Pocket" player="Kemba16">X X</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573748988"><general><startdate>2025-07-15 07:39:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="792" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="708" dealer="1" win="130" bet="708" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 DK</cards>
+<action no="5" player="oreiasccp" type="23" sum="703"/>
+<action no="6" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573749011"><general><startdate>2025-07-15 07:39:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="773" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="727" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 C5</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573749033"><general><startdate>2025-07-15 07:39:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="692" dealer="0" win="250" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="808" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 CJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 DQ HA</cards>
+<action no="7" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="Kemba16" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="10" player="Kemba16" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="12" player="Kemba16" type="5" discard="1" dealt="1" sum="60"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573749108"><general><startdate>2025-07-15 07:39:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="683" dealer="0" win="96" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="817" dealer="1" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 S8</cards>
+<action no="5" player="Kemba16" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573749122"><general><startdate>2025-07-15 07:39:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kemba16" chips="769" dealer="0" win="0" bet="731" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+<player seat="10" name="oreiasccp" chips="731" dealer="1" win="1,462" bet="731" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Kemba16" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Kemba16" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA H8</cards>
+<cards type="Pocket" player="Kemba16">SK S2</cards>
+<action no="5" player="oreiasccp" type="23" sum="723"/>
+<action no="6" player="Kemba16" type="3" discard="1" dealt="1" sum="643"/>
+</round>
+<round no="2"><cards type="Flop">H10 D3 C8</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+</round>
+</game>
+<game gamecode="11573749172"><general><startdate>2025-07-15 07:40:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,462" dealer="0" win="76" bet="88" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166156"/>
+<player seat="3" name="Kemba16" chips="38" dealer="1" win="0" bet="38" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406166119"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kemba16" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kemba16" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kemba16">DA SJ</cards>
+<cards type="Pocket" player="oreiasccp">D9 C5</cards>
+</round>
+<round no="2"><cards type="Flop">D5 H5 H3</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+</session>

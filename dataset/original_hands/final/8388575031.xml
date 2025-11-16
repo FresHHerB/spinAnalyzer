@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8388575031">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128069600</tablename>
+<tournamentcode>1128069599</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>27</gamecount>
+<startdate>2025-06-21 12:22:42</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11524843850"><general><startdate>2025-06-21 12:22:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="500" dealer="0" win="40" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="heymari" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S5</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BigNicoBee" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="heymari" type="23" discard="1" dealt="1" sum="70"/>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524843912"><general><startdate>2025-06-21 12:23:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="110" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="480" dealer="1" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="520" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 D7</cards>
+<action no="3" player="BigNicoBee" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="23" sum="480"/>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524843975"><general><startdate>2025-06-21 12:23:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="430" dealer="0" win="320" bet="430" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="510" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="560" dealer="0" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BigNicoBee" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H8</cards>
+<action no="3" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="BigNicoBee" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HK S3 S2</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="BigNicoBee" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="BigNicoBee" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="BigNicoBee" type="5" discard="1" dealt="1" sum="270"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844085"><general><startdate>2025-06-21 12:23:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="590" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="heymari" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 C9</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844119"><general><startdate>2025-06-21 12:24:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="430" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="580" dealer="1" win="50" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="490" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 C9</cards>
+<action no="3" player="BigNicoBee" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844168"><general><startdate>2025-06-21 12:24:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="610" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="480" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="410" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BigNicoBee" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA C8</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="3" player="heymari" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844201"><general><startdate>2025-06-21 12:24:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="510" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="590" dealer="0" win="100" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="heymari" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 S10</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BigNicoBee" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="heymari" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ C2 H3</cards>
+<action no="6" player="BigNicoBee" type="5" discard="1" dealt="1" sum="50"/>
+<action no="7" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844281"><general><startdate>2025-06-21 12:24:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="640" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 H2</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="3" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844310"><general><startdate>2025-06-21 12:24:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="640" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="450" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="410" dealer="0" win="100" bet="410" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BigNicoBee" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA C6</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="3" player="heymari" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="410"/>
+<action no="5" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844364"><general><startdate>2025-06-21 12:25:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="410" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="470" dealer="1" win="975" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="620" dealer="0" win="0" bet="620" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 C2</cards>
+<cards type="Pocket" player="BigNicoBee">HQ HA</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="465"/>
+<action no="7" player="BigNicoBee" type="7" discard="1" dealt="1" sum="600"/>
+<action no="8" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 C3 S3</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">SK</cards>
+</round>
+</game>
+<game gamecode="11524844445"><general><startdate>2025-06-21 12:25:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="975" dealer="0" win="0" bet="375" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="150" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="375" dealer="0" win="755" bet="375" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK HA</cards>
+<cards type="Pocket" player="heymari">H6 H9</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="heymari" type="23" discard="1" dealt="1" sum="370"/>
+<action no="8" player="oreiasccp" type="3" sum="340"/>
+</round>
+<round no="2"><cards type="Flop">D9 S6 D2</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11524844522"><general><startdate>2025-06-21 12:25:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="145" dealer="0" win="295" bet="145" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="755" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="600" dealer="0" win="0" bet="145" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">CA D2</cards>
+<cards type="Pocket" player="oreiasccp">H8 D7</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="140"/>
+<action no="8" player="BigNicoBee" type="7" discard="1" dealt="1" sum="110"/>
+</round>
+<round no="2"><cards type="Flop">DJ S3 D4</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+<game gamecode="11524844591"><general><startdate>2025-06-21 12:26:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="750" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="455" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="295" dealer="0" win="75" bet="295" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ H3</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BigNicoBee" type="23" discard="1" dealt="1" sum="290"/>
+<action no="8" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844624"><general><startdate>2025-06-21 12:26:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="450" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="335" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="715" dealer="0" win="75" bet="715" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ H5</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="heymari" type="23" discard="1" dealt="1" sum="710"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844666"><general><startdate>2025-06-21 12:26:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="330" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="755" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="415" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 H9</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844694"><general><startdate>2025-06-21 12:26:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="750" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="395" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="355" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ H4</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844724"><general><startdate>2025-06-21 12:26:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="390" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="335" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="775" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 S6</cards>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844748"><general><startdate>2025-06-21 12:26:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="330" dealer="0" win="203" bet="330" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="755" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="415" dealer="0" win="0" bet="99" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ C4</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="BigNicoBee" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D3 C5 HJ</cards>
+<action no="9" player="oreiasccp" type="5" sum="34"/>
+<action no="10" player="BigNicoBee" type="23" discard="1" dealt="1" sum="265"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844820"><general><startdate>2025-06-21 12:26:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="750" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="316" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="434" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 C10</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844856"><general><startdate>2025-06-21 12:27:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="311" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="409" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="780" dealer="0" win="95" bet="780" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 SK</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="heymari" type="23" discard="1" dealt="1" sum="775"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844895"><general><startdate>2025-06-21 12:27:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="404" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="830" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="266" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 D5</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844923"><general><startdate>2025-06-21 12:27:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="825" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="241" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="434" dealer="0" win="95" bet="434" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 S6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BigNicoBee" type="23" discard="1" dealt="1" sum="429"/>
+<action no="8" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844967"><general><startdate>2025-06-21 12:27:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="236" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="484" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="780" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 S6</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524844991"><general><startdate>2025-06-21 12:27:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="479" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="755" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="266" dealer="0" win="95" bet="266" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK D3</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="261"/>
+<action no="8" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524845031"><general><startdate>2025-06-21 12:27:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="heymari" chips="750" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="316" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="434" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="heymari" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 S4</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524845052"><general><startdate>2025-06-21 12:27:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="311" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+<player seat="6" name="BigNicoBee" chips="409" dealer="1" win="431" bet="409" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="780" dealer="0" win="432" bet="780" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="heymari" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 C7</cards>
+<cards type="Pocket" player="BigNicoBee">CQ CJ</cards>
+<cards type="Pocket" player="heymari">S9 DA</cards>
+<action no="6" player="BigNicoBee" type="23" discard="1" dealt="1" sum="404"/>
+<action no="7" player="heymari" type="23" discard="1" dealt="1" sum="775"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 H4 H3</cards>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+</round>
+<round no="4"><cards type="River">H9</cards>
+</round>
+</game>
+<game gamecode="11524845122"><general><startdate>2025-06-21 12:28:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BigNicoBee" chips="431" dealer="0" win="537" bet="266" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575110"/>
+<player seat="10" name="heymari" chips="803" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575118"/>
+<player seat="3" name="oreiasccp" chips="266" dealer="0" win="0" bet="266" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388575031"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="heymari" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">D10 SK</cards>
+<cards type="Pocket" player="oreiasccp">S10 C9</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="6" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="261"/>
+<action no="8" player="BigNicoBee" type="3" discard="1" dealt="1" sum="221"/>
+</round>
+<round no="2"><cards type="Flop">SJ HJ C8</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+</session>

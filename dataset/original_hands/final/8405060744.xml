@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405060744">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130308063</tablename>
+<tournamentcode>1130308062</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>16</gamecount>
+<startdate>2025-07-13 20:52:53</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11570677269"><general><startdate>2025-07-13 20:53:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="500" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="140" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Noruser" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H9</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="3" player="BalkansSuperman" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="30"/>
+<action no="5" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 SK D8</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="BalkansSuperman" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="BalkansSuperman" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H8</cards>
+<action no="11" player="oreiasccp" type="5" sum="140"/>
+<action no="12" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570677497"><general><startdate>2025-07-13 20:53:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BalkansSuperman" chips="440" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="580" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Noruser" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BalkansSuperman" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 D2</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570677558"><general><startdate>2025-07-13 20:53:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="580" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BalkansSuperman" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 C5</cards>
+<action no="3" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ SQ H9</cards>
+<action no="6" player="BalkansSuperman" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570677753"><general><startdate>2025-07-13 20:54:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="470" dealer="0" win="80" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="430" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="600" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Noruser" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 C6</cards>
+<action no="3" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Noruser" type="23" discard="1" dealt="1" sum="470"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11570677911"><general><startdate>2025-07-13 20:54:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BalkansSuperman" chips="430" dealer="0" win="0" bet="240" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="510" dealer="0" win="480" bet="240" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Noruser" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BalkansSuperman" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BalkansSuperman">D8 D10</cards>
+<cards type="Pocket" player="oreiasccp">C5 C3</cards>
+<cards type="Pocket" player="Noruser">HJ DQ</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Noruser" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D2 CQ H8</cards>
+<action no="6" player="Noruser" type="5" discard="1" dealt="1" sum="60"/>
+<action no="7" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="8" player="Noruser" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="BalkansSuperman" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="10" player="Noruser" type="5" discard="1" dealt="1" sum="120"/>
+<action no="11" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="120"/>
+</round>
+</game>
+<game gamecode="11570690215"><general><startdate>2025-07-13 20:55:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="560" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="750" dealer="1" win="0" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="190" dealer="0" win="415" bet="190" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BalkansSuperman" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ DQ</cards>
+<cards type="Pocket" player="BalkansSuperman">H3 S3</cards>
+<cards type="Pocket" player="Noruser">SQ S10</cards>
+<action no="6" player="Noruser" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="BalkansSuperman" type="23" discard="1" dealt="1" sum="185"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+<action no="9" player="Noruser" type="3" discard="1" dealt="1" sum="125"/>
+</round>
+<round no="2"><cards type="Flop">D4 S2 D3</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">D10</cards>
+</round>
+</game>
+<game gamecode="11570690354"><general><startdate>2025-07-13 20:55:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="560" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="415" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="525" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Noruser" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 S7</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="BalkansSuperman" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570690443"><general><startdate>2025-07-13 20:56:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BalkansSuperman" chips="470" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="525" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Noruser" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BalkansSuperman" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 HQ</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570690501"><general><startdate>2025-07-13 20:56:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="495" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BalkansSuperman" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 S7</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK H10 D4</cards>
+<action no="9" player="BalkansSuperman" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11570690659"><general><startdate>2025-07-13 20:56:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="500" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="535" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="465" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Noruser" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 S2</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11570690768"><general><startdate>2025-07-13 20:56:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BalkansSuperman" chips="530" dealer="0" win="0" bet="159" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="445" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="525" dealer="0" win="323" bet="320" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Noruser" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BalkansSuperman" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 D4</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Noruser" type="23" discard="1" dealt="1" sum="90"/>
+<action no="8" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">H9 D6 S6</cards>
+<action no="9" player="Noruser" type="5" discard="1" dealt="1" sum="64"/>
+<action no="10" player="BalkansSuperman" type="3" discard="1" dealt="1" sum="64"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="11" player="Noruser" type="5" discard="1" dealt="1" sum="161"/>
+<action no="12" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570691044"><general><startdate>2025-07-13 20:57:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="689" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="371" dealer="0" win="215" bet="371" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BalkansSuperman" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BalkansSuperman">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 H4</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<action no="6" player="Noruser" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="BalkansSuperman" type="23" discard="1" dealt="1" sum="366"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+<action no="9" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570691126"><general><startdate>2025-07-13 20:57:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="604" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="501" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="395" dealer="0" win="95" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Noruser" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 C9</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<action no="6" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+<action no="8" player="Noruser" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 S10 CA</cards>
+<action no="9" player="oreiasccp" type="5" sum="40"/>
+<action no="10" player="Noruser" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570691223"><general><startdate>2025-07-13 20:57:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BalkansSuperman" chips="496" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="445" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="559" dealer="0" win="95" bet="559" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Noruser" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="BalkansSuperman" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 SK</cards>
+<cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Noruser" type="23" discard="1" dealt="1" sum="554"/>
+<action no="8" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11570691312"><general><startdate>2025-07-13 20:58:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+<player seat="3" name="Noruser" chips="609" dealer="1" win="115" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="451" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BalkansSuperman" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 C2</cards>
+<cards type="Pocket" player="BalkansSuperman">X X</cards>
+<action no="6" player="Noruser" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="BalkansSuperman" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11570691386"><general><startdate>2025-07-13 20:58:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Noruser" chips="679" dealer="0" win="1,247" bet="426" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060534"/>
+<player seat="6" name="BalkansSuperman" chips="426" dealer="1" win="0" bet="426" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060654"/>
+<player seat="10" name="oreiasccp" chips="395" dealer="0" win="0" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405060744"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Noruser" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BalkansSuperman" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Noruser" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Noruser">S4 C4</cards>
+<cards type="Pocket" player="oreiasccp">H10 SA</cards>
+<cards type="Pocket" player="BalkansSuperman">CA D4</cards>
+<action no="6" player="BalkansSuperman" type="23" discard="1" dealt="1" sum="421"/>
+<action no="7" player="oreiasccp" type="7" sum="370"/>
+<action no="8" player="Noruser" type="3" discard="1" dealt="1" sum="381"/>
+</round>
+<round no="2"><cards type="Flop">S7 C2 C9</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">C6</cards>
+</round>
+</game>
+</session>

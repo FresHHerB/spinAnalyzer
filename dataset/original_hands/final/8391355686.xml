@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391355686">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128455844</tablename>
+<tournamentcode>1128455840</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€40</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-25 12:12:22</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532705175"><general><startdate>2025-06-25 12:12:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355686"/>
+<player seat="3" name="bobbb1" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355660"/>
+<player seat="6" name="shytehawk" chips="500" dealer="0" win="40" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355683"/>
+</players>
+</general>
+<round no="0"><action no="1" player="shytehawk" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 H2</cards>
+<cards type="Pocket" player="shytehawk">X X</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="3" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="shytehawk" type="23" discard="1" dealt="1" sum="500"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532705241"><general><startdate>2025-06-25 12:12:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="bobbb1" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355660"/>
+<player seat="6" name="shytehawk" chips="520" dealer="1" win="50" bet="520" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355683"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bobbb1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 H5</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="shytehawk">X X</cards>
+<action no="3" player="shytehawk" type="23" discard="1" dealt="1" sum="520"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532705267"><general><startdate>2025-06-25 12:13:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="shytehawk" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355683"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="1" win="0" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355686"/>
+<player seat="3" name="bobbb1" chips="480" dealer="0" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391355660"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="shytehawk" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 D7</cards>
+<cards type="Pocket" player="shytehawk">X X</cards>
+<cards type="Pocket" player="bobbb1">D10 DQ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="bobbb1" type="23" discard="1" dealt="1" sum="480"/>
+<action no="5" player="shytehawk" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="7" sum="430"/>
+</round>
+<round no="2"><cards type="Flop">C2 S2 SA</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+</round>
+</game>
+</session>

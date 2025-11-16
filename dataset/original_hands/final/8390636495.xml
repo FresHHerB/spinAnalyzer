@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390636495">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128358275</tablename>
+<tournamentcode>1128358274</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-24 11:57:48</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530726893"><general><startdate>2025-06-24 11:58:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Nasir33" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636457"/>
+<player seat="6" name="LiviuTDR" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Nasir33" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Nasir33">S8 D9</cards>
+<cards type="Pocket" player="oreiasccp">C10 CA</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="Nasir33" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S10 H4 H7</cards>
+<action no="6" player="oreiasccp" type="5" sum="60"/>
+<action no="7" player="Nasir33" type="23" discard="1" dealt="1" sum="440"/>
+<action no="8" player="oreiasccp" type="7" sum="380"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11530727034"><general><startdate>2025-06-24 11:58:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="500" dealer="0" win="140" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="1,000" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="LiviuTDR" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK H5</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="LiviuTDR" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HJ D10 SK</cards>
+<action no="5" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="7" player="LiviuTDR" type="5" discard="1" dealt="1" sum="30"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="9" player="LiviuTDR" type="5" discard="1" dealt="1" sum="50"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727135"><general><startdate>2025-06-24 11:59:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="930" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="570" dealer="1" win="80" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 C8</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="LiviuTDR" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SJ S9 HQ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="LiviuTDR" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727214"><general><startdate>2025-06-24 11:59:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="610" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="890" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="LiviuTDR" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ S4</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727241"><general><startdate>2025-06-24 11:59:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="910" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="590" dealer="1" win="80" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK C7</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="LiviuTDR" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 S2 CJ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="LiviuTDR" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="LiviuTDR" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727327"><general><startdate>2025-06-24 11:59:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="630" dealer="0" win="160" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="870" dealer="1" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="LiviuTDR" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 D5</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 S4 HK</cards>
+<action no="5" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="LiviuTDR" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="9" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="11" player="LiviuTDR" type="5" discard="1" dealt="1" sum="60"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727457"><general><startdate>2025-06-24 12:00:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="790" dealer="0" win="0" bet="275" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="710" dealer="1" win="550" bet="275" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 SJ</cards>
+<cards type="Pocket" player="LiviuTDR">H10 C5</cards>
+<action no="5" player="LiviuTDR" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ SA CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="LiviuTDR" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="LiviuTDR" type="5" discard="1" dealt="1" sum="45"/>
+<action no="12" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="LiviuTDR" type="5" discard="1" dealt="1" sum="165"/>
+<action no="15" player="oreiasccp" type="3" sum="165"/>
+</round>
+</game>
+<game gamecode="11530727572"><general><startdate>2025-06-24 12:00:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="985" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="515" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="LiviuTDR" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="LiviuTDR">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 D3</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727596"><general><startdate>2025-06-24 12:01:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="550" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="950" dealer="1" win="130" bet="97" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D5</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="LiviuTDR" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C3 S6 D6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="LiviuTDR" type="5" discard="1" dealt="1" sum="32"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727673"><general><startdate>2025-06-24 12:01:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="1,015" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="485" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="LiviuTDR" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 S10</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727695"><general><startdate>2025-06-24 12:01:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="465" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="1,035" dealer="1" win="70" bet="1,035" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="LiviuTDR">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ D4</cards>
+<action no="5" player="LiviuTDR" type="23" discard="1" dealt="1" sum="1,030"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727724"><general><startdate>2025-06-24 12:01:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="1,070" dealer="0" win="190" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="430" dealer="1" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="LiviuTDR" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 CQ</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="LiviuTDR" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">D2 HA SA</cards>
+<action no="8" player="LiviuTDR" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727809"><general><startdate>2025-06-24 12:02:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="335" dealer="0" win="170" bet="145" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="1,165" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 C7</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="LiviuTDR" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 S2 CQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="LiviuTDR" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C6</cards>
+<action no="12" player="oreiasccp" type="5" sum="60"/>
+<action no="13" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727902"><general><startdate>2025-06-24 12:02:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="1,080" dealer="0" win="90" bet="1,080" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="LiviuTDR" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 SK</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="LiviuTDR" type="23" discard="1" dealt="1" sum="1,075"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727935"><general><startdate>2025-06-24 12:02:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="375" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="1,125" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 DQ</cards>
+<cards type="Pocket" player="LiviuTDR">X X</cards>
+<action no="5" player="LiviuTDR" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530727994"><general><startdate>2025-06-24 12:02:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="LiviuTDR" chips="1,080" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="1" win="90" bet="420" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="LiviuTDR" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="LiviuTDR">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 C6</cards>
+<action no="5" player="oreiasccp" type="23" sum="415"/>
+<action no="6" player="LiviuTDR" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530728035"><general><startdate>2025-06-24 12:03:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="465" dealer="0" win="0" bet="465" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636495"/>
+<player seat="6" name="LiviuTDR" chips="1,035" dealer="1" win="930" bet="479" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390636494"/>
+</players>
+</general>
+<round no="0"><action no="1" player="LiviuTDR" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="LiviuTDR" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="LiviuTDR">D6 DJ</cards>
+<cards type="Pocket" player="oreiasccp">DK D7</cards>
+<action no="5" player="LiviuTDR" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 SJ HK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="LiviuTDR" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="9" player="oreiasccp" type="5" sum="77"/>
+<action no="10" player="LiviuTDR" type="23" discard="1" dealt="1" sum="154"/>
+<action no="11" player="oreiasccp" type="3" sum="77"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="LiviuTDR" type="5" discard="1" dealt="1" sum="280"/>
+<action no="14" player="oreiasccp" type="7" sum="266"/>
+</round>
+</game>
+</session>

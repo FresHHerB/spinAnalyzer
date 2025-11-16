@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390668473">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128362845</tablename>
+<tournamentcode>1128362844</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>25</gamecount>
+<startdate>2025-06-24 13:22:59</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530818498"><general><startdate>2025-06-24 13:23:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Jouseppi" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Jouseppi" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 D8</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="Jouseppi">X X</cards>
+<action no="3" player="vittuakohti" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530818609"><general><startdate>2025-06-24 13:23:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="530" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Jouseppi" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="vittuakohti" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 C8</cards>
+<cards type="Pocket" player="Jouseppi">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Jouseppi" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 S8 S6</cards>
+<action no="6" player="Jouseppi" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="vittuakohti" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530818729"><general><startdate>2025-06-24 13:24:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="460" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="550" dealer="0" win="140" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jouseppi">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ S4</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="3" player="Jouseppi" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="vittuakohti" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="Jouseppi" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C5 D3 H5</cards>
+<action no="7" player="vittuakohti" type="5" discard="1" dealt="1" sum="70"/>
+<action no="8" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530818844"><general><startdate>2025-06-24 13:24:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Jouseppi" chips="400" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="630" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="470" dealer="0" win="40" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Jouseppi" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jouseppi">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 S2</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="3" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="400"/>
+<action no="5" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530818917"><general><startdate>2025-06-24 13:24:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="630" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="120" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="380" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Jouseppi" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="vittuakohti" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jouseppi">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK D4</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Jouseppi" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="vittuakohti" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S5 D5 H2</cards>
+<action no="6" player="Jouseppi" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+<action no="10" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530819041"><general><startdate>2025-06-24 13:25:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="570" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="340" dealer="1" win="90" bet="340" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="590" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Jouseppi" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="vittuakohti" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jouseppi">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 D5</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="6" player="Jouseppi" type="23" discard="1" dealt="1" sum="335"/>
+<action no="7" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530819083"><general><startdate>2025-06-24 13:25:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Jouseppi" chips="395" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="570" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="535" dealer="0" win="75" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Jouseppi" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Jouseppi" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jouseppi">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA CQ</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="6" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="75"/>
+<action no="8" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530819134"><general><startdate>2025-06-24 13:25:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="565" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="575" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="360" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Jouseppi" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Jouseppi" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="vittuakohti" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 C9</cards>
+<cards type="Pocket" player="Jouseppi">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530819174"><general><startdate>2025-06-24 13:25:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="570" dealer="0" win="0" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="6" name="Jouseppi" chips="340" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="590" dealer="0" win="315" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Jouseppi" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="vittuakohti" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ D4</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="Jouseppi">X X</cards>
+<action no="6" player="Jouseppi" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="vittuakohti" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S2 S6 C5</cards>
+<action no="9" player="vittuakohti" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="11" player="vittuakohti" type="5" discard="1" dealt="1" sum="30"/>
+<action no="12" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">H2</cards>
+<action no="13" player="vittuakohti" type="5" discard="1" dealt="1" sum="30"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530819366"><general><startdate>2025-06-24 13:26:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Jouseppi" chips="335" dealer="0" win="0" bet="335" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668547"/>
+<player seat="10" name="vittuakohti" chips="750" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="415" dealer="0" win="705" bet="415" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Jouseppi" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Jouseppi" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA D3</cards>
+<cards type="Pocket" player="Jouseppi">C9 CA</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="6" player="vittuakohti" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="23" sum="410"/>
+<action no="8" player="Jouseppi" type="7" discard="1" dealt="1" sum="300"/>
+<action no="9" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK D5 D8</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11530826058"><general><startdate>2025-06-24 13:27:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="715" dealer="0" win="130" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="785" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 S10</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ D5 C2</cards>
+<action no="7" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="vittuakohti" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="10" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="12" player="vittuakohti" type="5" discard="1" dealt="1" sum="30"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826146"><general><startdate>2025-06-24 13:27:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="720" dealer="0" win="0" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="780" dealer="1" win="340" bet="170" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">DQ HJ</cards>
+<cards type="Pocket" player="oreiasccp">C3 C5</cards>
+<action no="5" player="vittuakohti" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S8 D6 S7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="vittuakohti" type="5" discard="1" dealt="1" sum="85"/>
+<action no="13" player="oreiasccp" type="3" sum="85"/>
+</round>
+</game>
+<game gamecode="11530826284"><general><startdate>2025-06-24 13:27:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="950" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="550" dealer="1" win="250" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">DK H9</cards>
+<cards type="Pocket" player="oreiasccp">C6 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="vittuakohti" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D4 HJ D6</cards>
+<action no="7" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="9" player="vittuakohti" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="11" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826410"><general><startdate>2025-06-24 13:28:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="675" dealer="0" win="330" bet="165" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="825" dealer="1" win="0" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 D5</cards>
+<cards type="Pocket" player="vittuakohti">C8 DK</cards>
+<action no="5" player="vittuakohti" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C9 DQ S5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="vittuakohti" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826558"><general><startdate>2025-06-24 13:29:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="660" dealer="0" win="90" bet="660" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="840" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK D10</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="vittuakohti" type="23" discard="1" dealt="1" sum="655"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826604"><general><startdate>2025-06-24 13:29:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="795" dealer="0" win="130" bet="705" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="705" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 C4</cards>
+<action no="5" player="vittuakohti" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="700"/>
+<action no="7" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826670"><general><startdate>2025-06-24 13:29:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="640" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="860" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 H2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826690"><general><startdate>2025-06-24 13:29:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="825" dealer="0" win="130" bet="675" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="675" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 SA</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="vittuakohti" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="670"/>
+<action no="7" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826729"><general><startdate>2025-06-24 13:29:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="610" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="890" dealer="1" win="130" bet="610" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ DJ</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="605"/>
+<action no="6" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826760"><general><startdate>2025-06-24 13:29:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="955" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="545" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 H5</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="vittuakohti" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826802"><general><startdate>2025-06-24 13:30:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="610" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="890" dealer="1" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 CQ</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 C4 D2</cards>
+<action no="7" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="9" player="vittuakohti" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="95"/>
+<action no="11" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826863"><general><startdate>2025-06-24 13:30:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="955" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="545" dealer="1" win="130" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ D4</cards>
+<cards type="Pocket" player="vittuakohti">X X</cards>
+<action no="5" player="vittuakohti" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 D9 C2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="vittuakohti" type="5" discard="1" dealt="1" sum="130"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530826925"><general><startdate>2025-06-24 13:30:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="610" dealer="0" win="1,220" bet="610" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="890" dealer="1" win="0" bet="610" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">CA DQ</cards>
+<cards type="Pocket" player="oreiasccp">S5 SK</cards>
+<action no="5" player="oreiasccp" type="23" sum="605"/>
+<action no="6" player="vittuakohti" type="7" discard="1" dealt="1" sum="545"/>
+</round>
+<round no="2"><cards type="Flop">H2 C2 S7</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11530827006"><general><startdate>2025-06-24 13:30:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="280" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+<player seat="10" name="vittuakohti" chips="1,220" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+</players>
+</general>
+<round no="0"><action no="1" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="vittuakohti" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 HQ</cards>
+<action no="5" player="vittuakohti" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530827054"><general><startdate>2025-06-24 13:31:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="vittuakohti" chips="1,185" dealer="0" win="630" bet="315" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668556"/>
+<player seat="3" name="oreiasccp" chips="315" dealer="1" win="0" bet="315" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390668473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="vittuakohti" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="vittuakohti" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="vittuakohti">C5 DA</cards>
+<cards type="Pocket" player="oreiasccp">D10 SK</cards>
+<action no="5" player="oreiasccp" type="23" sum="310"/>
+<action no="6" player="vittuakohti" type="3" discard="1" dealt="1" sum="250"/>
+</round>
+<round no="2"><cards type="Flop">D4 S4 D9</cards>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+</session>

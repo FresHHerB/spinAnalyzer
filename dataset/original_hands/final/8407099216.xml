@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407099216">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130579924</tablename>
+<tournamentcode>1130579923</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>22</gamecount>
+<startdate>2025-07-16 13:29:58</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11576221905"><general><startdate>2025-07-16 13:30:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="500" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="6" name="Dannyelbowsky" chips="500" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099358"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Dannyelbowsky" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="MullmanT" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Dannyelbowsky">C5 C10</cards>
+<cards type="Pocket" player="MullmanT">C6 SJ</cards>
+<cards type="Pocket" player="oreiasccp">CQ D3</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Dannyelbowsky" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 D7 H7</cards>
+<action no="6" player="Dannyelbowsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="MullmanT" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="Dannyelbowsky" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="Dannyelbowsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="MullmanT" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="Dannyelbowsky" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="12" player="Dannyelbowsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222007"><general><startdate>2025-07-16 13:30:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="6" name="Dannyelbowsky" chips="420" dealer="1" win="0" bet="420" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099358"/>
+<player seat="10" name="MullmanT" chips="580" dealer="0" win="900" bet="420" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Dannyelbowsky">SJ C9</cards>
+<cards type="Pocket" player="oreiasccp">C8 S7</cards>
+<cards type="Pocket" player="MullmanT">C5 CQ</cards>
+<action no="3" player="Dannyelbowsky" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="MullmanT" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ CJ C3</cards>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Dannyelbowsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="MullmanT" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="3" sum="40"/>
+<action no="11" player="Dannyelbowsky" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="12" player="MullmanT" type="5" discard="1" dealt="1" sum="120"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+<action no="14" player="Dannyelbowsky" type="23" discard="1" dealt="1" sum="360"/>
+<action no="15" player="MullmanT" type="3" discard="1" dealt="1" sum="240"/>
+</round>
+</game>
+<game gamecode="11576222167"><general><startdate>2025-07-16 13:31:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="440" dealer="0" win="40" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="1,060" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA H10</cards>
+<action no="3" player="MullmanT" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="23" sum="440"/>
+<action no="5" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222215"><general><startdate>2025-07-16 13:31:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="1,040" dealer="0" win="40" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="1" win="40" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MullmanT" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 C6</cards>
+<cards type="Pocket" player="MullmanT">D9 C4</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 CJ SK</cards>
+<action no="5" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="7" player="MullmanT" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="9" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222290"><general><startdate>2025-07-16 13:31:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="1,040" dealer="1" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 S5</cards>
+<action no="3" player="MullmanT" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 SQ DJ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="MullmanT" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222372"><general><startdate>2025-07-16 13:31:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="1,060" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="440" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MullmanT" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 DK</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 SQ S2</cards>
+<action no="5" player="MullmanT" type="5" discard="1" dealt="1" sum="40"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222436"><general><startdate>2025-07-16 13:31:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="420" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="1,080" dealer="1" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">S2 H4</cards>
+<cards type="Pocket" player="oreiasccp">D6 HQ</cards>
+<action no="3" player="MullmanT" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 S9 HJ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222551"><general><startdate>2025-07-16 13:32:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="1,100" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 C4</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 SJ DQ</cards>
+<action no="7" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222620"><general><startdate>2025-07-16 13:32:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="435" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="1,065" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 C6</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222660"><general><startdate>2025-07-16 13:32:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="1,045" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="455" dealer="1" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 CQ</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DJ D3 SQ</cards>
+<action no="7" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="MullmanT" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="10" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="95"/>
+<action no="12" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222743"><general><startdate>2025-07-16 13:32:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="520" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="980" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 D3</cards>
+<action no="5" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222774"><general><startdate>2025-07-16 13:33:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="960" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="130" bet="98" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 H4</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 C2 C5</cards>
+<action no="7" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="MullmanT" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="10" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="12" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="5" sum="33"/>
+<action no="14" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222887"><general><startdate>2025-07-16 13:33:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="605" dealer="0" win="70" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="895" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 S2</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="MullmanT" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 D3 H9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="11" player="oreiasccp" type="5" sum="70"/>
+<action no="12" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222956"><general><startdate>2025-07-16 13:33:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="860" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="640" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 D5</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 SQ D3</cards>
+<action no="7" player="MullmanT" type="5" discard="1" dealt="1" sum="30"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="9" player="MullmanT" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576223030"><general><startdate>2025-07-16 13:33:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="575" dealer="0" win="326" bet="575" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="925" dealer="1" win="0" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ CK</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="MullmanT" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="90"/>
+<action no="7" player="MullmanT" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S8 CQ S4</cards>
+<action no="8" player="oreiasccp" type="5" sum="68"/>
+<action no="9" player="MullmanT" type="3" discard="1" dealt="1" sum="68"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="10" player="oreiasccp" type="5" sum="412"/>
+<action no="11" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229695"><general><startdate>2025-07-16 13:34:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="762" dealer="0" win="250" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="738" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H8</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="MullmanT" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C3 D2 CA</cards>
+<action no="7" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="MullmanT" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="10" player="MullmanT" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229750"><general><startdate>2025-07-16 13:34:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="613" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="887" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 H3</cards>
+<action no="5" player="MullmanT" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA CA DQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MullmanT" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MullmanT" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229823"><general><startdate>2025-07-16 13:34:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="932" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="568" dealer="1" win="90" bet="568" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA S3</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="563"/>
+<action no="6" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229851"><general><startdate>2025-07-16 13:34:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="613" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="887" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ HJ</cards>
+<cards type="Pocket" player="MullmanT">X X</cards>
+<action no="5" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229875"><general><startdate>2025-07-16 13:34:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="862" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="638" dealer="1" win="90" bet="638" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 CA</cards>
+<action no="5" player="oreiasccp" type="23" sum="633"/>
+<action no="6" player="MullmanT" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229906"><general><startdate>2025-07-16 13:35:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="683" dealer="0" win="1,366" bet="683" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+<player seat="10" name="MullmanT" chips="817" dealer="1" win="0" bet="683" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MullmanT" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA S4</cards>
+<cards type="Pocket" player="MullmanT">SJ HA</cards>
+<action no="5" player="MullmanT" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="678"/>
+<action no="7" player="MullmanT" type="3" discard="1" dealt="1" sum="638"/>
+</round>
+<round no="2"><cards type="Flop">D6 C8 C4</cards>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+</round>
+<round no="4"><cards type="River">S10</cards>
+</round>
+</game>
+<game gamecode="11576229984"><general><startdate>2025-07-16 13:35:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MullmanT" chips="134" dealer="0" win="0" bet="134" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099369"/>
+<player seat="3" name="oreiasccp" chips="1,366" dealer="1" win="268" bet="134" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407099216"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MullmanT" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MullmanT" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MullmanT">HQ H8</cards>
+<cards type="Pocket" player="oreiasccp">H4 H6</cards>
+<action no="5" player="oreiasccp" type="23" sum="129"/>
+<action no="6" player="MullmanT" type="7" discard="1" dealt="1" sum="89"/>
+</round>
+<round no="2"><cards type="Flop">C6 D10 H7</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+</session>

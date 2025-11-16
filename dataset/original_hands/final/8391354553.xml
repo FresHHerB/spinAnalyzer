@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391354553">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128455765</tablename>
+<tournamentcode>1128455561</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-25 12:09:25</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532704882"><general><startdate>2025-06-25 12:09:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="kamushek1" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354569"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354553"/>
+<player seat="6" name="Hobnail" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hobnail" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="kamushek1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="Hobnail">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 S3</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Hobnail" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532704892"><general><startdate>2025-06-25 12:09:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354553"/>
+<player seat="6" name="Hobnail" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354564"/>
+<player seat="10" name="kamushek1" chips="510" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391354569"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 HA</cards>
+<cards type="Pocket" player="Hobnail">X X</cards>
+<cards type="Pocket" player="kamushek1">HK CA</cards>
+<action no="3" player="Hobnail" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="kamushek1" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="23" sum="500"/>
+<action no="6" player="kamushek1" type="3" discard="1" dealt="1" sum="450"/>
+</round>
+<round no="2"><cards type="Flop">C4 C10 D8</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

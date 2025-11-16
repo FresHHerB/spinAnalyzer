@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394896881">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128942254</tablename>
+<tournamentcode>1128942253</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>23</gamecount>
+<startdate>2025-06-30 05:53:03</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11542674646"><general><startdate>2025-06-30 05:53:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="troybomber" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="500" dealer="1" win="130" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="troybomber" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">D4 DQ</cards>
+<cards type="Pocket" player="troybomber">H5 SK</cards>
+<cards type="Pocket" player="oreiasccp">HJ S5</cards>
+<action no="3" player="Bellatrix97" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="troybomber" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D10 SA SJ</cards>
+<action no="6" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bellatrix97" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="troybomber" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="9" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="11" player="troybomber" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542674752"><general><startdate>2025-06-30 05:54:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="570" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="440" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Bellatrix97" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 H9</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="troybomber" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542674787"><general><startdate>2025-06-30 05:54:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="490" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="460" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 D7</cards>
+<action no="3" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542674806"><general><startdate>2025-06-30 05:54:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="troybomber" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="540" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="troybomber" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 D7</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="3" player="Bellatrix97" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542674838"><general><startdate>2025-06-30 05:54:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="570" dealer="0" win="90" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Bellatrix97" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA D7</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H6 H10 D9</cards>
+<action no="6" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="8" player="Bellatrix97" type="5" discard="1" dealt="1" sum="90"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678179"><general><startdate>2025-06-30 05:55:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="450" dealer="0" win="90" bet="430" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="430" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="620" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA DJ</cards>
+<action no="3" player="troybomber" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="23" sum="430"/>
+<action no="6" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678237"><general><startdate>2025-06-30 05:55:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="troybomber" chips="390" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="610" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 DK</cards>
+<action no="6" player="Bellatrix97" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678264"><general><startdate>2025-06-30 05:55:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="665" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="355" dealer="0" win="75" bet="355" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+</players>
+</general>
+<round no="0"><action no="1" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="troybomber" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 S2</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="troybomber" type="23" discard="1" dealt="1" sum="350"/>
+<action no="8" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678290"><general><startdate>2025-06-30 05:55:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="475" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="10" name="troybomber" chips="395" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="630" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Bellatrix97" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK S10</cards>
+<cards type="Pocket" player="troybomber">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="troybomber" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678322"><general><startdate>2025-06-30 05:56:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="troybomber" chips="390" dealer="0" win="0" bet="390" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896883"/>
+<player seat="3" name="Bellatrix97" chips="610" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="785" bet="390" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="troybomber" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="troybomber" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="troybomber">D7 HA</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 H10</cards>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="385"/>
+<action no="8" player="troybomber" type="7" discard="1" dealt="1" sum="355"/>
+</round>
+<round no="2"><cards type="Flop">C5 D10 S10</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+<game gamecode="11542678374"><general><startdate>2025-06-30 05:56:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="605" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="895" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 S6</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 S10 S8</cards>
+<action no="7" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="11" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="30"/>
+<action no="13" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678463"><general><startdate>2025-06-30 05:56:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="930" dealer="0" win="70" bet="570" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="570" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA S10</cards>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="565"/>
+<action no="7" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678490"><general><startdate>2025-06-30 05:57:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="535" dealer="0" win="130" bet="535" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="965" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D3</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="Bellatrix97" type="23" discard="1" dealt="1" sum="530"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678517"><general><startdate>2025-06-30 05:57:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="900" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="600" dealer="1" win="90" bet="600" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 C6</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="5" player="Bellatrix97" type="23" discard="1" dealt="1" sum="595"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678563"><general><startdate>2025-06-30 05:57:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="645" dealer="0" win="90" bet="645" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="855" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Bellatrix97" type="23" discard="1" dealt="1" sum="640"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678587"><general><startdate>2025-06-30 05:57:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="810" dealer="0" win="90" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="690" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA DK</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="200"/>
+<action no="7" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678618"><general><startdate>2025-06-30 05:58:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="645" dealer="0" win="90" bet="645" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="855" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 C6</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Bellatrix97" type="23" discard="1" dealt="1" sum="640"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678649"><general><startdate>2025-06-30 05:58:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="810" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="690" dealer="1" win="170" bet="212" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 H2</cards>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 C6 D3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Bellatrix97" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Bellatrix97" type="5" discard="1" dealt="1" sum="127"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678703"><general><startdate>2025-06-30 05:58:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="775" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="725" dealer="1" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 S4</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="Bellatrix97" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S6 H8 CA</cards>
+<action no="7" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678755"><general><startdate>2025-06-30 05:59:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="810" dealer="0" win="90" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="690" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 D2</cards>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ DJ S3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H8</cards>
+<action no="11" player="oreiasccp" type="5" sum="120"/>
+<action no="12" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542678854"><general><startdate>2025-06-30 05:59:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="645" dealer="0" win="648" bet="324" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="855" dealer="1" win="0" bet="324" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">S9 CQ</cards>
+<cards type="Pocket" player="oreiasccp">D9 H9</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 D7 HJ</cards>
+<action no="7" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="9" player="Bellatrix97" type="5" discard="1" dealt="1" sum="97"/>
+<action no="10" player="oreiasccp" type="3" sum="97"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="11" player="Bellatrix97" type="5" discard="1" dealt="1" sum="162"/>
+<action no="12" player="oreiasccp" type="3" sum="162"/>
+</round>
+</game>
+<game gamecode="11542678920"><general><startdate>2025-06-30 06:00:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="531" dealer="0" win="0" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+<player seat="3" name="Bellatrix97" chips="969" dealer="1" win="500" bet="250" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">D10 C6</cards>
+<cards type="Pocket" player="oreiasccp">D4 S3</cards>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 S9 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Bellatrix97" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">D6</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Bellatrix97" type="5" discard="1" dealt="1" sum="125"/>
+<action no="14" player="oreiasccp" type="3" sum="125"/>
+</round>
+</game>
+<game gamecode="11542679019"><general><startdate>2025-06-30 06:00:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="1,219" dealer="0" win="562" bet="281" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896851"/>
+<player seat="6" name="oreiasccp" chips="281" dealer="1" win="0" bet="281" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394896881"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 SQ</cards>
+<cards type="Pocket" player="Bellatrix97">DA C6</cards>
+<action no="5" player="oreiasccp" type="23" sum="276"/>
+<action no="6" player="Bellatrix97" type="3" discard="1" dealt="1" sum="216"/>
+</round>
+<round no="2"><cards type="Flop">H2 H5 D9</cards>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+</round>
+<round no="4"><cards type="River">S6</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8393594527">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128757744</tablename>
+<tournamentcode>1128757743</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>32</gamecount>
+<startdate>2025-06-28 11:41:05</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11538729933"><general><startdate>2025-06-28 11:41:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="onewh1te" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594572"/>
+<player seat="3" name="CatsInHats" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="onewh1te" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="onewh1te">X X</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 DA</cards>
+<action no="3" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="onewh1te" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C9 H10 S7</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538730015"><general><startdate>2025-06-28 11:41:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="500" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="10" name="onewh1te" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594572"/>
+</players>
+</general>
+<round no="0"><action no="1" player="onewh1te" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="CatsInHats" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 SQ</cards>
+<cards type="Pocket" player="onewh1te">X X</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="onewh1te" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA DA CA</cards>
+<action no="6" player="onewh1te" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="CatsInHats" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538730095"><general><startdate>2025-06-28 11:42:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="10" name="onewh1te" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594572"/>
+<player seat="3" name="CatsInHats" chips="520" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="onewh1te">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 D4</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="3" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="CatsInHats" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ H3 HQ</cards>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="8" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="10" player="CatsInHats" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538730193"><general><startdate>2025-06-28 11:42:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="onewh1te" chips="440" dealer="0" win="0" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594572"/>
+<player seat="3" name="CatsInHats" chips="540" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="520" dealer="0" win="900" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="onewh1te" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 S9</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="onewh1te">HJ HQ</cards>
+<action no="3" player="CatsInHats" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="onewh1te" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">SK D7 H3</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="onewh1te" type="5" discard="1" dealt="1" sum="45"/>
+<action no="10" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="onewh1te" type="5" discard="1" dealt="1" sum="315"/>
+<action no="13" player="oreiasccp" type="3" sum="315"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11538735947"><general><startdate>2025-06-28 11:43:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="520" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="980" dealer="1" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="CatsInHats" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK C5</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="CatsInHats" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CJ HA S3</cards>
+<action no="5" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736037"><general><startdate>2025-06-28 11:43:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,020" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="480" dealer="1" win="70" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 D7</cards>
+<action no="5" player="CatsInHats" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 H3 H2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="CatsInHats" type="5" discard="1" dealt="1" sum="70"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736115"><general><startdate>2025-06-28 11:43:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="515" dealer="0" win="130" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="985" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ S4</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 D9 SK</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="12" player="CatsInHats" type="5" discard="1" dealt="1" sum="30"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736196"><general><startdate>2025-06-28 11:44:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="920" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="580" dealer="1" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C8</cards>
+<cards type="Pocket" player="CatsInHats">HA C2</cards>
+<action no="5" player="CatsInHats" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 C6 D9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="CatsInHats" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736275"><general><startdate>2025-06-28 11:44:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="645" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="855" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H2</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736299"><general><startdate>2025-06-28 11:44:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="835" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="665" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ D8</cards>
+<action no="5" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736327"><general><startdate>2025-06-28 11:44:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="645" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="855" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 D4</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736361"><general><startdate>2025-06-28 11:44:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="835" dealer="0" win="370" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="665" dealer="1" win="0" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">C5 S10</cards>
+<cards type="Pocket" player="oreiasccp">SK C9</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H3 C2 S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="CatsInHats" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="CatsInHats" type="5" discard="1" dealt="1" sum="60"/>
+<action no="14" player="oreiasccp" type="3" sum="60"/>
+</round>
+</game>
+<game gamecode="11538736449"><general><startdate>2025-06-28 11:45:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="480" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="1,020" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 C7</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 D9 C3</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736500"><general><startdate>2025-06-28 11:45:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,055" dealer="0" win="0" bet="940" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="445" dealer="1" win="890" bet="445" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA DA</cards>
+<cards type="Pocket" player="CatsInHats">D8 S5</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H7 H5 C5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="3" sum="65"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="CatsInHats" type="5" discard="1" dealt="1" sum="180"/>
+<action no="12" player="oreiasccp" type="23" sum="810"/>
+<action no="13" player="CatsInHats" type="7" discard="1" dealt="1" sum="135"/>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+<game gamecode="11538736614"><general><startdate>2025-06-28 11:45:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="890" dealer="0" win="170" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="610" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK S3</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 S7 H4</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D10</cards>
+<action no="12" player="CatsInHats" type="5" discard="1" dealt="1" sum="85"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736683"><general><startdate>2025-06-28 11:45:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="525" dealer="0" win="376" bet="188" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="975" dealer="1" win="0" bet="188" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 C10</cards>
+<cards type="Pocket" player="CatsInHats">CK H7</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">D10 C6 H6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="11" player="oreiasccp" type="5" sum="63"/>
+<action no="12" player="CatsInHats" type="3" discard="1" dealt="1" sum="63"/>
+</round>
+</game>
+<game gamecode="11538736748"><general><startdate>2025-06-28 11:46:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="787" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="713" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 CA</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 DA S9</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736790"><general><startdate>2025-06-28 11:46:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="758" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="742" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H2</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736827"><general><startdate>2025-06-28 11:46:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="787" dealer="0" win="0" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="713" dealer="1" win="340" bet="170" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">CQ D8</cards>
+<cards type="Pocket" player="oreiasccp">D10 SQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK C5 DQ</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="85"/>
+<action no="12" player="CatsInHats" type="3" discard="1" dealt="1" sum="85"/>
+</round>
+<round no="4"><cards type="River">C10</cards>
+<action no="13" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736895"><general><startdate>2025-06-28 11:46:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="883" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="617" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 SQ</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538736932"><general><startdate>2025-06-28 11:46:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="662" dealer="0" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="838" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 DJ</cards>
+<cards type="Pocket" player="CatsInHats">C10 DQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 S9 C6</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="12" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737022"><general><startdate>2025-06-28 11:47:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="753" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="747" dealer="1" win="90" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H10</cards>
+<action no="5" player="CatsInHats" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 C7 S5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="5" discard="1" dealt="1" sum="45"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737068"><general><startdate>2025-06-28 11:47:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="792" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="708" dealer="1" win="250" bet="188" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 HQ</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA SK D8</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="12" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="5" sum="63"/>
+<action no="14" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737141"><general><startdate>2025-06-28 11:47:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="833" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="667" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 H10</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737170"><general><startdate>2025-06-28 11:47:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="732" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="768" dealer="1" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 D6</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 DA S8</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="CatsInHats" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="10" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="125"/>
+<action no="12" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737240"><general><startdate>2025-06-28 11:48:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="893" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="607" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 C4</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737266"><general><startdate>2025-06-28 11:48:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="672" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="828" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ HK</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 H2 H3</cards>
+<action no="7" player="CatsInHats" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737307"><general><startdate>2025-06-28 11:48:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="893" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="607" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 H10</cards>
+<action no="5" player="CatsInHats" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737330"><general><startdate>2025-06-28 11:48:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="672" dealer="0" win="250" bet="672" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="828" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ H7</cards>
+<action no="5" player="oreiasccp" type="23" sum="120"/>
+<action no="6" player="CatsInHats" type="23" discard="1" dealt="1" sum="667"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737378"><general><startdate>2025-06-28 11:48:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="703" dealer="0" win="418" bet="703" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="797" dealer="1" win="0" bet="209" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 S3</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="CatsInHats" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 D6 D3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CatsInHats" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="23" sum="144"/>
+<action no="10" player="CatsInHats" type="3" discard="1" dealt="1" sum="84"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="11" player="oreiasccp" type="5" sum="494"/>
+<action no="12" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737469"><general><startdate>2025-06-28 11:49:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CatsInHats" chips="588" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+<player seat="6" name="oreiasccp" chips="912" dealer="1" win="130" bet="588" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CatsInHats" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 S4</cards>
+<cards type="Pocket" player="CatsInHats">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="583"/>
+<action no="6" player="CatsInHats" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538737503"><general><startdate>2025-06-28 11:49:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="977" dealer="0" win="1,046" bet="523" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594527"/>
+<player seat="3" name="CatsInHats" chips="523" dealer="1" win="0" bet="523" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393594526"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CatsInHats" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CatsInHats" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CatsInHats">SA D8</cards>
+<cards type="Pocket" player="oreiasccp">DQ SQ</cards>
+<action no="5" player="CatsInHats" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="150"/>
+<action no="7" player="CatsInHats" type="23" discard="1" dealt="1" sum="518"/>
+<action no="8" player="oreiasccp" type="3" sum="368"/>
+</round>
+<round no="2"><cards type="Flop">C9 H9 S8</cards>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+</round>
+<round no="4"><cards type="River">S7</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8406175399">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130459828</tablename>
+<tournamentcode>1130459827</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-07-15 08:18:37</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11573770218"><general><startdate>2025-07-15 08:18:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Katalog55" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175388"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175399"/>
+<player seat="3" name="Humbert25" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175379"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Humbert25" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Katalog55" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Katalog55">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ C2</cards>
+<cards type="Pocket" player="Humbert25">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Humbert25" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573770251"><general><startdate>2025-07-15 08:19:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175399"/>
+<player seat="3" name="Humbert25" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175379"/>
+<player seat="6" name="Katalog55" chips="510" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406175388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Katalog55" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 S2</cards>
+<cards type="Pocket" player="Humbert25">X X</cards>
+<cards type="Pocket" player="Katalog55">DJ HJ</cards>
+<action no="3" player="Humbert25" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Katalog55" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="23" sum="500"/>
+<action no="6" player="Katalog55" type="3" discard="1" dealt="1" sum="440"/>
+</round>
+<round no="2"><cards type="Flop">C5 H8 D3</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">S9</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8393549017">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128751235</tablename>
+<tournamentcode>1128751234</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>33</gamecount>
+<startdate>2025-06-28 09:33:59</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11538615818"><general><startdate>2025-06-28 09:34:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="PeRIverNuTsAA" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548948"/>
+<player seat="6" name="TBGHESTENGOLD" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="100" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="PeRIverNuTsAA" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="PeRIverNuTsAA">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA DK</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="3" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="120"/>
+<action no="5" player="PeRIverNuTsAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538615864"><general><startdate>2025-06-28 09:34:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="460" dealer="0" win="90" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="3" name="PeRIverNuTsAA" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548948"/>
+</players>
+</general>
+<round no="0"><action no="1" player="PeRIverNuTsAA" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="PeRIverNuTsAA">X X</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK S10</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="PeRIverNuTsAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="460"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538615907"><general><startdate>2025-06-28 09:34:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="520" dealer="0" win="980" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="3" name="PeRIverNuTsAA" chips="470" dealer="1" win="0" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548948"/>
+<player seat="6" name="TBGHESTENGOLD" chips="510" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="PeRIverNuTsAA">H8 H10</cards>
+<cards type="Pocket" player="oreiasccp">SQ CA</cards>
+<action no="3" player="PeRIverNuTsAA" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="23" sum="510"/>
+<action no="6" player="PeRIverNuTsAA" type="7" discard="1" dealt="1" sum="430"/>
+<action no="7" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 H5 H9</cards>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+<game gamecode="11538615975"><general><startdate>2025-06-28 09:35:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,030" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="470" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">H2 C6</cards>
+<cards type="Pocket" player="oreiasccp">S5 S8</cards>
+<action no="3" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 S9 S6</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616055"><general><startdate>2025-06-28 09:35:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="410" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="1,090" dealer="1" win="80" bet="98" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ H2</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D10 CQ S5</cards>
+<action no="5" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="58"/>
+<action no="9" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616115"><general><startdate>2025-06-28 09:35:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,130" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="370" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 H3</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="3" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616145"><general><startdate>2025-06-28 09:35:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="390" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="1,110" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 C2</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616164"><general><startdate>2025-06-28 09:35:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,100" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="400" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 SQ</cards>
+<action no="3" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616195"><general><startdate>2025-06-28 09:35:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="390" dealer="0" win="200" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="1,110" dealer="1" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 S3</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="100"/>
+<action no="5" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">D8 S8 HK</cards>
+<action no="6" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616257"><general><startdate>2025-06-28 09:36:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,010" dealer="0" win="0" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="490" dealer="1" win="510" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 C5</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 H2 C9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="70"/>
+<action no="9" player="oreiasccp" type="3" sum="70"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="150"/>
+<action no="12" player="oreiasccp" type="3" sum="150"/>
+</round>
+<round no="4"><cards type="River">S2</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="235"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616399"><general><startdate>2025-06-28 09:36:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="745" dealer="0" win="70" bet="745" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="755" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 H6</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="740"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538616435"><general><startdate>2025-06-28 09:37:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="720" dealer="0" win="0" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="780" dealer="1" win="390" bet="405" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 D5</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 S5 D10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="160"/>
+<action no="11" player="oreiasccp" type="3" sum="130"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="210"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622159"><general><startdate>2025-06-28 09:37:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="975" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="525" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 H4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622200"><general><startdate>2025-06-28 09:37:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="505" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="995" dealer="1" win="70" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK D3</cards>
+<action no="5" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622237"><general><startdate>2025-06-28 09:37:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="1,030" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ HQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 H6 SJ</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622288"><general><startdate>2025-06-28 09:38:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="505" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="995" dealer="1" win="70" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ S10</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 D9 S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="70"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622341"><general><startdate>2025-06-28 09:38:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="1,030" dealer="0" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ C10</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 SJ C6</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="10" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="12" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="40"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622417"><general><startdate>2025-06-28 09:38:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="385" dealer="0" win="90" bet="385" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="1,115" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HA</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="380"/>
+<action no="7" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622473"><general><startdate>2025-06-28 09:38:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="1,070" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="430" dealer="1" win="90" bet="430" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA C8</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="425"/>
+<action no="6" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622503"><general><startdate>2025-06-28 09:39:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="475" dealer="0" win="90" bet="475" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="1,025" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 SA</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="470"/>
+<action no="7" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622544"><general><startdate>2025-06-28 09:39:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="980" dealer="0" win="170" bet="365" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="520" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ D2</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 C9 D8</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="320"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622668"><general><startdate>2025-06-28 09:39:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="435" dealer="0" win="870" bet="435" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="1,065" dealer="1" win="0" bet="435" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">CA S10</cards>
+<cards type="Pocket" player="oreiasccp">HA D7</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="430"/>
+<action no="7" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="390"/>
+</round>
+<round no="2"><cards type="Flop">C8 DA S6</cards>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+<game gamecode="11538622747"><general><startdate>2025-06-28 09:39:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="630" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="870" dealer="1" win="90" bet="145" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA D5</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK C9 H2</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="9" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="100"/>
+<action no="11" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622832"><general><startdate>2025-06-28 09:40:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="915" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="585" dealer="1" win="130" bet="585" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 S10</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="580"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622872"><general><startdate>2025-06-28 09:40:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="650" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="850" dealer="1" win="130" bet="650" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 C5</cards>
+<action no="5" player="oreiasccp" type="23" sum="645"/>
+<action no="6" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622903"><general><startdate>2025-06-28 09:40:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="915" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="585" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H9</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538622941"><general><startdate>2025-06-28 09:40:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="650" dealer="0" win="390" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="850" dealer="1" win="0" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 D8</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 C5 D4</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="9" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="130"/>
+<action no="10" player="oreiasccp" type="3" sum="130"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="11" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="60"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538623028"><general><startdate>2025-06-28 09:41:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="655" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="845" dealer="1" win="130" bet="845" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 D10</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="23" discard="1" dealt="1" sum="840"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538623066"><general><startdate>2025-06-28 09:41:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="910" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="590" dealer="1" win="130" bet="590" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 DK</cards>
+<action no="5" player="oreiasccp" type="23" sum="585"/>
+<action no="6" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538623091"><general><startdate>2025-06-28 09:41:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="655" dealer="0" win="130" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="845" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA DJ</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="210"/>
+<action no="7" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538623137"><general><startdate>2025-06-28 09:41:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="780" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="720" dealer="1" win="250" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="TBGHESTENGOLD">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA C8</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 H4 C7</cards>
+<action no="7" player="TBGHESTENGOLD" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="9" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="23" sum="180"/>
+<action no="11" player="TBGHESTENGOLD" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538623236"><general><startdate>2025-06-28 09:41:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="845" dealer="0" win="0" bet="655" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+<player seat="6" name="TBGHESTENGOLD" chips="655" dealer="1" win="1,310" bet="655" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TBGHESTENGOLD" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 S6</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">H4 HA</cards>
+<action no="5" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 C8 D3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="3" sum="65"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="TBGHESTENGOLD" type="5" discard="1" dealt="1" sum="525"/>
+<action no="12" player="oreiasccp" type="3" sum="525"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11538623326"><general><startdate>2025-06-28 09:42:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TBGHESTENGOLD" chips="1,310" dealer="0" win="380" bet="190" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393548962"/>
+<player seat="10" name="oreiasccp" chips="190" dealer="1" win="0" bet="190" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393549017"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="TBGHESTENGOLD" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="TBGHESTENGOLD" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 D8</cards>
+<cards type="Pocket" player="TBGHESTENGOLD">D5 DJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="182"/>
+<action no="6" player="TBGHESTENGOLD" type="3" discard="1" dealt="1" sum="102"/>
+</round>
+<round no="2"><cards type="Flop">HK D2 SA</cards>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+</session>

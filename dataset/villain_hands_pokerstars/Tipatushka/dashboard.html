@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise Tática - Tipatushka</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #e4e4e4;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: linear-gradient(135deg, #0f3460 0%, #16213e 100%);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #00d9ff;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .subtitle {
+            color: #aaa;
+            font-size: 1.1em;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #1f4068 0%, #162447 100%);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            border-left: 4px solid;
+        }
+
+        .stat-card.exploitable {
+            border-left-color: #ff4757;
+        }
+
+        .stat-card.balanced {
+            border-left-color: #ffa502;
+        }
+
+        .stat-card.standard {
+            border-left-color: #2ed573;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00d9ff;
+            margin: 10px 0;
+        }
+
+        .stat-label {
+            color: #aaa;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .stat-interpretation {
+            color: #ddd;
+            font-size: 0.95em;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .charts-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .chart-card {
+            background: linear-gradient(135deg, #1f4068 0%, #162447 100%);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+
+        .chart-title {
+            color: #00d9ff;
+            font-size: 1.3em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .exploits-section {
+            background: linear-gradient(135deg, #ff4757 0%, #c23616 100%);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(255,71,87,0.3);
+        }
+
+        .exploits-title {
+            color: #fff;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .exploit-item {
+            background: rgba(255,255,255,0.1);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        .exploit-item h3 {
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .exploit-item p {
+            color: #f1f1f1;
+            line-height: 1.6;
+        }
+
+        .gameplan-section {
+            background: linear-gradient(135deg, #2ed573 0%, #26ad5f 100%);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(46,213,115,0.3);
+        }
+
+        .gameplan-title {
+            color: #fff;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .gameplan-card {
+            background: rgba(255,255,255,0.15);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            backdrop-filter: blur(10px);
+        }
+
+        .gameplan-card h3 {
+            color: #fff;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .gameplan-card ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .gameplan-card li {
+            color: #f1f1f1;
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        .gameplan-card li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            color: #888;
+            margin-top: 40px;
+            padding: 20px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+
+        .badge.high {
+            background: #ff4757;
+            color: #fff;
+        }
+
+        .badge.medium {
+            background: #ffa502;
+            color: #fff;
+        }
+
+        .badge.low {
+            background: #2ed573;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER -->
+        <header>
+            <h1>📊 Análise Tática - Tipatushka</h1>
+            <div class="subtitle">
+                3,573 mãos analisadas | Hero: FresHHerB | Tipo: Passivo PF / Seletivo Flop
+            </div>
+        </header>
+
+        <!-- KEY STATS GRID -->
+        <div class="stats-grid">
+            <div class="stat-card exploitable">
+                <div class="stat-label">PFR (Pre-Flop Raise)</div>
+                <div class="stat-value">7.2%</div>
+                <div class="stat-interpretation">
+                    🔴 EXTREMAMENTE BAIXO<br>
+                    Limpa 79.7% das mãos - exploitável com raises agressivos
+                </div>
+            </div>
+
+            <div class="stat-card balanced">
+                <div class="stat-label">C-bet Frequency</div>
+                <div class="stat-value">70.9%</div>
+                <div class="stat-interpretation">
+                    🟡 ALTO MAS BALANCEADO<br>
+                    Considerar floats em posição e check-raises ocasionais
+                </div>
+            </div>
+
+            <div class="stat-card exploitable">
+                <div class="stat-label">Probe Bet (Limped)</div>
+                <div class="stat-value">31.3%</div>
+                <div class="stat-interpretation">
+                    🔴 MUITO BAIXO<br>
+                    Passivo em limped pots - roubar frequentemente
+                </div>
+            </div>
+
+            <div class="stat-card exploitable">
+                <div class="stat-label">Give-up Flop→Turn</div>
+                <div class="stat-value">55.6%</div>
+                <div class="stat-interpretation">
+                    🔴 MUITO ALTO<br>
+                    Call flop C-bet e atacar turn quando check
+                </div>
+            </div>
+        </div>
+
+        <!-- CHARTS -->
+        <div class="charts-section">
+            <div class="chart-card">
+                <div class="chart-title">C-bet por Board Texture</div>
+                <canvas id="cbetTextureChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-title">Barrel Distribution</div>
+                <canvas id="barrelChart"></canvas>
+            </div>
+        </div>
+
+        <!-- EXPLOITS -->
+        <div class="exploits-section">
+            <div class="exploits-title">🎯 Tendências Exploitáveis</div>
+
+            <div class="exploit-item">
+                <h3>1. Limp Excessivo (79.7%)</h3>
+                <p>
+                    <strong>Padrão:</strong> Limpa a vasta maioria das mãos pré-flop.<br>
+                    <strong>Exploração:</strong> Raise agressivamente (70%+ range) para isolar. Use sizing de 3-3.5BB.
+                    C-bet frequentemente após iso-raise.<br>
+                    <strong>Cuidado:</strong> Respeitar os raros raises (indica mãos premium).
+                </p>
+            </div>
+
+            <div class="exploit-item">
+                <h3>2. Probe Bet Passivo (31.3%)</h3>
+                <p>
+                    <strong>Padrão:</strong> Raramente aposta em limped pots no flop.<br>
+                    <strong>Exploração:</strong> Bet 70%+ após check com small sizing (30-40% pot).
+                    Barrel turn agressivamente se call.<br>
+                    <strong>EV Adicional:</strong> Pode roubar potes com air frequentemente.
+                </p>
+            </div>
+
+            <div class="exploit-item">
+                <h3>3. Give-up Frequente (55.6%)</h3>
+                <p>
+                    <strong>Padrão:</strong> Após C-bet flop, frequentemente desiste no turn.<br>
+                    <strong>Exploração:</strong> Call flop C-bet com wide range (draws, pairs fracos, até air ocasional).
+                    Bet turn quando check.<br>
+                    <strong>Sizing:</strong> 40-50% pot no turn é suficiente.
+                </p>
+            </div>
+
+            <div class="exploit-item">
+                <h3>4. Barrels Raros</h3>
+                <p>
+                    <strong>Padrão:</strong> Double barrel: 23 |
+                    Triple barrel: 2<br>
+                    <strong>Exploração:</strong> Bluff catch river contra barrels múltiplos (range very strong).
+                    Fold marginais contra triple barrel.<br>
+                    <strong>Implicação:</strong> Pode ser bluffado no river após dar up no turn.
+                </p>
+            </div>
+        </div>
+
+        <!-- GAME PLAN -->
+        <div class="gameplan-section">
+            <div class="gameplan-title">📋 Plano de Jogo</div>
+
+            <div class="gameplan-card">
+                <h3>Pré-Flop Strategy</h3>
+                <ul>
+                    <li><strong>SB (BTN):</strong> Raise 70%+ das mãos vs limp. Size: 3-3.5BB</li>
+                    <li><strong>BB:</strong> Raise agressivo vs limp (60%+ range). Size: 3-4BB</li>
+                    <li><strong>Vs Raise:</strong> Respeitar range - fold mãos marginais, evitar 3-bet light</li>
+                    <li><strong>Call Range:</strong> Suited connectors, pocket pairs, suited Ax para implied odds</li>
+                </ul>
+            </div>
+
+            <div class="gameplan-card">
+                <h3>Flop Strategy</h3>
+                <ul>
+                    <li><strong>Em Raised Pots (você PFR):</strong> C-bet 81%+. Size: 50-60% pot</li>
+                    <li><strong>Em Limped Pots:</strong> Bet 51%+ após check. Size: 30-40% pot</li>
+                    <li><strong>Vs C-bet:</strong> Call com wide range (draws, pairs, floats). Fold apenas trash</li>
+                    <li><strong>Check-raise:</strong> Ocasional para balancear, especialmente em boards wet</li>
+                </ul>
+            </div>
+
+            <div class="gameplan-card">
+                <h3>Turn/River Strategy</h3>
+                <ul>
+                    <li><strong>Vs Check Turn:</strong> Bet 56%+. Size: 40-50% pot</li>
+                    <li><strong>Vs Double Barrel:</strong> Respeitar - call com pair médio+, fold draws sem equity</li>
+                    <li><strong>Vs Triple Barrel:</strong> MUITO RARO - fold até top pair, call apenas overpair+</li>
+                    <li><strong>River Bluffs:</strong> Pode bluffar river após villain give-up turn</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- FOOTER -->
+        <footer>
+            <p>SpinAnalyzer | Análise baseada em 3,573 mãos HU |
+            Confidence: ALTA</p>
+            <p>Gerado automaticamente em D:\code\python\spinAnalyzer</p>
+        </footer>
+    </div>
+
+    <script>
+        // C-bet por Texture Chart
+        const cbetTextureCtx = document.getElementById('cbetTextureChart').getContext('2d');
+        new Chart(cbetTextureCtx, {
+            type: 'bar',
+            data: {
+                labels: ['monotone', 'two_tone', 'rainbow', 'paired', 'unpaired', 'connected', 'dry', 'wet'],
+                datasets: [{
+                    label: 'C-bet %',
+                    data: [42.857142857142854, 70.58823529411765, 76.19047619047619, 56.25, 73.26732673267327, 62.5, 68.11594202898551, 75.0],
+                    backgroundColor: 'rgba(0, 217, 255, 0.6)',
+                    borderColor: 'rgba(0, 217, 255, 1)',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        ticks: {
+                            color: '#aaa',
+                            callback: function(value) {
+                                return value + '%';
+                            }
+                        },
+                        grid: {
+                            color: 'rgba(255,255,255,0.1)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: '#aaa'
+                        },
+                        grid: {
+                            color: 'rgba(255,255,255,0.1)'
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#aaa'
+                        }
+                    }
+                }
+            }
+        });
+
+        // Barrel Distribution Chart
+        const barrelCtx = document.getElementById('barrelChart').getContext('2d');
+        new Chart(barrelCtx, {
+            type: 'pie',
+            data: {
+                labels: ['Single Barrel', 'Double Barrel', 'Triple Barrel'],
+                datasets: [{
+                    data: [
+                        66,
+                        23,
+                        2
+                    ],
+                    backgroundColor: [
+                        'rgba(46, 213, 115, 0.8)',
+                        'rgba(255, 165, 2, 0.8)',
+                        'rgba(255, 71, 87, 0.8)'
+                    ],
+                    borderColor: [
+                        'rgba(46, 213, 115, 1)',
+                        'rgba(255, 165, 2, 1)',
+                        'rgba(255, 71, 87, 1)'
+                    ],
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: '#aaa'
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

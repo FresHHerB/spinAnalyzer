@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392001334">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128542326</tablename>
+<tournamentcode>1128542325</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-06-26 07:28:38</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11534465740"><general><startdate>2025-06-26 07:28:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="d0nsamag0n" chips="500" dealer="0" win="48" bet="48" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="500" dealer="0" win="48" bet="48" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DarwinDead22" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">SA C6</cards>
+<cards type="Pocket" player="oreiasccp">D5 C7</cards>
+<cards type="Pocket" player="DarwinDead22">D6 HA</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="DarwinDead22" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 D10 D8</cards>
+<action no="6" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="8" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="28"/>
+<action no="10" player="DarwinDead22" type="3" discard="1" dealt="1" sum="28"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="11" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534465836"><general><startdate>2025-06-26 07:29:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 SQ</cards>
+<action no="3" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534465862"><general><startdate>2025-06-26 07:29:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="DarwinDead22" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="510" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DarwinDead22" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 HA</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534465904"><general><startdate>2025-06-26 07:29:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="d0nsamag0n" chips="490" dealer="0" win="40" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DarwinDead22" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 D9</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="DarwinDead22" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 D6 CJ</cards>
+<action no="6" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="8" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="28"/>
+<action no="10" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469228"><general><startdate>2025-06-26 07:30:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="460" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 D7</cards>
+<action no="3" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469254"><general><startdate>2025-06-26 07:30:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="DarwinDead22" chips="460" dealer="0" win="80" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DarwinDead22" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 S10</cards>
+<action no="3" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="DarwinDead22" type="23" discard="1" dealt="1" sum="460"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469282"><general><startdate>2025-06-26 07:30:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="d0nsamag0n" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DarwinDead22" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 HJ</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469307"><general><startdate>2025-06-26 07:30:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 HK</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<action no="6" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469333"><general><startdate>2025-06-26 07:31:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="DarwinDead22" chips="485" dealer="0" win="135" bet="485" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="525" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="DarwinDead22" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 SQ</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<action no="6" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="DarwinDead22" type="23" discard="1" dealt="1" sum="480"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469380"><general><startdate>2025-06-26 07:31:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="d0nsamag0n" chips="485" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="555" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="DarwinDead22" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 S10</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469400"><general><startdate>2025-06-26 07:31:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="455" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="535" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 S6</cards>
+<action no="6" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469429"><general><startdate>2025-06-26 07:31:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="DarwinDead22" chips="530" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="DarwinDead22" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ S10</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="6" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="15"/>
+<action no="8" player="DarwinDead22" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 HA DA</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469513"><general><startdate>2025-06-26 07:32:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="d0nsamag0n" chips="485" dealer="0" win="165" bet="485" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="520" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="495" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="DarwinDead22" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK S3</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="DarwinDead22" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="480"/>
+<action no="9" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534469562"><general><startdate>2025-06-26 07:32:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="515" dealer="0" win="161" bet="159" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+<player seat="6" name="DarwinDead22" chips="415" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="570" dealer="0" win="162" bet="159" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK S4</cards>
+<cards type="Pocket" player="d0nsamag0n">H7 DK</cards>
+<cards type="Pocket" player="DarwinDead22">X X</cards>
+<action no="6" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H6 DJ CJ</cards>
+<action no="9" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="11" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="13" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="94"/>
+<action no="14" player="oreiasccp" type="3" sum="94"/>
+</round>
+</game>
+<game gamecode="11534469656"><general><startdate>2025-06-26 07:33:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="DarwinDead22" chips="410" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001347"/>
+<player seat="10" name="d0nsamag0n" chips="573" dealer="1" win="1,079" bet="573" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001353"/>
+<player seat="3" name="oreiasccp" chips="517" dealer="0" win="0" bet="517" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392001334"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DarwinDead22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="DarwinDead22" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="DarwinDead22">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 S9</cards>
+<cards type="Pocket" player="d0nsamag0n">C10 SQ</cards>
+<action no="6" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="568"/>
+<action no="7" player="oreiasccp" type="7" sum="492"/>
+<action no="8" player="DarwinDead22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 CQ H10</cards>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+</round>
+<round no="4"><cards type="River">S6</cards>
+</round>
+</game>
+</session>

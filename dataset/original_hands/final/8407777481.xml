@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407777481">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130663872</tablename>
+<tournamentcode>1130663871</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-07-17 05:46:09</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11577973642"><general><startdate>2025-07-17 05:46:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ppalbs29" chips="500" dealer="0" win="90" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777453"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777481"/>
+<player seat="3" name="RonaldinhoC99" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777310"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RonaldinhoC99" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="ppalbs29" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RonaldinhoC99">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA D5</cards>
+<cards type="Pocket" player="ppalbs29">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="RonaldinhoC99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="ppalbs29" type="23" discard="1" dealt="1" sum="100"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577973690"><general><startdate>2025-07-17 05:46:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="460" dealer="0" win="90" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777481"/>
+<player seat="3" name="RonaldinhoC99" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777310"/>
+<player seat="6" name="ppalbs29" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ppalbs29" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ppalbs29">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 C2</cards>
+<cards type="Pocket" player="RonaldinhoC99">X X</cards>
+<action no="3" player="RonaldinhoC99" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="ppalbs29" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="23" sum="460"/>
+<action no="6" player="RonaldinhoC99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577973767"><general><startdate>2025-07-17 05:47:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="RonaldinhoC99" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777310"/>
+<player seat="6" name="ppalbs29" chips="540" dealer="1" win="1,040" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777453"/>
+<player seat="10" name="oreiasccp" chips="510" dealer="0" win="0" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407777481"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="RonaldinhoC99" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA H10</cards>
+<cards type="Pocket" player="ppalbs29">SA CJ</cards>
+<cards type="Pocket" player="RonaldinhoC99">X X</cards>
+<action no="3" player="ppalbs29" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="510"/>
+<action no="5" player="RonaldinhoC99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="ppalbs29" type="3" discard="1" dealt="1" sum="470"/>
+</round>
+<round no="2"><cards type="Flop">C6 S8 H7</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+</session>

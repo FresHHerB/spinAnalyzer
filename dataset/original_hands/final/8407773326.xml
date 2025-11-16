@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407773326">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130663183</tablename>
+<tournamentcode>1130663182</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>26</gamecount>
+<startdate>2025-07-17 05:26:07</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11577962263"><general><startdate>2025-07-17 05:26:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="3" name="RNGsus" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MoneyReaper" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C7</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<action no="3" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962282"><general><startdate>2025-07-17 05:26:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="RNGsus" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="510" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="RNGsus" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 D10</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="MoneyReaper" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 DK HQ</cards>
+<action no="6" player="MoneyReaper" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962347"><general><startdate>2025-07-17 05:26:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="490" dealer="0" win="450" bet="225" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="3" name="RNGsus" chips="480" dealer="0" win="0" bet="225" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">S7 D9</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK DQ</cards>
+<action no="3" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="RNGsus" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C10 D10 DK</cards>
+<action no="6" player="RNGsus" type="5" discard="1" dealt="1" sum="25"/>
+<action no="7" player="oreiasccp" type="3" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="8" player="RNGsus" type="5" discard="1" dealt="1" sum="75"/>
+<action no="9" player="oreiasccp" type="3" sum="75"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="10" player="RNGsus" type="5" discard="1" dealt="1" sum="75"/>
+<action no="11" player="oreiasccp" type="3" sum="75"/>
+</round>
+</game>
+<game gamecode="11577962461"><general><startdate>2025-07-17 05:27:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="3" name="RNGsus" chips="255" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="715" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MoneyReaper" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H4</cards>
+<action no="3" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962488"><general><startdate>2025-07-17 05:27:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="RNGsus" chips="255" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="705" dealer="1" win="130" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="RNGsus" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 S10</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="RNGsus" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H8 CQ C2</cards>
+<action no="6" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="RNGsus" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="9" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962576"><general><startdate>2025-07-17 05:27:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="775" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="3" name="RNGsus" chips="195" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ S9</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<action no="3" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="RNGsus" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 HA H4</cards>
+<action no="6" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="8" player="RNGsus" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962657"><general><startdate>2025-07-17 05:28:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="3" name="RNGsus" chips="215" dealer="1" win="50" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="755" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MoneyReaper" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 S2</cards>
+<action no="3" player="RNGsus" type="23" discard="1" dealt="1" sum="215"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962698"><general><startdate>2025-07-17 05:28:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="RNGsus" chips="245" dealer="0" win="0" bet="245" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773195"/>
+<player seat="6" name="oreiasccp" chips="745" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="510" dealer="0" win="495" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MoneyReaper" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="RNGsus" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">D10 CQ</cards>
+<cards type="Pocket" player="MoneyReaper">DK H3</cards>
+<cards type="Pocket" player="oreiasccp">CJ S2</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MoneyReaper" type="23" discard="1" dealt="1" sum="505"/>
+<action no="8" player="RNGsus" type="7" discard="1" dealt="1" sum="210"/>
+</round>
+<round no="2"><cards type="Flop">D8 H5 H8</cards>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+<game gamecode="11577962779"><general><startdate>2025-07-17 05:28:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="740" dealer="0" win="130" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="760" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 S3</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="5" player="MoneyReaper" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA H7 H5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MoneyReaper" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="23" sum="75"/>
+<action no="10" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962890"><general><startdate>2025-07-17 05:29:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="695" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="805" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ HA CK</cards>
+<action no="7" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="MoneyReaper" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="10" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="65"/>
+<action no="12" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577962982"><general><startdate>2025-07-17 05:29:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="870" dealer="0" win="0" bet="630" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="630" dealer="1" win="1,260" bet="630" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA S6</cards>
+<cards type="Pocket" player="MoneyReaper">S5 C5</cards>
+<action no="5" player="MoneyReaper" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="625"/>
+<action no="7" player="MoneyReaper" type="7" discard="1" dealt="1" sum="595"/>
+</round>
+<round no="2"><cards type="Flop">C4 CJ H5</cards>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11577963035"><general><startdate>2025-07-17 05:30:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="1,260" dealer="0" win="0" bet="240" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="240" dealer="1" win="480" bet="240" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 H10</cards>
+<cards type="Pocket" player="MoneyReaper">D7 S7</cards>
+<action no="5" player="oreiasccp" type="23" sum="235"/>
+<action no="6" player="MoneyReaper" type="3" discard="1" dealt="1" sum="205"/>
+</round>
+<round no="2"><cards type="Flop">H2 D10 D5</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+<game gamecode="11577963085"><general><startdate>2025-07-17 05:30:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="480" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="1,020" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 D4</cards>
+<action no="5" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577963105"><general><startdate>2025-07-17 05:30:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="995" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="505" dealer="1" win="90" bet="505" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 C5</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="500"/>
+<action no="6" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577963142"><general><startdate>2025-07-17 05:30:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="550" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="950" dealer="1" win="90" bet="950" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 C5</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="5" player="MoneyReaper" type="23" discard="1" dealt="1" sum="945"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967122"><general><startdate>2025-07-17 05:31:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="995" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="505" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 C3</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="MoneyReaper" type="23" discard="1" dealt="1" sum="100"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967161"><general><startdate>2025-07-17 05:31:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="460" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="1,040" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 C6</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="5" player="MoneyReaper" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 CK DK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="11" player="oreiasccp" type="5" sum="40"/>
+<action no="12" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967266"><general><startdate>2025-07-17 05:31:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="995" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="505" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK D5</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 H2 H5</cards>
+<action no="7" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="9" player="MoneyReaper" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="11" player="MoneyReaper" type="5" discard="1" dealt="1" sum="80"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967380"><general><startdate>2025-07-17 05:32:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="460" dealer="0" win="920" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="1,040" dealer="1" win="0" bet="1,040" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">H9 CJ</cards>
+<cards type="Pocket" player="oreiasccp">SK HQ</cards>
+<action no="5" player="MoneyReaper" type="23" discard="1" dealt="1" sum="1,035"/>
+<action no="6" player="oreiasccp" type="7" sum="395"/>
+</round>
+<round no="2"><cards type="Flop">D8 H4 HA</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11577967439"><general><startdate>2025-07-17 05:32:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="580" dealer="0" win="130" bet="580" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="920" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H3</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="MoneyReaper" type="23" discard="1" dealt="1" sum="575"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967471"><general><startdate>2025-07-17 05:33:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="855" dealer="0" win="130" bet="645" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="645" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 DA</cards>
+<action no="5" player="MoneyReaper" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="640"/>
+<action no="7" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967534"><general><startdate>2025-07-17 05:33:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="580" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="920" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 D7</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967555"><general><startdate>2025-07-17 05:33:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="885" dealer="0" win="130" bet="615" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="615" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA H7</cards>
+<action no="5" player="MoneyReaper" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="610"/>
+<action no="7" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967591"><general><startdate>2025-07-17 05:33:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="550" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="950" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 S9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967617"><general><startdate>2025-07-17 05:33:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="915" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+<player seat="10" name="MoneyReaper" chips="585" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MoneyReaper" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 H2</cards>
+<action no="5" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577967628"><general><startdate>2025-07-17 05:33:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="MoneyReaper" chips="550" dealer="0" win="0" bet="550" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773331"/>
+<player seat="6" name="oreiasccp" chips="950" dealer="1" win="1,100" bet="550" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407773326"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MoneyReaper" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MoneyReaper" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">CQ C5</cards>
+<cards type="Pocket" player="oreiasccp">SK C6</cards>
+<action no="5" player="oreiasccp" type="23" sum="545"/>
+<action no="6" player="MoneyReaper" type="7" discard="1" dealt="1" sum="485"/>
+</round>
+<round no="2"><cards type="Flop">H2 D10 DJ</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

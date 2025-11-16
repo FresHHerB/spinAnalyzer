@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391364442">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128457000</tablename>
+<tournamentcode>1128456999</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-25 12:34:25</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532722128"><general><startdate>2025-06-25 12:34:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="500" dealer="0" win="120" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 D10</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="3" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="mousemighty575" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C5 H9 H2</cards>
+<action no="6" player="mousemighty575" type="5" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722212"><general><startdate>2025-06-25 12:35:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="560" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="20190919" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 S8</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="3" player="mousemighty575" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722267"><general><startdate>2025-06-25 12:35:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="mousemighty575" chips="590" dealer="0" win="136" bet="63" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="430" dealer="1" win="0" bet="63" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+</players>
+</general>
+<round no="0"><action no="1" player="20190919" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="mousemighty575" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">S5 SA</cards>
+<cards type="Pocket" player="oreiasccp">DJ S10</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="mousemighty575" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CQ SQ CA</cards>
+<action no="6" player="mousemighty575" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="23"/>
+<action no="8" player="mousemighty575" type="3" discard="1" dealt="1" sum="23"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="9" player="mousemighty575" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="11" player="mousemighty575" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722403"><general><startdate>2025-06-25 12:35:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="367" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="663" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA DQ</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<action no="3" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722444"><general><startdate>2025-06-25 12:35:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="470" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="653" dealer="1" win="90" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="377" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="20190919" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 C6</cards>
+<action no="3" player="mousemighty575" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="20190919" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S7 C2 H7</cards>
+<action no="6" player="20190919" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="mousemighty575" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722503"><general><startdate>2025-06-25 12:36:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="mousemighty575" chips="703" dealer="0" win="0" bet="43" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="367" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="430" dealer="0" win="86" bet="71" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+</players>
+</general>
+<round no="0"><action no="1" player="20190919" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="mousemighty575" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C5</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="20190919" type="23" discard="1" dealt="1" sum="43"/>
+<action no="5" player="mousemighty575" type="3" discard="1" dealt="1" sum="23"/>
+</round>
+<round no="2"><cards type="Flop">HJ DJ S5</cards>
+<action no="6" player="20190919" type="5" discard="1" dealt="1" sum="28"/>
+<action no="7" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722575"><general><startdate>2025-06-25 12:36:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="367" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="473" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="660" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ C2</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="3" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722605"><general><startdate>2025-06-25 12:36:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="473" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="650" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="377" dealer="0" win="100" bet="377" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="20190919" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 C7</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<action no="3" player="mousemighty575" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="377"/>
+<action no="5" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722656"><general><startdate>2025-06-25 12:36:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="mousemighty575" chips="610" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="437" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="453" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+</players>
+</general>
+<round no="0"><action no="1" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="20190919" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="mousemighty575" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 C7</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722685"><general><startdate>2025-06-25 12:36:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="432" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="433" dealer="1" win="285" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="635" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="mousemighty575" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 D8</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<action no="6" player="20190919" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="mousemighty575" type="23" discard="1" dealt="1" sum="90"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+<action no="9" player="20190919" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C9 S8 H5</cards>
+<action no="10" player="mousemighty575" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="20190919" type="5" discard="1" dealt="1" sum="30"/>
+<action no="12" player="mousemighty575" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="13" player="mousemighty575" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="20190919" type="5" discard="1" dealt="1" sum="90"/>
+<action no="15" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722799"><general><startdate>2025-06-25 12:37:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="593" dealer="0" win="233" bet="593" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="510" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="397" dealer="0" win="0" bet="114" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="20190919" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 CQ</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<action no="6" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="20190919" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H6 D2 H2</cards>
+<action no="9" player="oreiasccp" type="5" sum="49"/>
+<action no="10" player="20190919" type="23" discard="1" dealt="1" sum="528"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729148"><general><startdate>2025-06-25 12:37:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="mousemighty575" chips="505" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="283" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="712" dealer="0" win="75" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+</players>
+</general>
+<round no="0"><action no="1" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="20190919" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="mousemighty575" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 S4</cards>
+<cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="20190919" type="23" discard="1" dealt="1" sum="64"/>
+<action no="8" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729171"><general><startdate>2025-06-25 12:37:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="278" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="752" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="470" dealer="0" win="75" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="mousemighty575" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 DK</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<action no="6" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="mousemighty575" type="23" discard="1" dealt="1" sum="465"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729216"><general><startdate>2025-06-25 12:38:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="747" dealer="0" win="0" bet="588" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="510" dealer="1" win="1,040" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="243" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="20190919" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="20190919">D5 D7</cards>
+<cards type="Pocket" player="mousemighty575">DA S9</cards>
+<cards type="Pocket" player="oreiasccp">C8 H6</cards>
+<action no="6" player="mousemighty575" type="23" discard="1" dealt="1" sum="75"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="20190919" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="2"><cards type="Flop">H9 DK DJ</cards>
+<action no="9" player="20190919" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="mousemighty575" type="5" discard="1" dealt="1" sum="45"/>
+<action no="11" player="20190919" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="12" player="20190919" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="mousemighty575" type="5" discard="1" dealt="1" sum="75"/>
+<action no="14" player="20190919" type="23" discard="1" dealt="1" sum="150"/>
+<action no="15" player="mousemighty575" type="3" discard="1" dealt="1" sum="75"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="16" player="20190919" type="5" discard="1" dealt="1" sum="313"/>
+<action no="17" player="mousemighty575" type="7" discard="1" dealt="1" sum="235"/>
+</round>
+</game>
+<game gamecode="11532729353"><general><startdate>2025-06-25 12:38:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="mousemighty575" chips="1,040" dealer="0" win="239" bet="237" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="223" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="237" dealer="0" win="240" bet="237" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+</players>
+</general>
+<round no="0"><action no="1" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="20190919" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="mousemighty575" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 H2</cards>
+<cards type="Pocket" player="20190919">S4 SA</cards>
+<cards type="Pocket" player="mousemighty575">S2 HA</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="20190919" type="23" discard="1" dealt="1" sum="232"/>
+<action no="8" player="mousemighty575" type="3" discard="1" dealt="1" sum="202"/>
+</round>
+<round no="2"><cards type="Flop">C3 C4 D8</cards>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11532729425"><general><startdate>2025-06-25 12:38:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="218" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+<player seat="3" name="20190919" chips="240" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="1,042" dealer="0" win="95" bet="1,042" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="mousemighty575" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="20190919">X X</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ D5</cards>
+<action no="6" player="20190919" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="mousemighty575" type="23" discard="1" dealt="1" sum="1,037"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729470"><general><startdate>2025-06-25 12:39:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="20190919" chips="235" dealer="0" win="351" bet="173" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364348"/>
+<player seat="6" name="mousemighty575" chips="1,092" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364388"/>
+<player seat="10" name="oreiasccp" chips="173" dealer="0" win="0" bet="173" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391364442"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="20190919" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="mousemighty575" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="20190919" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 CQ</cards>
+<cards type="Pocket" player="mousemighty575">X X</cards>
+<cards type="Pocket" player="20190919">DK S4</cards>
+<action no="6" player="mousemighty575" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="168"/>
+<action no="8" player="20190919" type="3" discard="1" dealt="1" sum="128"/>
+</round>
+<round no="2"><cards type="Flop">H8 DJ D4</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+</session>

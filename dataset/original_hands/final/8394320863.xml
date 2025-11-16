@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394320863">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128859902</tablename>
+<tournamentcode>1128859901</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>24</gamecount>
+<startdate>2025-06-29 12:50:18</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11540799623"><general><startdate>2025-06-29 12:50:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="90" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="kamushek1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ SQ</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="kamushek1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C5 HA S5</cards>
+<action no="6" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540799729"><general><startdate>2025-06-29 12:50:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 D8</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="TooManyTables" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540799786"><general><startdate>2025-06-29 12:51:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="520" dealer="0" win="0" bet="221" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="530" dealer="0" win="442" bet="221" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TooManyTables" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">S7 SJ</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ CK</cards>
+<action no="3" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D7 H4 DQ</cards>
+<action no="6" player="oreiasccp" type="5" sum="30"/>
+<action no="7" player="TooManyTables" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="8" player="oreiasccp" type="5" sum="131"/>
+<action no="9" player="TooManyTables" type="3" discard="1" dealt="1" sum="131"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540799946"><general><startdate>2025-06-29 12:51:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="751" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="299" dealer="0" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="kamushek1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 DJ</cards>
+<cards type="Pocket" player="TooManyTables">D2 DQ</cards>
+<cards type="Pocket" player="kamushek1">D10 CK</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="TooManyTables" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 S5 H2</cards>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="8" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="10" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800123"><general><startdate>2025-06-29 12:52:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="751" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="319" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="430" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 S5</cards>
+<action no="3" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800152"><general><startdate>2025-06-29 12:52:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="319" dealer="0" win="134" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="420" dealer="1" win="0" bet="62" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="761" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TooManyTables" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ C6</cards>
+<action no="3" player="kamushek1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D7 C4 C9</cards>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="5" discard="1" dealt="1" sum="22"/>
+<action no="8" player="TooManyTables" type="23" discard="1" dealt="1" sum="80"/>
+<action no="9" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800286"><general><startdate>2025-06-29 12:52:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="358" dealer="0" win="210" bet="358" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="751" dealer="1" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="391" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 D7</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="kamushek1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">CQ H9 C6</cards>
+<action no="9" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="30"/>
+<action no="11" player="kamushek1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="12" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+<action no="14" player="kamushek1" type="5" discard="1" dealt="1" sum="263"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800487"><general><startdate>2025-06-29 12:53:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="656" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="371" dealer="1" win="150" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="473" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK H9</cards>
+<action no="6" player="TooManyTables" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">CQ H3 H7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="TooManyTables" type="5" discard="1" dealt="1" sum="45"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800602"><general><startdate>2025-06-29 12:53:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="456" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="453" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="591" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 D10</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800649"><general><startdate>2025-06-29 12:54:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="448" dealer="0" win="150" bet="448" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="571" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="481" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 C7</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="kamushek1" type="23" discard="1" dealt="1" sum="443"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800738"><general><startdate>2025-06-29 12:54:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="506" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="461" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="533" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 C9</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S4 C5 SJ</cards>
+<action no="9" player="kamushek1" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800810"><general><startdate>2025-06-29 12:54:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="456" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="573" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="471" dealer="0" win="95" bet="456" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK S6</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="451"/>
+<action no="8" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540800863"><general><startdate>2025-06-29 12:54:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="568" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="521" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="411" dealer="0" win="215" bet="411" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK S5</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="80"/>
+<action no="7" player="TooManyTables" type="23" discard="1" dealt="1" sum="406"/>
+<action no="8" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807055"><general><startdate>2025-06-29 12:55:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="436" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="541" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="523" dealer="0" win="95" bet="523" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ S4</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="23" discard="1" dealt="1" sum="518"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807089"><general><startdate>2025-06-29 12:55:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="536" dealer="0" win="95" bet="536" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="573" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="391" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 S5</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+<action no="8" player="TooManyTables" type="23" discard="1" dealt="1" sum="531"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807153"><general><startdate>2025-06-29 12:55:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="568" dealer="0" win="0" bet="149" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="346" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="586" dealer="0" win="303" bet="352" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 S9</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="TooManyTables" type="23" discard="1" dealt="1" sum="80"/>
+<action no="8" player="kamushek1" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S3 H8 D3</cards>
+<action no="9" player="TooManyTables" type="5" discard="1" dealt="1" sum="64"/>
+<action no="10" player="kamushek1" type="3" discard="1" dealt="1" sum="64"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="11" player="TooManyTables" type="5" discard="1" dealt="1" sum="203"/>
+<action no="12" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807358"><general><startdate>2025-06-29 12:56:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="341" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="740" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="419" dealer="0" win="95" bet="419" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 S6</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="23" discard="1" dealt="1" sum="414"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807425"><general><startdate>2025-06-29 12:56:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="735" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="469" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="296" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 C6</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807456"><general><startdate>2025-06-29 12:56:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="464" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="261" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="775" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ S3</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807504"><general><startdate>2025-06-29 12:56:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="256" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="740" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="504" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 H5</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807541"><general><startdate>2025-06-29 12:56:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="735" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="469" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="296" dealer="0" win="135" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK SK</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="120"/>
+<action no="8" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807594"><general><startdate>2025-06-29 12:57:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="kamushek1" chips="464" dealer="0" win="0" bet="167" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="366" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="670" dealer="0" win="339" bet="670" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="kamushek1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 C4</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="TooManyTables" type="3" discard="1" dealt="1" sum="30"/>
+<action no="8" player="kamushek1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 S3 C10</cards>
+<action no="9" player="TooManyTables" type="5" discard="1" dealt="1" sum="102"/>
+<action no="10" player="kamushek1" type="3" discard="1" dealt="1" sum="102"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="11" player="TooManyTables" type="5" discard="1" dealt="1" sum="503"/>
+<action no="12" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807711"><general><startdate>2025-06-29 12:57:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="361" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+<player seat="3" name="TooManyTables" chips="842" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="297" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+</players>
+</general>
+<round no="0"><action no="1" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="kamushek1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 D5</cards>
+<cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540807744"><general><startdate>2025-06-29 12:57:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="TooManyTables" chips="837" dealer="0" win="807" bet="401" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320764"/>
+<player seat="6" name="kamushek1" chips="262" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320778"/>
+<player seat="10" name="oreiasccp" chips="401" dealer="0" win="0" bet="401" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394320863"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="kamushek1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="kamushek1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK D2</cards>
+<cards type="Pocket" player="TooManyTables">SQ CA</cards>
+<action no="6" player="kamushek1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="396"/>
+<action no="8" player="TooManyTables" type="3" discard="1" dealt="1" sum="336"/>
+</round>
+<round no="2"><cards type="Flop">C8 H6 C4</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392865880">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128656520</tablename>
+<tournamentcode>1128656519</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>19</gamecount>
+<startdate>2025-06-27 13:21:58</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11536727098"><general><startdate>2025-06-27 13:22:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Marboy2023" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 S10</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<action no="3" player="Obolonsky99" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727137"><general><startdate>2025-06-27 13:22:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="530" dealer="0" win="0" bet="272" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="490" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="564" bet="272" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Obolonsky99" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 D9</cards>
+<cards type="Pocket" player="Obolonsky99">CQ D10</cards>
+<action no="3" player="Marboy2023" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="Obolonsky99" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK D8 D4</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Obolonsky99" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="9" player="oreiasccp" type="5" sum="52"/>
+<action no="10" player="Obolonsky99" type="3" discard="1" dealt="1" sum="52"/>
+<action no="11" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S9</cards>
+<action no="12" player="oreiasccp" type="5" sum="200"/>
+<action no="13" player="Obolonsky99" type="3" discard="1" dealt="1" sum="200"/>
+</round>
+</game>
+<game gamecode="11536727289"><general><startdate>2025-06-27 13:22:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Marboy2023" chips="470" dealer="0" win="0" bet="258" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="772" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="258" dealer="0" win="556" bet="258" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Marboy2023" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">D10 C10</cards>
+<cards type="Pocket" player="Marboy2023">H10 SJ</cards>
+<cards type="Pocket" player="oreiasccp">S3 CA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Obolonsky99" type="23" discard="1" dealt="1" sum="258"/>
+<action no="5" player="Marboy2023" type="3" discard="1" dealt="1" sum="238"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 S9 DQ</cards>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="11536727383"><general><startdate>2025-06-27 13:23:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="732" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="556" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="212" dealer="0" win="80" bet="96" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Marboy2023" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 C5</cards>
+<action no="3" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Marboy2023" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 H2 H6</cards>
+<action no="6" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="8" player="Marboy2023" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="10" player="Marboy2023" type="5" discard="1" dealt="1" sum="56"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727501"><general><startdate>2025-06-27 13:23:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="556" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="252" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="692" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Obolonsky99" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 S6</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<action no="3" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727529"><general><startdate>2025-06-27 13:23:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Marboy2023" chips="252" dealer="0" win="504" bet="252" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="682" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="566" dealer="0" win="0" bet="252" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Marboy2023" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">S3 CA</cards>
+<cards type="Pocket" player="Marboy2023">DA H7</cards>
+<cards type="Pocket" player="oreiasccp">S5 C7</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Obolonsky99" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Marboy2023" type="23" discard="1" dealt="1" sum="252"/>
+<action no="6" player="Obolonsky99" type="3" discard="1" dealt="1" sum="232"/>
+</round>
+<round no="2"><cards type="Flop">S8 C2 S6</cards>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11536727694"><general><startdate>2025-06-27 13:24:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="682" dealer="0" win="75" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="314" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="504" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Marboy2023" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Marboy2023" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D9</cards>
+<action no="6" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Marboy2023" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 C6 D5</cards>
+<action no="9" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="11" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="13" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="5" sum="120"/>
+<action no="15" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727803"><general><startdate>2025-06-27 13:24:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="309" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="469" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="722" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Marboy2023" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Obolonsky99" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK HK</cards>
+<action no="6" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727856"><general><startdate>2025-06-27 13:25:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Marboy2023" chips="464" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="762" dealer="1" win="90" bet="464" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="274" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Marboy2023" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Obolonsky99" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Marboy2023" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 HA</cards>
+<action no="6" player="oreiasccp" type="23" sum="459"/>
+<action no="7" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536727970"><general><startdate>2025-06-27 13:25:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="817" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="254" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="429" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Marboy2023" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Marboy2023" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D7</cards>
+<cards type="Pocket" player="Marboy2023">X X</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<action no="6" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Marboy2023" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536728010"><general><startdate>2025-06-27 13:25:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="249" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="6" name="Marboy2023" chips="409" dealer="1" win="0" bet="409" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865720"/>
+<player seat="10" name="oreiasccp" chips="842" dealer="0" win="853" bet="409" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Marboy2023" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Obolonsky99" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Marboy2023">CQ SK</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H5</cards>
+<action no="6" player="Marboy2023" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="3" sum="15"/>
+<action no="8" player="Obolonsky99" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 HA H8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Obolonsky99" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="Marboy2023" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Obolonsky99" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="Marboy2023" type="5" discard="1" dealt="1" sum="105"/>
+<action no="15" player="oreiasccp" type="3" sum="105"/>
+<action no="16" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="17" player="oreiasccp" type="5" sum="269"/>
+<action no="18" player="Marboy2023" type="7" discard="1" dealt="1" sum="269"/>
+</round>
+</game>
+<game gamecode="11536728202"><general><startdate>2025-06-27 13:26:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="214" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="10" name="oreiasccp" chips="1,286" dealer="1" win="90" bet="214" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Obolonsky99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="209"/>
+<action no="6" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536728247"><general><startdate>2025-06-27 13:26:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,331" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="169" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ SK</cards>
+<action no="5" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536728282"><general><startdate>2025-06-27 13:26:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="144" dealer="0" win="288" bet="144" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="10" name="oreiasccp" chips="1,356" dealer="1" win="0" bet="144" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Obolonsky99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">D6 C4</cards>
+<cards type="Pocket" player="oreiasccp">C5 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="139"/>
+<action no="6" player="Obolonsky99" type="7" discard="1" dealt="1" sum="99"/>
+</round>
+<round no="2"><cards type="Flop">H10 S3 C3</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11536728378"><general><startdate>2025-06-27 13:27:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,212" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="288" dealer="1" win="90" bet="288" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 C4</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<action no="5" player="Obolonsky99" type="23" discard="1" dealt="1" sum="283"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536728439"><general><startdate>2025-06-27 13:27:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="333" dealer="0" win="333" bet="333" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="10" name="oreiasccp" chips="1,167" dealer="1" win="333" bet="333" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Obolonsky99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 DK</cards>
+<cards type="Pocket" player="Obolonsky99">CA D4</cards>
+<action no="5" player="oreiasccp" type="23" sum="328"/>
+<action no="6" player="Obolonsky99" type="7" discard="1" dealt="1" sum="288"/>
+</round>
+<round no="2"><cards type="Flop">S9 S5 SK</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+<game gamecode="11536728530"><general><startdate>2025-06-27 13:27:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,167" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="333" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 S3</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<action no="5" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536732768"><general><startdate>2025-06-27 13:27:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Obolonsky99" chips="308" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+<player seat="10" name="oreiasccp" chips="1,192" dealer="1" win="90" bet="308" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Obolonsky99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 CK</cards>
+<cards type="Pocket" player="Obolonsky99">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="303"/>
+<action no="6" player="Obolonsky99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536732803"><general><startdate>2025-06-27 13:27:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,237" dealer="0" win="526" bet="263" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865880"/>
+<player seat="3" name="Obolonsky99" chips="263" dealer="1" win="0" bet="263" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392865694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Obolonsky99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Obolonsky99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Obolonsky99">DJ H8</cards>
+<cards type="Pocket" player="oreiasccp">H10 S10</cards>
+<action no="5" player="Obolonsky99" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="258"/>
+<action no="7" player="Obolonsky99" type="7" discard="1" dealt="1" sum="218"/>
+</round>
+<round no="2"><cards type="Flop">C6 D2 DK</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">CA</cards>
+</round>
+</game>
+</session>

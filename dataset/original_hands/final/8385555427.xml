@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385555427">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127671707</tablename>
+<tournamentcode>1127671706</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>26</gamecount>
+<startdate>2025-06-17 12:01:56</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516959572"><general><startdate>2025-06-17 12:02:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 DQ</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516959611"><general><startdate>2025-06-17 12:02:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="500" dealer="0" win="0" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="510" dealer="0" win="260" bet="130" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C3</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="gasgas">SK D6</cards>
+<action no="3" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="gasgas" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S2 D3 HJ</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="gasgas" type="23" discard="1" dealt="1" sum="50"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="gasgas" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516964641"><general><startdate>2025-06-17 12:02:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="490" dealer="0" win="280" bet="140" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="640" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="370" dealer="0" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H8</cards>
+<cards type="Pocket" player="gasgas">S4 SQ</cards>
+<cards type="Pocket" player="OneLastGame">D9 H10</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="gasgas" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 C8 S6</cards>
+<action no="6" player="gasgas" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="8" player="gasgas" type="5" discard="1" dealt="1" sum="100"/>
+<action no="9" player="OneLastGame" type="3" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="10" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516964770"><general><startdate>2025-06-17 12:03:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="640" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="230" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="630" dealer="0" win="100" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S7</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="OneLastGame" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D8 S5 HJ</cards>
+<action no="6" player="OneLastGame" type="5" discard="1" dealt="1" sum="50"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516964866"><general><startdate>2025-06-17 12:03:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="230" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="680" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="590" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 DK</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="3" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516964934"><general><startdate>2025-06-17 12:04:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="680" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="610" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="210" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 C4</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516964998"><general><startdate>2025-06-17 12:04:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="640" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="200" dealer="1" win="90" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="660" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 H3</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="gasgas" type="23" discard="1" dealt="1" sum="195"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965072"><general><startdate>2025-06-17 12:04:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="255" dealer="0" win="515" bet="255" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="640" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="605" dealer="0" win="0" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 H10</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="gasgas">DJ D8</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="250"/>
+<action no="8" player="gasgas" type="7" discard="1" dealt="1" sum="220"/>
+</round>
+<round no="2"><cards type="Flop">D3 D6 DA</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11516965155"><general><startdate>2025-06-17 12:05:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="635" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="350" dealer="1" win="90" bet="350" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="515" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA H2</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="345"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965210"><general><startdate>2025-06-17 12:05:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="405" dealer="0" win="407" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="495" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="600" dealer="0" win="408" bet="600" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 C6</cards>
+<cards type="Pocket" player="OneLastGame">C10 S8</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="595"/>
+<action no="8" player="oreiasccp" type="7" sum="370"/>
+</round>
+<round no="2"><cards type="Flop">CQ H9 DQ</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">CA</cards>
+</round>
+</game>
+<game gamecode="11516965309"><general><startdate>2025-06-17 12:05:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="490" dealer="0" win="313" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="603" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="407" dealer="0" win="0" bet="154" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 DK</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="15"/>
+<action no="8" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 H10 S2</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="gasgas" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="gasgas" type="5" discard="1" dealt="1" sum="89"/>
+<action no="14" player="oreiasccp" type="3" sum="89"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="15" player="oreiasccp" type="4" sum="0"/>
+<action no="16" player="gasgas" type="5" discard="1" dealt="1" sum="336"/>
+<action no="17" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965455"><general><startdate>2025-06-17 12:06:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="598" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="253" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="649" dealer="0" win="95" bet="649" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S8</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="gasgas" type="23" discard="1" dealt="1" sum="644"/>
+<action no="8" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965507"><general><startdate>2025-06-17 12:06:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="248" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="699" dealer="1" win="115" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="553" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 H10</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="gasgas" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965544"><general><startdate>2025-06-17 12:06:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="769" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="528" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="203" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 DJ</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965592"><general><startdate>2025-06-17 12:06:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="523" dealer="0" win="0" bet="178" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="178" dealer="1" win="381" bet="178" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="799" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 DA</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">S6 HK</cards>
+<action no="6" player="oreiasccp" type="23" sum="173"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="OneLastGame" type="3" discard="1" dealt="1" sum="133"/>
+</round>
+<round no="2"><cards type="Flop">H3 S8 D7</cards>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+<game gamecode="11516965659"><general><startdate>2025-06-17 12:07:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="381" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="774" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="345" dealer="0" win="95" bet="345" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 HQ</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="340"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965702"><general><startdate>2025-06-17 12:07:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="769" dealer="0" win="0" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="395" dealer="1" win="815" bet="395" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="336" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 SQ</cards>
+<cards type="Pocket" player="OneLastGame">S10 DK</cards>
+<cards type="Pocket" player="gasgas">S9 H9</cards>
+<action no="6" player="OneLastGame" type="23" discard="1" dealt="1" sum="390"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="gasgas" type="3" discard="1" dealt="1" sum="350"/>
+</round>
+<round no="2"><cards type="Flop">C10 H4 HQ</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11516965831"><general><startdate>2025-06-17 12:07:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="815" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="311" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="374" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D7</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516965866"><general><startdate>2025-06-17 12:08:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="306" dealer="0" win="617" bet="306" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="349" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="845" dealer="0" win="0" bet="845" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">CQ D9</cards>
+<cards type="Pocket" player="oreiasccp">CA S10</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="840"/>
+<action no="8" player="oreiasccp" type="7" sum="261"/>
+</round>
+<round no="2"><cards type="Flop">C2 D7 CJ</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11516965961"><general><startdate>2025-06-17 12:08:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="344" dealer="0" win="693" bet="344" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="539" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="617" dealer="0" win="0" bet="344" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 SJ</cards>
+<cards type="Pocket" player="gasgas">H8 HA</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="339"/>
+<action no="8" player="gasgas" type="7" discard="1" dealt="1" sum="279"/>
+</round>
+<round no="2"><cards type="Flop">S3 C9 C3</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+<game gamecode="11516966033"><general><startdate>2025-06-17 12:08:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="534" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="273" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="693" dealer="0" win="135" bet="693" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ D2</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="gasgas" type="23" discard="1" dealt="1" sum="688"/>
+<action no="8" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516966088"><general><startdate>2025-06-17 12:08:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="268" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="763" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="469" dealer="0" win="135" bet="469" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C9</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="464"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516966124"><general><startdate>2025-06-17 12:09:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="758" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="539" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="203" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 D3</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516966144"><general><startdate>2025-06-17 12:09:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="534" dealer="0" win="1,073" bet="534" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="168" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="798" dealer="0" win="0" bet="798" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">D9 SA</cards>
+<cards type="Pocket" player="oreiasccp">D4 HQ</cards>
+<cards type="Pocket" player="gasgas">C5 DQ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="gasgas" type="23" discard="1" dealt="1" sum="793"/>
+<action no="8" player="OneLastGame" type="7" discard="1" dealt="1" sum="469"/>
+</round>
+<round no="2"><cards type="Flop">D3 H6 C9</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">D10</cards>
+</round>
+</game>
+<game gamecode="11516966209"><general><startdate>2025-06-17 12:09:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="163" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+<player seat="3" name="gasgas" chips="264" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="1,073" dealer="0" win="135" bet="1,073" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C5</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="1,068"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516966243"><general><startdate>2025-06-17 12:09:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="259" dealer="0" win="201" bet="98" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555159"/>
+<player seat="6" name="OneLastGame" chips="1,143" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555409"/>
+<player seat="10" name="oreiasccp" chips="98" dealer="0" win="0" bet="98" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385555427"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ D6</cards>
+<cards type="Pocket" player="gasgas">SQ D10</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="7" sum="63"/>
+<action no="8" player="gasgas" type="3" discard="1" dealt="1" sum="33"/>
+</round>
+<round no="2"><cards type="Flop">C9 DQ CJ</cards>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407748664">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130659107</tablename>
+<tournamentcode>1130659106</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>1</gamecount>
+<startdate>2025-07-17 03:57:20</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11577900869"><general><startdate>2025-07-17 03:57:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407748664"/>
+<player seat="10" name="xanderas1" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407748686"/>
+<player seat="3" name="illjjay" chips="500" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407748662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="illjjay" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="illjjay">SA S9</cards>
+<cards type="Pocket" player="oreiasccp">HJ HA</cards>
+<cards type="Pocket" player="xanderas1">X X</cards>
+<action no="3" player="xanderas1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="illjjay" type="23" discard="1" dealt="1" sum="90"/>
+<action no="5" player="oreiasccp" type="23" sum="500"/>
+<action no="6" player="illjjay" type="7" discard="1" dealt="1" sum="410"/>
+</round>
+<round no="2"><cards type="Flop">H7 H9 SJ</cards>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+</session>

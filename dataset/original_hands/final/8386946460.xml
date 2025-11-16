@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386946460">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127862029</tablename>
+<tournamentcode>1127862028</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>8</gamecount>
+<startdate>2025-06-19 10:16:05</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11520765219"><general><startdate>2025-06-19 10:16:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+<player seat="3" name="gasgas" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="500" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hjartis" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D7</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="hjartis" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 C6 DQ</cards>
+<action no="6" player="hjartis" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765284"><general><startdate>2025-06-19 10:16:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="500" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="520" dealer="1" win="110" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 H9</cards>
+<action no="3" player="hjartis" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="gasgas" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D6 H8 HK</cards>
+<action no="6" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="hjartis" type="5" discard="1" dealt="1" sum="55"/>
+<action no="8" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765349"><general><startdate>2025-06-19 10:16:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="hjartis" chips="580" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+<player seat="3" name="gasgas" chips="450" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="hjartis" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 CA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="hjartis" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H7 D4 D9</cards>
+<action no="6" player="hjartis" type="5" discard="1" dealt="1" sum="45"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765420"><general><startdate>2025-06-19 10:17:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="430" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+<player seat="3" name="gasgas" chips="440" dealer="1" win="140" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="630" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hjartis" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 D8</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="gasgas" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="hjartis" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ S8 S3</cards>
+<action no="6" player="hjartis" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gasgas" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="hjartis" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="hjartis" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="11" player="hjartis" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="gasgas" type="5" discard="1" dealt="1" sum="380"/>
+<action no="13" player="hjartis" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765548"><general><startdate>2025-06-19 10:17:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="520" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="570" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+<player seat="10" name="oreiasccp" chips="410" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 DQ</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="hjartis" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="gasgas" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S3 S5 D7</cards>
+<action no="6" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="hjartis" type="5" discard="1" dealt="1" sum="45"/>
+<action no="8" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765651"><general><startdate>2025-06-19 10:18:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="hjartis" chips="620" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="90" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+<player seat="3" name="gasgas" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="hjartis" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="hjartis" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 SA</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="hjartis">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="395"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="hjartis" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765717"><general><startdate>2025-06-19 10:18:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="455" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+<player seat="3" name="gasgas" chips="460" dealer="1" win="90" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="585" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hjartis" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="hjartis" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 D3</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="6" player="gasgas" type="23" discard="1" dealt="1" sum="455"/>
+<action no="7" player="hjartis" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520765765"><general><startdate>2025-06-19 10:19:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="515" dealer="0" win="875" bet="515" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946331"/>
+<player seat="6" name="hjartis" chips="565" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946381"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="0" win="0" bet="420" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386946460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="hjartis" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="hjartis">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 C4</cards>
+<cards type="Pocket" player="gasgas">C10 DA</cards>
+<action no="6" player="hjartis" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="23" sum="415"/>
+<action no="8" player="gasgas" type="7" discard="1" dealt="1" sum="480"/>
+<action no="9" player="hjartis" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 HA H8</cards>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+</round>
+<round no="4"><cards type="River">S6</cards>
+</round>
+</game>
+</session>

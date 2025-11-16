@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8384896186">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127573044</tablename>
+<tournamentcode>1127573043</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>14</gamecount>
+<startdate>2025-06-16 12:19:50</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11514998386"><general><startdate>2025-06-16 12:20:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="3" name="Claustruth" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896140"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Claustruth" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ SA</cards>
+<cards type="Pocket" player="Claustruth">S4 S7</cards>
+<action no="3" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Claustruth" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="50"/>
+<action no="6" player="Claustruth" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">HQ C5 D6</cards>
+<action no="7" player="Claustruth" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="36"/>
+<action no="9" player="Claustruth" type="3" discard="1" dealt="1" sum="36"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="10" player="Claustruth" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="126"/>
+<action no="12" player="Claustruth" type="23" discard="1" dealt="1" sum="414"/>
+<action no="13" player="oreiasccp" type="7" sum="288"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+</round>
+</game>
+<game gamecode="11514998542"><general><startdate>2025-06-16 12:20:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="500" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="1,000" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Skyder19" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H6</cards>
+<cards type="Pocket" player="Skyder19">C3 S7</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 H3 C6</cards>
+<action no="5" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="7" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="20"/>
+<action no="9" player="Skyder19" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="10" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998661"><general><startdate>2025-06-16 12:21:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="960" dealer="0" win="80" bet="540" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="540" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA S8</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="3" player="Skyder19" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="540"/>
+<action no="5" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998688"><general><startdate>2025-06-16 12:21:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="1,000" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Skyder19" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 H9</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 SK D10</cards>
+<action no="5" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998735"><general><startdate>2025-06-16 12:21:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,020" dealer="0" win="120" bet="290" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="480" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 CK</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="3" player="Skyder19" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D7 DA C7</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Skyder19" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="23" sum="250"/>
+<action no="8" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998821"><general><startdate>2025-06-16 12:22:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="420" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="1,080" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Skyder19" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 H4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998842"><general><startdate>2025-06-16 12:22:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,060" dealer="0" win="140" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="440" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skyder19" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ H2</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="5" player="Skyder19" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 CQ D7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Skyder19" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="23" sum="120"/>
+<action no="10" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514998903"><general><startdate>2025-06-16 12:22:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="370" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="1,130" dealer="1" win="70" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Skyder19" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">S3 D9</cards>
+<cards type="Pocket" player="oreiasccp">S7 SA</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ CQ D2</cards>
+<action no="7" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="9" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="11" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11514999064"><general><startdate>2025-06-16 12:23:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,165" dealer="0" win="140" bet="172" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="335" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skyder19" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 S3</cards>
+<action no="5" player="Skyder19" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 SQ H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Skyder19" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="3" sum="35"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="12" player="oreiasccp" type="5" sum="102"/>
+<action no="13" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514999168"><general><startdate>2025-06-16 12:23:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="265" dealer="0" win="70" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="1,235" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Skyder19" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 C10</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Skyder19" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514999216"><general><startdate>2025-06-16 12:24:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,200" dealer="0" win="0" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="300" dealer="1" win="600" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skyder19" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 HK</cards>
+<cards type="Pocket" player="Skyder19">D7 C7</cards>
+<action no="5" player="Skyder19" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="295"/>
+<action no="7" player="Skyder19" type="7" discard="1" dealt="1" sum="255"/>
+</round>
+<round no="2"><cards type="Flop">H4 DA S3</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11514999281"><general><startdate>2025-06-16 12:24:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="600" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="900" dealer="1" win="90" bet="111" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skyder19" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 CQ</cards>
+<cards type="Pocket" player="Skyder19">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 H5 C10</cards>
+<action no="7" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="9" player="Skyder19" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="66"/>
+<action no="11" player="Skyder19" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514999428"><general><startdate>2025-06-16 12:25:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="945" dealer="0" win="0" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+<player seat="10" name="Skyder19" chips="555" dealer="1" win="370" bet="265" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skyder19" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ HA</cards>
+<action no="5" player="Skyder19" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Skyder19" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S4 D8 H6</cards>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Skyder19" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="10" player="oreiasccp" type="5" sum="40"/>
+<action no="11" player="Skyder19" type="23" discard="1" dealt="1" sum="120"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514999529"><general><startdate>2025-06-16 12:25:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Skyder19" chips="740" dealer="0" win="0" bet="740" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896201"/>
+<player seat="6" name="oreiasccp" chips="760" dealer="1" win="1,480" bet="740" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384896186"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skyder19" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skyder19" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skyder19">HQ DQ</cards>
+<cards type="Pocket" player="oreiasccp">H3 D3</cards>
+<action no="5" player="oreiasccp" type="23" sum="735"/>
+<action no="6" player="Skyder19" type="7" discard="1" dealt="1" sum="695"/>
+</round>
+<round no="2"><cards type="Flop">SA DJ H2</cards>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+</session>

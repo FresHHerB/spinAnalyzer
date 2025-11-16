@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391993645">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128540996</tablename>
+<tournamentcode>1128540995</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-26 06:37:23</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11534442052"><general><startdate>2025-06-26 06:37:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993641"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993645"/>
+<player seat="3" name="theodicy" chips="500" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993638"/>
+</players>
+</general>
+<round no="0"><action no="1" player="theodicy" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Sp1nX" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="theodicy">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 S9</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="theodicy" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534442094"><general><startdate>2025-06-26 06:37:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993645"/>
+<player seat="3" name="theodicy" chips="520" dealer="1" win="1,010" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993638"/>
+<player seat="6" name="Sp1nX" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391993641"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="theodicy">S5 C5</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK D7</cards>
+<action no="3" player="theodicy" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H5 S7 D6</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="theodicy" type="5" discard="1" dealt="1" sum="90"/>
+<action no="8" player="oreiasccp" type="23" sum="460"/>
+<action no="9" player="theodicy" type="3" discard="1" dealt="1" sum="370"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+</round>
+</game>
+</session>

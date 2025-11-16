@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394323600">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128860345</tablename>
+<tournamentcode>1128860344</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-29 12:58:09</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11540807918"><general><startdate>2025-06-29 12:58:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323600"/>
+<player seat="6" name="cahones" chips="500" dealer="1" win="60" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323624"/>
+<player seat="10" name="mohoof" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323631"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mohoof" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="cahones">X X</cards>
+<cards type="Pocket" player="mohoof">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ H6</cards>
+<action no="3" player="cahones" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="mohoof" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 SQ D2</cards>
+<action no="6" player="mohoof" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="cahones" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="9" player="mohoof" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="cahones" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="mohoof" type="0" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540808026"><general><startdate>2025-06-29 12:58:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="cahones" chips="540" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323624"/>
+<player seat="10" name="mohoof" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323631"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="cahones" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mohoof">X X</cards>
+<cards type="Pocket" player="cahones">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 CQ</cards>
+<action no="3" player="mohoof" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540808070"><general><startdate>2025-06-29 12:59:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mohoof" chips="480" dealer="0" win="980" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323631"/>
+<player seat="3" name="oreiasccp" chips="470" dealer="1" win="0" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323600"/>
+<player seat="6" name="cahones" chips="550" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394323624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cahones" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="mohoof" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK HK</cards>
+<cards type="Pocket" player="mohoof">C9 S9</cards>
+<cards type="Pocket" player="cahones">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="cahones" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="mohoof" type="23" discard="1" dealt="1" sum="480"/>
+<action no="6" player="oreiasccp" type="7" sum="430"/>
+<action no="7" player="cahones" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 H5 D9</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">D10</cards>
+</round>
+</game>
+</session>

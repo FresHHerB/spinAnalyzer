@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407100041">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130579999</tablename>
+<tournamentcode>1130579998</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>23</gamecount>
+<startdate>2025-07-16 13:31:19</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11576222322"><general><startdate>2025-07-16 13:31:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK D9</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="3" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C6 C3 DA</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222399"><general><startdate>2025-07-16 13:31:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BigNicoBee" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BigNicoBee" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 CQ</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222432"><general><startdate>2025-07-16 13:31:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="540" dealer="0" win="264" bet="220" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="450" dealer="1" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="510" dealer="0" win="264" bet="220" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">DA D7</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 S5</cards>
+<action no="3" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="BigNicoBee" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D9 H3 H5</cards>
+<action no="6" player="BigNicoBee" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="48"/>
+<action no="9" player="BigNicoBee" type="3" discard="1" dealt="1" sum="48"/>
+<action no="10" player="oreiasccp" type="3" sum="48"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="11" player="BigNicoBee" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="DefqonWarrior" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="14" player="BigNicoBee" type="5" discard="1" dealt="1" sum="132"/>
+<action no="15" player="oreiasccp" type="3" sum="132"/>
+<action no="16" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222679"><general><startdate>2025-07-16 13:32:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="362" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="554" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="584" dealer="0" win="60" bet="554" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 D3</cards>
+<action no="3" player="BigNicoBee" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="23" sum="554"/>
+<action no="5" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222737"><general><startdate>2025-07-16 13:32:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BigNicoBee" chips="534" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="624" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="342" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BigNicoBee" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 DK</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="BigNicoBee" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SA D6 C9</cards>
+<action no="6" player="BigNicoBee" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="BigNicoBee" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="9" player="BigNicoBee" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="11" player="BigNicoBee" type="5" discard="1" dealt="1" sum="65"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576222830"><general><startdate>2025-07-16 13:33:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="564" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="332" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="604" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">H3 H7</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 C3</cards>
+<action no="3" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BigNicoBee" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DJ S7 S5</cards>
+<action no="6" player="BigNicoBee" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="8" player="BigNicoBee" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="4"><cards type="River">H2</cards>
+<action no="10" player="BigNicoBee" type="5" discard="1" dealt="1" sum="20"/>
+<action no="11" player="oreiasccp" type="3" sum="20"/>
+</round>
+</game>
+<game gamecode="11576222931"><general><startdate>2025-07-16 13:33:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="332" dealer="0" win="699" bet="332" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="684" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="484" dealer="0" win="0" bet="484" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">CK DK</cards>
+<cards type="Pocket" player="oreiasccp">C10 SA</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="BigNicoBee" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="23" sum="479"/>
+<action no="8" player="DefqonWarrior" type="7" discard="1" dealt="1" sum="297"/>
+<action no="9" player="BigNicoBee" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 HK C6</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+<game gamecode="11576223013"><general><startdate>2025-07-16 13:33:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BigNicoBee" chips="649" dealer="0" win="535" bet="649" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="152" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="699" dealer="0" win="0" bet="265" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 H8</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="BigNicoBee" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SQ C3 D9</cards>
+<action no="9" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="54"/>
+<action no="10" player="BigNicoBee" type="3" discard="1" dealt="1" sum="54"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="11" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="146"/>
+<action no="12" player="BigNicoBee" type="23" discard="1" dealt="1" sum="530"/>
+<action no="13" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229699"><general><startdate>2025-07-16 13:34:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="147" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="434" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="919" dealer="0" win="75" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BigNicoBee" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 S7</cards>
+<cards type="Pocket" player="BigNicoBee">X X</cards>
+<action no="6" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="BigNicoBee" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576229733"><general><startdate>2025-07-16 13:34:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="429" dealer="0" win="878" bet="429" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="3" name="BigNicoBee" chips="959" dealer="1" win="0" bet="429" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="112" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ CK</cards>
+<cards type="Pocket" player="BigNicoBee">SA DK</cards>
+<cards type="Pocket" player="DefqonWarrior">HK H10</cards>
+<action no="6" player="BigNicoBee" type="23" discard="1" dealt="1" sum="75"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="2"><cards type="Flop">S6 D4 D10</cards>
+<action no="9" player="DefqonWarrior" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="BigNicoBee" type="5" discard="1" dealt="1" sum="90"/>
+<action no="11" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="349"/>
+<action no="12" player="BigNicoBee" type="3" discard="1" dealt="1" sum="259"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11576229826"><general><startdate>2025-07-16 13:34:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BigNicoBee" chips="530" dealer="0" win="0" bet="530" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100038"/>
+<player seat="6" name="oreiasccp" chips="92" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="878" dealer="0" win="1,065" bet="530" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BigNicoBee" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BigNicoBee" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BigNicoBee">D6 C6</cards>
+<cards type="Pocket" player="oreiasccp">D2 S9</cards>
+<cards type="Pocket" player="DefqonWarrior">DK SK</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="BigNicoBee" type="23" discard="1" dealt="1" sum="525"/>
+<action no="9" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="465"/>
+</round>
+<round no="2"><cards type="Flop">H7 S7 H9</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">C4</cards>
+</round>
+</game>
+<game gamecode="11576229911"><general><startdate>2025-07-16 13:35:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="87" dealer="0" win="174" bet="87" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,413" dealer="1" win="0" bet="87" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">S4 D6</cards>
+<cards type="Pocket" player="oreiasccp">HQ H6</cards>
+<action no="5" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="82"/>
+<action no="7" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="52"/>
+</round>
+<round no="2"><cards type="Flop">DA D8 S6</cards>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+<game gamecode="11576229991"><general><startdate>2025-07-16 13:35:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,326" dealer="0" win="0" bet="174" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="174" dealer="1" win="348" bet="174" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">SA S10</cards>
+<cards type="Pocket" player="oreiasccp">C5 SQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="169"/>
+<action no="6" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="139"/>
+</round>
+<round no="2"><cards type="Flop">C6 H10 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+</round>
+<round no="4"><cards type="River">H8</cards>
+</round>
+</game>
+<game gamecode="11576230059"><general><startdate>2025-07-16 13:35:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="348" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,152" dealer="1" win="170" bet="153" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 D9</cards>
+<action no="5" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">HQ HK C6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="68"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230113"><general><startdate>2025-07-16 13:35:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,237" dealer="0" win="198" bet="1,237" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="263" dealer="1" win="0" bet="99" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="DefqonWarrior" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 H10 C9</cards>
+<action no="7" player="DefqonWarrior" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="9" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="54"/>
+<action no="10" player="oreiasccp" type="3" sum="54"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="11" player="DefqonWarrior" type="5" discard="1" dealt="1" sum="1,138"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230213"><general><startdate>2025-07-16 13:36:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="164" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,336" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="DefqonWarrior">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 S8</cards>
+<action no="5" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230239"><general><startdate>2025-07-16 13:36:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,311" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="189" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 C5</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230259"><general><startdate>2025-07-16 13:36:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="164" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,336" dealer="1" win="90" bet="1,336" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 H8</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="5" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="1,331"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230289"><general><startdate>2025-07-16 13:36:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,381" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="119" dealer="1" win="90" bet="119" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA C3</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="114"/>
+<action no="6" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230321"><general><startdate>2025-07-16 13:36:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="164" dealer="0" win="164" bet="164" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,336" dealer="1" win="164" bet="1,336" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D10</cards>
+<cards type="Pocket" player="DefqonWarrior">HK SQ</cards>
+<action no="5" player="DefqonWarrior" type="23" discard="1" dealt="1" sum="1,331"/>
+<action no="6" player="oreiasccp" type="7" sum="119"/>
+</round>
+<round no="2"><cards type="Flop">DJ C10 C9</cards>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+<game gamecode="11576230401"><general><startdate>2025-07-16 13:36:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,336" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="164" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ H4</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230425"><general><startdate>2025-07-16 13:37:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="139" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+<player seat="10" name="DefqonWarrior" chips="1,361" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DefqonWarrior" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 H6</cards>
+<cards type="Pocket" player="DefqonWarrior">X X</cards>
+<action no="5" player="DefqonWarrior" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11576230447"><general><startdate>2025-07-16 13:37:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DefqonWarrior" chips="1,336" dealer="0" win="328" bet="164" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100060"/>
+<player seat="6" name="oreiasccp" chips="164" dealer="1" win="0" bet="164" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407100041"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DefqonWarrior" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DefqonWarrior" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D5</cards>
+<cards type="Pocket" player="DefqonWarrior">S4 HQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="159"/>
+<action no="6" player="DefqonWarrior" type="3" discard="1" dealt="1" sum="119"/>
+</round>
+<round no="2"><cards type="Flop">D4 D6 S9</cards>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">H4</cards>
+</round>
+</game>
+</session>

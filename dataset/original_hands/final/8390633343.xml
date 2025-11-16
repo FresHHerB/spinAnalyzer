@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390633343">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128357831</tablename>
+<tournamentcode>1128357830</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-06-24 11:48:33</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530713975"><general><startdate>2025-06-24 11:48:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Mais2013" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633288"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Mais2013" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA C3</cards>
+<cards type="Pocket" player="Mais2013">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Mais2013" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530714022"><general><startdate>2025-06-24 11:49:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="530" dealer="0" win="80" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="3" name="Mais2013" chips="480" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633288"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Mais2013" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Mais2013">X X</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA S10</cards>
+<action no="3" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Mais2013" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="23" sum="480"/>
+<action no="6" player="Mais2013" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530719936"><general><startdate>2025-06-24 11:49:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="490" dealer="0" win="890" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="3" name="Mais2013" chips="440" dealer="1" win="0" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633288"/>
+<player seat="6" name="oreiasccp" chips="570" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DeusVult92" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ S5</cards>
+<cards type="Pocket" player="DeusVult92">H6 CQ</cards>
+<cards type="Pocket" player="Mais2013">D7 SA</cards>
+<action no="3" player="Mais2013" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S4 C3 S2</cards>
+<action no="6" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Mais2013" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="DeusVult92" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="9" player="DeusVult92" type="5" discard="1" dealt="1" sum="102"/>
+<action no="10" player="Mais2013" type="3" discard="1" dealt="1" sum="102"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="11" player="DeusVult92" type="5" discard="1" dealt="1" sum="308"/>
+<action no="12" player="Mais2013" type="7" discard="1" dealt="1" sum="258"/>
+</round>
+</game>
+<game gamecode="11530720119"><general><startdate>2025-06-24 11:50:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="940" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="560" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="DeusVult92" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK CQ</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720163"><general><startdate>2025-06-24 11:50:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="580" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="920" dealer="1" win="80" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ C7</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="3" player="DeusVult92" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C8 S7 SJ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DeusVult92" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720271"><general><startdate>2025-06-24 11:50:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="960" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="130" bet="112" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="DeusVult92" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA SA</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="DeusVult92" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H4 D10 S8</cards>
+<action no="7" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="47"/>
+<action no="9" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720358"><general><startdate>2025-06-24 11:51:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="605" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="895" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DeusVult92" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 H8</cards>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S4 H4 S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DeusVult92" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720429"><general><startdate>2025-06-24 11:51:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="930" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="570" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="DeusVult92" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 H6</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720458"><general><startdate>2025-06-24 11:51:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="550" dealer="0" win="65" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="950" dealer="1" win="65" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DeusVult92" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">S4 S10</cards>
+<cards type="Pocket" player="oreiasccp">S6 H10</cards>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 D9 C8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="DeusVult92" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">D10</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720617"><general><startdate>2025-06-24 11:52:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="950" dealer="0" win="0" bet="950" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="550" dealer="1" win="1,100" bet="550" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="DeusVult92" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK DK</cards>
+<cards type="Pocket" player="DeusVult92">S10 C10</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="DeusVult92" type="23" discard="1" dealt="1" sum="180"/>
+<action no="7" player="oreiasccp" type="3" sum="120"/>
+</round>
+<round no="2"><cards type="Flop">S3 H3 H9</cards>
+<action no="8" player="DeusVult92" type="5" discard="1" dealt="1" sum="180"/>
+<action no="9" player="oreiasccp" type="3" sum="180"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="10" player="DeusVult92" type="5" discard="1" dealt="1" sum="585"/>
+<action no="11" player="oreiasccp" type="7" sum="185"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+<game gamecode="11530720739"><general><startdate>2025-06-24 11:52:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,100" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="400" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DeusVult92" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 H6</cards>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 H5 C2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DeusVult92" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720809"><general><startdate>2025-06-24 11:53:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="365" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="1,135" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DeusVult92" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 S9</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720847"><general><startdate>2025-06-24 11:53:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,110" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="390" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DeusVult92" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ D9</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720896"><general><startdate>2025-06-24 11:53:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="DeusVult92" chips="345" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+<player seat="6" name="oreiasccp" chips="1,155" dealer="1" win="90" bet="345" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="DeusVult92" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA D5</cards>
+<cards type="Pocket" player="DeusVult92">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="340"/>
+<action no="6" player="DeusVult92" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530720931"><general><startdate>2025-06-24 11:53:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,200" dealer="0" win="600" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633343"/>
+<player seat="10" name="DeusVult92" chips="300" dealer="1" win="0" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390633356"/>
+</players>
+</general>
+<round no="0"><action no="1" player="DeusVult92" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="DeusVult92" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="DeusVult92">CJ DJ</cards>
+<cards type="Pocket" player="oreiasccp">D3 D6</cards>
+<action no="5" player="DeusVult92" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 C6 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="DeusVult92" type="5" discard="1" dealt="1" sum="63"/>
+<action no="9" player="oreiasccp" type="23" sum="255"/>
+<action no="10" player="DeusVult92" type="7" discard="1" dealt="1" sum="192"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+</session>

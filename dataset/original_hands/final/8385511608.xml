@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385511608">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127665070</tablename>
+<tournamentcode>1127665069</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>12</gamecount>
+<startdate>2025-06-17 09:42:40</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516838813"><general><startdate>2025-06-17 09:42:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Blefune" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Blefune">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 S3</cards>
+<action no="3" player="OneLastGame" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Blefune" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516838843"><general><startdate>2025-06-17 09:43:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA H4</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="Blefune">X X</cards>
+<action no="3" player="Blefune" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843415"><general><startdate>2025-06-17 09:43:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Blefune" chips="520" dealer="0" win="390" bet="190" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="1" win="0" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Blefune" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ S9</cards>
+<cards type="Pocket" player="Blefune">S8 H10</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Blefune" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D6 C9 HJ</cards>
+<action no="6" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Blefune" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+<action no="11" player="Blefune" type="5" discard="1" dealt="1" sum="130"/>
+<action no="12" player="oreiasccp" type="3" sum="130"/>
+</round>
+</game>
+<game gamecode="11516843523"><general><startdate>2025-06-17 09:43:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="280" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="500" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="720" dealer="0" win="150" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Blefune" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 SQ</cards>
+<cards type="Pocket" player="Blefune">HA D9</cards>
+<cards type="Pocket" player="OneLastGame">H3 HK</cards>
+<action no="3" player="OneLastGame" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Blefune" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA D6 H5</cards>
+<action no="6" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="5" discard="1" dealt="1" sum="25"/>
+<action no="8" player="Blefune" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="9" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="11" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843647"><general><startdate>2025-06-17 09:44:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="435" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="805" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="260" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="Blefune">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 C7</cards>
+<action no="3" player="Blefune" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843680"><general><startdate>2025-06-17 09:44:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Blefune" chips="805" dealer="0" win="0" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="250" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="445" dealer="0" win="890" bet="445" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Blefune" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">HA SJ</cards>
+<cards type="Pocket" player="Blefune">DJ SK</cards>
+<cards type="Pocket" player="oreiasccp">C9 HQ</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="OneLastGame" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Blefune" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="OneLastGame" type="23" discard="1" dealt="1" sum="445"/>
+<action no="7" player="Blefune" type="3" discard="1" dealt="1" sum="385"/>
+</round>
+<round no="2"><cards type="Flop">C5 C8 C2</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+<game gamecode="11516843758"><general><startdate>2025-06-17 09:45:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="250" dealer="0" win="0" bet="72" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="890" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="360" dealer="0" win="149" bet="146" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Blefune" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 S7</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="Blefune">X X</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Blefune" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 D8 HQ</cards>
+<action no="9" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="11" player="Blefune" type="5" discard="1" dealt="1" sum="37"/>
+<action no="12" player="oreiasccp" type="3" sum="37"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="13" player="Blefune" type="5" discard="1" dealt="1" sum="74"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843887"><general><startdate>2025-06-17 09:45:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="885" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="437" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="178" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 D2</cards>
+<cards type="Pocket" player="Blefune">X X</cards>
+<action no="6" player="Blefune" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843933"><general><startdate>2025-06-17 09:45:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Blefune" chips="432" dealer="0" win="0" bet="72" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="158" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="910" dealer="0" win="149" bet="124" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Blefune" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Blefune">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 H10</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="OneLastGame" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 S3 HK</cards>
+<action no="9" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="11" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="Blefune" type="5" discard="1" dealt="1" sum="37"/>
+<action no="13" player="OneLastGame" type="23" discard="1" dealt="1" sum="89"/>
+<action no="14" player="Blefune" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844051"><general><startdate>2025-06-17 09:46:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="153" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="987" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="360" dealer="0" win="75" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Blefune" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 S5</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="Blefune">X X</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Blefune" type="23" discard="1" dealt="1" sum="355"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844078"><general><startdate>2025-06-17 09:46:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="982" dealer="0" win="90" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+<player seat="6" name="Blefune" chips="400" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="118" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ S4</cards>
+<cards type="Pocket" player="Blefune">C9 SJ</cards>
+<cards type="Pocket" player="OneLastGame">C10 D2</cards>
+<action no="6" player="Blefune" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 C3 SK</cards>
+<action no="9" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="11" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="13" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="Blefune" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844201"><general><startdate>2025-06-17 09:47:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Blefune" chips="365" dealer="0" win="221" bet="98" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511573"/>
+<player seat="10" name="oreiasccp" chips="98" dealer="1" win="0" bet="98" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511608"/>
+<player seat="3" name="OneLastGame" chips="1,037" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385511565"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Blefune" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="Blefune" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="Blefune">CA CJ</cards>
+<cards type="Pocket" player="oreiasccp">S6 DK</cards>
+<action no="6" player="oreiasccp" type="23" sum="93"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Blefune" type="3" discard="1" dealt="1" sum="53"/>
+</round>
+<round no="2"><cards type="Flop">CQ C7 C4</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+</round>
+</game>
+</session>

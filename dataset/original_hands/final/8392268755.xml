@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392268755">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128577678</tablename>
+<tournamentcode>1128577677</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>29</gamecount>
+<startdate>2025-06-26 18:03:44</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11535143627"><general><startdate>2025-06-26 18:03:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="500" dealer="0" win="80" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="HTNTN" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 H7</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="3" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="HTNTN" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535143722"><general><startdate>2025-06-26 18:04:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="1" win="90" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="morettin" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 HA</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">SK S7</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="morettin" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H2 H4 C5</cards>
+<action no="6" player="morettin" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+<action no="8" player="morettin" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="10" player="morettin" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11535143919"><general><startdate>2025-06-26 18:04:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="460" dealer="0" win="40" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 H6</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="3" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="morettin" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535143984"><general><startdate>2025-06-26 18:05:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="HTNTN" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 C5</cards>
+<action no="3" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144033"><general><startdate>2025-06-26 18:05:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="480" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="1" win="90" bet="63" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="morettin" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK D10</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="morettin" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SK S4 CQ</cards>
+<action no="6" player="morettin" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="23"/>
+<action no="8" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144153"><general><startdate>2025-06-26 18:05:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="530" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="440" dealer="0" win="100" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 H10</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="3" player="HTNTN" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="morettin" type="23" discard="1" dealt="1" sum="440"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144227"><general><startdate>2025-06-26 18:05:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="510" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="HTNTN" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 D7</cards>
+<action no="3" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144273"><general><startdate>2025-06-26 18:05:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="530" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="470" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="morettin" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ SA</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144341"><general><startdate>2025-06-26 18:06:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="560" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="480" dealer="0" win="165" bet="162" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 D8</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="2"><cards type="Flop">C7 C4 H2</cards>
+<action no="9" player="morettin" type="5" discard="1" dealt="1" sum="82"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144448"><general><startdate>2025-06-26 18:06:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="455" dealer="0" win="0" bet="99" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="565" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="0" win="203" bet="247" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ HQ</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="HTNTN" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ S2 H10</cards>
+<action no="9" player="oreiasccp" type="5" sum="34"/>
+<action no="10" player="HTNTN" type="3" discard="1" dealt="1" sum="34"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="11" player="oreiasccp" type="5" sum="148"/>
+<action no="12" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144650"><general><startdate>2025-06-26 18:06:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="560" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="584" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="356" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 C6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144744"><general><startdate>2025-06-26 18:07:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="579" dealer="0" win="165" bet="579" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="336" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="585" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ DA</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="oreiasccp" type="23" sum="574"/>
+<action no="9" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535158778"><general><startdate>2025-06-26 18:07:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="331" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="664" dealer="0" win="75" bet="331" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ HK</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="326"/>
+<action no="8" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535158850"><general><startdate>2025-06-26 18:07:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="500" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="704" dealer="1" win="0" bet="296" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="296" dealer="0" win="627" bet="296" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">CA H4</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ SK</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="HTNTN" type="23" discard="1" dealt="1" sum="291"/>
+<action no="8" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="3" sum="231"/>
+</round>
+<round no="2"><cards type="Flop">D2 S8 H8</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+<game gamecode="11535158984"><general><startdate>2025-06-26 18:08:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="408" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="627" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="465" dealer="0" win="95" bet="465" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 C3</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="23" discard="1" dealt="1" sum="460"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159035"><general><startdate>2025-06-26 18:08:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="622" dealer="0" win="175" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="515" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="363" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">C7 H2</cards>
+<cards type="Pocket" player="oreiasccp">C3 C6</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+<action no="8" player="HTNTN" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 S3 H7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="HTNTN" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="HTNTN" type="5" discard="1" dealt="1" sum="40"/>
+<action no="13" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">D10</cards>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+<action no="15" player="HTNTN" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159281"><general><startdate>2025-06-26 18:08:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="510" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="278" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="712" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 D10</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159361"><general><startdate>2025-06-26 18:09:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="273" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="687" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="540" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 D4</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159436"><general><startdate>2025-06-26 18:09:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="682" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="515" dealer="1" win="115" bet="515" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="303" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 DK</cards>
+<action no="6" player="morettin" type="23" discard="1" dealt="1" sum="510"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159497"><general><startdate>2025-06-26 18:09:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="585" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="278" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="637" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 H10</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159545"><general><startdate>2025-06-26 18:09:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="273" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="612" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="615" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 CQ</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159613"><general><startdate>2025-06-26 18:09:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="607" dealer="0" win="0" bet="303" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="590" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="303" dealer="0" win="611" bet="303" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">S2 SQ</cards>
+<cards type="Pocket" player="oreiasccp">S5 CA</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="298"/>
+<action no="8" player="HTNTN" type="3" discard="1" dealt="1" sum="258"/>
+</round>
+<round no="2"><cards type="Flop">H7 S4 H9</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11535159735"><general><startdate>2025-06-26 18:10:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="585" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="611" dealer="1" win="165" bet="585" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="304" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 SA</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="580"/>
+<action no="7" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159808"><general><startdate>2025-06-26 18:10:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="711" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="269" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="520" dealer="0" win="135" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ D2</cards>
+<action no="6" player="HTNTN" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="morettin" type="23" discard="1" dealt="1" sum="120"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159883"><general><startdate>2025-06-26 18:10:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="264" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="590" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="646" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="HTNTN">X X</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 C2</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159918"><general><startdate>2025-06-26 18:10:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="585" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="611" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="304" dealer="0" win="135" bet="304" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+</players>
+</general>
+<round no="0"><action no="1" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="HTNTN" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="morettin" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 D8</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="HTNTN" type="23" discard="1" dealt="1" sum="299"/>
+<action no="8" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159981"><general><startdate>2025-06-26 18:10:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="606" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+<player seat="6" name="HTNTN" chips="374" dealer="1" win="165" bet="374" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="520" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+</players>
+</general>
+<round no="0"><action no="1" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="morettin" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 D6</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">X X</cards>
+<action no="6" player="HTNTN" type="23" discard="1" dealt="1" sum="369"/>
+<action no="7" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160074"><general><startdate>2025-06-26 18:11:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="HTNTN" chips="474" dealer="0" win="0" bet="474" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268766"/>
+<player seat="10" name="morettin" chips="485" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="541" dealer="0" win="953" bet="474" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="HTNTN" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="HTNTN" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 CK</cards>
+<cards type="Pocket" player="morettin">X X</cards>
+<cards type="Pocket" player="HTNTN">CQ S5</cards>
+<action no="6" player="morettin" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="469"/>
+<action no="8" player="HTNTN" type="7" discard="1" dealt="1" sum="409"/>
+</round>
+<round no="2"><cards type="Flop">S3 SJ D7</cards>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+<game gamecode="11535160213"><general><startdate>2025-06-26 18:11:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="morettin" chips="480" dealer="0" win="0" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268777"/>
+<player seat="3" name="oreiasccp" chips="1,020" dealer="1" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392268755"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="morettin" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="morettin" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="morettin">CQ C4</cards>
+<cards type="Pocket" player="oreiasccp">D8 HQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="475"/>
+<action no="6" player="morettin" type="7" discard="1" dealt="1" sum="415"/>
+</round>
+<round no="2"><cards type="Flop">C3 S6 C9</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">D10</cards>
+</round>
+</game>
+</session>

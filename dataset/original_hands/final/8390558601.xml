@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390558601">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128346153</tablename>
+<tournamentcode>1128346152</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>7</gamecount>
+<startdate>2025-06-24 06:56:09</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530514921"><general><startdate>2025-06-24 06:56:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="COBRAJG17" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558665"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="1,010" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+<player seat="6" name="Khungo" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="COBRAJG17" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="COBRAJG17">CA H2</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 S10</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="COBRAJG17" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="7" sum="460"/>
+</round>
+<round no="2"><cards type="Flop">C10 DK SQ</cards>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+<game gamecode="11530514988"><general><startdate>2025-06-24 06:56:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,010" dealer="0" win="0" bet="99" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+<player seat="6" name="Khungo" chips="490" dealer="1" win="198" bet="99" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">D10 CQ</cards>
+<cards type="Pocket" player="oreiasccp">S4 SQ</cards>
+<action no="3" player="Khungo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H9 HQ C3</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Khungo" type="5" discard="1" dealt="1" sum="26"/>
+<action no="7" player="oreiasccp" type="3" sum="26"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="10" player="oreiasccp" type="5" sum="33"/>
+<action no="11" player="Khungo" type="3" discard="1" dealt="1" sum="33"/>
+</round>
+</game>
+<game gamecode="11530515053"><general><startdate>2025-06-24 06:57:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="589" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+<player seat="3" name="oreiasccp" chips="911" dealer="1" win="80" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Khungo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 C10</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Khungo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H2 D7 D3</cards>
+<action no="5" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="50"/>
+<action no="7" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530515099"><general><startdate>2025-06-24 06:57:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="951" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+<player seat="6" name="Khungo" chips="549" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 H8</cards>
+<cards type="Pocket" player="Khungo">H6 H10</cards>
+<action no="3" player="Khungo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S7 D5 D6</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530515166"><general><startdate>2025-06-24 06:57:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="509" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+<player seat="3" name="oreiasccp" chips="991" dealer="1" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Khungo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 S2</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Khungo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HJ HA CA</cards>
+<action no="5" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530515221"><general><startdate>2025-06-24 06:58:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,031" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+<player seat="6" name="Khungo" chips="469" dealer="1" win="80" bet="66" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 C3</cards>
+<action no="3" player="Khungo" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 H4 C2</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Khungo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Khungo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Khungo" type="5" discard="1" dealt="1" sum="26"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530515324"><general><startdate>2025-06-24 06:58:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="509" dealer="0" win="0" bet="509" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558624"/>
+<player seat="3" name="oreiasccp" chips="991" dealer="1" win="1,018" bet="509" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390558601"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Khungo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Khungo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 CA</cards>
+<cards type="Pocket" player="Khungo">DK CK</cards>
+<action no="5" player="oreiasccp" type="23" sum="504"/>
+<action no="6" player="Khungo" type="7" discard="1" dealt="1" sum="474"/>
+</round>
+<round no="2"><cards type="Flop">C3 DQ D3</cards>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+</session>

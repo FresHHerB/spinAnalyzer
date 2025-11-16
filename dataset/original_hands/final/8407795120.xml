@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407795120">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130667602</tablename>
+<tournamentcode>1130667601</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>18</gamecount>
+<startdate>2025-07-17 07:23:43</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11578031114"><general><startdate>2025-07-17 07:23:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="AAcezino77" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="100" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="AAcezino77" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ DA</cards>
+<action no="3" player="mosztovoj77" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031139"><general><startdate>2025-07-17 07:24:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="480" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AAcezino77" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="mosztovoj77" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="AAcezino77">X X</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 H5</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="AAcezino77" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA S3 C5</cards>
+<action no="6" player="AAcezino77" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031217"><general><startdate>2025-07-17 07:24:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="560" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="500" dealer="1" win="90" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 HJ</cards>
+<cards type="Pocket" player="AAcezino77">SK D6</cards>
+<action no="3" player="AAcezino77" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C7 D2 D10</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031297"><general><startdate>2025-07-17 07:25:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="AAcezino77" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="430" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="520" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="AAcezino77" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 S7</cards>
+<action no="3" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031342"><general><startdate>2025-07-17 07:25:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="430" dealer="0" win="120" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="530" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AAcezino77" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="mosztovoj77" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H5</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="AAcezino77" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="mosztovoj77" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="AAcezino77" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C9 CA S5</cards>
+<action no="7" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="mosztovoj77" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031420"><general><startdate>2025-07-17 07:25:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="540" dealer="0" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="470" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="490" dealer="0" win="160" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 D9</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<action no="3" player="AAcezino77" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="mosztovoj77" type="23" discard="1" dealt="1" sum="70"/>
+<action no="5" player="oreiasccp" type="3" sum="50"/>
+<action no="6" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA S5 H3</cards>
+<action no="7" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="9" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+<action no="11" player="mosztovoj77" type="5" discard="1" dealt="1" sum="60"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031557"><general><startdate>2025-07-17 07:26:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="AAcezino77" chips="450" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="470" dealer="0" win="135" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="AAcezino77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="AAcezino77" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 H7</cards>
+<action no="6" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="AAcezino77" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H6 H9 DA</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031620"><general><startdate>2025-07-17 07:26:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="575" dealer="0" win="135" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="385" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AAcezino77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="AAcezino77" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="mosztovoj77" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="AAcezino77">C2 D2</cards>
+<cards type="Pocket" player="mosztovoj77">H2 H3</cards>
+<cards type="Pocket" player="oreiasccp">D3 SJ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="AAcezino77" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 D6 S9</cards>
+<action no="9" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="mosztovoj77" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="AAcezino77" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="12" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="14" player="AAcezino77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031700"><general><startdate>2025-07-17 07:27:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="535" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="6" name="AAcezino77" chips="320" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="645" dealer="0" win="75" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="AAcezino77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="mosztovoj77" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 H8</cards>
+<action no="6" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="mosztovoj77" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031748"><general><startdate>2025-07-17 07:27:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="AAcezino77" chips="315" dealer="0" win="0" bet="315" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795132"/>
+<player seat="10" name="mosztovoj77" chips="685" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="635" bet="315" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="AAcezino77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="AAcezino77" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="AAcezino77">CQ DJ</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ SK</cards>
+<action no="6" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="310"/>
+<action no="8" player="AAcezino77" type="7" discard="1" dealt="1" sum="280"/>
+</round>
+<round no="2"><cards type="Flop">C4 S7 C3</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+<game gamecode="11578031844"><general><startdate>2025-07-17 07:27:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="680" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="820" dealer="1" win="190" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="mosztovoj77" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA S9</cards>
+<cards type="Pocket" player="mosztovoj77">H6 SK</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 S7 H2</cards>
+<action no="7" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="9" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="mosztovoj77" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="12" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11578031960"><general><startdate>2025-07-17 07:28:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="915" dealer="0" win="90" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="10" name="mosztovoj77" chips="585" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mosztovoj77" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK CA</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<action no="5" player="mosztovoj77" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="200"/>
+<action no="7" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578032008"><general><startdate>2025-07-17 07:28:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="540" dealer="0" win="90" bet="45" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="960" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="mosztovoj77" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA S8</cards>
+<cards type="Pocket" player="mosztovoj77">H6 D2</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 H5 H2</cards>
+<action no="7" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="9" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="11" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11578032121"><general><startdate>2025-07-17 07:29:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="915" dealer="0" win="90" bet="111" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="10" name="mosztovoj77" chips="585" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mosztovoj77" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 D10</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<action no="5" player="mosztovoj77" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 S7 HQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="mosztovoj77" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="11" player="oreiasccp" type="5" sum="66"/>
+<action no="12" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578032250"><general><startdate>2025-07-17 07:29:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="540" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="960" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="mosztovoj77" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 D6</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="mosztovoj77" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578032301"><general><startdate>2025-07-17 07:29:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="915" dealer="0" win="474" bet="585" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="10" name="mosztovoj77" chips="585" dealer="1" win="0" bet="237" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mosztovoj77" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA CQ</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<action no="5" player="mosztovoj77" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="mosztovoj77" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">D4 C5 C7</cards>
+<action no="8" player="oreiasccp" type="5" sum="53"/>
+<action no="9" player="mosztovoj77" type="3" discard="1" dealt="1" sum="53"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="10" player="oreiasccp" type="5" sum="79"/>
+<action no="11" player="mosztovoj77" type="3" discard="1" dealt="1" sum="79"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="12" player="oreiasccp" type="5" sum="348"/>
+<action no="13" player="mosztovoj77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578036435"><general><startdate>2025-07-17 07:30:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="mosztovoj77" chips="348" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+<player seat="3" name="oreiasccp" chips="1,152" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="mosztovoj77" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 S10</cards>
+<cards type="Pocket" player="mosztovoj77">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578036458"><general><startdate>2025-07-17 07:30:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,117" dealer="0" win="766" bet="383" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795120"/>
+<player seat="10" name="mosztovoj77" chips="383" dealer="1" win="0" bet="383" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407795143"/>
+</players>
+</general>
+<round no="0"><action no="1" player="mosztovoj77" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="mosztovoj77" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 SK</cards>
+<cards type="Pocket" player="mosztovoj77">S8 S4</cards>
+<action no="5" player="mosztovoj77" type="23" discard="1" dealt="1" sum="378"/>
+<action no="6" player="oreiasccp" type="3" sum="318"/>
+</round>
+<round no="2"><cards type="Flop">CQ C9 H10</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+</session>

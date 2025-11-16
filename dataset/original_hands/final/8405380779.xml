@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405380779">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130353402</tablename>
+<tournamentcode>1130353401</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-07-14 07:15:30</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11571625976"><general><startdate>2025-07-14 07:15:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405380779"/>
+<player seat="3" name="NickTyler1" chips="500" dealer="1" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405380630"/>
+<player seat="6" name="wallquiet19" chips="500" dealer="0" win="1,100" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405380739"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallquiet19" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 C7</cards>
+<cards type="Pocket" player="NickTyler1">C9 C8</cards>
+<cards type="Pocket" player="wallquiet19">S5 C5</cards>
+<action no="3" player="NickTyler1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="wallquiet19" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D8 D5 S6</cards>
+<action no="6" player="wallquiet19" type="5" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+<action no="8" player="NickTyler1" type="23" discard="1" dealt="1" sum="460"/>
+<action no="9" player="wallquiet19" type="7" discard="1" dealt="1" sum="400"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+</round>
+<round no="4"><cards type="River">C2</cards>
+</round>
+</game>
+<game gamecode="11571626045"><general><startdate>2025-07-14 07:16:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="400" dealer="0" win="0" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405380779"/>
+<player seat="6" name="wallquiet19" chips="1,100" dealer="1" win="800" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405380739"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallquiet19" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallquiet19">CQ D7</cards>
+<cards type="Pocket" player="oreiasccp">HJ DJ</cards>
+<action no="3" player="wallquiet19" type="23" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="23" sum="400"/>
+<action no="5" player="wallquiet19" type="3" discard="1" dealt="1" sum="340"/>
+</round>
+<round no="2"><cards type="Flop">S3 H6 SQ</cards>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">C6</cards>
+</round>
+</game>
+</session>

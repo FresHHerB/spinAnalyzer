@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390694713">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128366131</tablename>
+<tournamentcode>1128366130</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>23</gamecount>
+<startdate>2025-06-24 14:17:38</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530883402"><general><startdate>2025-06-24 14:17:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BufaloBiu1010" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="100" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK CQ</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<action no="3" player="Skofield" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883471"><general><startdate>2025-06-24 14:18:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="480" dealer="0" win="40" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Skofield" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 D8</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="480"/>
+<action no="5" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883539"><general><startdate>2025-06-24 14:18:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="560" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="440" dealer="0" win="100" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 D9</cards>
+<action no="3" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Skofield" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK D10 H2</cards>
+<action no="6" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="8" player="Skofield" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="10" player="Skofield" type="5" discard="1" dealt="1" sum="75"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883686"><general><startdate>2025-06-24 14:18:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BufaloBiu1010" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="510" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA HJ</cards>
+<action no="3" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="BufaloBiu1010" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 DJ D6</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883773"><general><startdate>2025-06-24 14:19:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="480" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Skofield" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK D5</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 C9 HA</cards>
+<action no="6" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883856"><general><startdate>2025-06-24 14:19:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="470" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 C5</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="3" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Skofield" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 D4 S10</cards>
+<action no="6" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="8" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="10" player="Skofield" type="5" discard="1" dealt="1" sum="20"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883985"><general><startdate>2025-06-24 14:19:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BufaloBiu1010" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK H3</cards>
+<action no="3" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884022"><general><startdate>2025-06-24 14:19:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="490" dealer="0" win="980" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="510" dealer="0" win="0" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Skofield" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">SA SK</cards>
+<cards type="Pocket" player="Skofield">S9 CJ</cards>
+<cards type="Pocket" player="oreiasccp">C2 H5</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="Skofield" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">DK H10 CQ</cards>
+<action no="6" player="BufaloBiu1010" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Skofield" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="140"/>
+<action no="9" player="Skofield" type="3" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="10" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="310"/>
+<action no="11" player="Skofield" type="7" discard="1" dealt="1" sum="290"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+<game gamecode="11530884258"><general><startdate>2025-06-24 14:20:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="90" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="3" name="BufaloBiu1010" chips="20" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694630"/>
+<player seat="6" name="Skofield" chips="980" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Skofield" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA S7</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="BufaloBiu1010">D5 H3</cards>
+<action no="6" player="BufaloBiu1010" type="7" discard="1" dealt="1" sum="15"/>
+<action no="7" player="Skofield" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="23" sum="495"/>
+<action no="9" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK HQ H10</cards>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11530884387"><general><startdate>2025-06-24 14:21:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="555" dealer="0" win="0" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="945" dealer="1" win="326" bet="163" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">C8 SA</cards>
+<cards type="Pocket" player="oreiasccp">HJ H6</cards>
+<action no="5" player="Skofield" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D3 D8 S6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Skofield" type="5" discard="1" dealt="1" sum="98"/>
+<action no="9" player="oreiasccp" type="3" sum="98"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884536"><general><startdate>2025-06-24 14:21:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,108" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="392" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA CQ SA</cards>
+<action no="7" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884628"><general><startdate>2025-06-24 14:21:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="427" dealer="0" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,073" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ S8</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<action no="5" player="Skofield" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA S3 CJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Skofield" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="12" player="oreiasccp" type="5" sum="95"/>
+<action no="13" player="Skofield" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884729"><general><startdate>2025-06-24 14:22:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,008" dealer="0" win="226" bet="283" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="492" dealer="1" win="0" bet="113" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 H9</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D3 D5</cards>
+<action no="7" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+<action no="9" player="Skofield" type="5" discard="1" dealt="1" sum="68"/>
+<action no="10" player="oreiasccp" type="3" sum="68"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="11" player="Skofield" type="5" discard="1" dealt="1" sum="170"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884863"><general><startdate>2025-06-24 14:22:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="379" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,121" dealer="1" win="90" bet="1,121" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 S2</cards>
+<action no="5" player="Skofield" type="23" discard="1" dealt="1" sum="1,116"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884902"><general><startdate>2025-06-24 14:22:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,166" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="334" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 D3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530884922"><general><startdate>2025-06-24 14:22:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="309" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,191" dealer="1" win="90" bet="1,191" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 D10</cards>
+<cards type="Pocket" player="Skofield">X X</cards>
+<action no="5" player="Skofield" type="23" discard="1" dealt="1" sum="1,186"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891164"><general><startdate>2025-06-24 14:23:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,236" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="264" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C7</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891189"><general><startdate>2025-06-24 14:23:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="239" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,261" dealer="1" win="90" bet="1,261" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S8</cards>
+<action no="5" player="Skofield" type="23" discard="1" dealt="1" sum="1,256"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891224"><general><startdate>2025-06-24 14:23:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,306" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="194" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 C10</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891247"><general><startdate>2025-06-24 14:23:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="169" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,331" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 H7</cards>
+<action no="5" player="Skofield" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 C5 C8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Skofield" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891286"><general><startdate>2025-06-24 14:23:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,376" dealer="0" win="0" bet="124" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="124" dealer="1" win="248" bet="124" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK S3</cards>
+<cards type="Pocket" player="Skofield">HQ D5</cards>
+<action no="5" player="oreiasccp" type="23" sum="119"/>
+<action no="6" player="Skofield" type="3" discard="1" dealt="1" sum="79"/>
+</round>
+<round no="2"><cards type="Flop">S7 C9 C8</cards>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+<game gamecode="11530891375"><general><startdate>2025-06-24 14:23:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="248" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+<player seat="6" name="Skofield" chips="1,252" dealer="1" win="90" bet="1,252" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Skofield" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 SJ</cards>
+<action no="5" player="Skofield" type="23" discard="1" dealt="1" sum="1,247"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530891399"><general><startdate>2025-06-24 14:23:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Skofield" chips="1,297" dealer="0" win="406" bet="203" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694699"/>
+<player seat="10" name="oreiasccp" chips="203" dealer="1" win="0" bet="203" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390694713"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Skofield" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Skofield" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 D6</cards>
+<cards type="Pocket" player="Skofield">C7 D7</cards>
+<action no="5" player="oreiasccp" type="23" sum="198"/>
+<action no="6" player="Skofield" type="3" discard="1" dealt="1" sum="158"/>
+</round>
+<round no="2"><cards type="Flop">C9 C6 H3</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+</session>

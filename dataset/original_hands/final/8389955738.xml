@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8389955738">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128261647</tablename>
+<tournamentcode>1128261646</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>27</gamecount>
+<startdate>2025-06-23 13:09:38</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11528808838"><general><startdate>2025-06-23 13:09:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="500" dealer="0" win="240" bet="120" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="10" name="rz78" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="trooperwave56" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA D5</cards>
+<cards type="Pocket" player="rz78">X X</cards>
+<cards type="Pocket" player="trooperwave56">S6 SJ</cards>
+<action no="3" player="rz78" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S4 DK D7</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="trooperwave56" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808919"><general><startdate>2025-06-23 13:10:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="rz78" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+<player seat="3" name="oreiasccp" chips="380" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="620" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="rz78" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 S9</cards>
+<cards type="Pocket" player="rz78">X X</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808947"><general><startdate>2025-06-23 13:10:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="380" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="610" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="10" name="rz78" chips="510" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rz78" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 CA</cards>
+<cards type="Pocket" player="rz78">H6 S9</cards>
+<action no="3" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="rz78" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D8 SK CJ</cards>
+<action no="6" player="rz78" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="8" player="rz78" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="10" player="rz78" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11528809046"><general><startdate>2025-06-23 13:10:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="610" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="10" name="rz78" chips="430" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="trooperwave56" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 C5</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="rz78">X X</cards>
+<action no="3" player="rz78" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528809082"><general><startdate>2025-06-23 13:10:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="rz78" chips="430" dealer="0" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+<player seat="3" name="oreiasccp" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="620" dealer="0" win="320" bet="320" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="rz78" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="rz78">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ H3</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="trooperwave56" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="rz78" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C4 H8 S5</cards>
+<action no="6" player="trooperwave56" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="rz78" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="rz78" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="10" player="trooperwave56" type="5" discard="1" dealt="1" sum="160"/>
+<action no="11" player="rz78" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528809186"><general><startdate>2025-06-23 13:11:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="780" dealer="1" win="560" bet="530" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="10" name="rz78" chips="270" dealer="0" win="0" bet="270" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955801"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rz78" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">SQ S10</cards>
+<cards type="Pocket" player="rz78">D3 C7</cards>
+<cards type="Pocket" player="oreiasccp">D5 H6</cards>
+<action no="3" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="rz78" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 CJ D4</cards>
+<action no="6" player="rz78" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="rz78" type="23" discard="1" dealt="1" sum="150"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+<action no="11" player="trooperwave56" type="23" discard="1" dealt="1" sum="510"/>
+<action no="12" player="rz78" type="7" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11528809365"><general><startdate>2025-06-23 13:12:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="1,070" dealer="0" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="430" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 CK</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 S4 HA</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="trooperwave56" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="10" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="12" player="trooperwave56" type="5" discard="1" dealt="1" sum="65"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528809458"><general><startdate>2025-06-23 13:12:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="365" dealer="0" win="70" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="1,135" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 H8</cards>
+<cards type="Pocket" player="trooperwave56">SQ S3</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 D2 C2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528809535"><general><startdate>2025-06-23 13:12:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="1,100" dealer="0" win="0" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="1" win="800" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">CA S8</cards>
+<cards type="Pocket" player="oreiasccp">H6 H7</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="trooperwave56" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="3" sum="90"/>
+</round>
+<round no="2"><cards type="Flop">H2 D6 H8</cards>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="175"/>
+<action no="9" player="oreiasccp" type="7" sum="275"/>
+<action no="10" player="trooperwave56" type="3" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+<game gamecode="11528816241"><general><startdate>2025-06-23 13:13:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="800" dealer="0" win="700" bet="700" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="700" dealer="1" win="700" bet="700" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 D7</cards>
+<cards type="Pocket" player="trooperwave56">H7 H4</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 S6 C5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="23" sum="90"/>
+<action no="10" player="trooperwave56" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="11" player="oreiasccp" type="5" sum="180"/>
+<action no="12" player="trooperwave56" type="23" discard="1" dealt="1" sum="360"/>
+<action no="13" player="oreiasccp" type="23" sum="575"/>
+<action no="14" player="trooperwave56" type="7" discard="1" dealt="1" sum="215"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11528816352"><general><startdate>2025-06-23 13:13:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="700" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="800" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ D9</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 H4 DQ</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816419"><general><startdate>2025-06-23 13:13:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="835" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="665" dealer="1" win="70" bet="665" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 S2</cards>
+<action no="5" player="trooperwave56" type="23" discard="1" dealt="1" sum="660"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816457"><general><startdate>2025-06-23 13:13:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="700" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="800" dealer="1" win="90" bet="102" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ CJ</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 C10 D4</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="9" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="57"/>
+<action no="11" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816546"><general><startdate>2025-06-23 13:14:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="845" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="655" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ S2</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 SJ S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816598"><general><startdate>2025-06-23 13:14:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="700" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="800" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 DA</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S8 HK HA</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816655"><general><startdate>2025-06-23 13:14:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="845" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="655" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK S10</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816705"><general><startdate>2025-06-23 13:14:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="610" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="890" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816733"><general><startdate>2025-06-23 13:14:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="865" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="635" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 S3</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 D9 H5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="trooperwave56" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816805"><general><startdate>2025-06-23 13:15:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="680" dealer="0" win="170" bet="204" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="820" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ H4</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="trooperwave56" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C4 H3 D6</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="trooperwave56" type="5" discard="1" dealt="1" sum="119"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816875"><general><startdate>2025-06-23 13:15:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="735" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="765" dealer="1" win="90" bet="108" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 D3</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 HQ DK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="63"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816930"><general><startdate>2025-06-23 13:15:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="810" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="690" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 D5</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816957"><general><startdate>2025-06-23 13:15:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="665" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="835" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 HJ</cards>
+<action no="5" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528816988"><general><startdate>2025-06-23 13:15:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="810" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="690" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="trooperwave56">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 C4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528817009"><general><startdate>2025-06-23 13:15:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="655" dealer="0" win="130" bet="151" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="845" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H8</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA H5 C7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+<action no="9" player="oreiasccp" type="5" sum="86"/>
+<action no="10" player="trooperwave56" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528817079"><general><startdate>2025-06-23 13:16:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="780" dealer="0" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="720" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 CQ</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CK S6 C7</cards>
+<action no="7" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="trooperwave56" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="10" player="trooperwave56" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="12" player="trooperwave56" type="5" discard="1" dealt="1" sum="125"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528817178"><general><startdate>2025-06-23 13:16:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="595" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+<player seat="6" name="trooperwave56" chips="905" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+</players>
+</general>
+<round no="0"><action no="1" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="trooperwave56" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 H6</cards>
+<cards type="Pocket" player="trooperwave56">X X</cards>
+<action no="5" player="trooperwave56" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ D10 D2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="trooperwave56" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528817237"><general><startdate>2025-06-23 13:16:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="trooperwave56" chips="970" dealer="0" win="1,060" bet="530" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955774"/>
+<player seat="3" name="oreiasccp" chips="530" dealer="1" win="0" bet="530" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389955738"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="trooperwave56" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="trooperwave56" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 D10</cards>
+<cards type="Pocket" player="trooperwave56">SA D4</cards>
+<action no="5" player="oreiasccp" type="23" sum="525"/>
+<action no="6" player="trooperwave56" type="3" discard="1" dealt="1" sum="465"/>
+</round>
+<round no="2"><cards type="Flop">C7 S3 H2</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">HA</cards>
+</round>
+</game>
+</session>

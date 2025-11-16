@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385512020">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127665203</tablename>
+<tournamentcode>1127665202</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>27</gamecount>
+<startdate>2025-06-17 09:45:08</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516843805"><general><startdate>2025-06-17 09:45:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="60" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="500" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">S3 HJ</cards>
+<cards type="Pocket" player="Totallyflushed">D3 D5</cards>
+<cards type="Pocket" player="oreiasccp">D2 H7</cards>
+<action no="3" player="Totallyflushed" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="uuiit" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S4 D7 SA</cards>
+<action no="6" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="12" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516843919"><general><startdate>2025-06-17 09:45:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Totallyflushed" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="480" dealer="1" win="120" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Totallyflushed" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H8</cards>
+<action no="3" player="uuiit" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 D10 D9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Totallyflushed" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="uuiit" type="5" discard="1" dealt="1" sum="30"/>
+<action no="12" player="oreiasccp" type="3" sum="30"/>
+<action no="13" player="Totallyflushed" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C2</cards>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+<action no="15" player="uuiit" type="5" discard="1" dealt="1" sum="60"/>
+<action no="16" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844006"><general><startdate>2025-06-17 09:46:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="460" dealer="0" win="40" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Totallyflushed" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="uuiit" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C7</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Totallyflushed" type="23" discard="1" dealt="1" sum="80"/>
+<action no="5" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844041"><general><startdate>2025-06-17 09:46:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="490" dealer="0" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="530" dealer="0" win="320" bet="160" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 D6</cards>
+<cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="uuiit">CK SK</cards>
+<action no="3" player="Totallyflushed" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="uuiit" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HK HQ C6</cards>
+<action no="6" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="8" player="uuiit" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="10" player="uuiit" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="3" sum="80"/>
+</round>
+</game>
+<game gamecode="11516844115"><general><startdate>2025-06-17 09:47:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Totallyflushed" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="690" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="330" dealer="0" win="40" bet="330" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Totallyflushed" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA C10</cards>
+<action no="3" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="330"/>
+<action no="5" player="Totallyflushed" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844145"><general><startdate>2025-06-17 09:47:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="690" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="350" dealer="1" win="90" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Totallyflushed" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="uuiit" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 CK</cards>
+<cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Totallyflushed" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="uuiit" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HA H6 D7</cards>
+<action no="6" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844188"><general><startdate>2025-06-17 09:47:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="450" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="650" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Totallyflushed" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="uuiit" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H2</cards>
+<cards type="Pocket" player="Totallyflushed">X X</cards>
+<action no="6" player="Totallyflushed" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ D7 HK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Totallyflushed" type="5" discard="1" dealt="1" sum="90"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844237"><general><startdate>2025-06-17 09:47:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Totallyflushed" chips="505" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+<player seat="10" name="uuiit" chips="630" dealer="1" win="0" bet="365" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="365" dealer="0" win="765" bet="365" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Totallyflushed" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Totallyflushed" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Totallyflushed">X X</cards>
+<cards type="Pocket" player="uuiit">HJ DA</cards>
+<cards type="Pocket" player="oreiasccp">H10 HQ</cards>
+<action no="6" player="uuiit" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="75"/>
+<action no="8" player="Totallyflushed" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 DQ SK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="uuiit" type="5" discard="1" dealt="1" sum="225"/>
+<action no="11" player="oreiasccp" type="7" sum="270"/>
+<action no="12" player="uuiit" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+</round>
+<round no="4"><cards type="River">H5</cards>
+</round>
+</game>
+<game gamecode="11516844342"><general><startdate>2025-06-17 09:48:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="265" dealer="0" win="795" bet="265" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="765" dealer="1" win="410" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="6" name="Totallyflushed" chips="470" dealer="0" win="0" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512037"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Totallyflushed" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Totallyflushed" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="uuiit" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">D9 SK</cards>
+<cards type="Pocket" player="oreiasccp">SA C3</cards>
+<cards type="Pocket" player="Totallyflushed">SQ HA</cards>
+<action no="6" player="oreiasccp" type="23" sum="465"/>
+<action no="7" player="Totallyflushed" type="7" discard="1" dealt="1" sum="450"/>
+<action no="8" player="uuiit" type="7" discard="1" dealt="1" sum="230"/>
+</round>
+<round no="2"><cards type="Flop">H9 D4 C8</cards>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+<game gamecode="11516844406"><general><startdate>2025-06-17 09:48:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="705" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="795" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 SK</cards>
+<action no="5" player="uuiit" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 CK D7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844454"><general><startdate>2025-06-17 09:48:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="760" dealer="0" win="0" bet="517" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="740" dealer="1" win="1,034" bet="517" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 HJ</cards>
+<cards type="Pocket" player="uuiit">H10 C9</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="uuiit" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H2 CA D10</cards>
+<action no="7" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="uuiit" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="10" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="95"/>
+<action no="12" player="uuiit" type="3" discard="1" dealt="1" sum="95"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="13" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="5" sum="327"/>
+<action no="15" player="uuiit" type="3" discard="1" dealt="1" sum="327"/>
+</round>
+</game>
+<game gamecode="11516844538"><general><startdate>2025-06-17 09:49:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,257" dealer="0" win="0" bet="243" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="243" dealer="1" win="486" bet="243" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK H10</cards>
+<cards type="Pocket" player="uuiit">S10 S6</cards>
+<action no="5" player="uuiit" type="23" discard="1" dealt="1" sum="238"/>
+<action no="6" player="oreiasccp" type="3" sum="208"/>
+</round>
+<round no="2"><cards type="Flop">CJ H4 S8</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">C4</cards>
+</round>
+</game>
+<game gamecode="11516844593"><general><startdate>2025-06-17 09:49:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="486" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="1,014" dealer="1" win="90" bet="486" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 CA</cards>
+<action no="5" player="oreiasccp" type="23" sum="481"/>
+<action no="6" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844611"><general><startdate>2025-06-17 09:49:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,059" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="441" dealer="1" win="90" bet="441" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C4</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="uuiit" type="23" discard="1" dealt="1" sum="436"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844637"><general><startdate>2025-06-17 09:49:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="486" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="1,014" dealer="1" win="90" bet="486" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ SA</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="481"/>
+<action no="6" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844654"><general><startdate>2025-06-17 09:49:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,059" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="441" dealer="1" win="90" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 HJ</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="uuiit" type="23" discard="1" dealt="1" sum="160"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844677"><general><startdate>2025-06-17 09:50:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="486" dealer="0" win="90" bet="486" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="1,014" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 H8</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="uuiit" type="23" discard="1" dealt="1" sum="481"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844715"><general><startdate>2025-06-17 09:50:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="969" dealer="0" win="0" bet="531" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="531" dealer="1" win="1,062" bet="531" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ CQ</cards>
+<cards type="Pocket" player="uuiit">S9 SQ</cards>
+<action no="5" player="uuiit" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="uuiit" type="23" discard="1" dealt="1" sum="526"/>
+<action no="8" player="oreiasccp" type="3" sum="426"/>
+</round>
+<round no="2"><cards type="Flop">S7 C4 D7</cards>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+</round>
+<round no="4"><cards type="River">S10</cards>
+</round>
+</game>
+<game gamecode="11516844798"><general><startdate>2025-06-17 09:50:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="1,062" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="438" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 H6</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="uuiit" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844824"><general><startdate>2025-06-17 09:50:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="393" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="1,107" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 S7</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="uuiit" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ D6 CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="11" player="oreiasccp" type="5" sum="40"/>
+<action no="12" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844890"><general><startdate>2025-06-17 09:51:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="1,062" dealer="0" win="90" bet="1,062" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="438" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H8</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="uuiit" type="23" discard="1" dealt="1" sum="1,057"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844916"><general><startdate>2025-06-17 09:51:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="393" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="1,107" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK S7</cards>
+<action no="5" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516844941"><general><startdate>2025-06-17 09:51:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="1,082" dealer="0" win="0" bet="1,082" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="418" dealer="1" win="836" bet="418" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D10</cards>
+<cards type="Pocket" player="uuiit">S8 C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="uuiit" type="23" discard="1" dealt="1" sum="1,077"/>
+<action no="7" player="oreiasccp" type="7" sum="373"/>
+</round>
+<round no="2"><cards type="Flop">DJ SQ S7</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">SA</cards>
+</round>
+</game>
+<game gamecode="11516844999"><general><startdate>2025-06-17 09:51:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="836" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="664" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 D2</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516849056"><general><startdate>2025-06-17 09:51:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="629" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="871" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 H7</cards>
+<cards type="Pocket" player="uuiit">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 HQ D9</cards>
+<action no="7" player="uuiit" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516849100"><general><startdate>2025-06-17 09:51:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="936" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+<player seat="10" name="uuiit" chips="564" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+</players>
+</general>
+<round no="0"><action no="1" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="uuiit" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ HA</cards>
+<action no="5" player="uuiit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516849125"><general><startdate>2025-06-17 09:52:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="uuiit" chips="529" dealer="0" win="0" bet="529" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512047"/>
+<player seat="3" name="oreiasccp" chips="971" dealer="1" win="1,058" bet="529" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385512020"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="uuiit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="uuiit" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="uuiit">DQ D6</cards>
+<cards type="Pocket" player="oreiasccp">C7 CK</cards>
+<action no="5" player="oreiasccp" type="23" sum="524"/>
+<action no="6" player="uuiit" type="7" discard="1" dealt="1" sum="464"/>
+</round>
+<round no="2"><cards type="Flop">S5 S10 C5</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+</session>

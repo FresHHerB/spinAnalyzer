@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392253311">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128575359</tablename>
+<tournamentcode>1128575358</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-26 17:40:42</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11535102954"><general><startdate>2025-06-26 17:40:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253311"/>
+<player seat="6" name="ssaa1" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253314"/>
+<player seat="10" name="setbluffy563" chips="500" dealer="0" win="40" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253343"/>
+</players>
+</general>
+<round no="0"><action no="1" player="setbluffy563" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 H5</cards>
+<cards type="Pocket" player="ssaa1">X X</cards>
+<cards type="Pocket" player="setbluffy563">X X</cards>
+<action no="3" player="ssaa1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="setbluffy563" type="23" discard="1" dealt="1" sum="90"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535103035"><general><startdate>2025-06-26 17:41:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ssaa1" chips="500" dealer="0" win="80" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253314"/>
+<player seat="10" name="setbluffy563" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253343"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253311"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="ssaa1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="setbluffy563">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 DJ</cards>
+<cards type="Pocket" player="ssaa1">X X</cards>
+<action no="3" player="setbluffy563" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="ssaa1" type="23" discard="1" dealt="1" sum="110"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535103108"><general><startdate>2025-06-26 17:41:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="setbluffy563" chips="520" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253343"/>
+<player seat="3" name="oreiasccp" chips="440" dealer="1" win="0" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253311"/>
+<player seat="6" name="ssaa1" chips="540" dealer="0" win="900" bet="540" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392253314"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ssaa1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="setbluffy563" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ssaa1">S8 D8</cards>
+<cards type="Pocket" player="oreiasccp">S5 D5</cards>
+<cards type="Pocket" player="setbluffy563">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="440"/>
+<action no="4" player="ssaa1" type="7" discard="1" dealt="1" sum="530"/>
+<action no="5" player="setbluffy563" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA HA H4</cards>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+</round>
+<round no="4"><cards type="River">C4</cards>
+</round>
+</game>
+</session>

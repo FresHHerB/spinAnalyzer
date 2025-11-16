@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390680254">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128364186</tablename>
+<tournamentcode>1128364185</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>12</gamecount>
+<startdate>2025-06-24 13:47:51</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530845229"><general><startdate>2025-06-24 13:48:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="500" dealer="0" win="40" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 CJ</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="danielbrad" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 S6 S2</cards>
+<action no="6" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="28"/>
+<action no="8" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530845339"><general><startdate>2025-06-24 13:48:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="6" name="d0nsamag0n" chips="520" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 D7</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK CQ C9</cards>
+<action no="6" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530845441"><general><startdate>2025-06-24 13:48:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="danielbrad" chips="480" dealer="0" win="200" bet="220" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="6" name="d0nsamag0n" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="danielbrad" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ HA</cards>
+<action no="3" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ HJ S4</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="danielbrad" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="danielbrad" type="23" discard="1" dealt="1" sum="180"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530851691"><general><startdate>2025-06-24 13:49:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="540" dealer="0" win="0" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+<player seat="10" name="oreiasccp" chips="380" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="580" dealer="0" win="360" bet="540" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ D5</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="danielbrad" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C8 S5 H3</cards>
+<action no="6" player="danielbrad" type="5" discard="1" dealt="1" sum="30"/>
+<action no="7" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="8" player="danielbrad" type="5" discard="1" dealt="1" sum="100"/>
+<action no="9" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="4"><cards type="River">H8</cards>
+<action no="10" player="danielbrad" type="5" discard="1" dealt="1" sum="360"/>
+<action no="11" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530851827"><general><startdate>2025-06-24 13:50:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="380" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="760" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="6" name="d0nsamag0n" chips="360" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 CQ</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="6" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530851862"><general><startdate>2025-06-24 13:50:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="danielbrad" chips="755" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="6" name="d0nsamag0n" chips="340" dealer="1" win="90" bet="340" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+<player seat="10" name="oreiasccp" chips="405" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="danielbrad" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA S6</cards>
+<action no="6" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="335"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530851906"><general><startdate>2025-06-24 13:50:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="395" dealer="0" win="0" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680169"/>
+<player seat="10" name="oreiasccp" chips="385" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="720" dealer="0" win="795" bet="720" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="danielbrad" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 C8</cards>
+<cards type="Pocket" player="d0nsamag0n">D6 SA</cards>
+<cards type="Pocket" player="danielbrad">DA C3</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="danielbrad" type="23" discard="1" dealt="1" sum="715"/>
+<action no="8" player="d0nsamag0n" type="7" discard="1" dealt="1" sum="360"/>
+</round>
+<round no="2"><cards type="Flop">D5 D2 D4</cards>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">SK</cards>
+</round>
+</game>
+<game gamecode="11530851972"><general><startdate>2025-06-24 13:50:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="380" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="1,120" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="danielbrad" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H10</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<action no="5" player="danielbrad" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 C6 S7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="danielbrad" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="12" player="oreiasccp" type="5" sum="60"/>
+<action no="13" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530852069"><general><startdate>2025-06-24 13:51:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="danielbrad" chips="1,055" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="10" name="oreiasccp" chips="445" dealer="1" win="70" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="danielbrad" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D6 S3 H4</cards>
+<action no="7" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="35"/>
+<action no="9" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530852145"><general><startdate>2025-06-24 13:51:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="480" dealer="0" win="70" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="1,020" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="danielbrad" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ CK</cards>
+<cards type="Pocket" player="danielbrad">X X</cards>
+<action no="5" player="danielbrad" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="135"/>
+<action no="7" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530852233"><general><startdate>2025-06-24 13:51:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="danielbrad" chips="985" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+<player seat="10" name="oreiasccp" chips="515" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="danielbrad" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="danielbrad">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ D10</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ C2 HJ</cards>
+<action no="7" player="danielbrad" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="danielbrad" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530852321"><general><startdate>2025-06-24 13:52:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="550" dealer="0" win="0" bet="550" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680254"/>
+<player seat="3" name="danielbrad" chips="950" dealer="1" win="1,100" bet="950" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390680170"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danielbrad" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="danielbrad" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="danielbrad">C7 H7</cards>
+<cards type="Pocket" player="oreiasccp">S6 C6</cards>
+<action no="5" player="danielbrad" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="danielbrad" type="23" discard="1" dealt="1" sum="945"/>
+<action no="8" player="oreiasccp" type="7" sum="445"/>
+</round>
+<round no="2"><cards type="Flop">D9 S5 H3</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+</session>

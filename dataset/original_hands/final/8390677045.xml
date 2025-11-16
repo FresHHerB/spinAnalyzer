@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390677045">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128363858</tablename>
+<tournamentcode>1128363857</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>25</gamecount>
+<startdate>2025-06-24 13:40:49</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530835712"><general><startdate>2025-06-24 13:41:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="3" name="onewh1te" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+</players>
+</general>
+<round no="0"><action no="1" player="onewh1te" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ C8</cards>
+<cards type="Pocket" player="onewh1te">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530835760"><general><startdate>2025-06-24 13:41:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="530" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="3" name="onewh1te" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+<player seat="6" name="BufaloBiu1010" chips="480" dealer="0" win="120" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="onewh1te">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 C8</cards>
+<action no="3" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C7 S7 H10</cards>
+<action no="6" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530835873"><general><startdate>2025-06-24 13:41:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="onewh1te" chips="490" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+<player seat="6" name="BufaloBiu1010" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="470" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="onewh1te" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C8</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="onewh1te">H2 DA</cards>
+<action no="3" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="onewh1te" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK D7 S2</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="onewh1te" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="onewh1te" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="onewh1te" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530843749"><general><startdate>2025-06-24 13:42:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="540" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="410" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="3" name="onewh1te" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+</players>
+</general>
+<round no="0"><action no="1" player="onewh1te" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 D6</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="onewh1te">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530843785"><general><startdate>2025-06-24 13:42:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="410" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="3" name="onewh1te" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+<player seat="6" name="BufaloBiu1010" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="onewh1te">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 D7</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="3" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530843822"><general><startdate>2025-06-24 13:42:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="onewh1te" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+<player seat="6" name="BufaloBiu1010" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="0" win="40" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="onewh1te" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK DJ</cards>
+<cards type="Pocket" player="onewh1te">X X</cards>
+<action no="3" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="50"/>
+<action no="5" player="onewh1te" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530843879"><general><startdate>2025-06-24 13:42:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="540" dealer="0" win="1,040" bet="540" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="3" name="onewh1te" chips="520" dealer="0" win="0" bet="520" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676876"/>
+</players>
+</general>
+<round no="0"><action no="1" player="onewh1te" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">S5 S7</cards>
+<cards type="Pocket" player="oreiasccp">C2 DQ</cards>
+<cards type="Pocket" player="onewh1te">SA HK</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="onewh1te" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S10 HQ SJ</cards>
+<action no="6" player="onewh1te" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="8" player="onewh1te" type="5" discard="1" dealt="1" sum="100"/>
+<action no="9" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="460"/>
+<action no="10" player="onewh1te" type="7" discard="1" dealt="1" sum="340"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+<game gamecode="11530844033"><general><startdate>2025-06-24 13:43:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="440" dealer="0" win="880" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="1,060" dealer="1" win="0" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">HA H4</cards>
+<cards type="Pocket" player="oreiasccp">CA S7</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="435"/>
+<action no="7" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="405"/>
+</round>
+<round no="2"><cards type="Flop">D8 S4 D10</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+<game gamecode="11530844126"><general><startdate>2025-06-24 13:43:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="620" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="880" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C5 C4 S7</cards>
+<action no="7" player="BufaloBiu1010" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="65"/>
+<action no="9" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844224"><general><startdate>2025-06-24 13:44:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="945" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="555" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 D7</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844264"><general><startdate>2025-06-24 13:44:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="535" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="965" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C7</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844348"><general><startdate>2025-06-24 13:44:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,000" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="500" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 C5</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 H9 C7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="23" sum="90"/>
+<action no="10" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844439"><general><startdate>2025-06-24 13:44:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="435" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="1,065" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 D2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844469"><general><startdate>2025-06-24 13:44:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,045" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="455" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 S3</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 CJ SQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844549"><general><startdate>2025-06-24 13:45:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="490" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="1,010" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 D4</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844568"><general><startdate>2025-06-24 13:45:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="985" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="515" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA HJ</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844602"><general><startdate>2025-06-24 13:45:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="490" dealer="0" win="980" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="1,010" dealer="1" win="0" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">CA S10</cards>
+<cards type="Pocket" player="oreiasccp">C5 S5</cards>
+<action no="5" player="oreiasccp" type="23" sum="485"/>
+<action no="6" player="BufaloBiu1010" type="7" discard="1" dealt="1" sum="445"/>
+</round>
+<round no="2"><cards type="Flop">H10 H4 S3</cards>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11530844683"><general><startdate>2025-06-24 13:45:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="520" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="980" dealer="1" win="250" bet="980" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ D2</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="975"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844743"><general><startdate>2025-06-24 13:46:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="1,105" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="395" dealer="1" win="90" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA DJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="390"/>
+<action no="6" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844773"><general><startdate>2025-06-24 13:46:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="1,060" dealer="1" win="250" bet="1,060" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ D10</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="1,055"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844827"><general><startdate>2025-06-24 13:46:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="1,185" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="315" dealer="1" win="90" bet="315" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK S6</cards>
+<action no="5" player="oreiasccp" type="23" sum="310"/>
+<action no="6" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844852"><general><startdate>2025-06-24 13:46:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="360" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="1,140" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 D10</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 CK DQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="BufaloBiu1010" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="BufaloBiu1010" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530844974"><general><startdate>2025-06-24 13:47:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="1,185" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="315" dealer="1" win="130" bet="315" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ SK</cards>
+<cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="310"/>
+<action no="6" player="BufaloBiu1010" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530845007"><general><startdate>2025-06-24 13:47:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="380" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+<player seat="6" name="BufaloBiu1010" chips="1,120" dealer="1" win="130" bet="1,120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BufaloBiu1010" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="BufaloBiu1010">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 D2</cards>
+<action no="5" player="BufaloBiu1010" type="23" discard="1" dealt="1" sum="1,115"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530845050"><general><startdate>2025-06-24 13:47:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="BufaloBiu1010" chips="1,185" dealer="0" win="630" bet="315" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390676980"/>
+<player seat="10" name="oreiasccp" chips="315" dealer="1" win="0" bet="315" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390677045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BufaloBiu1010" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="BufaloBiu1010" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C3</cards>
+<cards type="Pocket" player="BufaloBiu1010">DA S5</cards>
+<action no="5" player="oreiasccp" type="23" sum="310"/>
+<action no="6" player="BufaloBiu1010" type="3" discard="1" dealt="1" sum="250"/>
+</round>
+<round no="2"><cards type="Flop">C2 D4 H9</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

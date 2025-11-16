@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8387672624">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127960539</tablename>
+<tournamentcode>1127960538</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€250</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-20 09:30:20</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11522695911"><general><startdate>2025-06-20 09:30:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="dalsmund" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672643"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672624"/>
+<player seat="6" name="heymari" chips="500" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672635"/>
+</players>
+</general>
+<round no="0"><action no="1" player="heymari" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="dalsmund" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 H8</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<cards type="Pocket" player="dalsmund">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="heymari" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="dalsmund" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522695944"><general><startdate>2025-06-20 09:30:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672624"/>
+<player seat="6" name="heymari" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672635"/>
+<player seat="10" name="dalsmund" chips="480" dealer="0" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672643"/>
+</players>
+</general>
+<round no="0"><action no="1" player="dalsmund" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 H2</cards>
+<cards type="Pocket" player="dalsmund">DK CK</cards>
+<cards type="Pocket" player="heymari">X X</cards>
+<action no="3" player="heymari" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="dalsmund" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="23" sum="480"/>
+<action no="6" player="dalsmund" type="7" discard="1" dealt="1" sum="420"/>
+</round>
+<round no="2"><cards type="Flop">H4 SK C7</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">C6</cards>
+</round>
+</game>
+<game gamecode="11522696012"><general><startdate>2025-06-20 09:31:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="heymari" chips="520" dealer="0" win="60" bet="50" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672635"/>
+<player seat="10" name="dalsmund" chips="960" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672643"/>
+<player seat="3" name="oreiasccp" chips="20" dealer="0" win="0" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387672624"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="heymari" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK CA</cards>
+<cards type="Pocket" player="heymari">D7 D3</cards>
+<cards type="Pocket" player="dalsmund">X X</cards>
+<action no="3" player="dalsmund" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="7" sum="10"/>
+<action no="5" player="heymari" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S4 C3 H2</cards>
+<action no="6" player="heymari" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="dalsmund" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="8" player="heymari" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="dalsmund" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+</round>
+</game>
+</session>

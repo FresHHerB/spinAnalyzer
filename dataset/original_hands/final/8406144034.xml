@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8406144034">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130453710</tablename>
+<tournamentcode>1130453709</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>25</gamecount>
+<startdate>2025-07-15 05:27:57</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11573677911"><general><startdate>2025-07-15 05:28:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="500" dealer="0" win="0" bet="128" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="296" bet="188" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+</players>
+</general>
+<round no="0"><action no="1" player="NicoBlass" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="felipefixer" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ S10</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="NicoBlass">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="NicoBlass" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C10 DQ SK</cards>
+<action no="6" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="9" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="88"/>
+<action no="12" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="13" player="felipefixer" type="3" discard="1" dealt="1" sum="88"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="14" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="oreiasccp" type="5" sum="60"/>
+<action no="16" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573678023"><general><startdate>2025-07-15 05:28:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="668" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="460" dealer="1" win="0" bet="100" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="372" dealer="0" win="220" bet="100" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 D6</cards>
+<cards type="Pocket" player="NicoBlass">SK D9</cards>
+<cards type="Pocket" player="felipefixer">H4 HQ</cards>
+<action no="3" player="NicoBlass" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="felipefixer" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 SJ S9</cards>
+<action no="6" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="NicoBlass" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="11" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="NicoBlass" type="5" discard="1" dealt="1" sum="20"/>
+<action no="13" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="14" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="NicoBlass" type="5" discard="1" dealt="1" sum="40"/>
+<action no="16" player="felipefixer" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+</game>
+<game gamecode="11573680845"><general><startdate>2025-07-15 05:29:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="NicoBlass" chips="360" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="492" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="648" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="NicoBlass" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 C5</cards>
+<action no="3" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573680860"><general><startdate>2025-07-15 05:29:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="492" dealer="0" win="90" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="638" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="370" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+</players>
+</general>
+<round no="0"><action no="1" player="NicoBlass" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="felipefixer" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA H4</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="felipefixer" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573680895"><general><startdate>2025-07-15 05:29:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="598" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="360" dealer="1" win="60" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="542" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 SJ</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="NicoBlass">X X</cards>
+<action no="3" player="NicoBlass" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="felipefixer" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 C6 SA</cards>
+<action no="6" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="NicoBlass" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573680959"><general><startdate>2025-07-15 05:30:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="NicoBlass" chips="400" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="522" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="578" dealer="0" win="100" bet="522" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="NicoBlass" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 C2</cards>
+<action no="3" player="felipefixer" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="522"/>
+<action no="5" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573680996"><general><startdate>2025-07-15 05:30:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="482" dealer="0" win="150" bet="177" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="638" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="380" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+</players>
+</general>
+<round no="0"><action no="1" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="NicoBlass" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="felipefixer" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 SA</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="felipefixer" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H9 S8 S7</cards>
+<action no="9" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="11" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="13" player="felipefixer" type="5" discard="1" dealt="1" sum="112"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681062"><general><startdate>2025-07-15 05:30:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="573" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="360" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="567" dealer="0" win="75" bet="567" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="felipefixer" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 S3</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="NicoBlass">X X</cards>
+<action no="6" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="felipefixer" type="23" discard="1" dealt="1" sum="562"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681101"><general><startdate>2025-07-15 05:30:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="NicoBlass" chips="355" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="607" dealer="1" win="90" bet="607" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="538" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="NicoBlass" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 H5</cards>
+<cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="6" player="felipefixer" type="23" discard="1" dealt="1" sum="602"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681127"><general><startdate>2025-07-15 05:30:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="662" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="518" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="320" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+</players>
+</general>
+<round no="0"><action no="1" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="NicoBlass" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="felipefixer" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 H8</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="NicoBlass" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DJ CQ HQ</cards>
+<action no="9" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="11" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="13" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="felipefixer" type="5" discard="1" dealt="1" sum="30"/>
+<action no="15" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681192"><general><startdate>2025-07-15 05:31:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="513" dealer="0" win="150" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="285" dealer="1" win="0" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="702" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="felipefixer" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 C6</cards>
+<cards type="Pocket" player="NicoBlass">SQ DK</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="6" player="NicoBlass" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 S7 H10</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="NicoBlass" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S9</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="NicoBlass" type="5" discard="1" dealt="1" sum="30"/>
+<action no="15" player="oreiasccp" type="3" sum="30"/>
+</round>
+</game>
+<game gamecode="11573681269"><general><startdate>2025-07-15 05:31:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="NicoBlass" chips="220" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+<player seat="6" name="felipefixer" chips="682" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="598" dealer="0" win="75" bet="220" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="NicoBlass" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 DA</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="6" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="215"/>
+<action no="8" player="NicoBlass" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681301"><general><startdate>2025-07-15 05:31:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="677" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="638" dealer="1" win="405" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="3" name="NicoBlass" chips="185" dealer="0" win="0" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144011"/>
+</players>
+</general>
+<round no="0"><action no="1" player="NicoBlass" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="NicoBlass" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="felipefixer" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="NicoBlass">DA DQ</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA CJ</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="NicoBlass" type="23" discard="1" dealt="1" sum="180"/>
+<action no="8" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="3" sum="120"/>
+</round>
+<round no="2"><cards type="Flop">DJ H6 S3</cards>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11573681356"><general><startdate>2025-07-15 05:32:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="858" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="642" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 H4</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="5" player="felipefixer" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 H10 CK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="felipefixer" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681388"><general><startdate>2025-07-15 05:32:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="677" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="823" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 D4</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D8 C9</cards>
+<action no="7" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="11" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="40"/>
+<action no="13" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681471"><general><startdate>2025-07-15 05:32:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="868" dealer="0" win="0" bet="632" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="632" dealer="1" win="1,264" bet="632" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 SK</cards>
+<cards type="Pocket" player="felipefixer">S5 C5</cards>
+<action no="5" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 HK H9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="felipefixer" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="felipefixer" type="5" discard="1" dealt="1" sum="120"/>
+<action no="12" player="oreiasccp" type="3" sum="120"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="felipefixer" type="5" discard="1" dealt="1" sum="427"/>
+<action no="15" player="oreiasccp" type="3" sum="427"/>
+</round>
+</game>
+<game gamecode="11573681539"><general><startdate>2025-07-15 05:33:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="1,264" dealer="0" win="0" bet="236" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="236" dealer="1" win="472" bet="236" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 S4</cards>
+<cards type="Pocket" player="felipefixer">D10 CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="231"/>
+<action no="6" player="felipefixer" type="3" discard="1" dealt="1" sum="191"/>
+</round>
+<round no="2"><cards type="Flop">H5 S6 D7</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+</round>
+</game>
+<game gamecode="11573681589"><general><startdate>2025-07-15 05:33:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="472" dealer="0" win="90" bet="472" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="1,028" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK S8</cards>
+<action no="5" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="467"/>
+<action no="7" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681615"><general><startdate>2025-07-15 05:33:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="983" dealer="0" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="517" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 HK</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 C4 HA</cards>
+<action no="7" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="felipefixer" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="10" player="felipefixer" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681670"><general><startdate>2025-07-15 05:33:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="432" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="1,068" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ D5</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="5" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681686"><general><startdate>2025-07-15 05:33:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="1,043" dealer="0" win="90" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="457" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="felipefixer" type="23" discard="1" dealt="1" sum="160"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681715"><general><startdate>2025-07-15 05:34:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="412" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="1,088" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 C9</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="5" player="felipefixer" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681747"><general><startdate>2025-07-15 05:34:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="1,043" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="457" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 S9</cards>
+<cards type="Pocket" player="felipefixer">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 D4 D8</cards>
+<action no="7" player="felipefixer" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="felipefixer" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681782"><general><startdate>2025-07-15 05:34:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="502" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+<player seat="6" name="felipefixer" chips="998" dealer="1" win="130" bet="998" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+</players>
+</general>
+<round no="0"><action no="1" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="felipefixer" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 C4</cards>
+<action no="5" player="felipefixer" type="23" discard="1" dealt="1" sum="993"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681809"><general><startdate>2025-07-15 05:34:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="felipefixer" chips="1,063" dealer="0" win="874" bet="437" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144024"/>
+<player seat="10" name="oreiasccp" chips="437" dealer="1" win="0" bet="437" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406144034"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="felipefixer" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="felipefixer" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="felipefixer">HA H5</cards>
+<cards type="Pocket" player="oreiasccp">SA SK</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="felipefixer" type="23" discard="1" dealt="1" sum="150"/>
+<action no="7" player="oreiasccp" type="23" sum="432"/>
+<action no="8" player="felipefixer" type="3" discard="1" dealt="1" sum="282"/>
+</round>
+<round no="2"><cards type="Flop">H10 HQ HJ</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">D2</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391365712">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128457104</tablename>
+<tournamentcode>1128457103</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>37</gamecount>
+<startdate>2025-06-25 12:37:13</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532722803"><general><startdate>2025-06-25 12:37:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="500" dealer="0" win="80" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ S8</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="twizpro" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SJ CJ C6</cards>
+<action no="6" player="twizpro" type="5" discard="1" dealt="1" sum="80"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532722868"><general><startdate>2025-06-25 12:37:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="460" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK C5</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="OneLastGame">D10 DJ</cards>
+<action no="3" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="OneLastGame" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 C9 CQ</cards>
+<action no="6" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="8" player="OneLastGame" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">C10</cards>
+<action no="10" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729246"><general><startdate>2025-06-25 12:38:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="540" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="twizpro" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 SK</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="3" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="twizpro" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729303"><general><startdate>2025-06-25 12:38:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="520" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="336" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="580" dealer="0" win="0" bet="158" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 SA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="twizpro" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 SK SQ</cards>
+<action no="6" player="twizpro" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="8" player="twizpro" type="5" discard="1" dealt="1" sum="98"/>
+<action no="9" player="oreiasccp" type="3" sum="98"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+<action no="10" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="242"/>
+<action no="12" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729404"><general><startdate>2025-06-25 12:38:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="578" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="422" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 SA</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="3" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729443"><general><startdate>2025-06-25 12:39:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="422" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="588" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="twizpro" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C8</cards>
+<action no="3" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="twizpro" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DA S3 S10</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729505"><general><startdate>2025-06-25 12:39:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="490" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="628" dealer="1" win="340" bet="140" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="382" dealer="0" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ DA</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">D3 HA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="twizpro" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK H2 CJ</cards>
+<action no="6" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="9" player="twizpro" type="5" discard="1" dealt="1" sum="20"/>
+<action no="10" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+<action no="11" player="oreiasccp" type="23" sum="100"/>
+<action no="12" player="twizpro" type="3" discard="1" dealt="1" sum="80"/>
+<action no="13" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="14" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729602"><general><startdate>2025-06-25 12:39:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="828" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="242" dealer="1" win="90" bet="242" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="430" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D4</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="6" player="twizpro" type="23" discard="1" dealt="1" sum="237"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729641"><general><startdate>2025-06-25 12:40:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="297" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="410" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="793" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="twizpro" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 D8</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729681"><general><startdate>2025-06-25 12:40:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="405" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="773" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="322" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="twizpro" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S5</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729714"><general><startdate>2025-06-25 12:40:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="768" dealer="0" win="255" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="302" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="430" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D5</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="OneLastGame">SQ SK</cards>
+<action no="6" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="OneLastGame" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 C3 S3</cards>
+<action no="9" player="OneLastGame" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="11" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="60"/>
+<action no="13" player="OneLastGame" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="14" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532729881"><general><startdate>2025-06-25 12:41:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="297" dealer="0" win="614" bet="297" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="6" name="OneLastGame" chips="305" dealer="1" win="0" bet="305" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="898" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="twizpro" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 HK</cards>
+<cards type="Pocket" player="OneLastGame">HA C5</cards>
+<cards type="Pocket" player="twizpro">C6 C7</cards>
+<action no="6" player="OneLastGame" type="23" discard="1" dealt="1" sum="300"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="twizpro" type="7" discard="1" dealt="1" sum="262"/>
+</round>
+<round no="2"><cards type="Flop">D8 C2 H7</cards>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+<game gamecode="11532729962"><general><startdate>2025-06-25 12:41:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OneLastGame" chips="8" dealer="0" win="0" bet="8" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365702"/>
+<player seat="10" name="oreiasccp" chips="878" dealer="1" win="138" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="614" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="twizpro" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="3"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">H10 HJ</cards>
+<cards type="Pocket" player="oreiasccp">D8 DK</cards>
+<cards type="Pocket" player="OneLastGame">S6 SJ</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="twizpro" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="2"><cards type="Flop">D3 S3 CQ</cards>
+<action no="8" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="10" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="12" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730049"><general><startdate>2025-06-25 12:41:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="951" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="549" dealer="1" win="170" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 SQ</cards>
+<action no="5" player="twizpro" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H2 H8 CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="twizpro" type="5" discard="1" dealt="1" sum="85"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730118"><general><startdate>2025-06-25 12:42:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="634" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="866" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 HJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ D7 SK</cards>
+<action no="7" player="twizpro" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730167"><general><startdate>2025-06-25 12:42:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="821" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="679" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK HA</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730189"><general><startdate>2025-06-25 12:42:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="654" dealer="0" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="846" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK S7</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="twizpro" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D5 SA S3</cards>
+<action no="7" player="twizpro" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730267"><general><startdate>2025-06-25 12:42:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="761" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="739" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 DA</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730295"><general><startdate>2025-06-25 12:42:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="714" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="786" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 C5</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730324"><general><startdate>2025-06-25 12:42:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="761" dealer="0" win="0" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="739" dealer="1" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">DA D9</cards>
+<cards type="Pocket" player="oreiasccp">H5 H4</cards>
+<action no="5" player="twizpro" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ S2 CQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="11" player="oreiasccp" type="5" sum="40"/>
+<action no="12" player="twizpro" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+</game>
+<game gamecode="11532730431"><general><startdate>2025-06-25 12:43:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="824" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="676" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 S4</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ HJ C10</cards>
+<action no="7" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730523"><general><startdate>2025-06-25 12:43:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="721" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="779" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ D7</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730543"><general><startdate>2025-06-25 12:43:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="744" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="756" dealer="1" win="130" bet="744" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 S2</cards>
+<action no="5" player="oreiasccp" type="23" sum="739"/>
+<action no="6" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730578"><general><startdate>2025-06-25 12:44:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="821" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="679" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 C10</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730598"><general><startdate>2025-06-25 12:44:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="644" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="856" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H4 H9 C2</cards>
+<action no="7" player="twizpro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730657"><general><startdate>2025-06-25 12:44:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="921" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="579" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 H4</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730690"><general><startdate>2025-06-25 12:44:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="544" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="956" dealer="1" win="130" bet="544" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 SA</cards>
+<action no="5" player="oreiasccp" type="23" sum="539"/>
+<action no="6" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730733"><general><startdate>2025-06-25 12:44:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,021" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="479" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 S2</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730754"><general><startdate>2025-06-25 12:44:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="444" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="1,056" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 S10</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730777"><general><startdate>2025-06-25 12:44:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,021" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="479" dealer="1" win="130" bet="479" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 HJ</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="23" discard="1" dealt="1" sum="474"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532730814"><general><startdate>2025-06-25 12:44:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="544" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="956" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D4</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532735937"><general><startdate>2025-06-25 12:45:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="921" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="579" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 S7</cards>
+<cards type="Pocket" player="twizpro">X X</cards>
+<action no="5" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532735957"><general><startdate>2025-06-25 12:45:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="544" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="956" dealer="1" win="130" bet="544" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK H7</cards>
+<action no="5" player="oreiasccp" type="23" sum="539"/>
+<action no="6" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532735987"><general><startdate>2025-06-25 12:45:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,021" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="479" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 D3</cards>
+<action no="5" player="twizpro" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532736020"><general><startdate>2025-06-25 12:45:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="544" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="956" dealer="1" win="130" bet="544" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA H4</cards>
+<action no="5" player="oreiasccp" type="23" sum="539"/>
+<action no="6" player="twizpro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532736051"><general><startdate>2025-06-25 12:45:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,021" dealer="0" win="0" bet="479" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+<player seat="3" name="twizpro" chips="479" dealer="1" win="958" bet="479" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+</players>
+</general>
+<round no="0"><action no="1" player="twizpro" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="twizpro" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="twizpro">S6 HQ</cards>
+<cards type="Pocket" player="oreiasccp">HK D7</cards>
+<action no="5" player="twizpro" type="23" discard="1" dealt="1" sum="160"/>
+<action no="6" player="oreiasccp" type="23" sum="471"/>
+<action no="7" player="twizpro" type="7" discard="1" dealt="1" sum="311"/>
+</round>
+<round no="2"><cards type="Flop">D10 H10 D9</cards>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+</round>
+</game>
+<game gamecode="11532736124"><general><startdate>2025-06-25 12:45:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="twizpro" chips="958" dealer="0" win="1,084" bet="542" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365695"/>
+<player seat="10" name="oreiasccp" chips="542" dealer="1" win="0" bet="542" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391365712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="twizpro" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="twizpro" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK D6</cards>
+<cards type="Pocket" player="twizpro">SA S8</cards>
+<action no="5" player="oreiasccp" type="23" sum="534"/>
+<action no="6" player="twizpro" type="3" discard="1" dealt="1" sum="454"/>
+</round>
+<round no="2"><cards type="Flop">C2 D4 S7</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+</round>
+</game>
+</session>

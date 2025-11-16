@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386895416">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127853868</tablename>
+<tournamentcode>1127853867</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>38</gamecount>
+<startdate>2025-06-19 06:31:47</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11520622691"><general><startdate>2025-06-19 06:32:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="500" dealer="0" win="85" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="500" dealer="1" win="85" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="sarrascaeta" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 S7</cards>
+<cards type="Pocket" player="sarrascaeta">D3 DA</cards>
+<cards type="Pocket" player="rommenik1">S3 CA</cards>
+<action no="3" player="rommenik1" type="23" discard="1" dealt="1" sum="80"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="sarrascaeta" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S2 CQ S6</cards>
+<action no="6" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="rommenik1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="8" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="rommenik1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="10" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="rommenik1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627193"><general><startdate>2025-06-19 06:33:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="rommenik1" chips="505" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="505" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="rommenik1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK S10</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="rommenik1">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627235"><general><startdate>2025-06-19 06:33:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="520" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="495" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="485" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rommenik1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 HA</cards>
+<cards type="Pocket" player="rommenik1">X X</cards>
+<action no="3" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627263"><general><startdate>2025-06-19 06:33:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="495" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="475" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="530" dealer="0" win="140" bet="495" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="sarrascaeta" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 SA</cards>
+<cards type="Pocket" player="rommenik1">X X</cards>
+<action no="3" player="rommenik1" type="23" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="23" sum="495"/>
+<action no="5" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627303"><general><startdate>2025-06-19 06:33:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="rommenik1" chips="415" dealer="0" win="40" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="610" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="475" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="rommenik1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 DJ</cards>
+<cards type="Pocket" player="rommenik1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="sarrascaeta" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="rommenik1" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627371"><general><startdate>2025-06-19 06:34:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="610" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="455" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="435" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rommenik1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="rommenik1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="rommenik1">X X</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 DQ</cards>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627391"><general><startdate>2025-06-19 06:34:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="450" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="415" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="635" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="rommenik1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="sarrascaeta" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="rommenik1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ H5</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="6" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627407"><general><startdate>2025-06-19 06:34:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="rommenik1" chips="410" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+<player seat="3" name="oreiasccp" chips="615" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="475" dealer="0" win="75" bet="475" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="rommenik1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="sarrascaeta" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="rommenik1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H2</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="rommenik1">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="sarrascaeta" type="23" discard="1" dealt="1" sum="470"/>
+<action no="8" player="rommenik1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627432"><general><startdate>2025-06-19 06:34:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="610" dealer="0" win="755" bet="375" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="515" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="10" name="rommenik1" chips="375" dealer="0" win="0" bet="375" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895422"/>
+</players>
+</general>
+<round no="0"><action no="1" player="rommenik1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="rommenik1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA H5</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="rommenik1">SK DQ</cards>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="rommenik1" type="23" discard="1" dealt="1" sum="120"/>
+<action no="8" player="oreiasccp" type="23" sum="370"/>
+<action no="9" player="rommenik1" type="7" discard="1" dealt="1" sum="250"/>
+</round>
+<round no="2"><cards type="Flop">HJ CJ HK</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+<game gamecode="11520627477"><general><startdate>2025-06-19 06:35:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="510" dealer="0" win="130" bet="510" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="990" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ D7</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="sarrascaeta" type="23" discard="1" dealt="1" sum="505"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627498"><general><startdate>2025-06-19 06:35:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="925" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="575" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 H2</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627528"><general><startdate>2025-06-19 06:35:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="610" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="890" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 S2</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 HK HQ</cards>
+<action no="7" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627584"><general><startdate>2025-06-19 06:36:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="925" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="575" dealer="1" win="90" bet="575" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 H2</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="570"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627608"><general><startdate>2025-06-19 06:36:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="620" dealer="0" win="250" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="880" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ H4</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="sarrascaeta" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D10 HJ DJ</cards>
+<action no="7" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="sarrascaeta" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="10" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="12" player="sarrascaeta" type="5" discard="1" dealt="1" sum="75"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627711"><general><startdate>2025-06-19 06:37:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="755" dealer="0" win="362" bet="362" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="745" dealer="1" win="0" bet="181" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ HJ</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="sarrascaeta" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S5 C6 C5</cards>
+<action no="8" player="oreiasccp" type="5" sum="76"/>
+<action no="9" player="sarrascaeta" type="3" discard="1" dealt="1" sum="76"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="10" player="oreiasccp" type="5" sum="181"/>
+<action no="11" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627819"><general><startdate>2025-06-19 06:38:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="564" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="936" dealer="1" win="130" bet="564" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="559"/>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627861"><general><startdate>2025-06-19 06:38:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,001" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="499" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 C4</cards>
+<action no="5" player="sarrascaeta" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 H10 SQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="sarrascaeta" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627899"><general><startdate>2025-06-19 06:38:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="564" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="936" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H9</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 S7 S2</cards>
+<action no="7" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520627985"><general><startdate>2025-06-19 06:39:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,001" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="499" dealer="1" win="130" bet="499" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 C2</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="494"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628011"><general><startdate>2025-06-19 06:39:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="564" dealer="0" win="0" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="936" dealer="1" win="326" bet="564" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 H7</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK H6 SJ</cards>
+<action no="7" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="9" player="sarrascaeta" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="11" player="sarrascaeta" type="5" discard="1" dealt="1" sum="98"/>
+<action no="12" player="oreiasccp" type="23" sum="499"/>
+<action no="13" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628160"><general><startdate>2025-06-19 06:40:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,099" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="401" dealer="1" win="176" bet="401" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 D3</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="393"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628201"><general><startdate>2025-06-19 06:41:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="489" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="1,011" dealer="1" win="176" bet="489" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="481"/>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628236"><general><startdate>2025-06-19 06:41:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,099" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="401" dealer="1" win="176" bet="401" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 CQ</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="393"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628273"><general><startdate>2025-06-19 06:41:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="489" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="1,011" dealer="1" win="176" bet="489" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 SK</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="481"/>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628311"><general><startdate>2025-06-19 06:42:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,099" dealer="0" win="96" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="401" dealer="1" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ C7</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628340"><general><startdate>2025-06-19 06:42:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="353" dealer="0" win="120" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="1,147" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="50"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 D8</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520628350"><general><startdate>2025-06-19 06:42:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,087" dealer="0" win="0" bet="413" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="413" dealer="1" win="826" bet="413" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="2" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H6</cards>
+<cards type="Pocket" player="sarrascaeta">C6 C8</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="403"/>
+<action no="6" player="oreiasccp" type="3" sum="303"/>
+</round>
+<round no="2"><cards type="Flop">S4 D8 DK</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">D2</cards>
+</round>
+</game>
+<game gamecode="11520628406"><general><startdate>2025-06-19 06:42:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="826" dealer="0" win="0" bet="674" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="674" dealer="1" win="1,348" bet="674" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="50"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ D9</cards>
+<cards type="Pocket" player="sarrascaeta">C6 D6</cards>
+<action no="5" player="oreiasccp" type="23" sum="664"/>
+<action no="6" player="sarrascaeta" type="3" discard="1" dealt="1" sum="564"/>
+</round>
+<round no="2"><cards type="Flop">DA SA S9</cards>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11520631352"><general><startdate>2025-06-19 06:43:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,348" dealer="0" win="0" bet="152" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="152" dealer="1" win="304" bet="152" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="2" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">D10 CA</cards>
+<cards type="Pocket" player="oreiasccp">D3 SJ</cards>
+<action no="5" player="sarrascaeta" type="7" discard="1" dealt="1" sum="92"/>
+<action no="6" player="oreiasccp" type="3" sum="42"/>
+</round>
+<round no="2"><cards type="Flop">HA H4 DA</cards>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+</round>
+</game>
+<game gamecode="11520631391"><general><startdate>2025-06-19 06:43:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="304" dealer="0" win="608" bet="304" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="1,196" dealer="1" win="0" bet="304" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="50"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">C10 H8</cards>
+<cards type="Pocket" player="oreiasccp">C9 S8</cards>
+<action no="5" player="oreiasccp" type="23" sum="294"/>
+<action no="6" player="sarrascaeta" type="7" discard="1" dealt="1" sum="194"/>
+</round>
+<round no="2"><cards type="Flop">D6 SJ S3</cards>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11520631438"><general><startdate>2025-06-19 06:43:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="892" dealer="0" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="608" dealer="1" win="220" bet="608" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="2" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 C2</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="598"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631451"><general><startdate>2025-06-19 06:43:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="718" dealer="0" win="220" bet="718" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="782" dealer="1" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="50"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="100"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 H10</cards>
+<action no="5" player="oreiasccp" type="3" sum="50"/>
+<action no="6" player="sarrascaeta" type="23" discard="1" dealt="1" sum="708"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631483"><general><startdate>2025-06-19 06:44:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="672" dealer="0" win="140" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="828" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="2" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 H8</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631520"><general><startdate>2025-06-19 06:44:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="758" dealer="0" win="0" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="742" dealer="1" win="260" bet="742" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="60"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 CJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="732"/>
+<action no="6" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631540"><general><startdate>2025-06-19 06:44:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="872" dealer="0" win="140" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="628" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="2" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 C7</cards>
+<cards type="Pocket" player="sarrascaeta">X X</cards>
+<action no="5" player="sarrascaeta" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631554"><general><startdate>2025-06-19 06:44:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="558" dealer="0" win="140" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="942" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="60"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 H9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631575"><general><startdate>2025-06-19 06:44:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="872" dealer="0" win="0" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+<player seat="6" name="sarrascaeta" chips="628" dealer="1" win="260" bet="628" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="15" sum="10"/>
+<action no="3" player="sarrascaeta" type="1" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="2" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ D5</cards>
+<action no="5" player="sarrascaeta" type="23" discard="1" dealt="1" sum="618"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520631590"><general><startdate>2025-06-19 06:44:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="sarrascaeta" chips="758" dealer="0" win="1,484" bet="742" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895421"/>
+<player seat="3" name="oreiasccp" chips="742" dealer="1" win="0" bet="742" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895416"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="10"/>
+<action no="2" player="sarrascaeta" type="15" discard="1" dealt="1" sum="10"/>
+<action no="3" player="oreiasccp" type="1" sum="60"/>
+<action no="4" player="sarrascaeta" type="2" discard="1" dealt="1" sum="120"/>
+</round>
+<round no="1"><cards type="Pocket" player="sarrascaeta">CK H6</cards>
+<cards type="Pocket" player="oreiasccp">C3 CJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="732"/>
+<action no="6" player="sarrascaeta" type="3" discard="1" dealt="1" sum="612"/>
+</round>
+<round no="2"><cards type="Flop">S5 H10 S6</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">SA</cards>
+</round>
+</game>
+</session>

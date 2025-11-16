@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392199730">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128568960</tablename>
+<tournamentcode>1128568959</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>16</gamecount>
+<startdate>2025-06-26 16:19:18</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11534970099"><general><startdate>2025-06-26 16:19:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 CQ</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="TooManyTables" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534970150"><general><startdate>2025-06-26 16:19:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TooManyTables" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BeholdTheGod" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="TooManyTables" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 D5</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534977965"><general><startdate>2025-06-26 16:20:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="490" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="540" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="TooManyTables">SA D5</cards>
+<cards type="Pocket" player="oreiasccp">C8 DA</cards>
+<action no="3" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="TooManyTables" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">HJ H3 C9</cards>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="8" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="10" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978100"><general><startdate>2025-06-26 16:20:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="470" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="480" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 SQ</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="TooManyTables" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978151"><general><startdate>2025-06-26 16:20:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TooManyTables" chips="510" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="540" dealer="1" win="130" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="450" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BeholdTheGod" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="TooManyTables" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">HK DQ</cards>
+<cards type="Pocket" player="oreiasccp">S3 SK</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S4 C3 S8</cards>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+<action no="9" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C6</cards>
+<action no="11" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978318"><general><startdate>2025-06-26 16:21:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="610" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="450" dealer="0" win="40" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 DQ</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="TooManyTables" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978381"><general><startdate>2025-06-26 16:21:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="440" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="590" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 D3</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="3" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978441"><general><startdate>2025-06-26 16:21:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TooManyTables" chips="470" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BeholdTheGod" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK D3</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978497"><general><startdate>2025-06-26 16:21:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="575" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="430" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="495" dealer="0" win="75" bet="495" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 DQ</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="TooManyTables" type="23" discard="1" dealt="1" sum="490"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978577"><general><startdate>2025-06-26 16:22:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="425" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="535" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="540" dealer="0" win="75" bet="425" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK C6</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="420"/>
+<action no="8" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978669"><general><startdate>2025-06-26 16:22:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TooManyTables" chips="530" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="390" dealer="0" win="75" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BeholdTheGod" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 H6</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BeholdTheGod" type="23" discard="1" dealt="1" sum="385"/>
+<action no="8" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978723"><general><startdate>2025-06-26 16:22:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="575" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="430" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="495" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 S7</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="6" player="BeholdTheGod" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534978790"><general><startdate>2025-06-26 16:22:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="425" dealer="0" win="195" bet="189" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="475" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="600" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H6</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="3" sum="15"/>
+<action no="8" player="BeholdTheGod" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK S6 H7</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="BeholdTheGod" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="BeholdTheGod" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="13" player="oreiasccp" type="5" sum="30"/>
+<action no="14" player="BeholdTheGod" type="23" discard="1" dealt="1" sum="124"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534979033"><general><startdate>2025-06-26 16:23:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="TooManyTables" chips="470" dealer="0" win="0" bet="106" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="525" dealer="0" win="217" bet="525" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BeholdTheGod" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 C4</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BeholdTheGod" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="TooManyTables" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H10 S3 D7</cards>
+<action no="9" player="BeholdTheGod" type="5" discard="1" dealt="1" sum="41"/>
+<action no="10" player="TooManyTables" type="3" discard="1" dealt="1" sum="41"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="11" player="BeholdTheGod" type="5" discard="1" dealt="1" sum="419"/>
+<action no="12" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11534979193"><general><startdate>2025-06-26 16:23:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+<player seat="3" name="BeholdTheGod" chips="636" dealer="1" win="115" bet="636" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="364" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="BeholdTheGod">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 DK</cards>
+<action no="6" player="BeholdTheGod" type="23" discard="1" dealt="1" sum="631"/>
+<action no="7" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11534979256"><general><startdate>2025-06-26 16:24:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BeholdTheGod" chips="706" dealer="0" win="915" bet="455" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199716"/>
+<player seat="6" name="TooManyTables" chips="339" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199718"/>
+<player seat="10" name="oreiasccp" chips="455" dealer="0" win="0" bet="455" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392199730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BeholdTheGod" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="BeholdTheGod" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="BeholdTheGod">DA H2</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ D4</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="450"/>
+<action no="8" player="BeholdTheGod" type="3" discard="1" dealt="1" sum="410"/>
+</round>
+<round no="2"><cards type="Flop">S8 CK C5</cards>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+</round>
+<round no="4"><cards type="River">C6</cards>
+</round>
+</game>
+</session>

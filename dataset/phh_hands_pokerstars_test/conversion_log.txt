@@ -1,0 +1,28 @@
+[09:44:51] [INFO] ============================================================
+[09:44:51] [INFO] TESTE DE CONVERSAO POKERSTARS -> PHH
+[09:44:51] [INFO] ============================================================
+[09:44:51] [INFO] Lendo arquivo: D:\code\python\spinAnalyzer\dataset\original_hands\ps\handHistory-147171.txt
+[09:44:51] [INFO] Total de mãos encontradas: 14159
+[09:44:51] [INFO] Filtrando mãos Heads-Up...
+[09:44:51] [INFO] Mãos HU encontradas: 7290 (51.5%)
+[09:44:51] [INFO] Processando 100 mãos HU...
+[09:44:51] [INFO] ============================================================
+[09:44:51] [INFO] RELATÓRIO FINAL
+[09:44:51] [INFO] ============================================================
+[09:44:51] [INFO] Total de maos processadas: 100
+[09:44:51] [INFO] [OK] Conversoes bem-sucedidas: 100
+[09:44:51] [INFO] [ERRO] Erros: 0
+[09:44:51] [INFO] Taxa de sucesso: 100.0%
+[09:44:51] [INFO] 
+Arquivos .phh salvos em: D:\code\python\spinAnalyzer\dataset\phh_hands_pokerstars_test
+[09:44:51] [INFO] Log completo em: D:\code\python\spinAnalyzer\dataset\phh_hands_pokerstars_test\conversion_log.txt
+[09:44:51] [INFO] 
+============================================================
+[09:44:51] [INFO] VALIDAÇÃO DE AMOSTRA
+[09:44:51] [INFO] ============================================================
+[09:44:51] [INFO] Validando arquivo: 255558679632.phh
+[09:44:52] [INFO]   [OK] Hand ID: 255558679632
+[09:44:52] [INFO]   [OK] Hero: FresHHerB
+[09:44:52] [INFO]   [OK] Jogadores: 2
+[09:44:52] [INFO]   [OK] Acoes: 13
+[09:44:52] [INFO]   [OK] Vencedores: ['FresHHerB']

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386912493">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127857111</tablename>
+<tournamentcode>1127857110</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>26</gamecount>
+<startdate>2025-06-19 08:06:46</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11520678719"><general><startdate>2025-06-19 08:07:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="100" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="RNGsus" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA SJ</cards>
+<action no="3" player="coringastico" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520678773"><general><startdate>2025-06-19 08:07:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="460" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="480" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="coringastico" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">D6 C6</cards>
+<cards type="Pocket" player="oreiasccp">H8 D7</cards>
+<cards type="Pocket" player="coringastico">S2 SQ</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="RNGsus" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C9 H3 S4</cards>
+<action no="6" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="8" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="10" player="RNGsus" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520678860"><general><startdate>2025-06-19 08:07:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="560" dealer="0" win="40" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="400" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 DA</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="3" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="coringastico" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="400"/>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520678895"><general><startdate>2025-06-19 08:07:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="380" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="580" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="RNGsus" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 D9</cards>
+<action no="3" player="coringastico" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520678927"><general><startdate>2025-06-19 08:08:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="410" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="570" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="520" dealer="0" win="100" bet="520" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="coringastico" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 CJ</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="RNGsus" type="23" discard="1" dealt="1" sum="520"/>
+<action no="5" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520678982"><general><startdate>2025-06-19 08:08:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="530" dealer="0" win="40" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="580" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="390" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA C7</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="3" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="coringastico" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="390"/>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679033"><general><startdate>2025-06-19 08:08:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="580" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="370" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="550" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="RNGsus" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S9</cards>
+<action no="3" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679059"><general><startdate>2025-06-19 08:08:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="370" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="570" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="560" dealer="0" win="40" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="coringastico" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 C8</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="RNGsus" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679102"><general><startdate>2025-06-19 08:09:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="570" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="580" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="350" dealer="0" win="165" bet="350" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="coringastico" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 C10</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="6" player="RNGsus" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="coringastico" type="23" discard="1" dealt="1" sum="345"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+<action no="9" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679181"><general><startdate>2025-06-19 08:09:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="515" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="450" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="535" dealer="0" win="165" bet="515" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="RNGsus" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C4</cards>
+<action no="6" player="coringastico" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="23" sum="510"/>
+<action no="8" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679216"><general><startdate>2025-06-19 08:09:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="385" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="635" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="RNGsus" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="coringastico" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 HK</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679241"><general><startdate>2025-06-19 08:09:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="630" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="410" dealer="0" win="75" bet="410" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="coringastico" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 H4</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="6" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="coringastico" type="23" discard="1" dealt="1" sum="405"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679262"><general><startdate>2025-06-19 08:10:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="455" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="450" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="595" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="RNGsus" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 S2</cards>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679301"><general><startdate>2025-06-19 08:10:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="445" dealer="0" win="226" bet="223" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="575" dealer="1" win="0" bet="103" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+</players>
+</general>
+<round no="0"><action no="1" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="RNGsus" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="coringastico" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 DQ</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="coringastico" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H2 C5 S8</cards>
+<action no="9" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="38"/>
+<action no="11" player="coringastico" type="3" discard="1" dealt="1" sum="38"/>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+<action no="12" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="14" player="coringastico" type="5" discard="1" dealt="1" sum="120"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679432"><general><startdate>2025-06-19 08:11:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="472" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="10" name="RNGsus" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="568" dealer="0" win="95" bet="568" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="coringastico" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 CJ</cards>
+<cards type="Pocket" player="RNGsus">X X</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="6" player="RNGsus" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="coringastico" type="23" discard="1" dealt="1" sum="563"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679491"><general><startdate>2025-06-19 08:11:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="RNGsus" chips="455" dealer="0" win="0" bet="455" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912497"/>
+<player seat="3" name="coringastico" chips="618" dealer="1" win="935" bet="618" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="427" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="RNGsus" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="RNGsus" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">CA D10</cards>
+<cards type="Pocket" player="oreiasccp">H6 H2</cards>
+<cards type="Pocket" player="RNGsus">C8 DA</cards>
+<action no="6" player="coringastico" type="23" discard="1" dealt="1" sum="613"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="RNGsus" type="7" discard="1" dealt="1" sum="410"/>
+</round>
+<round no="2"><cards type="Flop">DJ D5 S2</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11520679547"><general><startdate>2025-06-19 08:11:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="1,098" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="402" dealer="1" win="90" bet="402" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="coringastico" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ D10</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="397"/>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679575"><general><startdate>2025-06-19 08:11:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="447" dealer="0" win="894" bet="447" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="3" name="coringastico" chips="1,053" dealer="1" win="0" bet="1,053" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="coringastico" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 D6</cards>
+<cards type="Pocket" player="coringastico">CA C9</cards>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="coringastico" type="23" discard="1" dealt="1" sum="1,048"/>
+<action no="8" player="oreiasccp" type="7" sum="342"/>
+</round>
+<round no="2"><cards type="Flop">C10 C2 D8</cards>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+<game gamecode="11520679672"><general><startdate>2025-06-19 08:12:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="606" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="894" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="coringastico" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 H3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520679688"><general><startdate>2025-06-19 08:12:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="869" dealer="0" win="90" bet="631" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="3" name="coringastico" chips="631" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="coringastico" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 C3</cards>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="626"/>
+<action no="7" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520681907"><general><startdate>2025-06-19 08:12:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="586" dealer="0" win="85" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="914" dealer="1" win="85" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="coringastico" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">H2 D8</cards>
+<cards type="Pocket" player="oreiasccp">C2 C8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ S8 CA</cards>
+<action no="7" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="coringastico" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+<action no="10" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="12" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11520681987"><general><startdate>2025-06-19 08:13:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="914" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="3" name="coringastico" chips="586" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="coringastico" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 H6</cards>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ C3 S8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="coringastico" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520682053"><general><startdate>2025-06-19 08:13:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="631" dealer="0" win="626" bet="313" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="869" dealer="1" win="0" bet="313" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="coringastico" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ C2</cards>
+<cards type="Pocket" player="coringastico">D3 CK</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ C9 C4</cards>
+<action no="7" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="coringastico" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="10" player="coringastico" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="12" player="coringastico" type="5" discard="1" dealt="1" sum="188"/>
+<action no="13" player="oreiasccp" type="3" sum="188"/>
+</round>
+</game>
+<game gamecode="11520682159"><general><startdate>2025-06-19 08:14:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="556" dealer="0" win="130" bet="556" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="3" name="coringastico" chips="944" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="coringastico" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="coringastico">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 S2</cards>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="551"/>
+<action no="7" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520682184"><general><startdate>2025-06-19 08:14:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="coringastico" chips="879" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+<player seat="6" name="oreiasccp" chips="621" dealer="1" win="130" bet="621" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="coringastico" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 DA</cards>
+<cards type="Pocket" player="coringastico">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="616"/>
+<action no="6" player="coringastico" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520682218"><general><startdate>2025-06-19 08:14:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="686" dealer="0" win="0" bet="686" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912493"/>
+<player seat="3" name="coringastico" chips="814" dealer="1" win="1,372" bet="686" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386912483"/>
+</players>
+</general>
+<round no="0"><action no="1" player="coringastico" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="coringastico" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 D3</cards>
+<cards type="Pocket" player="coringastico">C4 S3</cards>
+<action no="5" player="coringastico" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 S5 DA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="coringastico" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="23" sum="150"/>
+<action no="10" player="coringastico" type="3" discard="1" dealt="1" sum="90"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="11" player="oreiasccp" type="5" sum="471"/>
+<action no="12" player="coringastico" type="3" discard="1" dealt="1" sum="471"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+</session>

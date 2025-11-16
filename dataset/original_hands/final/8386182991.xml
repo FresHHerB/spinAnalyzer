@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386182991">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127760313</tablename>
+<tournamentcode>1127760312</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-18 08:17:40</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11518722649"><general><startdate>2025-06-18 08:17:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="SamStarr" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183002"/>
+<player seat="10" name="SPORTMAGNUS" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183015"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386182991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="SamStarr" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="SPORTMAGNUS">X X</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C9</cards>
+<action no="3" player="SPORTMAGNUS" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518722678"><general><startdate>2025-06-18 08:18:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SPORTMAGNUS" chips="500" dealer="0" win="80" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183015"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386182991"/>
+<player seat="6" name="SamStarr" chips="510" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183002"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SamStarr" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="SPORTMAGNUS" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 H2</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="SPORTMAGNUS">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="SamStarr" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="SPORTMAGNUS" type="23" discard="1" dealt="1" sum="100"/>
+<action no="6" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518722738"><general><startdate>2025-06-18 08:18:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="490" dealer="0" win="0" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386182991"/>
+<player seat="6" name="SamStarr" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183002"/>
+<player seat="10" name="SPORTMAGNUS" chips="540" dealer="0" win="980" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386183015"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SPORTMAGNUS" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 C6</cards>
+<cards type="Pocket" player="SamStarr">X X</cards>
+<cards type="Pocket" player="SPORTMAGNUS">SJ DA</cards>
+<action no="3" player="SamStarr" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="SPORTMAGNUS" type="23" discard="1" dealt="1" sum="70"/>
+<action no="5" player="oreiasccp" type="23" sum="490"/>
+<action no="6" player="SPORTMAGNUS" type="3" discard="1" dealt="1" sum="420"/>
+</round>
+<round no="2"><cards type="Flop">H9 HA D5</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+</round>
+</game>
+</session>

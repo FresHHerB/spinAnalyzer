@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392878890">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128658051</tablename>
+<tournamentcode>1128658050</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-06-27 13:50:45</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11536757312"><general><startdate>2025-06-27 13:51:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="KUKUBEBE" chips="500" dealer="0" win="90" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="KUKUBEBE" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 CA</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757382"><general><startdate>2025-06-27 13:51:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="460" dealer="0" win="0" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="490" dealer="1" win="148" bet="168" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+</players>
+</general>
+<round no="0"><action no="1" player="KUKUBEBE" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 C3</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="TooManyTables" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="KUKUBEBE" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C9 S10 D6</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="TooManyTables" type="5" discard="1" dealt="1" sum="29"/>
+<action no="8" player="oreiasccp" type="3" sum="29"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="TooManyTables" type="5" discard="1" dealt="1" sum="99"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757591"><general><startdate>2025-06-27 13:51:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="569" dealer="0" win="410" bet="569" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="540" dealer="1" win="0" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="391" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="TooManyTables" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="KUKUBEBE">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 CQ</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<action no="3" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S3 HA S5</cards>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="KUKUBEBE" type="5" discard="1" dealt="1" sum="60"/>
+<action no="8" player="TooManyTables" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="KUKUBEBE" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="11" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="KUKUBEBE" type="5" discard="1" dealt="1" sum="100"/>
+<action no="13" player="TooManyTables" type="23" discard="1" dealt="1" sum="469"/>
+<action no="14" player="KUKUBEBE" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757756"><general><startdate>2025-06-27 13:52:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="KUKUBEBE" chips="340" dealer="0" win="40" bet="340" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="381" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="779" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="KUKUBEBE" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D5</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="TooManyTables" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="340"/>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757835"><general><startdate>2025-06-27 13:52:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="381" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="759" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="360" dealer="0" win="40" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+</players>
+</general>
+<round no="0"><action no="1" player="KUKUBEBE" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 D10</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<action no="3" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="360"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757881"><general><startdate>2025-06-27 13:53:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="759" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="380" dealer="1" win="90" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="361" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="KUKUBEBE" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="KUKUBEBE">X X</cards>
+<cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H2</cards>
+<action no="6" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="375"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536757943"><general><startdate>2025-06-27 13:53:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="KUKUBEBE" chips="435" dealer="0" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="341" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="724" dealer="0" win="225" bet="260" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="KUKUBEBE" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="KUKUBEBE" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 HQ</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="TooManyTables" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="KUKUBEBE" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H4 S3 H10</cards>
+<action no="9" player="TooManyTables" type="5" discard="1" dealt="1" sum="45"/>
+<action no="10" player="KUKUBEBE" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="11" player="TooManyTables" type="5" discard="1" dealt="1" sum="150"/>
+<action no="12" player="KUKUBEBE" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536758065"><general><startdate>2025-06-27 13:53:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="336" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="839" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="325" dealer="0" win="75" bet="325" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+</players>
+</general>
+<round no="0"><action no="1" player="KUKUBEBE" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="KUKUBEBE" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="KUKUBEBE">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 S8</cards>
+<action no="6" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="320"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536758135"><general><startdate>2025-06-27 13:53:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="834" dealer="0" win="750" bet="365" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="3" name="KUKUBEBE" chips="365" dealer="1" win="0" bet="365" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878861"/>
+<player seat="6" name="oreiasccp" chips="301" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="KUKUBEBE" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="KUKUBEBE">C7 C3</cards>
+<cards type="Pocket" player="oreiasccp">HJ C10</cards>
+<cards type="Pocket" player="TooManyTables">CQ HA</cards>
+<action no="6" player="KUKUBEBE" type="23" discard="1" dealt="1" sum="360"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="TooManyTables" type="3" discard="1" dealt="1" sum="330"/>
+</round>
+<round no="2"><cards type="Flop">S6 S9 SA</cards>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+</round>
+</game>
+<game gamecode="11536758233"><general><startdate>2025-06-27 13:54:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="1,219" dealer="0" win="0" bet="1,219" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="6" name="oreiasccp" chips="281" dealer="1" win="562" bet="281" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">DJ H2</cards>
+<cards type="Pocket" player="oreiasccp">HA CA</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="TooManyTables" type="23" discard="1" dealt="1" sum="1,214"/>
+<action no="7" player="oreiasccp" type="7" sum="246"/>
+</round>
+<round no="2"><cards type="Flop">DQ H3 D8</cards>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">D5</cards>
+</round>
+</game>
+<game gamecode="11536758329"><general><startdate>2025-06-27 13:54:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="562" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="938" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 CQ</cards>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 H2 C6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TooManyTables" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536758422"><general><startdate>2025-06-27 13:54:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="973" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="6" name="oreiasccp" chips="527" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="TooManyTables" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 S5</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11536764132"><general><startdate>2025-06-27 13:55:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="507" dealer="0" win="90" bet="122" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="993" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ D9</cards>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ SQ C10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="9" player="oreiasccp" type="5" sum="77"/>
+<action no="10" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536764227"><general><startdate>2025-06-27 13:55:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="TooManyTables" chips="948" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+<player seat="6" name="oreiasccp" chips="552" dealer="1" win="170" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="TooManyTables" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 DJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA S9 C8</cards>
+<action no="7" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="TooManyTables" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="10" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D10</cards>
+<action no="12" player="TooManyTables" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="5" sum="85"/>
+<action no="14" player="TooManyTables" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11536764417"><general><startdate>2025-06-27 13:56:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="637" dealer="0" win="0" bet="637" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878890"/>
+<player seat="10" name="TooManyTables" chips="863" dealer="1" win="1,274" bet="863" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392878922"/>
+</players>
+</general>
+<round no="0"><action no="1" player="TooManyTables" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="TooManyTables" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="TooManyTables">CQ CK</cards>
+<cards type="Pocket" player="oreiasccp">DJ HK</cards>
+<action no="5" player="TooManyTables" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="180"/>
+<action no="7" player="TooManyTables" type="23" discard="1" dealt="1" sum="858"/>
+<action no="8" player="oreiasccp" type="7" sum="452"/>
+</round>
+<round no="2"><cards type="Flop">H3 C8 S9</cards>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+</round>
+<round no="4"><cards type="River">HA</cards>
+</round>
+</game>
+</session>

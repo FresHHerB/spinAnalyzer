@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8407737053">
+ <general>
+  <client_version>25.1.1.13</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €5 SNG, 1130657191</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:06:44</duration>
+  <gamecount>20</gamecount>
+  <startdate>2025-07-16 22:25:36</startdate>
+  <currency>EUR</currency>
+  <nickname>oreiasccp</nickname>
+  <bets>3,164</bets>
+  <wins>3,208</wins>
+  <chipsin>480</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP3.50</statuspoints>
+  <awardpoints>RP10.50</awardpoints>
+  <ipoints>RP3.50</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1130657190</tournamentcode>
+  <tournamentname>Twister €5 SNG</tournamentname>
+  <rewarddrawn>€10</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.35 + €4.65</buyin>
+  <totalbuyin>€5</totalbuyin>
+  <win>€10</win>
+ </general>
+ <game gamecode="11577870072">
+  <general>
+   <startdate>2025-07-16 22:25:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="500" name="oreiasccp" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="6" chips="500" name="MoneyReaper" win="50" bet="40" dealer="1"/>
+    <player reg_code="" seat="10" chips="500" name="AVicent" win="0" bet="10" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AVicent" type="1" sum="10" no="1"/>
+   <action player="oreiasccp" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="23" sum="40" no="3"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="0" sum="0" no="4"/>
+   <cards player="oreiasccp" type="Pocket">D3 HK</cards>
+   <action player="oreiasccp" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577870145">
+  <general>
+   <startdate>2025-07-16 22:25:55</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="480" name="oreiasccp" win="0" bet="69" dealer="0"/>
+    <player reg_code="" seat="6" chips="530" name="MoneyReaper" win="138" bet="130" dealer="0"/>
+    <player reg_code="" seat="10" chips="490" name="AVicent" win="0" bet="0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="1" sum="10" no="1"/>
+   <action player="MoneyReaper" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="0" sum="0" no="3"/>
+   <cards player="oreiasccp" type="Pocket">H6 DK</cards>
+   <action player="oreiasccp" type="23" sum="40" no="4"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="3" sum="20" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S5 C4</cards>
+   <action player="oreiasccp" type="5" sum="29" no="6"/>
+   <action player="MoneyReaper" type="23" sum="90" no="7"/>
+   <action player="oreiasccp" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577870265">
+  <general>
+   <startdate>2025-07-16 22:26:27</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="411" name="oreiasccp" win="0" bet="60" dealer="1"/>
+    <player reg_code="" seat="6" chips="599" name="MoneyReaper" win="0" bet="10" dealer="0"/>
+    <player reg_code="" seat="10" chips="490" name="AVicent" win="130" bet="99" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="1" sum="10" no="1"/>
+   <action player="AVicent" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">S8 S9</cards>
+   <action player="oreiasccp" type="23" sum="40" no="3"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="4"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="3" sum="20" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C4 SQ</cards>
+   <action player="AVicent" type="4" sum="0" no="6"/>
+   <action player="oreiasccp" type="5" sum="20" no="7"/>
+   <action player="AVicent" type="3" sum="20" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action player="AVicent" type="4" sum="0" no="9"/>
+   <action player="oreiasccp" type="4" sum="0" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action player="AVicent" type="5" sum="39" no="11"/>
+   <action player="oreiasccp" type="0" sum="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11577870361">
+  <general>
+   <startdate>2025-07-16 22:26:59</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="351" name="oreiasccp" win="702" bet="351" dealer="0"/>
+    <player reg_code="" seat="6" chips="589" name="MoneyReaper" win="0" bet="0" dealer="1"/>
+    <player reg_code="" seat="10" chips="560" name="AVicent" win="0" bet="483" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AVicent" type="1" sum="10" no="1"/>
+   <action player="oreiasccp" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="3"/>
+   <cards player="AVicent" type="Pocket">SJ H7</cards>
+   <action player="AVicent" type="23" sum="50" no="4"/>
+   <cards player="oreiasccp" type="Pocket">C6 CA</cards>
+   <action player="oreiasccp" type="3" sum="30" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 HQ S6</cards>
+   <action player="AVicent" type="5" sum="30" no="6"/>
+   <action player="oreiasccp" type="3" sum="30" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+   <action player="AVicent" type="4" sum="0" no="8"/>
+   <action player="oreiasccp" type="4" sum="0" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action player="AVicent" type="4" sum="0" no="10"/>
+   <action player="oreiasccp" type="5" sum="58" no="11"/>
+   <action player="AVicent" type="23" sum="403" no="12"/>
+   <action player="oreiasccp" type="7" sum="213" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11577870568">
+  <general>
+   <startdate>2025-07-16 22:27:58</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="702" name="oreiasccp" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="6" chips="589" name="MoneyReaper" win="0" bet="209" dealer="0"/>
+    <player reg_code="" seat="10" chips="209" name="AVicent" win="438" bet="204" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="AVicent" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="15" no="4"/>
+   <action player="MoneyReaper" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AVicent" type="Pocket">D6 D7</cards>
+   <action player="AVicent" type="23" sum="204" no="6"/>
+   <cards player="oreiasccp" type="Pocket">S8 D9</cards>
+   <action player="oreiasccp" type="0" sum="0" no="7"/>
+   <cards player="MoneyReaper" type="Pocket">SK SQ</cards>
+   <action player="MoneyReaper" type="3" sum="174" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S6 C6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+  </round>
+ </game>
+ <game gamecode="11577870638">
+  <general>
+   <startdate>2025-07-16 22:28:20</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="682" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="380" name="MoneyReaper" win="0" bet="35" dealer="0"/>
+    <player reg_code="" seat="10" chips="438" name="AVicent" win="75" bet="433" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="AVicent" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="MoneyReaper" type="1" sum="15" no="4"/>
+   <action player="AVicent" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">C2 S5</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="3" sum="15" no="7"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="23" sum="433" no="8"/>
+   <action player="MoneyReaper" type="0" sum="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11577870703">
+  <general>
+   <startdate>2025-07-16 22:28:41</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="677" name="oreiasccp" win="0" bet="35" dealer="0"/>
+    <player reg_code="" seat="6" chips="345" name="MoneyReaper" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="10" chips="478" name="AVicent" win="75" bet="473" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AVicent" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="15" sum="5" no="3"/>
+   <action player="AVicent" type="1" sum="15" no="4"/>
+   <action player="oreiasccp" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="6"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="23" sum="473" no="7"/>
+   <cards player="oreiasccp" type="Pocket">H8 DK</cards>
+   <action player="oreiasccp" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577870769">
+  <general>
+   <startdate>2025-07-16 22:28:58</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="642" name="oreiasccp" win="75" bet="335" dealer="0"/>
+    <player reg_code="" seat="6" chips="340" name="MoneyReaper" win="0" bet="35" dealer="0"/>
+    <player reg_code="" seat="10" chips="518" name="AVicent" win="0" bet="5" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="AVicent" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="15" no="4"/>
+   <action player="MoneyReaper" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="0" sum="0" no="6"/>
+   <cards player="oreiasccp" type="Pocket">DK D10</cards>
+   <action player="oreiasccp" type="23" sum="335" no="7"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577870811">
+  <general>
+   <startdate>2025-07-16 22:29:09</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="682" name="oreiasccp" win="90" bet="60" dealer="1"/>
+    <player reg_code="" seat="6" chips="305" name="MoneyReaper" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="10" chips="513" name="AVicent" win="0" bet="35" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="AVicent" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="MoneyReaper" type="1" sum="15" no="4"/>
+   <action player="AVicent" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">SQ S10</cards>
+   <action player="oreiasccp" type="23" sum="60" no="6"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="7"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577870860">
+  <general>
+   <startdate>2025-07-16 22:29:22</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="737" name="oreiasccp" win="0" bet="285" dealer="0"/>
+    <player reg_code="" seat="6" chips="285" name="MoneyReaper" win="590" bet="280" dealer="1"/>
+    <player reg_code="" seat="10" chips="478" name="AVicent" win="0" bet="20" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AVicent" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="15" sum="5" no="3"/>
+   <action player="AVicent" type="1" sum="15" no="4"/>
+   <action player="oreiasccp" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">DA CJ</cards>
+   <action player="MoneyReaper" type="23" sum="280" no="6"/>
+   <cards player="AVicent" type="Pocket">X X</cards>
+   <action player="AVicent" type="0" sum="0" no="7"/>
+   <cards player="oreiasccp" type="Pocket">SK HJ</cards>
+   <action player="oreiasccp" type="3" sum="250" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 S6 C4</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+  </round>
+ </game>
+ <game gamecode="11577870931">
+  <general>
+   <startdate>2025-07-16 22:29:43</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="452" name="oreiasccp" win="949" bet="452" dealer="0"/>
+    <player reg_code="" seat="6" chips="590" name="MoneyReaper" win="0" bet="45" dealer="0"/>
+    <player reg_code="" seat="10" chips="458" name="AVicent" win="0" bet="453" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="AVicent" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="20" no="4"/>
+   <action player="MoneyReaper" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AVicent" type="Pocket">DQ C10</cards>
+   <action player="AVicent" type="23" sum="453" no="6"/>
+   <cards player="oreiasccp" type="Pocket">CA DK</cards>
+   <action player="oreiasccp" type="7" sum="427" no="7"/>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 C7 H2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">HK</cards>
+  </round>
+ </game>
+ <game gamecode="11577871013">
+  <general>
+   <startdate>2025-07-16 22:30:05</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="949" name="oreiasccp" win="0" bet="85" dealer="1"/>
+    <player reg_code="" seat="6" chips="545" name="MoneyReaper" win="176" bet="540" dealer="0"/>
+    <player reg_code="" seat="10" chips="6" name="AVicent" win="0" bet="6" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="AVicent" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="MoneyReaper" type="1" sum="20" no="4"/>
+   <action player="AVicent" type="2" sum="1" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AVicent" type="Pocket">C5 S4</cards>
+   <cards player="oreiasccp" type="Pocket">H8 CJ</cards>
+   <action player="oreiasccp" type="23" sum="80" no="6"/>
+   <cards player="MoneyReaper" type="Pocket">CA D9</cards>
+   <action player="MoneyReaper" type="23" sum="540" no="7"/>
+   <action player="oreiasccp" type="0" sum="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 DK C8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+  </round>
+ </game>
+ <game gamecode="11577871100">
+  <general>
+   <startdate>2025-07-16 22:30:29</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="864" name="oreiasccp" win="50" bet="45" dealer="0"/>
+    <player reg_code="" seat="6" chips="636" name="MoneyReaper" win="0" bet="25" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="1" sum="20" no="3"/>
+   <action player="oreiasccp" type="2" sum="40" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">D2 H9</cards>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577871120">
+  <general>
+   <startdate>2025-07-16 22:30:34</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="889" name="oreiasccp" win="0" bet="25" dealer="1"/>
+    <player reg_code="" seat="6" chips="611" name="MoneyReaper" win="50" bet="45" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="1" sum="20" no="3"/>
+   <action player="MoneyReaper" type="2" sum="40" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <cards player="oreiasccp" type="Pocket">H8 D3</cards>
+   <action player="oreiasccp" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577871153">
+  <general>
+   <startdate>2025-07-16 22:30:40</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="864" name="oreiasccp" win="170" bet="631" dealer="0"/>
+    <player reg_code="" seat="6" chips="636" name="MoneyReaper" win="0" bet="85" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="1" sum="20" no="3"/>
+   <action player="oreiasccp" type="2" sum="40" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="23" sum="80" no="5"/>
+   <cards player="oreiasccp" type="Pocket">HJ DJ</cards>
+   <action player="oreiasccp" type="23" sum="631" no="6"/>
+   <action player="MoneyReaper" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577871213">
+  <general>
+   <startdate>2025-07-16 22:30:56</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="949" name="oreiasccp" win="170" bet="85" dealer="1"/>
+    <player reg_code="" seat="6" chips="551" name="MoneyReaper" win="0" bet="85" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="1" sum="20" no="3"/>
+   <action player="MoneyReaper" type="2" sum="40" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">C5 D10</cards>
+   <action player="oreiasccp" type="3" sum="20" no="5"/>
+   <cards player="MoneyReaper" type="Pocket">D5 S8</cards>
+   <action player="MoneyReaper" type="4" sum="0" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 C2 D7</cards>
+   <action player="MoneyReaper" type="4" sum="0" no="7"/>
+   <action player="oreiasccp" type="4" sum="0" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="MoneyReaper" type="4" sum="0" no="9"/>
+   <action player="oreiasccp" type="4" sum="0" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D2</cards>
+   <action player="MoneyReaper" type="5" sum="40" no="11"/>
+   <action player="oreiasccp" type="3" sum="40" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11577871341">
+  <general>
+   <startdate>2025-07-16 22:31:29</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="1,034" name="oreiasccp" win="210" bet="145" dealer="0"/>
+    <player reg_code="" seat="6" chips="466" name="MoneyReaper" win="0" bet="105" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="1" sum="20" no="3"/>
+   <action player="oreiasccp" type="2" sum="40" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="3" sum="20" no="5"/>
+   <cards player="oreiasccp" type="Pocket">DQ DA</cards>
+   <action player="oreiasccp" type="23" sum="100" no="6"/>
+   <action player="MoneyReaper" type="3" sum="60" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 H6 D3</cards>
+   <action player="oreiasccp" type="5" sum="40" no="8"/>
+   <action player="MoneyReaper" type="0" sum="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11577871428">
+  <general>
+   <startdate>2025-07-16 22:31:53</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="1,139" name="oreiasccp" win="0" bet="35" dealer="1"/>
+    <player reg_code="" seat="6" chips="361" name="MoneyReaper" win="70" bet="65" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="1" sum="30" no="3"/>
+   <action player="MoneyReaper" type="2" sum="60" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <cards player="oreiasccp" type="Pocket">H9 S6</cards>
+   <action player="oreiasccp" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577871448">
+  <general>
+   <startdate>2025-07-16 22:31:58</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="1,104" name="oreiasccp" win="70" bet="65" dealer="0"/>
+    <player reg_code="" seat="6" chips="396" name="MoneyReaper" win="0" bet="35" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="MoneyReaper" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="MoneyReaper" type="1" sum="30" no="3"/>
+   <action player="oreiasccp" type="2" sum="60" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">C4 DK</cards>
+   <cards player="MoneyReaper" type="Pocket">X X</cards>
+   <action player="MoneyReaper" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577871479">
+  <general>
+   <startdate>2025-07-16 22:32:04</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737053" seat="3" chips="1,139" name="oreiasccp" win="722" bet="356" dealer="1"/>
+    <player reg_code="" seat="6" chips="361" name="MoneyReaper" win="0" bet="361" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="MoneyReaper" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="1" sum="30" no="3"/>
+   <action player="MoneyReaper" type="2" sum="60" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">SQ S8</cards>
+   <action player="oreiasccp" type="23" sum="356" no="5"/>
+   <cards player="MoneyReaper" type="Pocket">DJ H8</cards>
+   <action player="MoneyReaper" type="7" sum="296" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK CA D3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D10</cards>
+  </round>
+ </game>
+</session>

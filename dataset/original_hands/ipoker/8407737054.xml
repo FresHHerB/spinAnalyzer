@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8407737054">
+ <general>
+  <client_version>25.1.1.13</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €5 SNG, 1130657201</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:07:12</duration>
+  <gamecount>20</gamecount>
+  <startdate>2025-07-16 22:25:45</startdate>
+  <currency>EUR</currency>
+  <nickname>oreiasccp</nickname>
+  <bets>1,361</bets>
+  <wins>380</wins>
+  <chipsin>490</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP3.50</statuspoints>
+  <awardpoints>RP10.50</awardpoints>
+  <ipoints>RP3.50</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1130657200</tournamentcode>
+  <tournamentname>Twister €5 SNG</tournamentname>
+  <rewarddrawn>€10</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.35 + €4.65</buyin>
+  <totalbuyin>€5</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11577870106">
+  <general>
+   <startdate>2025-07-16 22:25:45</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="500" name="oreiasccp" win="0" bet="10" dealer="0"/>
+    <player reg_code="" seat="6" chips="500" name="ygfz1n" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="10" chips="500" name="ppalbs29" win="50" bet="500" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="1" sum="10" no="1"/>
+   <action player="ygfz1n" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="23" sum="500" no="3"/>
+   <cards player="oreiasccp" type="Pocket">S5 C6</cards>
+   <action player="oreiasccp" type="0" sum="0" no="4"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11577870181">
+  <general>
+   <startdate>2025-07-16 22:26:07</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="490" name="oreiasccp" win="0" bet="0" dealer="1"/>
+    <player reg_code="" seat="6" chips="480" name="ygfz1n" win="298" bet="480" dealer="0"/>
+    <player reg_code="" seat="10" chips="530" name="ppalbs29" win="0" bet="149" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="1" sum="10" no="1"/>
+   <action player="ppalbs29" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">H5 D9</cards>
+   <action player="oreiasccp" type="0" sum="0" no="3"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="23" sum="40" no="4"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="23" sum="90" no="5"/>
+   <action player="ygfz1n" type="3" sum="50" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 C8 H9</cards>
+   <action player="ygfz1n" type="4" sum="0" no="7"/>
+   <action player="ppalbs29" type="4" sum="0" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="ygfz1n" type="5" sum="59" no="9"/>
+   <action player="ppalbs29" type="3" sum="59" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+   <action player="ygfz1n" type="5" sum="331" no="11"/>
+   <action player="ppalbs29" type="0" sum="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11577870407">
+  <general>
+   <startdate>2025-07-16 22:27:08</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="490" name="oreiasccp" win="40" bet="381" dealer="0"/>
+    <player reg_code="" seat="6" chips="629" name="ygfz1n" win="0" bet="0" dealer="1"/>
+    <player reg_code="" seat="10" chips="381" name="ppalbs29" win="0" bet="20" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="1" sum="10" no="1"/>
+   <action player="oreiasccp" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="3"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="3" sum="10" no="4"/>
+   <cards player="oreiasccp" type="Pocket">C7 SA</cards>
+   <action player="oreiasccp" type="23" sum="381" no="5"/>
+   <action player="ppalbs29" type="0" sum="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11577870497">
+  <general>
+   <startdate>2025-07-16 22:27:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="510" name="oreiasccp" win="80" bet="60" dealer="0"/>
+    <player reg_code="" seat="6" chips="629" name="ygfz1n" win="0" bet="40" dealer="0"/>
+    <player reg_code="" seat="10" chips="361" name="ppalbs29" win="0" bet="0" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="1" sum="10" no="1"/>
+   <action player="ygfz1n" type="2" sum="20" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="3"/>
+   <cards player="oreiasccp" type="Pocket">SK H8</cards>
+   <action player="oreiasccp" type="23" sum="40" no="4"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="3" sum="20" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D5 HK</cards>
+   <action player="oreiasccp" type="5" sum="20" no="6"/>
+   <action player="ygfz1n" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870582">
+  <general>
+   <startdate>2025-07-16 22:28:01</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="550" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="589" name="ygfz1n" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="10" chips="361" name="ppalbs29" win="45" bet="35" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="15" no="4"/>
+   <action player="ppalbs29" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <cards player="oreiasccp" type="Pocket">H10 S3</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870610">
+  <general>
+   <startdate>2025-07-16 22:28:09</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="545" name="oreiasccp" win="45" bet="35" dealer="0"/>
+    <player reg_code="" seat="6" chips="569" name="ygfz1n" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="10" chips="386" name="ppalbs29" win="0" bet="20" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="ygfz1n" type="15" sum="5" no="3"/>
+   <action player="ppalbs29" type="1" sum="15" no="4"/>
+   <action player="oreiasccp" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">S5 SA</cards>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="6"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870639">
+  <general>
+   <startdate>2025-07-16 22:28:20</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="570" name="oreiasccp" win="0" bet="65" dealer="0"/>
+    <player reg_code="" seat="6" chips="564" name="ygfz1n" win="135" bet="559" dealer="0"/>
+    <player reg_code="" seat="10" chips="366" name="ppalbs29" win="0" bet="5" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="ygfz1n" type="15" sum="5" no="2"/>
+   <action player="ppalbs29" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="15" no="4"/>
+   <action player="ygfz1n" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="6"/>
+   <cards player="oreiasccp" type="Pocket">D5 D4</cards>
+   <action player="oreiasccp" type="23" sum="60" no="7"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="23" sum="559" no="8"/>
+   <action player="oreiasccp" type="0" sum="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11577870710">
+  <general>
+   <startdate>2025-07-16 22:28:43</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="505" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="634" name="ygfz1n" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="10" chips="361" name="ppalbs29" win="45" bet="35" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="15" no="4"/>
+   <action player="ppalbs29" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <cards player="oreiasccp" type="Pocket">S3 H8</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870757">
+  <general>
+   <startdate>2025-07-16 22:28:55</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="500" name="oreiasccp" win="45" bet="35" dealer="0"/>
+    <player reg_code="" seat="6" chips="614" name="ygfz1n" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="10" chips="386" name="ppalbs29" win="0" bet="20" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="ygfz1n" type="15" sum="5" no="3"/>
+   <action player="ppalbs29" type="1" sum="15" no="4"/>
+   <action player="oreiasccp" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">S4 C8</cards>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="6"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870803">
+  <general>
+   <startdate>2025-07-16 22:29:06</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="525" name="oreiasccp" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="6" chips="609" name="ygfz1n" win="45" bet="35" dealer="0"/>
+    <player reg_code="" seat="10" chips="366" name="ppalbs29" win="0" bet="5" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="ygfz1n" type="15" sum="5" no="2"/>
+   <action player="ppalbs29" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="15" no="4"/>
+   <action player="ygfz1n" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="6"/>
+   <cards player="oreiasccp" type="Pocket">C5 D4</cards>
+   <action player="oreiasccp" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870856">
+  <general>
+   <startdate>2025-07-16 22:29:21</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="505" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="634" name="ygfz1n" win="0" bet="20" dealer="0"/>
+    <player reg_code="" seat="10" chips="361" name="ppalbs29" win="45" bet="35" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="15" no="4"/>
+   <action player="ppalbs29" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <cards player="oreiasccp" type="Pocket">H5 H2</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577870887">
+  <general>
+   <startdate>2025-07-16 22:29:29</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="500" name="oreiasccp" win="75" bet="75" dealer="0"/>
+    <player reg_code="" seat="6" chips="614" name="ygfz1n" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="10" chips="386" name="ppalbs29" win="0" bet="35" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="ygfz1n" type="15" sum="5" no="3"/>
+   <action player="ppalbs29" type="1" sum="15" no="4"/>
+   <action player="oreiasccp" type="2" sum="30" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="6"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="3" sum="15" no="7"/>
+   <cards player="oreiasccp" type="Pocket">S7 CQ</cards>
+   <action player="oreiasccp" type="23" sum="75" no="8"/>
+   <action player="ppalbs29" type="0" sum="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11577870956">
+  <general>
+   <startdate>2025-07-16 22:29:48</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="540" name="oreiasccp" win="95" bet="80" dealer="0"/>
+    <player reg_code="" seat="6" chips="609" name="ygfz1n" win="0" bet="45" dealer="0"/>
+    <player reg_code="" seat="10" chips="351" name="ppalbs29" win="0" bet="5" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="ygfz1n" type="15" sum="5" no="2"/>
+   <action player="ppalbs29" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="20" no="4"/>
+   <action player="ygfz1n" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="6"/>
+   <cards player="oreiasccp" type="Pocket">H7 DK</cards>
+   <action player="oreiasccp" type="23" sum="80" no="7"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577871006">
+  <general>
+   <startdate>2025-07-16 22:30:02</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="590" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="564" name="ygfz1n" win="0" bet="559" dealer="0"/>
+    <player reg_code="" seat="10" chips="346" name="ppalbs29" win="697" bet="346" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="20" no="4"/>
+   <action player="ppalbs29" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">H7 CJ</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="ygfz1n" type="Pocket">DK D3</cards>
+   <action player="ygfz1n" type="23" sum="559" no="7"/>
+   <cards player="ppalbs29" type="Pocket">HQ DQ</cards>
+   <action player="ppalbs29" type="7" sum="301" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ DJ S5</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+  </round>
+ </game>
+ <game gamecode="11577871096">
+  <general>
+   <startdate>2025-07-16 22:30:27</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="585" name="oreiasccp" win="0" bet="45" dealer="0"/>
+    <player reg_code="" seat="6" chips="218" name="ygfz1n" win="115" bet="213" dealer="1"/>
+    <player reg_code="" seat="10" chips="697" name="ppalbs29" win="0" bet="25" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="ygfz1n" type="15" sum="5" no="3"/>
+   <action player="ppalbs29" type="1" sum="20" no="4"/>
+   <action player="oreiasccp" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="23" sum="213" no="6"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="7"/>
+   <cards player="oreiasccp" type="Pocket">C5 D7</cards>
+   <action player="oreiasccp" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577871177">
+  <general>
+   <startdate>2025-07-16 22:30:45</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="540" name="oreiasccp" win="0" bet="25" dealer="0"/>
+    <player reg_code="" seat="6" chips="288" name="ygfz1n" win="55" bet="45" dealer="0"/>
+    <player reg_code="" seat="10" chips="672" name="ppalbs29" win="0" bet="5" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="ygfz1n" type="15" sum="5" no="2"/>
+   <action player="ppalbs29" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="20" no="4"/>
+   <action player="ygfz1n" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="6"/>
+   <cards player="oreiasccp" type="Pocket">D10 H2</cards>
+   <action player="oreiasccp" type="0" sum="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11577871249">
+  <general>
+   <startdate>2025-07-16 22:31:05</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="515" name="oreiasccp" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="6" chips="318" name="ygfz1n" win="641" bet="318" dealer="0"/>
+    <player reg_code="" seat="10" chips="667" name="ppalbs29" win="0" bet="662" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="20" no="4"/>
+   <action player="ppalbs29" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">HJ S3</cards>
+   <action player="oreiasccp" type="0" sum="0" no="6"/>
+   <cards player="ygfz1n" type="Pocket">DA DK</cards>
+   <action player="ygfz1n" type="3" sum="20" no="7"/>
+   <cards player="ppalbs29" type="Pocket">C4 SK</cards>
+   <action player="ppalbs29" type="23" sum="662" no="8"/>
+   <action player="ygfz1n" type="7" sum="273" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA H8 S6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+  </round>
+ </game>
+ <game gamecode="11577871358">
+  <general>
+   <startdate>2025-07-16 22:31:34</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="510" name="oreiasccp" win="0" bet="349" dealer="0"/>
+    <player reg_code="" seat="6" chips="641" name="ygfz1n" win="0" bet="5" dealer="1"/>
+    <player reg_code="" seat="10" chips="349" name="ppalbs29" win="703" bet="349" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ppalbs29" type="15" sum="5" no="1"/>
+   <action player="oreiasccp" type="15" sum="5" no="2"/>
+   <action player="ygfz1n" type="15" sum="5" no="3"/>
+   <action player="ppalbs29" type="1" sum="20" no="4"/>
+   <action player="oreiasccp" type="2" sum="40" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="6"/>
+   <cards player="ppalbs29" type="Pocket">SQ CQ</cards>
+   <action player="ppalbs29" type="3" sum="20" no="7"/>
+   <cards player="oreiasccp" type="Pocket">S9 HJ</cards>
+   <action player="oreiasccp" type="4" sum="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D9 S4</cards>
+   <action player="ppalbs29" type="5" sum="40" no="9"/>
+   <action player="oreiasccp" type="23" sum="304" no="10"/>
+   <action player="ppalbs29" type="7" sum="264" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S2</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+  </round>
+ </game>
+ <game gamecode="11577877287">
+  <general>
+   <startdate>2025-07-16 22:32:14</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="161" name="oreiasccp" win="0" bet="35" dealer="0"/>
+    <player reg_code="" seat="6" chips="636" name="ygfz1n" win="0" bet="65" dealer="0"/>
+    <player reg_code="" seat="10" chips="703" name="ppalbs29" win="165" bet="698" dealer="1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="oreiasccp" type="15" sum="5" no="1"/>
+   <action player="ygfz1n" type="15" sum="5" no="2"/>
+   <action player="ppalbs29" type="15" sum="5" no="3"/>
+   <action player="oreiasccp" type="1" sum="30" no="4"/>
+   <action player="ygfz1n" type="2" sum="60" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="23" sum="698" no="6"/>
+   <cards player="oreiasccp" type="Pocket">CK D10</cards>
+   <action player="oreiasccp" type="0" sum="0" no="7"/>
+   <cards player="ygfz1n" type="Pocket">X X</cards>
+   <action player="ygfz1n" type="0" sum="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11577877374">
+  <general>
+   <startdate>2025-07-16 22:32:36</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player reg_code="8407737054" seat="3" chips="126" name="oreiasccp" win="0" bet="121" dealer="1"/>
+    <player reg_code="" seat="6" chips="571" name="ygfz1n" win="317" bet="566" dealer="0"/>
+    <player reg_code="" seat="10" chips="803" name="ppalbs29" win="0" bet="65" dealer="0"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ygfz1n" type="15" sum="5" no="1"/>
+   <action player="ppalbs29" type="15" sum="5" no="2"/>
+   <action player="oreiasccp" type="15" sum="5" no="3"/>
+   <action player="ygfz1n" type="1" sum="30" no="4"/>
+   <action player="ppalbs29" type="2" sum="60" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="oreiasccp" type="Pocket">D10 D9</cards>
+   <action player="oreiasccp" type="23" sum="121" no="6"/>
+   <cards player="ygfz1n" type="Pocket">SA H4</cards>
+   <action player="ygfz1n" type="23" sum="566" no="7"/>
+   <cards player="ppalbs29" type="Pocket">X X</cards>
+   <action player="ppalbs29" type="0" sum="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 HA S3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,176 @@
+Perfeito. Com todos os pontos alinhados e a lógica central definida, este é o guia final e robusto que servirá como a base para o desenvolvimento do nosso projeto. Este documento foca exclusivamente no **motor de análise**, o coração da nossa solução.
+
+-----
+
+### **Documento de Arquitetura e Especificação Técnica: Motor de Análise e Similaridade de Mãos de Poker**
+
+**Versão do Documento:** 4.0 (Final - Core Engine)
+**Data:** 20 de Julho de 2025
+**Autor:** Gemini, Engenheiro de Software Líder
+
+### 1\. Visão Geral e Objetivo Central
+
+Este documento descreve a arquitetura e a lógica de implementação do **Motor de Análise e Similaridade**, um módulo de software cujo propósito é a identificação de padrões de jogo em grandes datasets de históricos de mãos de poker.
+
+A filosofia do motor é estritamente a **análise empírica**: entender e quantificar as tendências de um jogador com base em suas ações passadas. O projeto não contempla cálculos de GTO ou EV.
+
+O produto final deste documento é a especificação para um componente de software (ex: uma biblioteca Python) que pode receber um cenário de poker e retornar todas as instâncias relevantes de um dataset pré-processado, permitindo uma análise profunda e baseada em dados.
+
+### 2\. Arquitetura e Escopo do Core Engine
+
+#### 2.1. Escopo de Atuação
+
+O escopo deste desenvolvimento limita-se ao **motor de busca e análise**. Estão explicitamente **fora do escopo**:
+
+  * O pipeline de ETL para a criação do dataset principal.
+  * O desenvolvimento de interfaces de usuário (web ou desktop).
+  * A criação de APIs (REST, GraphQL, etc.).
+
+O "usuário" deste motor é um outro processo ou um desenvolvedor/analista que o utiliza de forma programática.
+
+#### 2.2. Pré-requisitos de Dados
+
+O motor assume a existência de um dataset principal, pré-processado, no seguinte formato:
+
+  * **Formato do Arquivo:** Parquet.
+  * **Estrutura:** 10 milhões de linhas, onde cada linha representa uma mão completa (modelo "wide-format").
+  * **Fonte:** Gerado pelo Jupyter Notebook de ETL já existente.
+
+#### 2.3. Tecnologias Essenciais
+
+  * **Linguagem de Implementação:** Python 3.10+
+  * **Plataforma de Execução da Query (a ser escolhida conforme o caso de uso):**
+      * **Análise em Arquivo:** DuckDB / Polars
+      * **Análise em Banco de Dados:** PostgreSQL 14+
+
+### 3\. Modelo de Dados Canônico (O "Vetor de Features")
+
+A funcionalidade do motor depende inteiramente da riqueza e estrutura do nosso modelo de dados. Cada linha no arquivo Parquet é um "Vetor de Features" que descreve uma mão.
+
+#### 3.1. Estrutura da Tabela: `hands_wide`
+
+Modelo denormalizado com uma linha por mão.
+
+#### 3.2. Dicionário de Dados Detalhado
+
+| Nome da Coluna | Tipo de Dado | Descrição |
+| :--- | :--- | :--- |
+| `hand_id` | BIGINT | Identificador único da mão. Chave primária. |
+| `player_hero_id` | BIGINT | ID do jogador principal (Hero). |
+| `player_vilain_id` | BIGINT | ID do oponente. |
+| `eff_stack_bb_preflop` | NUMERIC | Stack efetivo no início da mão, em Big Blinds. |
+| `preflop_pot_type` | TEXT | Categoria do pote: 'Limped Pot', 'SRP', '3-Bet Pot', etc. |
+| `hole_cards_hero` | TEXT | Cartas do Hero (ex: 'AsKd'). |
+| `hole_cards_vilain_showdown`| TEXT | Cartas do Vilão, **apenas se a mão chegou ao showdown**. Nulo caso contrário. |
+| `final_board` | TEXT | Cartas comunitárias finais (ex: 'Ah Td 5s 2c 7h'). |
+| `..._actions` | JSON / Struct | **(Ver 3.2.1)** Array de ações cronológicas para a street. |
+| `..._context` | JSON / Struct | **(Ver 3.2.2)** Objeto de contexto da street (board, texturas, etc.). |
+
+##### 3.2.1. Estrutura do Objeto `..._actions`
+
+Um array de objetos representando a sequência exata de ações na street.
+
+```json
+// Exemplo para a coluna `flop_actions`
+[
+    {
+        "player": "hero",
+        "position": "OOP",
+        "type": "check",
+        "amount_bb": 0
+    },
+    {
+        "player": "vilain",
+        "position": "IP",
+        "type": "bet",
+        "amount_bb": 2.5
+    }
+]
+```
+
+##### 3.2.2. Estrutura do Objeto `..._context`
+
+Um objeto contendo um snapshot analítico da street.
+
+```json
+// Exemplo para a coluna `flop_context`
+{
+    "board_cards": "Ah Kh Td",
+    "board_texture": {
+        "paired": "unpaired",
+        "suit": "two_tone",
+        "connection": "broadway_connected"
+    },
+    "hero_analysis": {
+        "hand_strength": "top_pair",
+        "made_hand_value": 3,
+        "draws": { "flush_draw": true, "straight_draw": true }
+    },
+    "vilain_analysis": { // Preenchido apenas se a mão do vilão for conhecida
+        "hand_strength": "two_pair",
+        "made_hand_value": 6,
+        "draws": { "flush_draw": false, "straight_draw": false }
+    }
+}
+```
+
+### 4\. Lógica e Métodos de Execução do Motor
+
+O motor expõe funcionalidades através de métodos ou funções.
+
+#### 4.1. Método Principal: `find_similar_hands(hand_history_raw)`
+
+Esta é a função central do projeto.
+
+  * **Passo 1: Parsing e Extração de Features (Mini-ETL)**
+
+      * A função recebe um histórico de mão bruto como input.
+      * Ela invoca um parser e um módulo de feature engineering (funcionalmente idênticos ao ETL principal) para converter esta mão única em um **"Vetor de Features Alvo"** no formato `hands_wide`.
+
+  * **Passo 2: Construção da Query de Similaridade Dinâmica**
+
+      * O motor utiliza o "Vetor de Features Alvo" para construir uma query SQL parametrizada. A "similaridade" é definida por um conjunto de regras:
+          * **Correspondência Exata:** Para campos como `player_vilain_id`, `preflop_pot_type`.
+          * **Range Numérico:** Para campos como `eff_stack_bb_preflop` (ex: `valor_alvo ± 15%`).
+          * **Correspondência de Sequência:** Para as colunas `..._actions`, buscando uma sequência idêntica de tipos de ação.
+          * **Similaridade de Contexto:** Para as colunas `..._context`, buscando por texturas de board ou categorias de força de mão idênticas.
+
+  * **Passo 3: Execução e Retorno**
+
+      * A query é executada contra a plataforma de dados (DuckDB ou PostgreSQL).
+      * A função retorna um **DataFrame** (Pandas/Polars) contendo as linhas completas das mãos que correspondem aos critérios de similaridade.
+
+#### 4.2. Método Auxiliar: `find_exact_scenarios(filters_dict)`
+
+  * Recebe um dicionário Python com filtros explícitos.
+  * Traduz o dicionário em uma query SQL com cláusulas `WHERE` exatas.
+  * Retorna um DataFrame com os resultados. Útil para buscas mais genéricas.
+
+#### 4.3. Funções de Pós-Análise
+
+O motor pode ser complementado com funções que operam no DataFrame retornado pelos métodos de busca.
+
+  * **Exemplo:** `calculate_showdown_stats(results_df)`
+      * Recebe o DataFrame de resultados.
+      * Analisa as colunas `..._context` e `hole_cards_vilain_showdown`.
+      * Retorna um dicionário com a distribuição de força da mão do vilão (ex: `{ "valor": 0.6, "blefe": 0.4 }`).
+
+### 5\. Plataforma de Execução e Considerações de Performance
+
+#### 5.1. Opção A: Análise Direta em Arquivo (Prototipagem)
+
+  * **Tecnologia:** DuckDB ou Polars.
+  * **Funcionamento:** Executa queries SQL diretamente no arquivo Parquet.
+  * **Performance:** Latência na casa de **segundos (2-10s)**.
+  * **Recomendação:** Ideal para desenvolvimento, testes e análises exploratórias offline onde a latência não é crítica.
+
+#### 5.2. Opção B: Análise via Banco de Dados (Produção/Interativo)
+
+  * **Tecnologia:** PostgreSQL.
+  * **Funcionamento:** Requer uma carga inicial (ingestão) do arquivo Parquet para uma tabela PostgreSQL. As queries subsequentes utilizam os índices do banco.
+  * **Performance:** Latência na casa de **milissegundos (200-900ms)**, graças aos índices GIN nas colunas JSONB.
+  * **Recomendação:** A arquitetura recomendada para qualquer uso que envolva buscas repetitivas ou que se beneficie de respostas rápidas, como alimentar uma ferramenta de análise iterativa.
+
+### 6\. Conclusão
+
+Este documento estabelece o design técnico para um motor de análise de poker altamente especializado. Ao focar na riqueza do modelo de dados e na lógica de busca por similaridade, o motor será capaz de extrair padrões de comportamento profundos e quantificáveis. A arquitetura proposta permite tanto a prototipagem rápida quanto a implementação de uma solução final de alta performance.

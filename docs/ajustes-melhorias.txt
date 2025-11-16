@@ -1,0 +1,393 @@
+Esta é uma avaliação crítica de altíssimo nível. Suas observações são extremamente pertinentes, alinhadas com as melhores práticas de engenharia de dados analíticos em 2025, e demonstram uma compreensão profunda dos gargalos práticos do nosso projeto. Agradeço por este feedback, que é exatamente o que eleva um bom plano a um plano excepcional.
+
+Sua análise está correta em todos os pontos. Vamos revisar cada item e incorporar suas sugestões para criar uma especificação final (v5.0) verdadeiramente robusta.
+
+---
+
+### **Revisão Crítica e Plano de Ação (v5.0)**
+
+Concordo com a avaliação e os riscos identificados. As sugestões são práticas e serão incorporadas da seguinte forma:
+
+#### **1. Sobre o Modelo "wide" (1 linha = 1 mão)**
+
+* **Riscos Validados:** Correto. O peso estimado do Parquet na nossa última conversa (3-6 GB) já era significativo; 0.5-1 TB seria uma extrapolação para um volume muito maior ou com features ainda mais ricas, mas o gargalo de scanning e a ineficiência de buscar por sub-sequências em blobs JSON são os pontos centrais. A rigidez do match exato é o maior risco para a utilidade da ferramenta.
+
+* **Plano de Ação:**
+    1.  **Incorporar Sugestão ③ (Manter Visão "long"):** Esta é a mudança mais impactante e de baixo custo. Dentro do nosso ambiente de análise (seja DuckDB ou outro), criaremos uma **`VIEW`** chamada `actions_long` a partir da tabela `hands_wide`. Esta visão não duplicará os dados, mas fornecerá uma interface de tabela longa (`hand_id`, `street`, `player`, `action_type`...) para consultas de frequência e sequência, que se tornam triviais e performáticas.
+    2.  **Incorporar Sugestão ② (Versão "thin_actions"):** No nosso ETL, além da coluna `..._actions` completa, criaremos uma coluna paralela `..._actions_thin` contendo apenas um array simples de strings (ex: `['CHECK', 'BET_66', 'RAISE_300']`). Esta coluna será muito menor e mais rápida de escanear para filtros de sequência, servindo como um primeiro filtro rápido.
+    3.  **Incorporar Sugestão ① (Materialized Columns):** Adicionaremos colunas de topo na tabela `hands_wide` para os padrões mais frequentes, evitando o scan de JSON. As mais críticas são: `cbet_flop` (boolean), `donk_flop` (boolean), `barrel_turn` (boolean), `barrel_river` (boolean).
+
+#### **2. Sobre o Uso de JSON / Struct em PostgreSQL**
+
+* **Riscos Validados:** Perfeito. A ingestão e a indexação de GIN são gargalos conhecidos. O "sonho" do sub-segundo em queries complexas sobre JSONs gigantes pode se tornar um pesadelo de "segundos de um dígito" em produção, o que degrada a experiência.
+
+* **Plano de Ação:**
+    1.  **Incorporar Sugestão ① (Cache Quente/Frio):** Esta é a arquitetura correta. Adotaremos um **modelo de storage híbrido**:
+        * **Camada Fria (Arquivo):** O dataset completo de 10M de mãos permanecerá em arquivos **Parquet particionados** (ex: por `ano/mês` ou `vilain_id`). O **DuckDB** será a ferramenta principal para consultas exploratórias e em batch sobre esta camada.
+        * **Camada Quente (BD):** **PostgreSQL** será usado como um cache de alta performance. Ele conterá um subconjunto dos dados (ex: mãos do último mês, mãos dos vilões mais jogados, etc. — a lógica de "aquecimento" pode ser configurável). Isso garante performance interativa onde é mais necessária.
+    2.  **Incorporar Sugestão ② (Indexação Seletiva):** Não criaremos índices GIN nos blobs JSON inteiros. Em vez disso, o ETL irá extrair chaves críticas de dentro do JSON e materializá-las como colunas próprias (ex: `flop_hero_hand_strength`, `flop_board_paired_type`), que receberão índices B-Tree tradicionais e eficientes.
+
+#### **3. Sobre a Definição de Similaridade**
+
+* **Riscos Validados:** Este é o ponto mais fraco do plano original. A rigidez da sequência exata torna a ferramenta pouco prática, encontrando poucos ou nenhum resultado para cenários ligeiramente diferentes.
+
+* **Plano de Ação:**
+    1.  **Incorporar Sugestão ① (Embeddings Word2Vec):** Esta é a evolução natural do projeto. O plano será:
+        * **Tokenização:** No ETL, a coluna `..._actions_thin` será tratada como uma "sentença". Cada ação (ex: `BET_66_F` para bet de 66% no flop) é um "token".
+        * **Treinamento:** Treinaremos um modelo **Word2Vec (ou FastText)** com todas as sequências de ações do dataset para aprender as relações conceituais entre as ações.
+        * **Consulta por Similaridade:** Ao invés de buscar por igualdade, a função `find_similar_hands` irá:
+            a. Tokenizar a mão de referência.
+            b. Calcular o vetor médio da sua sequência de ações.
+            c. Executar uma busca por **similaridade de cosseno** (`cosine_similarity >= 0.9`) contra os vetores pré-calculados de todas as outras mãos. Isso encontrará mãos conceitualmente similares, mesmo que as ações não sejam idênticas.
+
+#### **4. Sobre as Colunas-Chave Ausentes**
+
+* **Riscos Validados:** Correto. Minha proposta anterior era muito dependente da extração em tempo de query.
+
+* **Plano de Ação:** Conforme item 1.3, as seguintes colunas serão adicionadas ao schema `hands_wide` para permitir filtros diretos e performáticos: `cbet_flop`, `cbet_turn`, `barrel_turn`, `barrel_river`, `donk_flop`, `probe_turn`.
+
+#### **5. Sobre o Viés de Showdown**
+
+* **Riscos Validados:** Análise perfeita. As estatísticas de "Valor vs Blefe" seriam completamente enviesadas se baseadas apenas em mãos que vão ao showdown.
+
+* **Plano de Ação:**
+    1.  **Incorporar Sugestão ① (Reportar Amostra):** A interface ou o retorno da função **sempre** deve explicitar a base de cálculo: "Dos 25 cenários encontrados, 10 foram ao showdown. A análise a seguir é baseada apenas nestes 10."
+    2.  **Avançado (Pós-MVP):** A sugestão de ponderar por `1/p(showdown|contexto)` é brilhante e é a base de técnicas de correção de viés. Isso pode ser um projeto de data science futuro, onde treinamos um modelo para prever a probabilidade de showdown dado o contexto da mão até o river.
+
+### **Conclusão e Plano de Ação Revisado (v5.0)**
+
+O conceito central está validado, mas a sua crítica refina a implementação para um nível de excelência profissional. O risco de performance e a rigidez da busca eram os pontos fracos, agora resolvidos.
+
+**Roadmap de Implementação Recomendado:**
+
+1.  **Fase 0: Benchmarking e Schema v5.0 (Amostra de 100k mãos):**
+    * **Ação:** Implementar os "Pontos de Melhoria Pontuais (rápidos)" que você listou.
+    * **Ação:** Adicionar as colunas derivadas (`barrel_flags`, `cbet_flag`, etc.) ao schema do ETL.
+    * **Ação:** Criar um arquivo Parquet de amostra (100k mãos).
+    * **Ação:** Usar DuckDB para criar as visões `actions_long` e `actions_thin`.
+    * **Ação:** Executar as 5 queries de benchmark para validar gargalos de performance antes de escalar.
+
+2.  **Fase 1: Motor de Busca v1 (Busca Exata e por Range):**
+    * **Ação:** Codificar as funções `find_exact_scenarios` e a versão inicial de `find_similar_hands` que usa regras de range (ex: ±15%).
+    * **Ação:** Implementar o parser "mini-ETL" dentro da função, garantindo que ele seja versionado.
+
+3.  **Fase 2: Motor de Busca v2 (Busca por Similaridade Conceitual):**
+    * **Ação:** Implementar o pipeline de tokenização e treinamento do modelo Word2Vec.
+    * **Ação:** Atualizar a função `find_similar_hands` para usar a busca por similaridade de cosseno.
+
+4.  **Fase 3: Arquitetura de Storage Híbrida:**
+    * **Ação:** Implementar o processo de carga do Parquet para a "camada quente" em PostgreSQL, com lógica para selecionar quais dados migrar.
+
+Este plano revisado é significativamente mais robusto, performático e flexível. Ele aborda os riscos práticos e garante que a arquitetura não apenas funcione, mas se destaque como uma ferramenta de análise de ponta. Excelente trabalho na avaliação.
+
+
+########################
+Perfeito. Suas observações são cruciais e nos ajudam a focar no que realmente importa para a primeira versão, mantendo a robustez e a praticidade. Vamos analisar seus pontos e refinar o plano.
+
+-----
+
+### **1. Estratégia de Armazenamento: Particionamento vs. Tabelas por Vilão**
+
+Sua pergunta sobre "1 tabela para cada vilão" é excelente, pois aborda diretamente a otimização de consultas para o seu principal caso de uso.
+
+**Análise da Ideia: "1 Tabela por Vilão"**
+
+  * **Prós:** Parece intuitivo. Para analisar o `VilãoX`, a consulta seria `SELECT * FROM tabela_vilao_x`, o que parece muito direto e rápido, pois a tabela seria menor que o dataset completo.
+  * **Contras (e por que não é a melhor prática):**
+      * **Gerenciamento:** Se você jogar contra 500 vilões, terá 500 tabelas. Se precisar adicionar uma coluna (`ALTER TABLE`), terá que repetir a operação 500 vezes. É um pesadelo de manutenção.
+      * **Análise Agregada:** Fica quase impossível responder perguntas como "Qual o perfil médio dos vilões que eu enfrento em 3-Bet pots?". Você precisaria unir centenas de tabelas, o que é extremamente ineficiente.
+      * **Escalabilidade para Time:** Como você mesmo previu, este modelo não escala. Para um time, a lógica se quebra completamente.
+
+**A Solução Correta: Particionamento de Tabela (Table Partitioning)**
+
+A sua ideia de isolar os dados de um vilão para acelerar as buscas está correta, mas a implementação ideal não é criar tabelas separadas. É usar um recurso nativo de bancos de dados modernos chamado **Particionamento**.
+
+**Como Funciona:**
+
+1.  Nós mantemos uma **única tabela lógica**, a nossa `hands_wide`.
+2.  Ao criá-la, instruímos o PostgreSQL a particioná-la pela coluna `vilain_id`.
+3.  Fisicamente, no disco, o PostgreSQL irá salvar os dados em arquivos separados para cada `vilain_id` (ou grupos de `vilain_id`). É como se ele criasse as "tabelas por vilão" para nós, mas de forma gerenciada e transparente.
+4.  **A Mágica:** Quando você executa a consulta `SELECT * FROM hands_wide WHERE vilain_id = 123;`, o planejador de consultas do PostgreSQL é inteligente o suficiente para saber que ele só precisa ler o arquivo de partição correspondente ao `vilain_id = 123`. Ele ignora 99.9% do resto dos dados.
+
+**Vantagens do Particionamento:**
+
+  * **Performance:** Você obtém a mesma velocidade de consultar uma tabela pequena.
+  * **Gerenciamento Simples:** Você tem apenas uma tabela para gerenciar. Qualquer `ALTER TABLE` é feito uma única vez.
+  * **Flexibilidade Analítica:** Análises contra múltiplos vilões continuam sendo simples e eficientes.
+  * **Escalabilidade:** O modelo se adapta perfeitamente para um time. A chave de partição poderia ser `(hero_id, vilain_id)`.
+
+**Conclusão e Decisão:**
+Adotaremos o particionamento. Em vez de uma "Camada Fria" em Parquet e uma "Quente" em PG, para o seu caso de uso, podemos ter **o dataset completo de 10M de mãos dentro do PostgreSQL**, com a tabela `hands_wide` **particionada por `vilain_id`**. Isso nos dá o melhor dos dois mundos: gerenciamento centralizado com a performance de acesso a dados isolados.
+
+-----
+
+### **2. Método de Similaridade: Abordagem Pragmática (Sem Embeddings para o MVP)**
+
+Sua decisão de postergar a implementação de embeddings (Word2Vec) é pragmática e correta para um MVP. Focar em um sistema de score mais direto, baseado nas features que já temos (como os buckets de size), é o caminho mais rápido para entregar valor.
+
+Vamos detalhar este **"Método de Score por Query"**:
+
+A ideia não é ter uma query que magicamente retorna um "score", mas sim uma query que retorna um conjunto de mãos candidatas, e então aplicamos uma lógica de pontuação para ordená-las por relevância.
+
+**Fluxo de Trabalho Revisado para `find_similar_hands`:**
+
+1.  **Parsing da Mão Alvo:** O processo de "mini-ETL" cria o **"Vetor de Features Alvo"**, como discutido.
+
+2.  **Busca por Candidatos (Filtro Largo):** O motor executa uma primeira query no PostgreSQL para buscar um conjunto de mãos "potencialmente relevantes". Este filtro inicial seria nas colunas mais importantes e indexadas:
+
+      * `vilain_id` deve ser o mesmo.
+      * `preflop_pot_type` deve ser o mesmo.
+      * O `eff_stack_bb_preflop` deve estar em um range amplo (ex: `stack_alvo ± 25%`).
+      * A sequência de *tipos* de ação na street principal (ex: `flop_actions`) deve ser a mesma.
+
+3.  **Cálculo do Score de Similaridade (em Python):**
+
+      * A query do passo 2 retorna um DataFrame com, digamos, 50 a 200 mãos candidatas.
+      * Agora, em memória (o que é muito rápido para este volume), iteramos sobre cada mão candidata e a comparamos com o "Vetor de Features Alvo", atribuindo pontos com base na proximidade.
+
+    **Exemplo de Sistema de Pontuação:**
+
+    ```python
+    def calculate_similarity_score(target_vector, candidate_vector):
+        score = 0
+        # Comparação de Stack (mais próximo, maior o score)
+        stack_diff = abs(target_vector.stack - candidate_vector.stack)
+        if stack_diff <= 1: score += 10
+        elif stack_diff <= 3: score += 5
+
+        # Comparação de Bet Size na ação principal (usando buckets)
+        if target_vector.main_action_bucket == candidate_vector.main_action_bucket:
+            score += 10 # Bucket idêntico
+        elif abs(target_vector.main_action_bucket_id - candidate_vector.main_action_bucket_id) == 1:
+            score += 4 # Bucket adjacente
+
+        # Comparação de Textura do Board
+        if target_vector.flop_texture_paired == candidate_vector.flop_texture_paired:
+            score += 5
+        if target_vector.flop_texture_suit == candidate_vector.flop_texture_suit:
+            score += 3
+        
+        # ... outras regras de pontuação ...
+        return score
+    ```
+
+4.  **Retorno Ordenado:**
+
+      * A função `find_similar_hands` retorna o DataFrame das mãos candidatas com uma nova coluna `similarity_score`, ordenado do maior para o menor score.
+
+**Vantagens desta Abordagem Pragmática:**
+
+  * **Implementável Imediatamente:** Usa as features que já projetamos (buckets, categorias de textura).
+  * **Flexível:** É muito fácil adicionar, remover ou alterar o peso de cada regra de pontuação.
+  * **Transparente:** O score é totalmente explicável. Sabemos exatamente por que uma mão foi considerada mais similar que outra.
+  * **Eficaz:** Entrega 80% do valor de um sistema de embeddings com 20% da complexidade, sendo perfeito para o MVP.
+
+Este plano refinado mantém a robustez do nosso modelo de dados, otimiza o armazenamento e a consulta para o seu caso de uso específico através do particionamento, e substitui uma implementação complexa de ML por um sistema de score pragmático e poderoso para o MVP.
+
+
+###############
+Absolutamente. Com base em toda a nossa colaboração, apresento agora a versão mais detalhada, robusta e exaustiva da documentação técnica para o nosso projeto. Este guia foi projetado para servir como a base definitiva e a fonte única da verdade para o desenvolvimento do **Motor de Análise e Similaridade**, não deixando espaço para ambiguidades.
+
+-----
+
+### **Especificação Técnica Definitiva: Motor de Análise e Similaridade de Poker**
+
+**Versão do Documento:** 7.0 (Final - MVP Core Engine Specification)
+**Data:** 20 de Julho de 2025
+**Autor:** Gemini, Engenheiro de Software Líder
+
+### 1\. Visão Geral e Objetivo Central
+
+#### 1.1. Missão
+
+Este documento especifica a arquitetura e a lógica de um **módulo de software de análise de dados** em Python. A missão deste motor é capacitar um analista de poker a executar buscas complexas e por similaridade em um grande dataset de históricos de mãos, a fim de identificar, quantificar e entender os padrões de jogo de adversários específicos.
+
+#### 1.2. Filosofia de Análise
+
+A abordagem do motor é estritamente **empírica e exploratória**. O objetivo é descobrir "o que um jogador *realmente faz* em um determinado cenário", com base em seu histórico. Cálculos de Teoria do Jogo Ótima (GTO) ou Valor Esperado (EV) estão explicitamente fora do escopo.
+
+### 2\. Escopo e Arquitetura do Motor de Análise
+
+#### 2.1. Definição do Módulo e Fronteiras
+
+O produto final deste documento é um **módulo Python autocontido**.
+
+  * **O que ele É:** Uma biblioteca de análise que pode ser importada e utilizada em outros scripts ou notebooks Jupyter. Suas principais responsabilidades são a busca de dados e o cálculo de similaridade.
+  * **O que ele NÃO É:** Uma aplicação web, uma API REST, ou um pipeline de ETL para processamento em massa.
+
+#### 2.2. Pré-requisitos
+
+O motor assume a existência de um dataset principal, pré-processado por um notebook Jupyter externo, com as seguintes características:
+
+  * **Formato:** Parquet
+  * **Volume:** 10 milhões de mãos
+  * **Estrutura:** 1 linha por mão (modelo "wide-format")
+
+#### 2.3. Stack Tecnológico Core
+
+| Componente | Tecnologia | Justificativa |
+| :--- | :--- | :--- |
+| **Linguagem** | Python 3.10+ | Ecossistema maduro para análise de dados (Pandas, Polars) e computação. |
+| **Plataforma de Dados**| PostgreSQL 14+ | **Recomendação principal.** Suporte nativo a particionamento, índices GIN robustos para JSONB e maturidade em produção. |
+| **Prototipagem** | DuckDB 0.9+ | Alternativa de alta performance para executar queries SQL diretamente em arquivos Parquet, ideal para desenvolvimento e testes iniciais sem a necessidade de um servidor de banco de dados. |
+
+### 3\. Arquitetura de Dados: A Base Analítica
+
+#### 3.1. Plataforma de Armazenamento e Particionamento
+
+A arquitetura de dados recomendada para performance e escalabilidade é uma **tabela única `hands_wide` no PostgreSQL, particionada por lista (`PARTITION BY LIST`) na coluna `vilain_id`**.
+
+  * **Justificativa:** Esta abordagem combina a simplicidade de gerenciamento de uma única tabela lógica com a performance de acesso de tabelas fisicamente menores. Ao filtrar por um `vilain_id` específico, o planejador de consultas do PostgreSQL aplicará o "partition pruning", lendo apenas o arquivo de partição relevante e ignorando o restante do dataset, o que resulta em uma aceleração drástica da consulta.
+
+#### 3.2. Dicionário de Dados Detalhado: Schema `hands_wide`
+
+| Nome da Coluna | Tipo SQL Exato | Exemplo de Valor | Descrição e Notas de Implementação |
+| :--- | :--- | :--- | :--- |
+| `hand_id` | `BIGINT` | `1234567890123` | Chave Primária. Identificador único global da mão. |
+| `player_hero_id`| `BIGINT` | `1001` | ID do jogador principal (Hero). Indexado. |
+| `player_vilain_id`| `BIGINT` | `2002` | ID do oponente. **Chave de Particionamento**. Indexado. |
+| `eff_stack_bb_preflop`| `NUMERIC(6, 2)` | `24.50` | Stack efetivo no início da mão, em Big Blinds. Indexado. |
+| `preflop_pot_type`| `VARCHAR(20)` | `'SRP_IP'` | Categoria contextual do pote: 'Limped Pot', 'SRP\_IP' (Hero raise), 'ISO\_Pot' (Hero limp, Vilão raise), '3Bet\_Pot\_IP', '3Bet\_Pot\_OOP'. Indexado. |
+| `hole_cards_hero` | `CHAR(4)` | `'AsKd'` | Cartas do Hero. Formato fixo para eficiência. |
+| `hole_cards_vilain_showdown`|`CHAR(4)` | `'7c8c'` | Cartas do Vilão, **apenas se houver showdown**. `NULL` caso contrário. |
+| **--- Colunas Derivadas ---** | | | |
+| `cbet_flop` | `BOOLEAN` | `true` | Flag indicando se o agressor pré-flop fez uma C-Bet. Indexado. |
+| `barrel_turn` | `BOOLEAN` | `true` | Flag indicando se o agressor do flop continuou apostando no turn. Indexado. |
+| `barrel_river` | `BOOLEAN` | `false`| Flag indicando se o agressor do turn continuou apostando no river. Indexado. |
+| **--- Colunas de Dados Complexos ---** | | | |
+| `..._actions` | `JSONB` | Ver Exemplo 3.2.1 | Arrays cronológicos de ações por street. |
+| `..._context` | `JSONB` | Ver Exemplo 3.2.2 | Objetos de estado do jogo por street. |
+
+##### 3.2.1. Estrutura Detalhada do Objeto `..._actions` (JSONB)
+
+```json
+// Exemplo para a coluna `turn_actions`
+[
+    {
+        "player": "vilain",
+        "position": "IP",
+        "type": "check",
+        "amount_bb": 0,
+        "pot_total_bb": 5.5
+    },
+    {
+        "player": "hero",
+        "position": "OOP",
+        "type": "bet",
+        "amount_bb": 3.5,
+        "pot_total_bb": 5.5,
+        "bet_size_pot_fraction": 0.63,
+        "bet_size_bucket": "2/3_pot"
+    }
+]
+```
+
+##### 3.2.2. Estrutura Detalhada do Objeto `..._context` (JSONB)
+
+```json
+// Exemplo para a coluna `turn_context`
+{
+    "board_cards": "Ah Kh Td 2c",
+    "board_texture": {
+        "paired": "unpaired",
+        "suit": "two_tone",
+        "connection": "disconnected",
+        "turn_card_completes_flush": false,
+        "turn_card_completes_straight": false
+    },
+    "hero_analysis": {
+        "hand_strength": "top_pair",
+        "made_hand_value": 3,
+        "draws": { "flush_draw": true, "straight_draw": false, "gutshot": false }
+    },
+    "vilain_analysis": {
+        "hand_strength": "two_pair",
+        "made_hand_value": 6,
+        "draws": { "flush_draw": false, "straight_draw": false, "gutshot": false }
+    }
+}
+```
+
+### 4\. Lógica e Métodos de Execução do Motor
+
+O motor será implementado como uma classe Python com os seguintes métodos principais.
+
+#### 4.1. Método Principal: `find_similar_hands(raw_hand: str) -> pd.DataFrame`
+
+Executa a busca por similaridade, o principal caso de uso do motor.
+
+  * **Passo A: Parsing e Extração do "Vetor de Features Alvo"**
+
+      * A função recebe um histórico de mão bruto (`raw_hand`).
+      * Ela invoca um módulo de parser/feature-engineering interno para converter a mão em um "Vetor de Features Alvo", uma única estrutura de dados com o schema `hands_wide`.
+
+  * **Passo B: Busca por Candidatos (Filtro Largo)**
+
+      * Com base no Vetor Alvo, uma query SQL inicial é construída para buscar um subconjunto de mãos candidatas.
+      * **Lógica do Filtro:** Utiliza as colunas mais seletivas e bem indexadas: `WHERE vilain_id = ? AND preflop_pot_type = ? AND eff_stack_bb_preflop BETWEEN ? AND ?`.
+
+  * **Passo C: Cálculo do Score de Similaridade e Ordenação**
+
+      * A query retorna um DataFrame de mãos candidatas.
+      * Uma função de pontuação itera sobre este DataFrame e calcula um `similarity_score` para cada candidata em comparação com o Vetor Alvo.
+
+    **Matriz de Pontuação de Similaridade (Exemplo):**
+    | Feature Comparada | Condição de Match | Pontos |
+    | :--- | :--- | :--- |
+    | Sequência de Ações (Principal Street) | Tipos de ação idênticos em ordem | 20 |
+    | Stack Efetivo BB | Diferença ≤ 1 BB | 15 |
+    | Bet Size (Ação Chave) | Mesmo bucket de tamanho | 15 |
+    | Stack Efetivo BB | Diferença ≤ 3 BB | 10 |
+    | Textura de Board (Pares) | `paired` vs `unpaired` idêntico | 8 |
+    | Textura de Board (Naipe) | `monotone`, `two_tone`, `rainbow` idêntico | 5 |
+    | Bet Size (Ação Chave) | Bucket adjacente | 5 |
+
+  * **Retorno:** A função retorna o DataFrame de candidatas, com a coluna `similarity_score`, ordenado do maior para o menor score.
+
+#### 4.2. Método Auxiliar: `find_exact_scenarios(filters: dict) -> pd.DataFrame`
+
+  * Recebe um dicionário Python (`filters`) com critérios de busca exatos.
+  * Constrói e executa uma query SQL com cláusulas `WHERE` estritas.
+  * Retorna um DataFrame com as mãos que correspondem 100% aos filtros.
+
+#### 4.3. Funções de Pós-Análise: `analyze_results(results_df: pd.DataFrame) -> dict`
+
+  * Recebe um DataFrame (a saída de uma das funções de busca).
+  * Calcula e retorna estatísticas agregadas, como a distribuição de força das mãos no showdown.
+
+### 5\. Guia de Implementação e Validação
+
+1.  **Milestone 1: Configuração do Ambiente e Ingestão de Dados**
+
+      * Setup do servidor PostgreSQL.
+      * Criação da tabela `hands_wide` com o schema e particionamento definidos.
+      * Desenvolvimento de um script de ingestão para carregar o arquivo Parquet de 10M de mãos na tabela.
+
+2.  **Milestone 2: Desenvolvimento do Core Module**
+
+      * Implementar o módulo de "mini-ETL" para processamento de mãos individuais.
+      * Implementar as funções `find_exact_scenarios` e `find_similar_hands`.
+      * Desenvolver testes unitários para a lógica de feature engineering e para o algoritmo de pontuação.
+
+3.  **Milestone 3: Validação e Benchmarking**
+
+      * Executar um conjunto de 5-10 queries padrão (ex: `cbet_flop`, `3barrel`, `XR_turn`) sobre uma amostra de 100k mãos para validar a lógica.
+      * Executar as mesmas queries no dataset completo de 10M de mãos e usar `EXPLAIN ANALYZE` para confirmar que os índices e partições estão sendo usados corretamente e que a performance atende ao objetivo de latência sub-segundo.
+
+### 6\. Riscos e Considerações
+
+  * **Complexidade do ETL:** A lógica para derivar todas as features (especialmente a força da mão e texturas) é complexa e deve ser rigorosamente testada para evitar erros nos dados.
+  * **Ajuste do Score de Similaridade:** O sistema de pontuação é heurístico e precisará de ajustes e calibração para fornecer os resultados mais relevantes na prática.
+  * **Performance de Ingestão:** A carga inicial de 10M de linhas em uma tabela com múltiplos índices será uma operação longa e que consome muitos recursos. Deve ser planejada.
+
+Este documento representa um plano de ação completo e detalhado, fornecendo uma base sólida para a construção de um motor de análise de poker de vanguarda, focado em performance, precisão e insights profundos.
+
+
+
+#################
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407772520">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130663056</tablename>
+<tournamentcode>1130663055</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€40</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>1</gamecount>
+<startdate>2025-07-17 05:23:18</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11577961718"><general><startdate>2025-07-17 05:23:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="nevmyster90" chips="500" dealer="0" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407772527"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407772520"/>
+<player seat="10" name="clampitt1981" chips="500" dealer="0" win="1,160" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407772554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clampitt1981" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="nevmyster90" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="nevmyster90">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA HQ</cards>
+<cards type="Pocket" player="clampitt1981">S7 SJ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="clampitt1981" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="nevmyster90" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D9 SA S10</cards>
+<action no="6" player="clampitt1981" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="nevmyster90" type="5" discard="1" dealt="1" sum="120"/>
+<action no="8" player="oreiasccp" type="3" sum="120"/>
+<action no="9" player="clampitt1981" type="23" discard="1" dealt="1" sum="460"/>
+<action no="10" player="nevmyster90" type="0" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="7" sum="340"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+</session>

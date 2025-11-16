@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392300580">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128581314</tablename>
+<tournamentcode>1128581313</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>6</gamecount>
+<startdate>2025-06-26 18:45:10</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11535225935"><general><startdate>2025-06-26 18:45:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="fb22" chips="500" dealer="0" win="130" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+<player seat="6" name="popeyee420" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+</players>
+</general>
+<round no="0"><action no="1" player="popeyee420" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="fb22" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="fb22">S6 C8</cards>
+<cards type="Pocket" player="oreiasccp">CA SQ</cards>
+<cards type="Pocket" player="popeyee420">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="popeyee420" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="fb22" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D3 D6 CJ</cards>
+<action no="6" player="fb22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="fb22" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+<action no="9" player="fb22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="11" player="fb22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11535226164"><general><startdate>2025-06-26 18:45:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="440" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+<player seat="6" name="popeyee420" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+<player seat="10" name="fb22" chips="570" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fb22" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="popeyee420">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S6</cards>
+<cards type="Pocket" player="fb22">X X</cards>
+<action no="3" player="popeyee420" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="fb22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535226258"><general><startdate>2025-06-26 18:46:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="popeyee420" chips="520" dealer="0" win="80" bet="520" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+<player seat="10" name="fb22" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+<player seat="3" name="oreiasccp" chips="420" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="popeyee420" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="fb22">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 CA</cards>
+<cards type="Pocket" player="popeyee420">X X</cards>
+<action no="3" player="fb22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="popeyee420" type="23" discard="1" dealt="1" sum="520"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535226346"><general><startdate>2025-06-26 18:46:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="fb22" chips="560" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+<player seat="3" name="oreiasccp" chips="380" dealer="1" win="180" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+<player seat="6" name="popeyee420" chips="560" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+</players>
+</general>
+<round no="0"><action no="1" player="popeyee420" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="fb22" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 CJ</cards>
+<cards type="Pocket" player="popeyee420">X X</cards>
+<cards type="Pocket" player="fb22">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="popeyee420" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="fb22" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S10 DA DJ</cards>
+<action no="6" player="fb22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="45"/>
+<action no="8" player="fb22" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+<action no="9" player="fb22" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="120"/>
+<action no="11" player="fb22" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535226556"><general><startdate>2025-06-26 18:46:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="475" dealer="0" win="0" bet="62" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+<player seat="6" name="popeyee420" chips="550" dealer="1" win="134" bet="129" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+<player seat="10" name="fb22" chips="475" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fb22" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA H4</cards>
+<cards type="Pocket" player="popeyee420">X X</cards>
+<cards type="Pocket" player="fb22">X X</cards>
+<action no="3" player="popeyee420" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="fb22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DJ S5 D2</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="popeyee420" type="5" discard="1" dealt="1" sum="22"/>
+<action no="8" player="oreiasccp" type="3" sum="22"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="popeyee420" type="5" discard="1" dealt="1" sum="67"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535226766"><general><startdate>2025-06-26 18:47:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="popeyee420" chips="622" dealer="0" win="831" bet="413" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300615"/>
+<player seat="10" name="fb22" chips="465" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300614"/>
+<player seat="3" name="oreiasccp" chips="413" dealer="0" win="0" bet="413" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392300580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="popeyee420" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="fb22" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="popeyee420" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="popeyee420">CJ DJ</cards>
+<cards type="Pocket" player="fb22">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 HQ</cards>
+<action no="6" player="fb22" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="408"/>
+<action no="8" player="popeyee420" type="3" discard="1" dealt="1" sum="378"/>
+</round>
+<round no="2"><cards type="Flop">H10 D3 H7</cards>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394298671">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128856369</tablename>
+<tournamentcode>1128856368</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>21</gamecount>
+<startdate>2025-06-29 11:47:00</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11540732681"><general><startdate>2025-06-29 11:47:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="192" bet="96" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="500" dealer="0" win="0" bet="96" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ymmot21" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H5</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="Ymmot21">D10 S8</cards>
+<action no="3" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Ymmot21" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S5 S3 CA</cards>
+<action no="6" player="Ymmot21" type="5" discard="1" dealt="1" sum="56"/>
+<action no="7" player="oreiasccp" type="3" sum="56"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="Ymmot21" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="10" player="Ymmot21" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11540732804"><general><startdate>2025-06-29 11:47:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="404" dealer="1" win="50" bet="404" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+<player seat="3" name="oreiasccp" chips="596" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="jokerbridge33" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="Ymmot21">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK S4</cards>
+<action no="3" player="Ymmot21" type="23" discard="1" dealt="1" sum="404"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540732851"><general><startdate>2025-06-29 11:48:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Ymmot21" chips="434" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+<player seat="3" name="oreiasccp" chips="586" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="480" dealer="0" win="40" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Ymmot21" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 HK</cards>
+<cards type="Pocket" player="Ymmot21">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="jokerbridge33" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="Ymmot21" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540732889"><general><startdate>2025-06-29 11:48:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="586" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="500" dealer="1" win="120" bet="93" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="414" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ymmot21" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 SJ</cards>
+<cards type="Pocket" player="Ymmot21">X X</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="3" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="Ymmot21" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S9 C2 C6</cards>
+<action no="7" player="Ymmot21" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="jokerbridge33" type="5" discard="1" dealt="1" sum="53"/>
+<action no="10" player="Ymmot21" type="0" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540733010"><general><startdate>2025-06-29 11:48:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="580" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="374" dealer="1" win="90" bet="152" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+<player seat="3" name="oreiasccp" chips="546" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="jokerbridge33" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA C4</cards>
+<cards type="Pocket" player="Ymmot21">X X</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="3" player="Ymmot21" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C10 CK H2</cards>
+<action no="6" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Ymmot21" type="5" discard="1" dealt="1" sum="112"/>
+<action no="8" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540733091"><general><startdate>2025-06-29 11:49:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Ymmot21" chips="424" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+<player seat="3" name="oreiasccp" chips="536" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="540" dealer="0" win="100" bet="73" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Ymmot21" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 HA</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="Ymmot21">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="jokerbridge33" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Ymmot21" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D6 C7 H10</cards>
+<action no="6" player="jokerbridge33" type="5" discard="1" dealt="1" sum="33"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540733193"><general><startdate>2025-06-29 11:49:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="496" dealer="0" win="406" bet="404" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="600" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="404" dealer="0" win="407" bet="404" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ymmot21" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Ymmot21" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S8</cards>
+<cards type="Pocket" player="Ymmot21">CJ C2</cards>
+<action no="6" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Ymmot21" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ C5 H10</cards>
+<action no="9" player="Ymmot21" type="5" discard="1" dealt="1" sum="168"/>
+<action no="10" player="oreiasccp" type="3" sum="168"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="11" player="Ymmot21" type="5" discard="1" dealt="1" sum="171"/>
+<action no="12" player="oreiasccp" type="3" sum="171"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+</round>
+</game>
+<game gamecode="11540733301"><general><startdate>2025-06-29 11:50:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="595" dealer="0" win="834" bet="407" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="10" name="Ymmot21" chips="407" dealer="1" win="0" bet="407" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298716"/>
+<player seat="3" name="oreiasccp" chips="498" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Ymmot21" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="jokerbridge33" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 HJ</cards>
+<cards type="Pocket" player="jokerbridge33">S5 SQ</cards>
+<cards type="Pocket" player="Ymmot21">D4 DK</cards>
+<action no="6" player="Ymmot21" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="jokerbridge33" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H3 SK S7</cards>
+<action no="9" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Ymmot21" type="5" discard="1" dealt="1" sum="187"/>
+<action no="11" player="jokerbridge33" type="3" discard="1" dealt="1" sum="187"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="12" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="Ymmot21" type="5" discard="1" dealt="1" sum="155"/>
+<action no="14" player="jokerbridge33" type="3" discard="1" dealt="1" sum="155"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+</round>
+</game>
+<game gamecode="11540738769"><general><startdate>2025-06-29 11:50:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="1,022" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="478" dealer="1" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 DQ</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ S8 D4</cards>
+<action no="7" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="jokerbridge33" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="11" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="95"/>
+<action no="13" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540738943"><general><startdate>2025-06-29 11:51:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="543" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="957" dealer="1" win="70" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 H4</cards>
+<action no="5" player="jokerbridge33" type="23" discard="1" dealt="1" sum="75"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540738984"><general><startdate>2025-06-29 11:51:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="992" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="508" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ C3</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739011"><general><startdate>2025-06-29 11:51:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="483" dealer="0" win="170" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="1,017" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 H4</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 C3 C2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="jokerbridge33" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="23" sum="120"/>
+<action no="10" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739085"><general><startdate>2025-06-29 11:51:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="932" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="568" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 D7</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739114"><general><startdate>2025-06-29 11:51:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="543" dealer="0" win="210" bet="158" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="957" dealer="1" win="0" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA CA</cards>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="jokerbridge33" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C5 CK D8</cards>
+<action no="8" player="oreiasccp" type="5" sum="53"/>
+<action no="9" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739172"><general><startdate>2025-06-29 11:52:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="852" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="648" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 C3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739194"><general><startdate>2025-06-29 11:52:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="623" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="877" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 CK</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ HA D4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="jokerbridge33" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739263"><general><startdate>2025-06-29 11:52:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="922" dealer="0" win="0" bet="375" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="578" dealer="1" win="750" bet="375" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 S10</cards>
+<cards type="Pocket" player="jokerbridge33">S2 SK</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="jokerbridge33" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">HJ D10 DJ</cards>
+<action no="8" player="jokerbridge33" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="10" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="12" player="jokerbridge33" type="5" discard="1" dealt="1" sum="250"/>
+<action no="13" player="oreiasccp" type="3" sum="250"/>
+</round>
+</game>
+<game gamecode="11540739381"><general><startdate>2025-06-29 11:52:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="953" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="547" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 S4</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 S5 CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="jokerbridge33" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="9" player="oreiasccp" type="5" sum="40"/>
+<action no="10" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739445"><general><startdate>2025-06-29 11:53:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="502" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="998" dealer="1" win="130" bet="502" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 DQ</cards>
+<cards type="Pocket" player="jokerbridge33">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="497"/>
+<action no="6" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739477"><general><startdate>2025-06-29 11:53:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,063" dealer="0" win="130" bet="437" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+<player seat="6" name="jokerbridge33" chips="437" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+</players>
+</general>
+<round no="0"><action no="1" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="jokerbridge33" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="jokerbridge33">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 CK</cards>
+<action no="5" player="jokerbridge33" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="432"/>
+<action no="7" player="jokerbridge33" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540739519"><general><startdate>2025-06-29 11:53:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="jokerbridge33" chips="372" dealer="0" win="0" bet="372" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298692"/>
+<player seat="3" name="oreiasccp" chips="1,128" dealer="1" win="744" bet="372" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394298671"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="jokerbridge33" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="jokerbridge33" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA D10</cards>
+<cards type="Pocket" player="jokerbridge33">S7 D7</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="jokerbridge33" type="23" discard="1" dealt="1" sum="367"/>
+<action no="7" player="oreiasccp" type="3" sum="307"/>
+</round>
+<round no="2"><cards type="Flop">DJ D3 H9</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">D9</cards>
+</round>
+</game>
+</session>

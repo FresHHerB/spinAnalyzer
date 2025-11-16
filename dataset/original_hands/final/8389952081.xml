@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8389952081">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128261208</tablename>
+<tournamentcode>1128261207</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>29</gamecount>
+<startdate>2025-06-23 13:01:03</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11528802194"><general><startdate>2025-06-23 13:01:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="GDAD" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952103"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="GDAD" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C7</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="GDAD">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802219"><general><startdate>2025-06-23 13:01:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="490" dealer="1" win="1,020" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="10" name="GDAD" chips="510" dealer="0" win="0" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952103"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GDAD" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">DQ SQ</cards>
+<cards type="Pocket" player="GDAD">C5 SA</cards>
+<cards type="Pocket" player="oreiasccp">H4 H9</cards>
+<action no="3" player="Alex032024" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="GDAD" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D6 D3 D2</cards>
+<action no="6" player="GDAD" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Alex032024" type="23" discard="1" dealt="1" sum="450"/>
+<action no="9" player="GDAD" type="3" discard="1" dealt="1" sum="430"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+</round>
+<round no="4"><cards type="River">H8</cards>
+</round>
+</game>
+<game gamecode="11528802328"><general><startdate>2025-06-23 13:01:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,020" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="10" name="GDAD" chips="20" dealer="1" win="0" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952103"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="0" win="60" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Alex032024" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="GDAD">C9 S3</cards>
+<cards type="Pocket" player="oreiasccp">C2 D2</cards>
+<action no="3" player="GDAD" type="7" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="23" sum="460"/>
+<action no="5" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 H5 S4</cards>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+<game gamecode="11528802408"><general><startdate>2025-06-23 13:02:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,000" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Alex032024" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ H7</cards>
+<cards type="Pocket" player="Alex032024">SJ C5</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK C3 S5</cards>
+<action no="5" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Alex032024" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="8" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="10" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802494"><general><startdate>2025-06-23 13:02:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="460" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,040" dealer="1" win="80" bet="66" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK S2</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="3" player="Alex032024" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SQ C3 HQ</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Alex032024" type="5" discard="1" dealt="1" sum="26"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802560"><general><startdate>2025-06-23 13:02:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,080" dealer="0" win="40" bet="1,080" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="420" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Alex032024" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 S3</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Alex032024" type="23" discard="1" dealt="1" sum="1,080"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802611"><general><startdate>2025-06-23 13:02:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,100" dealer="1" win="220" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ CK</cards>
+<action no="3" player="Alex032024" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S10 HA S9</cards>
+<action no="6" player="oreiasccp" type="5" sum="50"/>
+<action no="7" player="Alex032024" type="3" discard="1" dealt="1" sum="50"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Alex032024" type="5" discard="1" dealt="1" sum="145"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802739"><general><startdate>2025-06-23 13:03:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,210" dealer="0" win="0" bet="290" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="290" dealer="1" win="580" bet="290" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">C9 CQ</cards>
+<cards type="Pocket" player="oreiasccp">C8 C6</cards>
+<action no="5" player="oreiasccp" type="23" sum="285"/>
+<action no="6" player="Alex032024" type="3" discard="1" dealt="1" sum="255"/>
+</round>
+<round no="2"><cards type="Flop">D5 DJ C2</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+<game gamecode="11528802796"><general><startdate>2025-06-23 13:03:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="580" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="920" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 D9</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 D6 C2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Alex032024" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802846"><general><startdate>2025-06-23 13:03:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="955" dealer="0" win="614" bet="955" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="545" dealer="1" win="0" bet="307" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 CK</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Alex032024" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">H3 C9 S5</cards>
+<action no="8" player="Alex032024" type="5" discard="1" dealt="1" sum="62"/>
+<action no="9" player="oreiasccp" type="3" sum="62"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="10" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="150"/>
+<action no="12" player="Alex032024" type="23" discard="1" dealt="1" sum="798"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528802933"><general><startdate>2025-06-23 13:04:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="238" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,262" dealer="1" win="70" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 C10</cards>
+<cards type="Pocket" player="Alex032024">H6 S8</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DJ C8 DK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528803021"><general><startdate>2025-06-23 13:04:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,297" dealer="0" win="0" bet="1,297" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="203" dealer="1" win="406" bet="203" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK SK</cards>
+<cards type="Pocket" player="Alex032024">D10 HQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Alex032024" type="23" discard="1" dealt="1" sum="1,292"/>
+<action no="7" player="oreiasccp" type="7" sum="168"/>
+</round>
+<round no="2"><cards type="Flop">C5 S9 DA</cards>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11528803118"><general><startdate>2025-06-23 13:05:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="406" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,094" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 C3</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 S2 HJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Alex032024" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528803173"><general><startdate>2025-06-23 13:05:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,129" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="371" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 S3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528803198"><general><startdate>2025-06-23 13:05:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="351" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,149" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 S9</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528803239"><general><startdate>2025-06-23 13:05:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,104" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="396" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 D4</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528807771"><general><startdate>2025-06-23 13:05:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="371" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,129" dealer="1" win="90" bet="1,129" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H8</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="23" discard="1" dealt="1" sum="1,124"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528807806"><general><startdate>2025-06-23 13:05:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,174" dealer="0" win="90" bet="45" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="326" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK SJ</cards>
+<cards type="Pocket" player="Alex032024">D5 DK</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 D2 H2</cards>
+<action no="7" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="9" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="11" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11528807928"><general><startdate>2025-06-23 13:06:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="281" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,219" dealer="1" win="170" bet="1,219" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 D2</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ H8 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Alex032024" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Alex032024" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Alex032024" type="5" discard="1" dealt="1" sum="1,134"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808035"><general><startdate>2025-06-23 13:06:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,304" dealer="0" win="0" bet="196" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="196" dealer="1" win="392" bet="196" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ DK</cards>
+<cards type="Pocket" player="Alex032024">H5 DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="191"/>
+<action no="6" player="Alex032024" type="3" discard="1" dealt="1" sum="151"/>
+</round>
+<round no="2"><cards type="Flop">S6 D9 C5</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">D7</cards>
+</round>
+</game>
+<game gamecode="11528808103"><general><startdate>2025-06-23 13:06:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="392" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,108" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 CJ</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808172"><general><startdate>2025-06-23 13:07:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,063" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="437" dealer="1" win="90" bet="437" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 H4</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="432"/>
+<action no="6" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808208"><general><startdate>2025-06-23 13:07:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="482" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,018" dealer="1" win="90" bet="1,018" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 H10</cards>
+<action no="5" player="Alex032024" type="23" discard="1" dealt="1" sum="1,013"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808248"><general><startdate>2025-06-23 13:07:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,063" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="437" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ C2</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808272"><general><startdate>2025-06-23 13:07:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="402" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,098" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ C3</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808303"><general><startdate>2025-06-23 13:07:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,063" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="437" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 DQ</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808325"><general><startdate>2025-06-23 13:07:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="402" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,098" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H5</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="Alex032024" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808350"><general><startdate>2025-06-23 13:07:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Alex032024" chips="1,163" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+<player seat="3" name="oreiasccp" chips="337" dealer="1" win="130" bet="337" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Alex032024" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK D3</cards>
+<cards type="Pocket" player="Alex032024">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="332"/>
+<action no="6" player="Alex032024" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528808381"><general><startdate>2025-06-23 13:07:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="402" dealer="0" win="0" bet="402" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952081"/>
+<player seat="6" name="Alex032024" chips="1,098" dealer="1" win="804" bet="1,098" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389952086"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alex032024" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Alex032024" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alex032024">C7 DQ</cards>
+<cards type="Pocket" player="oreiasccp">SA CK</cards>
+<action no="5" player="Alex032024" type="23" discard="1" dealt="1" sum="1,093"/>
+<action no="6" player="oreiasccp" type="7" sum="337"/>
+</round>
+<round no="2"><cards type="Flop">D10 C6 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+</session>

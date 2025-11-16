@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386929241">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127859262</tablename>
+<tournamentcode>1127859261</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>32</gamecount>
+<startdate>2025-06-19 09:12:52</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11520717851"><general><startdate>2025-06-19 09:13:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Engagingtense63" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ D3</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520717876"><general><startdate>2025-06-19 09:13:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="510" dealer="0" win="120" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D4</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="3" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Engagingtense63" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H10 S4 SK</cards>
+<action no="6" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="9" player="Engagingtense63" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+<action no="11" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520717984"><general><startdate>2025-06-19 09:13:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="450" dealer="0" win="150" bet="137" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="590" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="0" win="0" bet="75" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK S9</cards>
+<action no="3" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="50"/>
+<action no="5" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ D5 D7</cards>
+<action no="6" player="oreiasccp" type="5" sum="25"/>
+<action no="7" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="87"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718049"><general><startdate>2025-06-19 09:14:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="590" dealer="0" win="130" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="385" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="525" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Engagingtense63" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">C6 D7</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ DK</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C2 CJ C7</cards>
+<action no="6" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="9" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="11" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718140"><general><startdate>2025-06-19 09:14:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="325" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="515" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="660" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 C3</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718195"><general><startdate>2025-06-19 09:15:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="545" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="650" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="305" dealer="0" win="60" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">D8 H4</cards>
+<cards type="Pocket" player="Engagingtense63">H5 H3</cards>
+<cards type="Pocket" player="oreiasccp">DJ D3</cards>
+<action no="3" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 S10 C9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718292"><general><startdate>2025-06-19 09:15:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="630" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="345" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="525" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Engagingtense63" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 S5</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718321"><general><startdate>2025-06-19 09:15:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="340" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="655" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Engagingtense63" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 S7</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="6" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718345"><general><startdate>2025-06-19 09:15:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="500" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="635" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="365" dealer="0" win="75" bet="365" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 C7</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="6" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="360"/>
+<action no="8" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718385"><general><startdate>2025-06-19 09:16:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="630" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="405" dealer="1" win="845" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="465" dealer="0" win="0" bet="465" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Engagingtense63" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA HK</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">D10 DA</cards>
+<action no="6" player="oreiasccp" type="23" sum="400"/>
+<action no="7" player="d0nsamag0n" type="7" discard="1" dealt="1" sum="445"/>
+<action no="8" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK S8 H5</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">C2</cards>
+</round>
+</game>
+<game gamecode="11520718437"><general><startdate>2025-06-19 09:16:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="845" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="6" name="d0nsamag0n" chips="60" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="595" dealer="0" win="75" bet="595" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Engagingtense63" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ HK</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="6" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Engagingtense63" type="23" discard="1" dealt="1" sum="590"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718469"><general><startdate>2025-06-19 09:16:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="d0nsamag0n" chips="55" dealer="0" win="0" bet="55" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929257"/>
+<player seat="10" name="Engagingtense63" chips="635" dealer="1" win="165" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="810" dealer="0" win="0" bet="55" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D9</cards>
+<cards type="Pocket" player="Engagingtense63">CQ S3</cards>
+<cards type="Pocket" player="d0nsamag0n">S7 S4</cards>
+<action no="6" player="Engagingtense63" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="3" sum="15"/>
+<action no="8" player="d0nsamag0n" type="7" discard="1" dealt="1" sum="20"/>
+<action no="9" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+<action no="10" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H3 DQ D4</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Engagingtense63" type="5" discard="1" dealt="1" sum="30"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11520718541"><general><startdate>2025-06-19 09:17:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="745" dealer="0" win="70" bet="745" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="755" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 HJ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Engagingtense63" type="23" discard="1" dealt="1" sum="740"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718574"><general><startdate>2025-06-19 09:17:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="720" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="780" dealer="1" win="90" bet="780" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 DJ</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="Engagingtense63" type="23" discard="1" dealt="1" sum="775"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718599"><general><startdate>2025-06-19 09:17:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="825" dealer="0" win="90" bet="825" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="675" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 DK</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Engagingtense63" type="23" discard="1" dealt="1" sum="820"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718624"><general><startdate>2025-06-19 09:17:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="630" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="870" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 HK</cards>
+<action no="5" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718643"><general><startdate>2025-06-19 09:17:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="845" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="655" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 D9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718662"><general><startdate>2025-06-19 09:17:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="630" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="870" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 S7</cards>
+<action no="5" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK C8 H10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Engagingtense63" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718719"><general><startdate>2025-06-19 09:18:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="915" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="585" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 S5</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718738"><general><startdate>2025-06-19 09:18:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="560" dealer="0" win="0" bet="122" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="940" dealer="1" win="244" bet="122" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 H9</cards>
+<cards type="Pocket" player="Engagingtense63">H2 C5</cards>
+<action no="5" player="Engagingtense63" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D10 D7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Engagingtense63" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="11" player="oreiasccp" type="5" sum="77"/>
+<action no="12" player="Engagingtense63" type="3" discard="1" dealt="1" sum="77"/>
+</round>
+</game>
+<game gamecode="11520718831"><general><startdate>2025-06-19 09:18:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="1,062" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="438" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H4</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718843"><general><startdate>2025-06-19 09:18:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="413" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="1,087" dealer="1" win="170" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C4</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="Engagingtense63" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">SK H6 D10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Engagingtense63" type="5" discard="1" dealt="1" sum="170"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718880"><general><startdate>2025-06-19 09:18:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="1,172" dealer="0" win="0" bet="328" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="328" dealer="1" win="656" bet="328" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 HJ</cards>
+<cards type="Pocket" player="Engagingtense63">S5 HQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="323"/>
+<action no="6" player="Engagingtense63" type="3" discard="1" dealt="1" sum="283"/>
+</round>
+<round no="2"><cards type="Flop">CJ D5 SQ</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">H9</cards>
+</round>
+</game>
+<game gamecode="11520718931"><general><startdate>2025-06-19 09:19:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="656" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="844" dealer="1" win="130" bet="844" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ C5</cards>
+<action no="5" player="Engagingtense63" type="23" discard="1" dealt="1" sum="839"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520718952"><general><startdate>2025-06-19 09:19:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="909" dealer="0" win="0" bet="591" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="591" dealer="1" win="1,182" bet="591" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 HK</cards>
+<cards type="Pocket" player="Engagingtense63">D6 HQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="586"/>
+<action no="6" player="Engagingtense63" type="3" discard="1" dealt="1" sum="526"/>
+</round>
+<round no="2"><cards type="Flop">C8 C7 C2</cards>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+<game gamecode="11520718996"><general><startdate>2025-06-19 09:19:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,182" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="318" dealer="1" win="130" bet="318" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 C2</cards>
+<action no="5" player="Engagingtense63" type="23" discard="1" dealt="1" sum="313"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520719015"><general><startdate>2025-06-19 09:19:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="383" dealer="0" win="766" bet="383" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="1,117" dealer="1" win="0" bet="383" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 D7</cards>
+<cards type="Pocket" player="Engagingtense63">CJ HK</cards>
+<action no="5" player="oreiasccp" type="23" sum="378"/>
+<action no="6" player="Engagingtense63" type="7" discard="1" dealt="1" sum="318"/>
+</round>
+<round no="2"><cards type="Flop">H3 H7 D3</cards>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="11520719061"><general><startdate>2025-06-19 09:20:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="734" dealer="0" win="0" bet="305" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="766" dealer="1" win="610" bet="610" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S4</cards>
+<action no="5" player="Engagingtense63" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 SA S7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Engagingtense63" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Engagingtense63" type="5" discard="1" dealt="1" sum="180"/>
+<action no="12" player="oreiasccp" type="3" sum="180"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="Engagingtense63" type="5" discard="1" dealt="1" sum="305"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520719157"><general><startdate>2025-06-19 09:20:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="1,071" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="429" dealer="1" win="130" bet="429" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK S9</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="424"/>
+<action no="6" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520719182"><general><startdate>2025-06-19 09:20:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="494" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="1,006" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Engagingtense63">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 SJ</cards>
+<action no="5" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520719198"><general><startdate>2025-06-19 09:20:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Engagingtense63" chips="971" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+<player seat="3" name="oreiasccp" chips="529" dealer="1" win="130" bet="529" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Engagingtense63" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA H3</cards>
+<cards type="Pocket" player="Engagingtense63">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="524"/>
+<action no="6" player="Engagingtense63" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11520719221"><general><startdate>2025-06-19 09:20:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="594" dealer="0" win="0" bet="594" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929241"/>
+<player seat="10" name="Engagingtense63" chips="906" dealer="1" win="1,188" bet="906" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386929285"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Engagingtense63" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Engagingtense63" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ DK</cards>
+<cards type="Pocket" player="Engagingtense63">S4 D4</cards>
+<action no="5" player="Engagingtense63" type="23" discard="1" dealt="1" sum="901"/>
+<action no="6" player="oreiasccp" type="7" sum="529"/>
+</round>
+<round no="2"><cards type="Flop">DA H2 SA</cards>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+</round>
+<round no="4"><cards type="River">C4</cards>
+</round>
+</game>
+</session>

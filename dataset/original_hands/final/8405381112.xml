@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405381112">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130353481</tablename>
+<tournamentcode>1130353480</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>25</gamecount>
+<startdate>2025-07-14 07:17:28</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11571626218"><general><startdate>2025-07-14 07:17:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="500" dealer="0" win="160" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK D9</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="3" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 DQ C2</cards>
+<action no="6" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="8" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H2</cards>
+<action no="10" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626263"><general><startdate>2025-07-14 07:18:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="bobbb1" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="580" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bobbb1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ S3</cards>
+<action no="3" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D8 H4 CQ</cards>
+<action no="6" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626293"><general><startdate>2025-07-14 07:18:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="610" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="410" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="480" dealer="0" win="40" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C6</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="bobbb1" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 S4 D6</cards>
+<action no="6" player="bobbb1" type="5" discard="1" dealt="1" sum="28"/>
+<action no="7" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626335"><general><startdate>2025-07-14 07:18:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="410" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="500" dealer="1" win="100" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="590" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 CJ</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="3" player="bobbb1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA H2 D6</cards>
+<action no="6" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="bobbb1" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626368"><general><startdate>2025-07-14 07:19:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="bobbb1" chips="560" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="550" dealer="1" win="264" bet="254" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="390" dealer="0" win="264" bet="254" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bobbb1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK C7</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Fofiddyarr">CK C2</cards>
+<action no="3" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 DK DQ</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="154"/>
+<action no="14" player="oreiasccp" type="3" sum="154"/>
+</round>
+</game>
+<game gamecode="11571626440"><general><startdate>2025-07-14 07:19:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="560" dealer="0" win="130" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 H9</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D10 C7 H7</cards>
+<action no="6" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="11" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="120"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626492"><general><startdate>2025-07-14 07:20:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="340" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="530" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="630" dealer="0" win="75" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ CJ</cards>
+<action no="6" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 C10 H8</cards>
+<action no="9" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="11" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="13" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="120"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626534"><general><startdate>2025-07-14 07:20:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="bobbb1" chips="525" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="670" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="305" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="bobbb1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ S2</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="6" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626548"><general><startdate>2025-07-14 07:20:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="665" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="285" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="550" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bobbb1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 DQ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="bobbb1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 HQ S7</cards>
+<action no="9" player="bobbb1" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571626578"><general><startdate>2025-07-14 07:20:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="280" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="590" dealer="1" win="0" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="630" dealer="0" win="795" bet="380" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">HA DA</cards>
+<cards type="Pocket" player="oreiasccp">H6 S7</cards>
+<cards type="Pocket" player="bobbb1">S10 DJ</cards>
+<action no="6" player="bobbb1" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="45"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 C4 H9</cards>
+<action no="9" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="bobbb1" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="12" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="13" player="bobbb1" type="23" discard="1" dealt="1" sum="165"/>
+<action no="14" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="105"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="15" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="90"/>
+<action no="16" player="bobbb1" type="3" discard="1" dealt="1" sum="90"/>
+</round>
+</game>
+<game gamecode="11571630954"><general><startdate>2025-07-14 07:21:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="bobbb1" chips="210" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+<player seat="6" name="Fofiddyarr" chips="1,045" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="245" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="bobbb1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ H2</cards>
+<action no="6" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S2 D4 DJ</cards>
+<action no="9" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571630990"><general><startdate>2025-07-14 07:21:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="1,100" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="225" dealer="1" win="395" bet="225" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="3" name="bobbb1" chips="175" dealer="0" win="0" bet="175" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381013"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bobbb1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 CK</cards>
+<cards type="Pocket" player="bobbb1">D4 DQ</cards>
+<action no="6" player="oreiasccp" type="23" sum="220"/>
+<action no="7" player="bobbb1" type="7" discard="1" dealt="1" sum="150"/>
+<action no="8" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA D8 S3</cards>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+</round>
+<round no="4"><cards type="River">H10</cards>
+</round>
+</game>
+<game gamecode="11571631025"><general><startdate>2025-07-14 07:22:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="445" dealer="0" win="250" bet="188" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="1,055" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 D9</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">H8 CJ CA</cards>
+<action no="8" player="oreiasccp" type="5" sum="63"/>
+<action no="9" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631051"><general><startdate>2025-07-14 07:22:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="930" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="570" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 H2</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 SQ CA</cards>
+<action no="7" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631072"><general><startdate>2025-07-14 07:22:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="525" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="975" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 CK</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 C4 H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631101"><general><startdate>2025-07-14 07:22:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="1,020" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ DA</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ H4 D7</cards>
+<action no="7" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631123"><general><startdate>2025-07-14 07:22:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="525" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="975" dealer="1" win="250" bet="375" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H5</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 H3 D7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="250"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631171"><general><startdate>2025-07-14 07:23:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="1,100" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="90" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK DA</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="395"/>
+<action no="6" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631192"><general><startdate>2025-07-14 07:23:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="445" dealer="0" win="0" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="1,055" dealer="1" win="330" bet="325" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 S7</cards>
+<cards type="Pocket" player="Fofiddyarr">X X</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">CQ D9 HJ</cards>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="160"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631230"><general><startdate>2025-07-14 07:23:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="1,220" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="280" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 S10</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631238"><general><startdate>2025-07-14 07:23:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="245" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="1,255" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ HA</cards>
+<action no="5" player="Fofiddyarr" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631256"><general><startdate>2025-07-14 07:24:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="1,220" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="280" dealer="1" win="250" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 S10</cards>
+<cards type="Pocket" player="Fofiddyarr">C7 H4</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CK HQ SQ</cards>
+<action no="7" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="9" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">H2</cards>
+<action no="11" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631283"><general><startdate>2025-07-14 07:24:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="405" dealer="0" win="810" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="1,095" dealer="1" win="0" bet="405" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 C8</cards>
+<cards type="Pocket" player="Fofiddyarr">C5 SA</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 H6 S5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="12" player="oreiasccp" type="23" sum="280"/>
+<action no="13" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="220"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+</round>
+</game>
+<game gamecode="11571631331"><general><startdate>2025-07-14 07:24:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Fofiddyarr" chips="690" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+<player seat="10" name="oreiasccp" chips="810" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Fofiddyarr" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Fofiddyarr">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 D10</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571631341"><general><startdate>2025-07-14 07:24:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="775" dealer="0" win="1,450" bet="725" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381112"/>
+<player seat="6" name="Fofiddyarr" chips="725" dealer="1" win="0" bet="725" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405381045"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Fofiddyarr" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Fofiddyarr" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C7</cards>
+<cards type="Pocket" player="Fofiddyarr">H4 HJ</cards>
+<action no="5" player="Fofiddyarr" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 SQ H2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Fofiddyarr" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Fofiddyarr" type="5" discard="1" dealt="1" sum="250"/>
+<action no="14" player="oreiasccp" type="23" sum="600"/>
+<action no="15" player="Fofiddyarr" type="7" discard="1" dealt="1" sum="350"/>
+</round>
+</game>
+</session>

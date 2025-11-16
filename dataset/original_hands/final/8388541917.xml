@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8388541917">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128065353</tablename>
+<tournamentcode>1128065352</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>18</gamecount>
+<startdate>2025-06-21 10:53:53</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11524758527"><general><startdate>2025-06-21 10:54:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Bubbleman23" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Bubbleman23" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H4</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758557"><general><startdate>2025-06-21 10:54:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="90" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bubbleman23" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA HJ</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="3" player="Vendetta1978" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="23" sum="490"/>
+<action no="6" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758594"><general><startdate>2025-06-21 10:54:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="500" dealer="1" win="50" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Vendetta1978" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 D2</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<action no="3" player="Bubbleman23" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA D6 C10</cards>
+<action no="6" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="8" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="10" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="Bubbleman23" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758703"><general><startdate>2025-06-21 10:55:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Bubbleman23" chips="530" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="430" dealer="0" win="80" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Bubbleman23" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D10</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Vendetta1978" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 SJ H9</cards>
+<action no="6" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bubbleman23" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="Vendetta1978" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="9" player="Vendetta1978" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758825"><general><startdate>2025-06-21 10:55:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="540" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="490" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bubbleman23" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 D3</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="3" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758867"><general><startdate>2025-06-21 10:55:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="470" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="480" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Vendetta1978" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ C9</cards>
+<action no="3" player="Bubbleman23" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758888"><general><startdate>2025-06-21 10:55:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Bubbleman23" chips="510" dealer="0" win="100" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="450" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Bubbleman23" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 C2</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Vendetta1978" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="Bubbleman23" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D9 CQ D8</cards>
+<action no="6" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bubbleman23" type="5" discard="1" dealt="1" sum="140"/>
+<action no="8" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524758955"><general><startdate>2025-06-21 10:56:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="540" dealer="0" win="75" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="400" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="560" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Bubbleman23" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 C8</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<action no="6" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bubbleman23" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK DQ C4</cards>
+<action no="9" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="11" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="13" player="Bubbleman23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="5" sum="90"/>
+<action no="15" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524763819"><general><startdate>2025-06-21 10:56:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="395" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="525" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="580" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Vendetta1978" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA S4</cards>
+<action no="6" player="Bubbleman23" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524763851"><general><startdate>2025-06-21 10:57:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Bubbleman23" chips="580" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="560" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="360" dealer="0" win="165" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Vendetta1978" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Bubbleman23" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK H9</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Vendetta1978" type="23" discard="1" dealt="1" sum="355"/>
+<action no="8" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524763891"><general><startdate>2025-06-21 10:57:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="495" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="460" dealer="1" win="955" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="545" dealer="0" win="0" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Bubbleman23" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vendetta1978">SA D10</cards>
+<cards type="Pocket" player="Bubbleman23">HQ SJ</cards>
+<cards type="Pocket" player="oreiasccp">H2 D6</cards>
+<action no="6" player="Vendetta1978" type="23" discard="1" dealt="1" sum="455"/>
+<action no="7" player="Bubbleman23" type="3" discard="1" dealt="1" sum="440"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 C8 HK</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+<game gamecode="11524763939"><general><startdate>2025-06-21 10:57:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="955" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="85" dealer="1" win="190" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Vendetta1978" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">HA SA</cards>
+<cards type="Pocket" player="oreiasccp">D4 C2</cards>
+<cards type="Pocket" player="Vendetta1978">CQ C8</cards>
+<action no="6" player="Bubbleman23" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Vendetta1978" type="3" discard="1" dealt="1" sum="50"/>
+</round>
+<round no="2"><cards type="Flop">D6 HJ C4</cards>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11524763994"><general><startdate>2025-06-21 10:57:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Bubbleman23" chips="190" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+<player seat="3" name="oreiasccp" chips="440" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="870" dealer="0" win="165" bet="870" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Vendetta1978" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Bubbleman23" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK C7</cards>
+<cards type="Pocket" player="Bubbleman23">X X</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Vendetta1978" type="23" discard="1" dealt="1" sum="865"/>
+<action no="8" player="Bubbleman23" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524764035"><general><startdate>2025-06-21 10:58:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="375" dealer="0" win="315" bet="155" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="970" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="10" name="Bubbleman23" chips="155" dealer="0" win="0" bet="155" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541936"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bubbleman23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Bubbleman23" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bubbleman23">C4 CQ</cards>
+<cards type="Pocket" player="oreiasccp">H6 D8</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="6" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Bubbleman23" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 S5 D4</cards>
+<action no="9" player="Bubbleman23" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="11" player="Bubbleman23" type="5" discard="1" dealt="1" sum="60"/>
+<action no="12" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+</round>
+</game>
+<game gamecode="11524764102"><general><startdate>2025-06-21 10:58:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="965" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="3" name="oreiasccp" chips="535" dealer="1" win="250" bet="308" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Vendetta1978" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vendetta1978">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H2</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="Vendetta1978" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H9 H7 H4</cards>
+<action no="7" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Vendetta1978" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="10" player="Vendetta1978" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="183"/>
+<action no="12" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524764154"><general><startdate>2025-06-21 10:58:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="660" dealer="0" win="1,320" bet="660" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="840" dealer="1" win="0" bet="660" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Vendetta1978" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA H4</cards>
+<cards type="Pocket" player="Vendetta1978">DQ SQ</cards>
+<action no="5" player="Vendetta1978" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="23" sum="655"/>
+<action no="7" player="Vendetta1978" type="3" discard="1" dealt="1" sum="575"/>
+</round>
+<round no="2"><cards type="Flop">CA D8 DK</cards>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11524764208"><general><startdate>2025-06-21 10:59:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Vendetta1978" chips="180" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+<player seat="3" name="oreiasccp" chips="1,320" dealer="1" win="90" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Vendetta1978" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ C6</cards>
+<cards type="Pocket" player="Vendetta1978">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="175"/>
+<action no="6" player="Vendetta1978" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524764237"><general><startdate>2025-06-21 10:59:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,365" dealer="0" win="270" bet="135" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541917"/>
+<player seat="6" name="Vendetta1978" chips="135" dealer="1" win="0" bet="135" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388541932"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vendetta1978" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Vendetta1978" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 HJ</cards>
+<cards type="Pocket" player="Vendetta1978">C4 H10</cards>
+<action no="5" player="Vendetta1978" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK D9 CJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Vendetta1978" type="5" discard="1" dealt="1" sum="90"/>
+<action no="9" player="oreiasccp" type="3" sum="90"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+</session>

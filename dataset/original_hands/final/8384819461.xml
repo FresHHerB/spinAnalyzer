@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8384819461">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127560098</tablename>
+<tournamentcode>1127560097</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>38</gamecount>
+<startdate>2025-06-16 07:02:12</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11514772378"><general><startdate>2025-06-16 07:02:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bobbb1" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="90" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="bobbb1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 SA</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="bobbb1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CJ C9 S2</cards>
+<action no="6" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772422"><general><startdate>2025-06-16 07:02:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="550" dealer="0" win="200" bet="100" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="460" dealer="0" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 CA</cards>
+<cards type="Pocket" player="bobbb1">SA C5</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="3" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="bobbb1" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C2 S9 HJ</cards>
+<action no="6" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="8" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="10" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="50"/>
+<action no="12" player="bobbb1" type="3" discard="1" dealt="1" sum="50"/>
+</round>
+</game>
+<game gamecode="11514772514"><general><startdate>2025-06-16 07:03:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="490" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="360" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="650" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Kallash47" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 C3</cards>
+<action no="3" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772531"><general><startdate>2025-06-16 07:03:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bobbb1" chips="360" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="640" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="500" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="bobbb1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ S2</cards>
+<cards type="Pocket" player="Kallash47">H3 H4</cards>
+<cards type="Pocket" player="bobbb1">SQ S8</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Kallash47" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 H10 D10</cards>
+<action no="6" player="Kallash47" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="bobbb1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="8" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="10" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772610"><general><startdate>2025-06-16 07:03:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="640" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="320" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 H5</cards>
+<action no="3" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772634"><general><startdate>2025-06-16 07:04:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="310" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="650" dealer="0" win="100" bet="540" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Kallash47" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ CA</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="3" player="bobbb1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="540"/>
+<action no="5" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772685"><general><startdate>2025-06-16 07:04:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bobbb1" chips="270" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="710" dealer="1" win="150" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="520" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Kallash47" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="bobbb1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ DK</cards>
+<cards type="Pocket" player="bobbb1">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="bobbb1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D8 S3 H10</cards>
+<action no="9" player="bobbb1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="30"/>
+<action no="11" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772728"><general><startdate>2025-06-16 07:04:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="795" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="500" dealer="1" win="150" bet="117" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="205" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="bobbb1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="bobbb1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HK</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="6" player="Kallash47" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="bobbb1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S7 DA D10</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Kallash47" type="5" discard="1" dealt="1" sum="52"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772786"><general><startdate>2025-06-16 07:05:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="585" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="6" name="bobbb1" chips="185" dealer="1" win="0" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819374"/>
+<player seat="10" name="oreiasccp" chips="730" dealer="0" win="405" bet="585" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="bobbb1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Kallash47" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA C3</cards>
+<cards type="Pocket" player="bobbb1">H8 C8</cards>
+<action no="6" player="bobbb1" type="23" discard="1" dealt="1" sum="180"/>
+<action no="7" player="oreiasccp" type="23" sum="580"/>
+<action no="8" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SJ D6 C4</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+<game gamecode="11514772846"><general><startdate>2025-06-16 07:05:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="550" dealer="0" win="130" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="950" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 D2</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 H3 SK</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="10" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="12" player="Kallash47" type="5" discard="1" dealt="1" sum="90"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772901"><general><startdate>2025-06-16 07:05:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="885" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="615" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 HK</cards>
+<action no="5" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772918"><general><startdate>2025-06-16 07:05:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="595" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="905" dealer="1" win="190" bet="234" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C3 D7 D5</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="10" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="139"/>
+<action no="12" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514772958"><general><startdate>2025-06-16 07:06:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,000" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="500" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ S9</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA D4 HK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">D7</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Kallash47" type="5" discard="1" dealt="1" sum="65"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773006"><general><startdate>2025-06-16 07:06:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="565" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="935" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ C10</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 C2 H4</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="9" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="40"/>
+<action no="11" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773029"><general><startdate>2025-06-16 07:06:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="980" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="520" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ DA</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773052"><general><startdate>2025-06-16 07:06:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="475" dealer="0" win="170" bet="150" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="1,025" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 DJ</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 HA DQ</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Kallash47" type="23" discard="1" dealt="1" sum="105"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773077"><general><startdate>2025-06-16 07:07:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="940" dealer="0" win="170" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="560" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H9</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 DQ H4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kallash47" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="12" player="oreiasccp" type="5" sum="170"/>
+<action no="13" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773118"><general><startdate>2025-06-16 07:07:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="475" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="1,025" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 C9</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 C6 HA</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514773142"><general><startdate>2025-06-16 07:07:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,070" dealer="0" win="0" bet="150" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="430" dealer="1" win="300" bet="430" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ D8</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 C6 D2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="9" player="oreiasccp" type="5" sum="40"/>
+<action no="10" player="Kallash47" type="23" discard="1" dealt="1" sum="105"/>
+<action no="11" player="oreiasccp" type="3" sum="65"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Kallash47" type="5" discard="1" dealt="1" sum="280"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776437"><general><startdate>2025-06-16 07:07:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="580" dealer="0" win="340" bet="170" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="920" dealer="1" win="0" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 H6</cards>
+<cards type="Pocket" player="Kallash47">DQ H3</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 H2 CQ</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="9" player="Kallash47" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="11" player="Kallash47" type="5" discard="1" dealt="1" sum="85"/>
+<action no="12" player="oreiasccp" type="3" sum="85"/>
+</round>
+</game>
+<game gamecode="11514776481"><general><startdate>2025-06-16 07:08:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="750" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="750" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 CK</cards>
+<action no="5" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776491"><general><startdate>2025-06-16 07:08:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="725" dealer="0" win="250" bet="186" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="775" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ C6</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="Kallash47" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H9 C10 H5</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Kallash47" type="23" discard="1" dealt="1" sum="101"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776522"><general><startdate>2025-06-16 07:08:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="650" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="850" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 D7</cards>
+<action no="5" player="Kallash47" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776538"><general><startdate>2025-06-16 07:08:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="915" dealer="0" win="0" bet="660" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="585" dealer="1" win="1,170" bet="585" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ C10</cards>
+<cards type="Pocket" player="Kallash47">SK H2</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 C9 DK</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="Kallash47" type="23" discard="1" dealt="1" sum="155"/>
+<action no="10" player="oreiasccp" type="3" sum="95"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="11" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="220"/>
+<action no="13" player="Kallash47" type="23" discard="1" dealt="1" sum="440"/>
+<action no="14" player="oreiasccp" type="7" sum="145"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+</round>
+</game>
+<game gamecode="11514776602"><general><startdate>2025-06-16 07:09:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,170" dealer="0" win="0" bet="330" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="330" dealer="1" win="660" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">C9 S10</cards>
+<cards type="Pocket" player="oreiasccp">H8 S8</cards>
+<action no="5" player="Kallash47" type="23" discard="1" dealt="1" sum="325"/>
+<action no="6" player="oreiasccp" type="3" sum="265"/>
+</round>
+<round no="2"><cards type="Flop">D2 D5 C6</cards>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11514776639"><general><startdate>2025-06-16 07:09:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="660" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="840" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK H2</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ SJ DJ</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776663"><general><startdate>2025-06-16 07:09:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="905" dealer="0" win="130" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="595" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 CK</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="150"/>
+<action no="7" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776681"><general><startdate>2025-06-16 07:09:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="530" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="970" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 D9</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776703"><general><startdate>2025-06-16 07:09:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="935" dealer="0" win="130" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="565" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ S6</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ C3 D2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="9" player="oreiasccp" type="5" sum="130"/>
+<action no="10" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776753"><general><startdate>2025-06-16 07:10:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="500" dealer="0" win="0" bet="162" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="1,000" dealer="1" win="324" bet="162" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">D2 C10</cards>
+<cards type="Pocket" player="oreiasccp">DJ C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK S9 CJ</cards>
+<action no="7" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="9" player="Kallash47" type="5" discard="1" dealt="1" sum="97"/>
+<action no="10" player="oreiasccp" type="3" sum="97"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="11" player="Kallash47" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776811"><general><startdate>2025-06-16 07:10:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,162" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="338" dealer="1" win="176" bet="338" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 C10</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="23" discard="1" dealt="1" sum="330"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776832"><general><startdate>2025-06-16 07:10:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="426" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="1,074" dealer="1" win="176" bet="426" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="418"/>
+<action no="6" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776845"><general><startdate>2025-06-16 07:10:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,162" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="338" dealer="1" win="176" bet="338" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H5</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="23" discard="1" dealt="1" sum="330"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776866"><general><startdate>2025-06-16 07:10:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="426" dealer="0" win="852" bet="426" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="1,074" dealer="1" win="0" bet="426" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">SK CK</cards>
+<cards type="Pocket" player="oreiasccp">D4 H4</cards>
+<action no="5" player="oreiasccp" type="23" sum="418"/>
+<action no="6" player="Kallash47" type="7" discard="1" dealt="1" sum="338"/>
+</round>
+<round no="2"><cards type="Flop">DJ C3 S7</cards>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="11514776915"><general><startdate>2025-06-16 07:11:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="648" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="852" dealer="1" win="176" bet="852" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 D9</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="Kallash47" type="23" discard="1" dealt="1" sum="844"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776931"><general><startdate>2025-06-16 07:11:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="940" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="176" bet="560" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 HQ</cards>
+<cards type="Pocket" player="Kallash47">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="552"/>
+<action no="6" player="Kallash47" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514776947"><general><startdate>2025-06-16 07:11:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="648" dealer="0" win="0" bet="168" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+<player seat="3" name="Kallash47" chips="852" dealer="1" win="336" bet="285" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Kallash47" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 H4</cards>
+<action no="5" player="Kallash47" type="3" discard="1" dealt="1" sum="40"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 H3 CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Kallash47" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Kallash47" type="5" discard="1" dealt="1" sum="117"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514777021"><general><startdate>2025-06-16 07:11:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Kallash47" chips="1,020" dealer="0" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819366"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="1" win="0" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384819461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Kallash47" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Kallash47" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kallash47">D4 DA</cards>
+<cards type="Pocket" player="oreiasccp">C8 SQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="472"/>
+<action no="6" player="Kallash47" type="3" discard="1" dealt="1" sum="392"/>
+</round>
+<round no="2"><cards type="Flop">H8 H2 C3</cards>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+</session>

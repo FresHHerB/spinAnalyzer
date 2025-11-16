@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385530776">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127668281</tablename>
+<tournamentcode>1127668280</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-06-17 10:52:33</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516894882"><general><startdate>2025-06-17 10:52:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="500" dealer="1" win="90" bet="66" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA S4</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="3" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D4 S10 CK</cards>
+<action no="6" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="ThatsNaughty" type="5" discard="1" dealt="1" sum="26"/>
+<action no="8" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516894964"><general><startdate>2025-06-17 10:53:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ThatsNaughty" chips="550" dealer="0" win="130" bet="97" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="ThatsNaughty" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA S6</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="ThatsNaughty" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CK D7 H9</cards>
+<action no="6" player="ThatsNaughty" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="ThatsNaughty" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="9" player="ThatsNaughty" type="5" discard="1" dealt="1" sum="37"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900138"><general><startdate>2025-06-17 10:53:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="430" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="620" dealer="0" win="100" bet="108" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ThatsNaughty" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 C8</cards>
+<cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="3" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D4 HQ S5</cards>
+<action no="6" player="ThatsNaughty" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="8" player="ThatsNaughty" type="5" discard="1" dealt="1" sum="58"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900238"><general><startdate>2025-06-17 10:54:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="450" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="670" dealer="1" win="90" bet="66" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="380" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OneLastGame" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 HJ</cards>
+<cards type="Pocket" player="ThatsNaughty">X X</cards>
+<action no="3" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="OneLastGame" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SQ DQ H2</cards>
+<action no="6" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="ThatsNaughty" type="5" discard="1" dealt="1" sum="26"/>
+<action no="8" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900310"><general><startdate>2025-06-17 10:54:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ThatsNaughty" chips="720" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="370" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="410" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="ThatsNaughty" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">S8 H9</cards>
+<cards type="Pocket" player="ThatsNaughty">C5 D10</cards>
+<cards type="Pocket" player="oreiasccp">S2 D3</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="OneLastGame" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="ThatsNaughty" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C10 H4 S6</cards>
+<action no="6" player="OneLastGame" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="ThatsNaughty" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="8" player="OneLastGame" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="ThatsNaughty" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="4"><cards type="River">D6</cards>
+<action no="10" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="ThatsNaughty" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900407"><general><startdate>2025-06-17 10:54:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="370" dealer="0" win="0" bet="330" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="330" dealer="1" win="680" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="800" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="ThatsNaughty" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="OneLastGame">HA DJ</cards>
+<cards type="Pocket" player="oreiasccp">H4 C4</cards>
+<action no="6" player="OneLastGame" type="23" discard="1" dealt="1" sum="325"/>
+<action no="7" player="ThatsNaughty" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="295"/>
+</round>
+<round no="2"><cards type="Flop">H6 S8 H3</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11516900483"><general><startdate>2025-06-17 10:55:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="680" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="780" dealer="1" win="150" bet="108" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="40" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 H2</cards>
+<action no="6" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="OneLastGame" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">HJ H9 SA</cards>
+<action no="9" player="OneLastGame" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="ThatsNaughty" type="5" discard="1" dealt="1" sum="43"/>
+<action no="11" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900570"><general><startdate>2025-06-17 10:55:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ThatsNaughty" chips="865" dealer="0" win="30" bet="725" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="20" dealer="1" win="60" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="615" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="ThatsNaughty" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ H5</cards>
+<cards type="Pocket" player="ThatsNaughty">HA C6</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="oreiasccp" type="7" sum="15"/>
+<action no="7" player="OneLastGame" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="720"/>
+<action no="9" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ D6 D9</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11516900659"><general><startdate>2025-06-17 10:56:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="60" dealer="0" win="125" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="860" dealer="0" win="0" bet="275" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="ThatsNaughty" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 CJ</cards>
+<cards type="Pocket" player="ThatsNaughty">H2 C2</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="270"/>
+<action no="8" player="oreiasccp" type="7" sum="25"/>
+</round>
+<round no="2"><cards type="Flop">D5 H3 HQ</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">C10</cards>
+</round>
+</game>
+<game gamecode="11516900721"><general><startdate>2025-06-17 10:56:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="575" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="800" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="125" dealer="0" win="255" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="OneLastGame">SK HA</cards>
+<cards type="Pocket" player="oreiasccp">DQ S8</cards>
+<action no="6" player="ThatsNaughty" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="120"/>
+<action no="8" player="OneLastGame" type="3" discard="1" dealt="1" sum="90"/>
+</round>
+<round no="2"><cards type="Flop">D8 H8 H4</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+</round>
+</game>
+<game gamecode="11516900796"><general><startdate>2025-06-17 10:56:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ThatsNaughty" chips="795" dealer="0" win="0" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="255" dealer="1" win="530" bet="255" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="ThatsNaughty" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ DA</cards>
+<cards type="Pocket" player="ThatsNaughty">HA C4</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="250"/>
+<action no="7" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="ThatsNaughty" type="3" discard="1" dealt="1" sum="220"/>
+</round>
+<round no="2"><cards type="Flop">D5 H3 S4</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">S10</cards>
+</round>
+</game>
+<game gamecode="11516900860"><general><startdate>2025-06-17 10:57:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="530" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="430" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="540" dealer="0" win="95" bet="485" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="ThatsNaughty" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 CQ</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="480"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900893"><general><startdate>2025-06-17 10:57:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="OneLastGame" chips="425" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="590" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="485" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="OneLastGame" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 C9</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<action no="6" player="ThatsNaughty" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900927"><general><startdate>2025-06-17 10:57:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="ThatsNaughty" chips="585" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+<player seat="10" name="oreiasccp" chips="460" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="455" dealer="0" win="95" bet="455" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="OneLastGame" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="ThatsNaughty" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="ThatsNaughty">X X</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 CJ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="OneLastGame" type="23" discard="1" dealt="1" sum="450"/>
+<action no="8" player="ThatsNaughty" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516900964"><general><startdate>2025-06-17 10:57:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="455" dealer="0" win="0" bet="455" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530776"/>
+<player seat="3" name="OneLastGame" chips="505" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530705"/>
+<player seat="6" name="ThatsNaughty" chips="540" dealer="0" win="915" bet="485" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385530722"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ThatsNaughty" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OneLastGame" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="ThatsNaughty" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA C7</cards>
+<cards type="Pocket" player="OneLastGame">X X</cards>
+<cards type="Pocket" player="ThatsNaughty">CQ D6</cards>
+<action no="6" player="OneLastGame" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="ThatsNaughty" type="23" discard="1" dealt="1" sum="480"/>
+<action no="8" player="oreiasccp" type="7" sum="410"/>
+</round>
+<round no="2"><cards type="Flop">D10 S6 SJ</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+</session>

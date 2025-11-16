@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8384875353">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127570038</tablename>
+<tournamentcode>1127570036</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-16 11:22:41</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11514940507"><general><startdate>2025-06-16 11:22:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="505" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875353"/>
+<player seat="10" name="Paokata" chips="500" dealer="1" win="505" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875355"/>
+<player seat="3" name="tripsvalley14" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="tripsvalley14" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="tripsvalley14">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 DK</cards>
+<cards type="Pocket" player="Paokata">H2 CK</cards>
+<action no="3" player="Paokata" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="tripsvalley14" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 S4 D9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Paokata" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Paokata" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="10" player="oreiasccp" type="5" sum="95"/>
+<action no="11" player="Paokata" type="23" discard="1" dealt="1" sum="350"/>
+<action no="12" player="oreiasccp" type="7" sum="355"/>
+<action no="13" player="Paokata" type="7" discard="1" dealt="1" sum="100"/>
+</round>
+</game>
+<game gamecode="11514940634"><general><startdate>2025-06-16 11:23:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Paokata" chips="505" dealer="0" win="1,030" bet="505" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875355"/>
+<player seat="3" name="tripsvalley14" chips="490" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875339"/>
+<player seat="6" name="oreiasccp" chips="505" dealer="0" win="0" bet="505" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384875353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Paokata" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA D8</cards>
+<cards type="Pocket" player="tripsvalley14">X X</cards>
+<cards type="Pocket" player="Paokata">SA S7</cards>
+<action no="3" player="tripsvalley14" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="23" sum="505"/>
+<action no="5" player="Paokata" type="7" discard="1" dealt="1" sum="485"/>
+<action no="6" player="tripsvalley14" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 C6 H2</cards>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+</session>

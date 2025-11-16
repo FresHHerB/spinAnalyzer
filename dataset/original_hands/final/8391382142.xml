@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391382142">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128459223</tablename>
+<tournamentcode>1128459222</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>35</gamecount>
+<startdate>2025-06-25 13:18:16</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532765465"><general><startdate>2025-06-25 13:18:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391381993"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="cosmicturnip" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK H7</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532765510"><general><startdate>2025-06-25 13:18:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="3" name="cosmicturnip" chips="510" dealer="0" win="96" bet="48" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391381993"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="cosmicturnip">H6 C4</cards>
+<cards type="Pocket" player="oreiasccp">H7 CQ</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="3" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="cosmicturnip" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 SJ C9</cards>
+<action no="6" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+<action no="8" player="cosmicturnip" type="5" discard="1" dealt="1" sum="28"/>
+<action no="9" player="oreiasccp" type="3" sum="28"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="10" player="cosmicturnip" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11532765608"><general><startdate>2025-06-25 13:19:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="490" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="3" name="cosmicturnip" chips="558" dealer="1" win="0" bet="452" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391381993"/>
+<player seat="6" name="oreiasccp" chips="452" dealer="0" win="924" bet="452" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="SLONPROF1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 C10</cards>
+<cards type="Pocket" player="cosmicturnip">SA CQ</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="3" player="cosmicturnip" type="23" discard="1" dealt="1" sum="65"/>
+<action no="4" player="oreiasccp" type="23" sum="452"/>
+<action no="5" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="cosmicturnip" type="3" discard="1" dealt="1" sum="387"/>
+</round>
+<round no="2"><cards type="Flop">S6 S9 D6</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">DK</cards>
+</round>
+</game>
+<game gamecode="11532765692"><general><startdate>2025-06-25 13:19:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="cosmicturnip" chips="106" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391381993"/>
+<player seat="6" name="oreiasccp" chips="924" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="470" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="cosmicturnip" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="cosmicturnip">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 C2</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532765722"><general><startdate>2025-06-25 13:19:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="924" dealer="0" win="272" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="460" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="3" name="cosmicturnip" chips="116" dealer="0" win="0" bet="116" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391381993"/>
+</players>
+</general>
+<round no="0"><action no="1" player="cosmicturnip" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="cosmicturnip">HJ SJ</cards>
+<cards type="Pocket" player="oreiasccp">CQ SK</cards>
+<action no="3" player="SLONPROF1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="cosmicturnip" type="23" discard="1" dealt="1" sum="116"/>
+<action no="5" player="oreiasccp" type="23" sum="460"/>
+<action no="6" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 S9 DQ</cards>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11532765812"><general><startdate>2025-06-25 13:19:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="420" dealer="0" win="280" bet="420" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="1,080" dealer="1" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="SLONPROF1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 CK</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="SLONPROF1" type="23" discard="1" dealt="1" sum="70"/>
+<action no="5" player="oreiasccp" type="3" sum="50"/>
+</round>
+<round no="2"><cards type="Flop">H8 CQ C3</cards>
+<action no="6" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="70"/>
+<action no="9" player="oreiasccp" type="3" sum="70"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="10" player="SLONPROF1" type="5" discard="1" dealt="1" sum="280"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772172"><general><startdate>2025-06-25 13:20:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="940" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="560" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 H3</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="3" player="SLONPROF1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772203"><general><startdate>2025-06-25 13:20:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="580" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="920" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="SLONPROF1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 S8</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772229"><general><startdate>2025-06-25 13:20:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="910" dealer="0" win="0" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="590" dealer="1" win="326" bet="326" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 D6</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 D9 S8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="SLONPROF1" type="5" discard="1" dealt="1" sum="98"/>
+<action no="12" player="oreiasccp" type="3" sum="98"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="SLONPROF1" type="5" discard="1" dealt="1" sum="163"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772319"><general><startdate>2025-06-25 13:20:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="753" dealer="0" win="130" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="747" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ CK</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H4 C3 C9</cards>
+<action no="7" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="9" player="SLONPROF1" type="5" discard="1" dealt="1" sum="98"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772375"><general><startdate>2025-06-25 13:21:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="682" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="818" dealer="1" win="130" bet="107" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 SJ</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H3 S10 C6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="42"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772429"><general><startdate>2025-06-25 13:21:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="883" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="617" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 S5</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H4 H9 DK</cards>
+<action no="7" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772485"><general><startdate>2025-06-25 13:21:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="652" dealer="0" win="130" bet="112" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="848" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 H8</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 C5 D4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">S9</cards>
+<action no="11" player="oreiasccp" type="5" sum="47"/>
+<action no="12" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772569"><general><startdate>2025-06-25 13:21:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="783" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="717" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 C4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772588"><general><startdate>2025-06-25 13:22:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="697" dealer="0" win="140" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="803" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 D4</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 D9 H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="23" sum="100"/>
+<action no="10" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772639"><general><startdate>2025-06-25 13:22:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="733" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="767" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 C10</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772672"><general><startdate>2025-06-25 13:22:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="802" dealer="0" win="0" bet="160" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="698" dealer="1" win="320" bet="160" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 S3</cards>
+<cards type="Pocket" player="SLONPROF1">C2 SQ</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 S4 H6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="11" player="oreiasccp" type="5" sum="95"/>
+<action no="12" player="SLONPROF1" type="3" discard="1" dealt="1" sum="95"/>
+</round>
+</game>
+<game gamecode="11532772771"><general><startdate>2025-06-25 13:22:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="858" dealer="0" win="90" bet="858" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="642" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 CQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="SLONPROF1" type="23" discard="1" dealt="1" sum="853"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772797"><general><startdate>2025-06-25 13:22:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="597" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="903" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 CK</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA H10 D8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772835"><general><startdate>2025-06-25 13:23:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="948" dealer="0" win="210" bet="174" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="552" dealer="1" win="0" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK C10</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="SLONPROF1" type="23" discard="1" dealt="1" sum="100"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">HJ H7 H3</cards>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="69"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772898"><general><startdate>2025-06-25 13:23:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="447" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="1,053" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 D4</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="120"/>
+<action no="7" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532772929"><general><startdate>2025-06-25 13:23:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="1,008" dealer="0" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="492" dealer="1" win="180" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H3</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ C2 SQ</cards>
+<action no="7" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="SLONPROF1" type="5" discard="1" dealt="1" sum="45"/>
+<action no="10" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="4"><cards type="River">H8</cards>
+<action no="11" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="155"/>
+<action no="13" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773021"><general><startdate>2025-06-25 13:23:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="582" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="918" dealer="1" win="90" bet="45" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C5</cards>
+<cards type="Pocket" player="SLONPROF1">DQ CA</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK D6 C4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773091"><general><startdate>2025-06-25 13:24:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="963" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="537" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 S3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773116"><general><startdate>2025-06-25 13:24:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="512" dealer="0" win="90" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="988" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 S2</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="160"/>
+<action no="7" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773168"><general><startdate>2025-06-25 13:24:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="943" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="557" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 SJ</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773196"><general><startdate>2025-06-25 13:24:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="522" dealer="0" win="130" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="978" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ H7</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="150"/>
+<action no="7" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773255"><general><startdate>2025-06-25 13:24:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="913" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="587" dealer="1" win="130" bet="587" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 CQ</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="582"/>
+<action no="6" player="SLONPROF1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773290"><general><startdate>2025-06-25 13:24:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="652" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="848" dealer="1" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 S5</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK HK DK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773341"><general><startdate>2025-06-25 13:25:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="913" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="587" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 C3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773388"><general><startdate>2025-06-25 13:25:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="552" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="948" dealer="1" win="130" bet="948" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H5</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="23" discard="1" dealt="1" sum="943"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773420"><general><startdate>2025-06-25 13:25:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="1,013" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="487" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 C4</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773473"><general><startdate>2025-06-25 13:25:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="452" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="1,048" dealer="1" win="130" bet="1,048" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 S2</cards>
+<cards type="Pocket" player="SLONPROF1">X X</cards>
+<action no="5" player="SLONPROF1" type="23" discard="1" dealt="1" sum="1,043"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532773510"><general><startdate>2025-06-25 13:25:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="SLONPROF1" chips="1,113" dealer="0" win="0" bet="387" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+<player seat="6" name="oreiasccp" chips="387" dealer="1" win="774" bet="387" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="SLONPROF1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">D10 C10</cards>
+<cards type="Pocket" player="oreiasccp">CQ D5</cards>
+<action no="5" player="oreiasccp" type="23" sum="382"/>
+<action no="6" player="SLONPROF1" type="3" discard="1" dealt="1" sum="322"/>
+</round>
+<round no="2"><cards type="Flop">DQ C9 D3</cards>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+</round>
+<round no="4"><cards type="River">HA</cards>
+</round>
+</game>
+<game gamecode="11532773582"><general><startdate>2025-06-25 13:26:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="774" dealer="0" win="1,452" bet="726" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382142"/>
+<player seat="10" name="SLONPROF1" chips="726" dealer="1" win="0" bet="726" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391382179"/>
+</players>
+</general>
+<round no="0"><action no="1" player="SLONPROF1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="SLONPROF1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="SLONPROF1">C9 D6</cards>
+<cards type="Pocket" player="oreiasccp">CQ C7</cards>
+<action no="5" player="SLONPROF1" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 D10 D7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="SLONPROF1" type="5" discard="1" dealt="1" sum="65"/>
+<action no="9" player="oreiasccp" type="3" sum="65"/>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="SLONPROF1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="SLONPROF1" type="5" discard="1" dealt="1" sum="596"/>
+<action no="14" player="oreiasccp" type="3" sum="596"/>
+</round>
+</game>
+</session>

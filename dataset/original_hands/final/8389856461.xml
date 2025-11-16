@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8389856461">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128247676</tablename>
+<tournamentcode>1128247675</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>21</gamecount>
+<startdate>2025-06-23 06:47:04</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11528545365"><general><startdate>2025-06-23 06:47:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="500" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="6" name="Eloas" chips="500" dealer="0" win="0" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856465"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Eloas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Classicoffside" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">CQ D2</cards>
+<cards type="Pocket" player="Eloas">S5 D3</cards>
+<cards type="Pocket" player="oreiasccp">C4 DJ</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Eloas" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 S7 HQ</cards>
+<action no="6" player="Eloas" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="8" player="Eloas" type="5" discard="1" dealt="1" sum="480"/>
+<action no="9" player="Classicoffside" type="7" discard="1" dealt="1" sum="480"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+</round>
+</game>
+<game gamecode="11528545457"><general><startdate>2025-06-23 06:48:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,000" dealer="1" win="100" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 DA</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="3" player="Classicoffside" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">HQ S3 D3</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Classicoffside" type="5" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545510"><general><startdate>2025-06-23 06:48:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,050" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="450" dealer="1" win="40" bet="49" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Classicoffside" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ HQ</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C9 SK C6</cards>
+<action no="5" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="7" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="9" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="29"/>
+<action no="11" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545592"><general><startdate>2025-06-23 06:49:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="470" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,030" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 DJ</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="5" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545602"><general><startdate>2025-06-23 06:49:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,010" dealer="0" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ H10</cards>
+<cards type="Pocket" player="Classicoffside">S5 HK</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 H4 S2</cards>
+<action no="7" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Classicoffside" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="10" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="12" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545648"><general><startdate>2025-06-23 06:50:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="425" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,075" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 H3</cards>
+<action no="5" player="Classicoffside" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA HA C8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Classicoffside" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545682"><general><startdate>2025-06-23 06:50:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 D7</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 HQ C6</cards>
+<action no="7" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="9" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="11" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="30"/>
+<action no="13" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545724"><general><startdate>2025-06-23 06:50:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="425" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,075" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 C3</cards>
+<action no="5" player="Classicoffside" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SJ CA S6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Classicoffside" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528545748"><general><startdate>2025-06-23 06:51:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="70" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 CK</cards>
+<action no="5" player="oreiasccp" type="23" sum="385"/>
+<action no="6" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549569"><general><startdate>2025-06-23 06:51:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="425" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,075" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 H10</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="5" player="Classicoffside" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S8 DA SK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Classicoffside" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549585"><general><startdate>2025-06-23 06:51:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="90" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA S8</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="385"/>
+<action no="6" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549602"><general><startdate>2025-06-23 06:51:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="435" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,065" dealer="1" win="90" bet="845" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 SJ</cards>
+<action no="5" player="Classicoffside" type="23" discard="1" dealt="1" sum="840"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549617"><general><startdate>2025-06-23 06:51:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="90" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 DK</cards>
+<action no="5" player="oreiasccp" type="23" sum="385"/>
+<action no="6" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549640"><general><startdate>2025-06-23 06:51:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="435" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,065" dealer="1" win="90" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 D4</cards>
+<action no="5" player="Classicoffside" type="23" discard="1" dealt="1" sum="440"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549664"><general><startdate>2025-06-23 06:52:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="90" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 H3</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Classicoffside" type="23" discard="1" dealt="1" sum="440"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549685"><general><startdate>2025-06-23 06:52:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="345" dealer="0" win="90" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,155" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA H6</cards>
+<cards type="Pocket" player="Classicoffside">X X</cards>
+<action no="5" player="Classicoffside" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="160"/>
+<action no="7" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549708"><general><startdate>2025-06-23 06:52:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,110" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="90" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK CJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="385"/>
+<action no="6" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549725"><general><startdate>2025-06-23 06:52:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="435" dealer="0" win="90" bet="435" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,065" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 DQ</cards>
+<action no="5" player="Classicoffside" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="430"/>
+<action no="7" player="Classicoffside" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549742"><general><startdate>2025-06-23 06:52:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,020" dealer="0" win="170" bet="212" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 SA SJ</cards>
+<action no="7" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Classicoffside" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="10" player="Classicoffside" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="12" player="Classicoffside" type="5" discard="1" dealt="1" sum="127"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549793"><general><startdate>2025-06-23 06:53:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="395" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+<player seat="10" name="Classicoffside" chips="1,105" dealer="1" win="130" bet="845" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Classicoffside" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 HJ</cards>
+<action no="5" player="Classicoffside" type="23" discard="1" dealt="1" sum="840"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11528549816"><general><startdate>2025-06-23 06:53:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Classicoffside" chips="1,170" dealer="0" win="660" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856476"/>
+<player seat="3" name="oreiasccp" chips="330" dealer="1" win="0" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389856461"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Classicoffside" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Classicoffside" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Classicoffside">S6 SJ</cards>
+<cards type="Pocket" player="oreiasccp">C9 H8</cards>
+<action no="5" player="oreiasccp" type="23" sum="325"/>
+<action no="6" player="Classicoffside" type="3" discard="1" dealt="1" sum="265"/>
+</round>
+<round no="2"><cards type="Flop">CK S5 DA</cards>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+</session>

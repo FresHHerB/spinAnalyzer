@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390692599">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128365792</tablename>
+<tournamentcode>1128365791</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-06-24 14:13:30</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530876110"><general><startdate>2025-06-24 14:13:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="210" bet="253" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="500" dealer="1" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Mallis32" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 D7</cards>
+<action no="3" player="Ronihoo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H7 S7 CJ</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Ronihoo" type="5" discard="1" dealt="1" sum="60"/>
+<action no="8" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Ronihoo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="11" player="oreiasccp" type="5" sum="153"/>
+<action no="12" player="Ronihoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876244"><general><startdate>2025-06-24 14:14:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="400" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="610" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Ronihoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 H5</cards>
+<action no="3" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876301"><general><startdate>2025-06-24 14:14:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Mallis32" chips="490" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="600" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="410" dealer="0" win="80" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ronihoo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Mallis32" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 C8</cards>
+<cards type="Pocket" player="Mallis32">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Ronihoo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="Mallis32" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HJ SJ HK</cards>
+<action no="6" player="Ronihoo" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876365"><general><startdate>2025-06-24 14:14:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="600" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="450" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="450" dealer="0" win="140" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Mallis32" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 D7</cards>
+<action no="3" player="Ronihoo" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="Mallis32" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="Ronihoo" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H4 H6 S6</cards>
+<action no="7" player="Mallis32" type="5" discard="1" dealt="1" sum="70"/>
+<action no="8" player="Ronihoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876466"><general><startdate>2025-06-24 14:14:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="390" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="580" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Ronihoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S3</cards>
+<action no="3" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876505"><general><startdate>2025-06-24 14:15:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Mallis32" chips="530" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="570" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="400" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ronihoo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Mallis32" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 H10</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Ronihoo" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Mallis32" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 CQ SJ</cards>
+<action no="6" player="Ronihoo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Mallis32" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="Ronihoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876576"><general><startdate>2025-06-24 14:15:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="570" dealer="0" win="60" bet="550" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="380" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="550" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Mallis32" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA S3</cards>
+<cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<action no="3" player="Ronihoo" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="Mallis32" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="550"/>
+<action no="6" player="Ronihoo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876642"><general><startdate>2025-06-24 14:15:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="360" dealer="0" win="730" bet="360" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="530" dealer="1" win="0" bet="410" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="610" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Ronihoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK C5</cards>
+<cards type="Pocket" player="Ronihoo">HQ D5</cards>
+<cards type="Pocket" player="Mallis32">H8 H7</cards>
+<action no="3" player="Mallis32" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Ronihoo" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H2 C6 SQ</cards>
+<action no="6" player="Ronihoo" type="5" discard="1" dealt="1" sum="60"/>
+<action no="7" player="Mallis32" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="8" player="Ronihoo" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="Mallis32" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="10" player="Ronihoo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="Mallis32" type="5" discard="1" dealt="1" sum="240"/>
+<action no="12" player="Ronihoo" type="7" discard="1" dealt="1" sum="190"/>
+</round>
+</game>
+<game gamecode="11530876833"><general><startdate>2025-06-24 14:16:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Mallis32" chips="170" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+<player seat="3" name="oreiasccp" chips="600" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="730" dealer="0" win="75" bet="730" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Mallis32" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Ronihoo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Mallis32" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Ronihoo">X X</cards>
+<cards type="Pocket" player="Mallis32">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 D4</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Ronihoo" type="23" discard="1" dealt="1" sum="725"/>
+<action no="8" player="Mallis32" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876881"><general><startdate>2025-06-24 14:16:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="595" dealer="0" win="1,325" bet="595" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="770" dealer="1" win="0" bet="595" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="10" name="Mallis32" chips="135" dealer="0" win="0" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692639"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Mallis32" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Mallis32" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 S2</cards>
+<cards type="Pocket" player="Mallis32">HA C2</cards>
+<cards type="Pocket" player="Ronihoo">S10 CA</cards>
+<action no="6" player="Ronihoo" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="Mallis32" type="23" discard="1" dealt="1" sum="130"/>
+<action no="8" player="oreiasccp" type="23" sum="590"/>
+<action no="9" player="Ronihoo" type="3" discard="1" dealt="1" sum="530"/>
+</round>
+<round no="2"><cards type="Flop">C4 SQ CQ</cards>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+<game gamecode="11530882995"><general><startdate>2025-06-24 14:16:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="175" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="3" name="oreiasccp" chips="1,325" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Ronihoo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ S3</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883027"><general><startdate>2025-06-24 14:16:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,305" dealer="0" win="0" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="195" dealer="1" win="390" bet="195" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Ronihoo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 CK</cards>
+<cards type="Pocket" player="Ronihoo">S4 D4</cards>
+<action no="5" player="Ronihoo" type="23" discard="1" dealt="1" sum="190"/>
+<action no="6" player="oreiasccp" type="3" sum="160"/>
+</round>
+<round no="2"><cards type="Flop">SJ C6 H5</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+</round>
+</game>
+<game gamecode="11530883101"><general><startdate>2025-06-24 14:17:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="390" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="3" name="oreiasccp" chips="1,110" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Ronihoo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 S3</cards>
+<cards type="Pocket" player="Ronihoo">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530883140"><general><startdate>2025-06-24 14:17:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,090" dealer="0" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+<player seat="6" name="Ronihoo" chips="410" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Ronihoo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Ronihoo">SQ H4</cards>
+<cards type="Pocket" player="oreiasccp">H5 H2</cards>
+<action no="5" player="Ronihoo" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 HJ C5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Ronihoo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Ronihoo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="11" player="oreiasccp" type="5" sum="30"/>
+<action no="12" player="Ronihoo" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11530883237"><general><startdate>2025-06-24 14:17:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Ronihoo" chips="345" dealer="0" win="0" bet="345" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692600"/>
+<player seat="3" name="oreiasccp" chips="1,155" dealer="1" win="690" bet="345" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390692599"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Ronihoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Ronihoo" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Ronihoo">H8 SQ</cards>
+<cards type="Pocket" player="oreiasccp">HA C2</cards>
+<action no="5" player="oreiasccp" type="23" sum="340"/>
+<action no="6" player="Ronihoo" type="7" discard="1" dealt="1" sum="310"/>
+</round>
+<round no="2"><cards type="Flop">DA S3 D5</cards>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+</session>

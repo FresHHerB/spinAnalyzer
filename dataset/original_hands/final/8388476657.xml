@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8388476657">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128056053</tablename>
+<tournamentcode>1128056052</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>30</gamecount>
+<startdate>2025-06-21 06:43:21</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11524592842"><general><startdate>2025-06-21 06:43:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="10" name="bazile23" chips="500" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MajinBluff" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="bazile23">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 C6</cards>
+<action no="3" player="bazile23" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HJ D9 DJ</cards>
+<action no="6" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="bazile23" type="5" discard="1" dealt="1" sum="45"/>
+<action no="8" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524592902"><general><startdate>2025-06-21 06:44:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="bazile23" chips="550" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="90" bet="63" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="bazile23" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 DA</cards>
+<cards type="Pocket" player="bazile23">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="bazile23" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S2 CA CK</cards>
+<action no="6" player="bazile23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="23"/>
+<action no="8" player="bazile23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524592963"><general><startdate>2025-06-21 06:44:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="540" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="10" name="bazile23" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bazile23" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bazile23">X X</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ CA</cards>
+<action no="3" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="bazile23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524592980"><general><startdate>2025-06-21 06:44:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="450" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="10" name="bazile23" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="550" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MajinBluff" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 C10</cards>
+<cards type="Pocket" player="bazile23">X X</cards>
+<action no="3" player="bazile23" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S8 C7 HK</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593040"><general><startdate>2025-06-21 06:44:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="bazile23" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="590" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="410" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="bazile23" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 S7</cards>
+<cards type="Pocket" player="bazile23">X X</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593061"><general><startdate>2025-06-21 06:44:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="590" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="400" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="10" name="bazile23" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bazile23" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bazile23">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ D2</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="3" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="bazile23" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ SA H2</cards>
+<action no="6" player="bazile23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="8" player="bazile23" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="20"/>
+<action no="10" player="bazile23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593108"><general><startdate>2025-06-21 06:45:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="400" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="10" name="bazile23" chips="490" dealer="1" win="0" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="610" dealer="0" win="260" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MajinBluff" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK H10</cards>
+<cards type="Pocket" player="bazile23">X X</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="3" player="bazile23" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="120"/>
+<action no="5" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="bazile23" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">H5 CA SA</cards>
+<action no="7" player="oreiasccp" type="5" sum="50"/>
+<action no="8" player="bazile23" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593175"><general><startdate>2025-06-21 06:45:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="bazile23" chips="370" dealer="0" win="0" bet="370" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476664"/>
+<player seat="3" name="oreiasccp" chips="750" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="380" dealer="0" win="745" bet="380" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="bazile23" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MajinBluff" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="bazile23" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="bazile23">HQ CQ</cards>
+<cards type="Pocket" player="MajinBluff">C3 DA</cards>
+<cards type="Pocket" player="oreiasccp">S8 S6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MajinBluff" type="23" discard="1" dealt="1" sum="375"/>
+<action no="8" player="bazile23" type="7" discard="1" dealt="1" sum="335"/>
+</round>
+<round no="2"><cards type="Flop">HA D10 C2</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+<game gamecode="11524593228"><general><startdate>2025-06-21 06:45:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="745" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="755" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 S10</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK H7 HK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MajinBluff" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593294"><general><startdate>2025-06-21 06:46:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="790" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="710" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 D2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593314"><general><startdate>2025-06-21 06:46:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="690" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="810" dealer="1" win="130" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 C2</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H10 H9 C4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="MajinBluff" type="5" discard="1" dealt="1" sum="98"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593386"><general><startdate>2025-06-21 06:46:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="875" dealer="0" win="70" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="625" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 C6</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="MajinBluff" type="23" discard="1" dealt="1" sum="210"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593443"><general><startdate>2025-06-21 06:47:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="590" dealer="0" win="430" bet="215" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="910" dealer="1" win="0" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">SK SJ</cards>
+<cards type="Pocket" player="oreiasccp">H6 H7</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ D6 H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="12" player="oreiasccp" type="5" sum="150"/>
+<action no="13" player="MajinBluff" type="3" discard="1" dealt="1" sum="150"/>
+</round>
+</game>
+<game gamecode="11524593550"><general><startdate>2025-06-21 06:48:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="695" dealer="0" win="170" bet="695" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="805" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ H4</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="MajinBluff" type="23" discard="1" dealt="1" sum="690"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593577"><general><startdate>2025-06-21 06:48:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="720" dealer="0" win="292" bet="146" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="780" dealer="1" win="0" bet="146" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">C9 C5</cards>
+<cards type="Pocket" player="oreiasccp">D7 H8</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 H6 CA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="12" player="oreiasccp" type="5" sum="61"/>
+<action no="13" player="MajinBluff" type="3" discard="1" dealt="1" sum="61"/>
+</round>
+</game>
+<game gamecode="11524593676"><general><startdate>2025-06-21 06:48:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="634" dealer="0" win="90" bet="634" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="866" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S9</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="MajinBluff" type="23" discard="1" dealt="1" sum="629"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593691"><general><startdate>2025-06-21 06:48:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="821" dealer="0" win="90" bet="679" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="679" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 H2</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="674"/>
+<action no="7" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593740"><general><startdate>2025-06-21 06:49:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="634" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="866" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D9</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593762"><general><startdate>2025-06-21 06:49:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="911" dealer="0" win="530" bet="589" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="589" dealer="1" win="0" bet="265" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK C8</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 H8 H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MajinBluff" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">SK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="MajinBluff" type="5" discard="1" dealt="1" sum="160"/>
+<action no="14" player="oreiasccp" type="23" sum="484"/>
+<action no="15" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593841"><general><startdate>2025-06-21 06:49:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="324" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="1,176" dealer="1" win="130" bet="324" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 SA</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="319"/>
+<action no="6" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593860"><general><startdate>2025-06-21 06:49:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,241" dealer="0" win="0" bet="259" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="259" dealer="1" win="518" bet="259" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">S7 H7</cards>
+<cards type="Pocket" player="oreiasccp">CJ CK</cards>
+<action no="5" player="MajinBluff" type="23" discard="1" dealt="1" sum="254"/>
+<action no="6" player="oreiasccp" type="3" sum="194"/>
+</round>
+<round no="2"><cards type="Flop">CA D2 C3</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">H10</cards>
+</round>
+</game>
+<game gamecode="11524593904"><general><startdate>2025-06-21 06:50:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="518" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="982" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 H2</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593921"><general><startdate>2025-06-21 06:50:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="947" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="553" dealer="1" win="130" bet="553" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 C2</cards>
+<cards type="Pocket" player="MajinBluff">X X</cards>
+<action no="5" player="MajinBluff" type="23" discard="1" dealt="1" sum="548"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593934"><general><startdate>2025-06-21 06:50:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="618" dealer="0" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="882" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 C6</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="MajinBluff" type="23" discard="1" dealt="1" sum="180"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524593973"><general><startdate>2025-06-21 06:50:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="817" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="683" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 H8</cards>
+<action no="5" player="MajinBluff" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK CQ H7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524594029"><general><startdate>2025-06-21 06:50:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="748" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="752" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 H6</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524594048"><general><startdate>2025-06-21 06:50:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="717" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="783" dealer="1" win="130" bet="783" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 S4</cards>
+<action no="5" player="MajinBluff" type="23" discard="1" dealt="1" sum="778"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11524594069"><general><startdate>2025-06-21 06:51:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="848" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="652" dealer="1" win="130" bet="652" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA C4</cards>
+<action no="5" player="oreiasccp" type="23" sum="647"/>
+<action no="6" player="MajinBluff" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524594102"><general><startdate>2025-06-21 06:51:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="717" dealer="0" win="400" bet="200" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+<player seat="6" name="MajinBluff" chips="783" dealer="1" win="0" bet="200" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MajinBluff" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MajinBluff" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK D10</cards>
+<cards type="Pocket" player="MajinBluff">S3 DQ</cards>
+<action no="5" player="MajinBluff" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">D7 D4 C7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MajinBluff" type="5" discard="1" dealt="1" sum="75"/>
+<action no="9" player="oreiasccp" type="3" sum="75"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="MajinBluff" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11524594226"><general><startdate>2025-06-21 06:52:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="MajinBluff" chips="583" dealer="0" win="0" bet="583" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476661"/>
+<player seat="3" name="oreiasccp" chips="917" dealer="1" win="1,166" bet="583" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8388476657"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="MajinBluff" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="MajinBluff" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="MajinBluff">D9 CJ</cards>
+<cards type="Pocket" player="oreiasccp">DA H9</cards>
+<action no="5" player="oreiasccp" type="23" sum="575"/>
+<action no="6" player="MajinBluff" type="7" discard="1" dealt="1" sum="495"/>
+</round>
+<round no="2"><cards type="Flop">D2 C8 D5</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">D7</cards>
+</round>
+</game>
+</session>

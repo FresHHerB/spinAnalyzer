@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392269580">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128577841</tablename>
+<tournamentcode>1128577840</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>27</gamecount>
+<startdate>2025-06-26 18:04:47</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11535143985"><general><startdate>2025-06-26 18:05:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="500" dealer="0" win="180" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Bellatrix97" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK HJ</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="3" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="Bellatrix97" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C10 H8 D10</cards>
+<action no="6" player="oreiasccp" type="5" sum="30"/>
+<action no="7" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Bellatrix97" type="5" discard="1" dealt="1" sum="90"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144120"><general><startdate>2025-06-26 18:05:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="410" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="590" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="zoumberland" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 DA</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144176"><general><startdate>2025-06-26 18:05:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="440" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="580" dealer="1" win="180" bet="150" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="480" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 DJ</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="3" player="Bellatrix97" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="zoumberland" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 S7 DQ</cards>
+<action no="6" player="zoumberland" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="Bellatrix97" type="23" discard="1" dealt="1" sum="110"/>
+<action no="8" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144269"><general><startdate>2025-06-26 18:05:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="680" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="400" dealer="1" win="60" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Bellatrix97" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C9</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="3" player="zoumberland" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="3" sum="10"/>
+<action no="5" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 D2 H2</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="zoumberland" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="zoumberland" type="5" discard="1" dealt="1" sum="80"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+<action no="13" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144496"><general><startdate>2025-06-26 18:06:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="440" dealer="0" win="0" bet="63" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="136" bet="162" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="660" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="zoumberland" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA HA</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="zoumberland" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C4 CQ H8</cards>
+<action no="6" player="zoumberland" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="23"/>
+<action no="8" player="zoumberland" type="3" discard="1" dealt="1" sum="23"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="9" player="zoumberland" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="99"/>
+<action no="11" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144614"><general><startdate>2025-06-26 18:06:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="473" dealer="0" win="100" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="650" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="377" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">SA SJ</cards>
+<action no="3" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="zoumberland" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="50"/>
+<action no="6" player="zoumberland" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C6 CJ H3</cards>
+<action no="7" player="zoumberland" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144709"><general><startdate>2025-06-26 18:07:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="650" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="327" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="523" dealer="0" win="195" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">H10 H5</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK C9</cards>
+<action no="6" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S2 HA S4</cards>
+<action no="9" player="oreiasccp" type="5" sum="30"/>
+<action no="10" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535158877"><general><startdate>2025-06-26 18:07:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="322" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="623" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="555" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Bellatrix97" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="zoumberland" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 DQ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Bellatrix97" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="zoumberland" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 HQ H5</cards>
+<action no="9" player="Bellatrix97" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159073"><general><startdate>2025-06-26 18:08:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="618" dealer="0" win="0" bet="287" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="595" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="287" dealer="0" win="579" bet="287" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="zoumberland" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">S9 CK</cards>
+<cards type="Pocket" player="oreiasccp">DA H3</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="zoumberland" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="23" sum="282"/>
+<action no="9" player="zoumberland" type="7" discard="1" dealt="1" sum="252"/>
+</round>
+<round no="2"><cards type="Flop">HK S6 S5</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">D9</cards>
+</round>
+</game>
+<game gamecode="11535159293"><general><startdate>2025-06-26 18:09:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="590" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="579" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="331" dealer="0" win="255" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 SJ</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">S6 HK</cards>
+<action no="6" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C3 C10 C8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="11" player="oreiasccp" type="5" sum="30"/>
+<action no="12" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="13" player="oreiasccp" type="5" sum="30"/>
+<action no="14" player="Bellatrix97" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11535159555"><general><startdate>2025-06-26 18:09:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="574" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="461" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="465" dealer="0" win="95" bet="465" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="zoumberland" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 H7</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Bellatrix97" type="23" discard="1" dealt="1" sum="460"/>
+<action no="8" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159639"><general><startdate>2025-06-26 18:09:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="456" dealer="0" win="655" bet="325" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="515" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="529" dealer="0" win="0" bet="325" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="zoumberland" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 CJ</cards>
+<cards type="Pocket" player="zoumberland">H8 CK</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="zoumberland" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 DJ C10</cards>
+<action no="9" player="zoumberland" type="5" discard="1" dealt="1" sum="80"/>
+<action no="10" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="11" player="zoumberland" type="5" discard="1" dealt="1" sum="80"/>
+<action no="12" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="13" player="zoumberland" type="5" discard="1" dealt="1" sum="120"/>
+<action no="14" player="oreiasccp" type="3" sum="120"/>
+</round>
+</game>
+<game gamecode="11535159800"><general><startdate>2025-06-26 18:10:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="510" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="204" dealer="1" win="115" bet="204" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="786" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ H3</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="zoumberland" type="3" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D8 H2 S4</cards>
+<action no="9" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="zoumberland" type="5" discard="1" dealt="1" sum="159"/>
+<action no="11" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159926"><general><startdate>2025-06-26 18:10:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="274" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="761" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="465" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Bellatrix97" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="zoumberland" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ C9</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159974"><general><startdate>2025-06-26 18:10:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="756" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="440" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="304" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="zoumberland" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 D4</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160016"><general><startdate>2025-06-26 18:10:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="435" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="279" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="786" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 S10</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="zoumberland" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160073"><general><startdate>2025-06-26 18:11:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="zoumberland" chips="274" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="761" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="465" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Bellatrix97" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="zoumberland" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 H9</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160135"><general><startdate>2025-06-26 18:11:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="756" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="430" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="314" dealer="0" win="135" bet="314" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+</players>
+</general>
+<round no="0"><action no="1" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="zoumberland" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 S4</cards>
+<cards type="Pocket" player="zoumberland">X X</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="zoumberland" type="23" discard="1" dealt="1" sum="309"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160225"><general><startdate>2025-06-26 18:11:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="425" dealer="0" win="833" bet="425" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="6" name="zoumberland" chips="384" dealer="1" win="0" bet="384" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269564"/>
+<player seat="10" name="oreiasccp" chips="691" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="zoumberland" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="zoumberland">H6 DA</cards>
+<cards type="Pocket" player="oreiasccp">SQ S7</cards>
+<cards type="Pocket" player="Bellatrix97">HA HK</cards>
+<action no="6" player="zoumberland" type="3" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="3" sum="30"/>
+<action no="8" player="Bellatrix97" type="23" discard="1" dealt="1" sum="420"/>
+<action no="9" player="zoumberland" type="7" discard="1" dealt="1" sum="319"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 D8 C10</cards>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+</round>
+</game>
+<game gamecode="11535160404"><general><startdate>2025-06-26 18:11:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="874" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="10" name="oreiasccp" chips="626" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 H3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160443"><general><startdate>2025-06-26 18:12:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="591" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="909" dealer="1" win="130" bet="909" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 D10</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="5" player="Bellatrix97" type="23" discard="1" dealt="1" sum="904"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160509"><general><startdate>2025-06-26 18:12:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="974" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="10" name="oreiasccp" chips="526" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C5</cards>
+<cards type="Pocket" player="Bellatrix97">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160591"><general><startdate>2025-06-26 18:12:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="491" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="1,009" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D9</cards>
+<action no="5" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160641"><general><startdate>2025-06-26 18:12:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="974" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="10" name="oreiasccp" chips="526" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 CK</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 HJ CA</cards>
+<action no="7" player="Bellatrix97" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535160768"><general><startdate>2025-06-26 18:12:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="591" dealer="0" win="1,182" bet="591" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="909" dealer="1" win="0" bet="909" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA C6</cards>
+<cards type="Pocket" player="Bellatrix97">HK D8</cards>
+<action no="5" player="Bellatrix97" type="23" discard="1" dealt="1" sum="904"/>
+<action no="6" player="oreiasccp" type="7" sum="526"/>
+</round>
+<round no="2"><cards type="Flop">C5 C3 D7</cards>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+</round>
+<round no="4"><cards type="River">H7</cards>
+</round>
+</game>
+<game gamecode="11535160889"><general><startdate>2025-06-26 18:13:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Bellatrix97" chips="318" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+<player seat="10" name="oreiasccp" chips="1,182" dealer="1" win="176" bet="318" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Bellatrix97" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Bellatrix97" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK D7</cards>
+<action no="5" player="oreiasccp" type="23" sum="310"/>
+<action no="6" player="Bellatrix97" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535170387"><general><startdate>2025-06-26 18:13:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,270" dealer="0" win="460" bet="230" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269580"/>
+<player seat="3" name="Bellatrix97" chips="230" dealer="1" win="0" bet="230" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269554"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Bellatrix97" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Bellatrix97" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Bellatrix97">DJ S6</cards>
+<cards type="Pocket" player="oreiasccp">CK C8</cards>
+<action no="5" player="Bellatrix97" type="23" discard="1" dealt="1" sum="222"/>
+<action no="6" player="oreiasccp" type="3" sum="142"/>
+</round>
+<round no="2"><cards type="Flop">D10 S4 S3</cards>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+</round>
+<round no="4"><cards type="River">CA</cards>
+</round>
+</game>
+</session>

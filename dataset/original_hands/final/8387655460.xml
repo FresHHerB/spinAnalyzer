@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8387655460">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127957420</tablename>
+<tournamentcode>1127957419</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-20 08:13:45</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11522645855"><general><startdate>2025-06-20 08:14:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="120" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="titanmad816" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK C7</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK H8 SK</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="10" player="oreiasccp" type="5" sum="103"/>
+<action no="11" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522645915"><general><startdate>2025-06-20 08:14:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="500" dealer="0" win="90" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="440" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 DK</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="gasgas" type="23" discard="1" dealt="1" sum="110"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522645963"><general><startdate>2025-06-20 08:14:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="520" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="430" dealer="1" win="90" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H9</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 CQ H2</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="8" player="oreiasccp" type="5" sum="20"/>
+<action no="9" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="titanmad816" type="5" discard="1" dealt="1" sum="90"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646009"><general><startdate>2025-06-20 08:15:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="480" dealer="0" win="120" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="titanmad816" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 C6</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D4 D8 DA</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="titanmad816" type="5" discard="1" dealt="1" sum="120"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646074"><general><startdate>2025-06-20 08:15:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="420" dealer="1" win="150" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="540" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 S7</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="titanmad816" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 H3 S8</cards>
+<action no="6" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="25"/>
+<action no="8" player="titanmad816" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="9" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646133"><general><startdate>2025-06-20 08:15:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="505" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="475" dealer="1" win="0" bet="99" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="520" dealer="0" win="218" bet="99" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 CK</cards>
+<cards type="Pocket" player="gasgas">CA S3</cards>
+<cards type="Pocket" player="titanmad816">DJ HQ</cards>
+<action no="3" player="titanmad816" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="gasgas" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 H10 SA</cards>
+<action no="6" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="gasgas" type="5" discard="1" dealt="1" sum="39"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+<action no="11" player="titanmad816" type="3" discard="1" dealt="1" sum="39"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="12" player="gasgas" type="5" discard="1" dealt="1" sum="40"/>
+<action no="13" player="titanmad816" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+</game>
+<game gamecode="11522646204"><general><startdate>2025-06-20 08:16:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="376" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="639" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="485" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="titanmad816" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 S10</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646230"><general><startdate>2025-06-20 08:16:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="634" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="465" dealer="1" win="0" bet="237" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="401" dealer="0" win="509" bet="237" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="titanmad816" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 D7</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">H9 CA</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="titanmad816" type="23" discard="1" dealt="1" sum="90"/>
+<action no="8" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SQ S8 H5</cards>
+<action no="10" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="12" player="titanmad816" type="5" discard="1" dealt="1" sum="112"/>
+<action no="13" player="oreiasccp" type="3" sum="112"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="14" player="titanmad816" type="5" discard="1" dealt="1" sum="30"/>
+<action no="15" player="oreiasccp" type="3" sum="30"/>
+</round>
+</game>
+<game gamecode="11522646297"><general><startdate>2025-06-20 08:17:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="228" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="673" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="599" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 S4</cards>
+<action no="6" player="titanmad816" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646322"><general><startdate>2025-06-20 08:17:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="728" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="579" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="193" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="titanmad816" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 H10</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646335"><general><startdate>2025-06-20 08:17:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="574" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="173" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="753" dealer="0" win="135" bet="132" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="titanmad816" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="titanmad816" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="gasgas" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA SK C9</cards>
+<action no="9" player="titanmad816" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="gasgas" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="titanmad816" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="12" player="titanmad816" type="5" discard="1" dealt="1" sum="67"/>
+<action no="13" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646396"><general><startdate>2025-06-20 08:17:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="168" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="823" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="509" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 D4</cards>
+<action no="6" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646419"><general><startdate>2025-06-20 08:17:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="818" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="489" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="193" dealer="0" win="75" bet="193" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="titanmad816" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 D5</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="188"/>
+<action no="8" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646446"><general><startdate>2025-06-20 08:18:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="484" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="233" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="783" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="titanmad816" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 D10</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646462"><general><startdate>2025-06-20 08:18:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="228" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="758" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="514" dealer="0" win="95" bet="514" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gasgas" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ C2</cards>
+<action no="6" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gasgas" type="23" discard="1" dealt="1" sum="509"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646491"><general><startdate>2025-06-20 08:18:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="titanmad816" chips="753" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+<player seat="6" name="gasgas" chips="564" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="183" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="titanmad816" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 D6</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<action no="6" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11522646517"><general><startdate>2025-06-20 08:18:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gasgas" chips="559" dealer="0" win="341" bet="158" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655459"/>
+<player seat="10" name="oreiasccp" chips="158" dealer="1" win="0" bet="158" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655460"/>
+<player seat="3" name="titanmad816" chips="783" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387655455"/>
+</players>
+</general>
+<round no="0"><action no="1" player="titanmad816" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gasgas" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="titanmad816" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="gasgas" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ CK</cards>
+<cards type="Pocket" player="titanmad816">X X</cards>
+<cards type="Pocket" player="gasgas">HQ H9</cards>
+<action no="6" player="oreiasccp" type="23" sum="153"/>
+<action no="7" player="titanmad816" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="gasgas" type="3" discard="1" dealt="1" sum="113"/>
+</round>
+<round no="2"><cards type="Flop">SQ D3 S5</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

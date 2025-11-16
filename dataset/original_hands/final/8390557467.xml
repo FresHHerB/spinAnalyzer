@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390557467">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128345939</tablename>
+<tournamentcode>1128345938</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-24 06:49:46</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530508841"><general><startdate>2025-06-24 06:50:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK HQ</cards>
+<cards type="Pocket" player="Amlianeni">H9 DK</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="3" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Amlianeni" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C3 S8 C2</cards>
+<action no="6" player="Amlianeni" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="8" player="Amlianeni" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H2</cards>
+<action no="10" player="Amlianeni" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11530508912"><general><startdate>2025-06-24 06:50:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="460" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="540" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="specio11" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 SK</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="3" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="specio11" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">CK DA S2</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530508977"><general><startdate>2025-06-24 06:50:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amlianeni" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="580" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="specio11" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Amlianeni" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 CQ</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530509007"><general><startdate>2025-06-24 06:50:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="610" dealer="0" win="384" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="440" dealer="0" win="0" bet="192" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ H9</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<action no="3" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Amlianeni" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SA H6 H3</cards>
+<action no="6" player="Amlianeni" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+<action no="8" player="Amlianeni" type="5" discard="1" dealt="1" sum="112"/>
+<action no="9" player="oreiasccp" type="3" sum="112"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="10" player="Amlianeni" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="248"/>
+<action no="12" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530509105"><general><startdate>2025-06-24 06:51:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="450" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="248" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="802" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="specio11" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 HJ</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="3" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530509166"><general><startdate>2025-06-24 06:51:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amlianeni" chips="248" dealer="0" win="80" bet="248" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="822" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="430" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="specio11" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Amlianeni" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 H4</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="specio11" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Amlianeni" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ C2 DQ</cards>
+<action no="6" player="specio11" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="Amlianeni" type="23" discard="1" dealt="1" sum="228"/>
+<action no="8" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530509249"><general><startdate>2025-06-24 06:52:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="822" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="390" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="288" dealer="0" win="75" bet="288" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Amlianeni" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C8</cards>
+<action no="6" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Amlianeni" type="23" discard="1" dealt="1" sum="283"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530509292"><general><startdate>2025-06-24 06:52:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="385" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="328" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="787" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="specio11" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK C4</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="6" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514294"><general><startdate>2025-06-24 06:52:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amlianeni" chips="323" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="827" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="350" dealer="0" win="75" bet="350" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="specio11" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Amlianeni" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S3</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="specio11" type="23" discard="1" dealt="1" sum="345"/>
+<action no="8" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514320"><general><startdate>2025-06-24 06:53:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="822" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="390" dealer="1" win="90" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="288" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Amlianeni" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 CJ</cards>
+<action no="6" player="specio11" type="23" discard="1" dealt="1" sum="385"/>
+<action no="7" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514369"><general><startdate>2025-06-24 06:53:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="445" dealer="0" win="135" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="268" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="787" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="specio11" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HJ</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="6" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="specio11" type="23" discard="1" dealt="1" sum="440"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514400"><general><startdate>2025-06-24 06:53:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amlianeni" chips="263" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="722" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="515" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="specio11" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Amlianeni" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 D7</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514439"><general><startdate>2025-06-24 06:53:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="717" dealer="0" win="0" bet="288" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="495" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="288" dealer="0" win="581" bet="288" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Amlianeni" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK DA</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<cards type="Pocket" player="Amlianeni">C8 SK</cards>
+<action no="6" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Amlianeni" type="23" discard="1" dealt="1" sum="283"/>
+<action no="8" player="oreiasccp" type="3" sum="253"/>
+</round>
+<round no="2"><cards type="Flop">D6 S4 S5</cards>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+</round>
+</game>
+<game gamecode="11530514500"><general><startdate>2025-06-24 06:54:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="490" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="581" dealer="1" win="115" bet="581" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="429" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="specio11" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 SK</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="6" player="Amlianeni" type="23" discard="1" dealt="1" sum="576"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="specio11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514544"><general><startdate>2025-06-24 06:54:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amlianeni" chips="651" dealer="0" win="447" bet="445" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="404" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="445" dealer="0" win="448" bet="445" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+</players>
+</general>
+<round no="0"><action no="1" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="specio11" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="Amlianeni" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amlianeni">S6 DA</cards>
+<cards type="Pocket" player="oreiasccp">C3 HJ</cards>
+<cards type="Pocket" player="specio11">HA D2</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="specio11" type="23" discard="1" dealt="1" sum="440"/>
+<action no="8" player="Amlianeni" type="3" discard="1" dealt="1" sum="400"/>
+</round>
+<round no="2"><cards type="Flop">CJ H9 SA</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11530514600"><general><startdate>2025-06-24 06:54:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="399" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+<player seat="3" name="specio11" chips="448" dealer="1" win="115" bet="448" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="653" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Amlianeni" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 C7</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="specio11">X X</cards>
+<action no="6" player="specio11" type="23" discard="1" dealt="1" sum="443"/>
+<action no="7" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530514632"><general><startdate>2025-06-24 06:54:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="specio11" chips="518" dealer="0" win="713" bet="354" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557453"/>
+<player seat="6" name="Amlianeni" chips="628" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557463"/>
+<player seat="10" name="oreiasccp" chips="354" dealer="0" win="0" bet="354" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390557467"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="specio11" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Amlianeni" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="specio11" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 HK</cards>
+<cards type="Pocket" player="Amlianeni">X X</cards>
+<cards type="Pocket" player="specio11">DQ CA</cards>
+<action no="6" player="Amlianeni" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="349"/>
+<action no="8" player="specio11" type="3" discard="1" dealt="1" sum="309"/>
+</round>
+<round no="2"><cards type="Flop">S2 H5 C9</cards>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386205001">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127764243</tablename>
+<tournamentcode>1127764241</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>23</gamecount>
+<startdate>2025-06-18 10:04:58</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11518785902"><general><startdate>2025-06-18 10:05:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="500" dealer="0" win="100" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="JaanKoo">X X</cards>
+<cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 S7</cards>
+<action no="3" player="JaanKoo" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="borodave2000" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 CJ C10</cards>
+<action no="6" player="borodave2000" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="JaanKoo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="9" player="borodave2000" type="5" discard="1" dealt="1" sum="20"/>
+<action no="10" player="JaanKoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518785964"><general><startdate>2025-06-18 10:05:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="JaanKoo" chips="460" dealer="0" win="80" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="JaanKoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK H5</cards>
+<action no="3" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="JaanKoo" type="23" discard="1" dealt="1" sum="460"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793188"><general><startdate>2025-06-18 10:05:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="560" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="500" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+</players>
+</general>
+<round no="0"><action no="1" player="JaanKoo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="borodave2000" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 S2</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="JaanKoo" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="borodave2000" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK H2 SQ</cards>
+<action no="6" player="JaanKoo" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793243"><general><startdate>2025-06-18 10:06:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="440" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 S3</cards>
+<action no="3" player="JaanKoo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793268"><general><startdate>2025-06-18 10:06:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="JaanKoo" chips="520" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="450" dealer="0" win="160" bet="80" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="JaanKoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA C7</cards>
+<cards type="Pocket" player="JaanKoo">D5 C5</cards>
+<action no="3" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="JaanKoo" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D9 S2 C6</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="JaanKoo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="JaanKoo" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="10" player="oreiasccp" type="5" sum="40"/>
+<action no="11" player="JaanKoo" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+</game>
+<game gamecode="11518793323"><general><startdate>2025-06-18 10:06:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="530" dealer="0" win="160" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="440" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+</players>
+</general>
+<round no="0"><action no="1" player="JaanKoo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="borodave2000" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 DQ</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="JaanKoo" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="borodave2000" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="JaanKoo" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D2 C7 D9</cards>
+<action no="7" player="JaanKoo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="borodave2000" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="JaanKoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793359"><general><startdate>2025-06-18 10:07:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="360" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="610" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 HA</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<action no="3" player="JaanKoo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793382"><general><startdate>2025-06-18 10:07:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="JaanKoo" chips="360" dealer="0" win="80" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="600" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="JaanKoo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 DJ</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<action no="3" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="JaanKoo" type="23" discard="1" dealt="1" sum="360"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793403"><general><startdate>2025-06-18 10:07:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="600" dealer="0" win="465" bet="447" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="400" dealer="0" win="0" bet="230" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+</players>
+</general>
+<round no="0"><action no="1" player="JaanKoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="JaanKoo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="borodave2000" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="JaanKoo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 H5</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="JaanKoo" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="borodave2000" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CK S10 D4</cards>
+<action no="9" player="JaanKoo" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="borodave2000" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="JaanKoo" type="23" discard="1" dealt="1" sum="165"/>
+<action no="12" player="borodave2000" type="3" discard="1" dealt="1" sum="135"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="13" player="JaanKoo" type="5" discard="1" dealt="1" sum="30"/>
+<action no="14" player="borodave2000" type="23" discard="1" dealt="1" sum="247"/>
+<action no="15" player="JaanKoo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793462"><general><startdate>2025-06-18 10:07:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="495" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="10" name="JaanKoo" chips="170" dealer="1" win="0" bet="170" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205052"/>
+<player seat="3" name="borodave2000" chips="835" dealer="0" win="375" bet="335" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="JaanKoo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="borodave2000" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">HJ HK</cards>
+<cards type="Pocket" player="oreiasccp">S3 H9</cards>
+<cards type="Pocket" player="JaanKoo">S8 DK</cards>
+<action no="6" player="JaanKoo" type="23" discard="1" dealt="1" sum="165"/>
+<action no="7" player="borodave2000" type="23" discard="1" dealt="1" sum="330"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 S4 D8</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+<game gamecode="11518793502"><general><startdate>2025-06-18 10:08:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="460" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="1,040" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 HQ</cards>
+<action no="5" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793527"><general><startdate>2025-06-18 10:08:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="1,020" dealer="0" win="480" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="1" win="480" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 DA</cards>
+<cards type="Pocket" player="borodave2000">D9 HA</cards>
+<action no="5" player="oreiasccp" type="23" sum="475"/>
+<action no="6" player="borodave2000" type="3" discard="1" dealt="1" sum="445"/>
+</round>
+<round no="2"><cards type="Flop">S3 C4 H4</cards>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+</round>
+<round no="4"><cards type="River">S2</cards>
+</round>
+</game>
+<game gamecode="11518793576"><general><startdate>2025-06-18 10:08:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="480" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="1,020" dealer="1" win="70" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 D10</cards>
+<cards type="Pocket" player="borodave2000">X X</cards>
+<action no="5" player="borodave2000" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK D9 H5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="borodave2000" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793601"><general><startdate>2025-06-18 10:08:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="1,055" dealer="0" win="130" bet="215" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="445" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 HQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="borodave2000" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S9 H3 D2</cards>
+<action no="7" player="borodave2000" type="5" discard="1" dealt="1" sum="150"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793649"><general><startdate>2025-06-18 10:08:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="380" dealer="0" win="760" bet="380" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="1,120" dealer="1" win="0" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">HJ C9</cards>
+<cards type="Pocket" player="oreiasccp">CA S7</cards>
+<action no="5" player="borodave2000" type="23" discard="1" dealt="1" sum="75"/>
+<action no="6" player="oreiasccp" type="23" sum="375"/>
+<action no="7" player="borodave2000" type="3" discard="1" dealt="1" sum="300"/>
+</round>
+<round no="2"><cards type="Flop">SQ D2 H2</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">H7</cards>
+</round>
+</game>
+<game gamecode="11518793693"><general><startdate>2025-06-18 10:09:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="740" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="760" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ D10</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="borodave2000" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 CK H5</cards>
+<action no="7" player="borodave2000" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793746"><general><startdate>2025-06-18 10:09:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="805" dealer="0" win="90" bet="695" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="695" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA S2</cards>
+<cards type="Pocket" player="borodave2000">X X</cards>
+<action no="5" player="borodave2000" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="690"/>
+<action no="7" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793776"><general><startdate>2025-06-18 10:09:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="650" dealer="0" win="570" bet="570" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="850" dealer="1" win="0" bet="285" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ C8</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="borodave2000" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">CK H8 HK</cards>
+<action no="7" player="borodave2000" type="5" discard="1" dealt="1" sum="200"/>
+<action no="8" player="oreiasccp" type="3" sum="200"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="9" player="borodave2000" type="5" discard="1" dealt="1" sum="285"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793819"><general><startdate>2025-06-18 10:10:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="565" dealer="0" win="1,130" bet="565" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="935" dealer="1" win="0" bet="565" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">S9 C8</cards>
+<cards type="Pocket" player="oreiasccp">C4 DJ</cards>
+<action no="5" player="borodave2000" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S10 H4 HJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="borodave2000" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="23" sum="120"/>
+<action no="10" player="borodave2000" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="11" player="oreiasccp" type="5" sum="400"/>
+<action no="12" player="borodave2000" type="3" discard="1" dealt="1" sum="400"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+</round>
+</game>
+<game gamecode="11518793879"><general><startdate>2025-06-18 10:10:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="370" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="1,130" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 H3</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="borodave2000" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793910"><general><startdate>2025-06-18 10:10:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,085" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="415" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 D5</cards>
+<cards type="Pocket" player="borodave2000">X X</cards>
+<action no="5" player="borodave2000" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793929"><general><startdate>2025-06-18 10:10:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="borodave2000" chips="390" dealer="0" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+<player seat="6" name="oreiasccp" chips="1,110" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="borodave2000" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="borodave2000">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ S4</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="borodave2000" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 D3 S6</cards>
+<action no="7" player="borodave2000" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="borodave2000" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">DK</cards>
+<action no="11" player="borodave2000" type="5" discard="1" dealt="1" sum="125"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11518793990"><general><startdate>2025-06-18 10:11:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="985" dealer="0" win="1,030" bet="515" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386205001"/>
+<player seat="3" name="borodave2000" chips="515" dealer="1" win="0" bet="515" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386204991"/>
+</players>
+</general>
+<round no="0"><action no="1" player="borodave2000" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="borodave2000" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ CJ</cards>
+<cards type="Pocket" player="borodave2000">SK DJ</cards>
+<action no="5" player="borodave2000" type="23" discard="1" dealt="1" sum="150"/>
+<action no="6" player="oreiasccp" type="23" sum="510"/>
+<action no="7" player="borodave2000" type="7" discard="1" dealt="1" sum="360"/>
+</round>
+<round no="2"><cards type="Flop">D4 D6 S5</cards>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">S9</cards>
+</round>
+</game>
+</session>

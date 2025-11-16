@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405373362">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130352143</tablename>
+<tournamentcode>1130352142</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>15</gamecount>
+<startdate>2025-07-14 06:24:35</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11571604744"><general><startdate>2025-07-14 06:24:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BahTOBUK" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hipok777" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BahTOBUK" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ D2</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="Hipok777">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571604755"><general><startdate>2025-07-14 06:24:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="150" bet="150" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="510" dealer="0" win="0" bet="75" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BahTOBUK" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 CA</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="3" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BahTOBUK" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">DJ SA H9</cards>
+<action no="6" player="BahTOBUK" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="25"/>
+<action no="8" player="BahTOBUK" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="9" player="BahTOBUK" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="75"/>
+<action no="11" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571604835"><general><startdate>2025-07-14 06:25:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Hipok777" chips="490" dealer="0" win="80" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="435" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="575" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Hipok777" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 SJ</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="3" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Hipok777" type="23" discard="1" dealt="1" sum="490"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571604869"><general><startdate>2025-07-14 06:25:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BahTOBUK" chips="435" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="535" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="530" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hipok777" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="BahTOBUK" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ HK</cards>
+<cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571604900"><general><startdate>2025-07-14 06:26:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="565" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="415" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BahTOBUK" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK C7</cards>
+<action no="3" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571604921"><general><startdate>2025-07-14 06:26:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Hipok777" chips="520" dealer="0" win="120" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="405" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="575" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Hipok777" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 S3</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="3" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Hipok777" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C2 SK H10</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Hipok777" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Hipok777" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Hipok777" type="5" discard="1" dealt="1" sum="70"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605010"><general><startdate>2025-07-14 06:26:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BahTOBUK" chips="405" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="515" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="580" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Hipok777" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BahTOBUK" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 C7</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605026"><general><startdate>2025-07-14 06:26:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="510" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="560" dealer="1" win="90" bet="560" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="430" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BahTOBUK" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 D6</cards>
+<action no="6" player="Hipok777" type="23" discard="1" dealt="1" sum="555"/>
+<action no="7" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605054"><general><startdate>2025-07-14 06:27:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Hipok777" chips="615" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="410" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="475" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Hipok777" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 CJ</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="6" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605078"><general><startdate>2025-07-14 06:27:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BahTOBUK" chips="405" dealer="0" win="830" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="515" dealer="1" win="0" bet="405" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="580" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Hipok777" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BahTOBUK" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">CJ S9</cards>
+<cards type="Pocket" player="oreiasccp">DK DJ</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="BahTOBUK" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C8 HJ H9</cards>
+<action no="9" player="BahTOBUK" type="5" discard="1" dealt="1" sum="112"/>
+<action no="10" player="oreiasccp" type="23" sum="340"/>
+<action no="11" player="BahTOBUK" type="7" discard="1" dealt="1" sum="228"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">S6</cards>
+</round>
+</game>
+<game gamecode="11571605148"><general><startdate>2025-07-14 06:27:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="110" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="560" dealer="1" win="150" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="830" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BahTOBUK" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ SJ</cards>
+<action no="6" player="Hipok777" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C10 D7 HA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Hipok777" type="5" discard="1" dealt="1" sum="45"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605202"><general><startdate>2025-07-14 06:28:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Hipok777" chips="645" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="810" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="45" dealer="0" win="95" bet="45" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Hipok777" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BahTOBUK">X X</cards>
+<cards type="Pocket" player="Hipok777">CA H2</cards>
+<cards type="Pocket" player="oreiasccp">HK H7</cards>
+<action no="6" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="7" sum="25"/>
+<action no="8" player="Hipok777" type="3" discard="1" dealt="1" sum="10"/>
+</round>
+<round no="2"><cards type="Flop">S8 D9 H5</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+<game gamecode="11571605249"><general><startdate>2025-07-14 06:28:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="BahTOBUK" chips="805" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="95" dealer="1" win="210" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="600" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Hipok777" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="BahTOBUK" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 CA</cards>
+<cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">S10 C9</cards>
+<action no="6" player="oreiasccp" type="23" sum="90"/>
+<action no="7" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="BahTOBUK" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C7 DQ H2</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11571605297"><general><startdate>2025-07-14 06:28:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="210" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+<player seat="10" name="Hipok777" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="710" dealer="0" win="95" bet="710" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="BahTOBUK" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H7</cards>
+<cards type="Pocket" player="Hipok777">X X</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="6" player="Hipok777" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="BahTOBUK" type="23" discard="1" dealt="1" sum="705"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571605337"><general><startdate>2025-07-14 06:29:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Hipok777" chips="575" dealer="0" win="335" bet="165" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373361"/>
+<player seat="3" name="BahTOBUK" chips="760" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373346"/>
+<player seat="6" name="oreiasccp" chips="165" dealer="0" win="0" bet="165" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405373362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Hipok777" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="BahTOBUK" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Hipok777" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ SQ</cards>
+<cards type="Pocket" player="Hipok777">C2 D2</cards>
+<cards type="Pocket" player="BahTOBUK">X X</cards>
+<action no="6" player="BahTOBUK" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="160"/>
+<action no="8" player="Hipok777" type="3" discard="1" dealt="1" sum="120"/>
+</round>
+<round no="2"><cards type="Flop">SA H10 H6</cards>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+</session>

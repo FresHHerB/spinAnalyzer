@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407796897">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130667954</tablename>
+<tournamentcode>1130667953</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>33</gamecount>
+<startdate>2025-07-17 07:33:09</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11578037016"><general><startdate>2025-07-17 07:33:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="60" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="500" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="3" name="CarshaltonSteve" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CarshaltonSteve" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 S4</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="CarshaltonSteve">X X</cards>
+<action no="3" player="CaboKill" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="CarshaltonSteve" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="500"/>
+<action no="6" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="CarshaltonSteve" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037069"><general><startdate>2025-07-17 07:33:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="3" name="CarshaltonSteve" chips="480" dealer="1" win="50" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="CaboKill" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="CarshaltonSteve">X X</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 C3</cards>
+<action no="3" player="CarshaltonSteve" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 C5 D5</cards>
+<action no="6" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="CarshaltonSteve" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037135"><general><startdate>2025-07-17 07:33:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CarshaltonSteve" chips="510" dealer="0" win="0" bet="510" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+<player seat="6" name="oreiasccp" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="460" dealer="0" win="920" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="CarshaltonSteve" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C8</cards>
+<cards type="Pocket" player="CaboKill">HA H10</cards>
+<cards type="Pocket" player="CarshaltonSteve">H7 HK</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="CaboKill" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="CarshaltonSteve" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S6 H9 H8</cards>
+<action no="6" player="CaboKill" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="CarshaltonSteve" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="8" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="CarshaltonSteve" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="10" player="CaboKill" type="5" discard="1" dealt="1" sum="120"/>
+<action no="11" player="CarshaltonSteve" type="23" discard="1" dealt="1" sum="410"/>
+<action no="12" player="CaboKill" type="7" discard="1" dealt="1" sum="240"/>
+</round>
+</game>
+<game gamecode="11578037258"><general><startdate>2025-07-17 07:34:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="920" dealer="1" win="50" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="3" name="CarshaltonSteve" chips="50" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CarshaltonSteve" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="CarshaltonSteve">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 H2</cards>
+<action no="3" player="CaboKill" type="23" discard="1" dealt="1" sum="50"/>
+<action no="4" player="CarshaltonSteve" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037302"><general><startdate>2025-07-17 07:34:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="950" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="3" name="CarshaltonSteve" chips="40" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+<player seat="6" name="oreiasccp" chips="510" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="CaboKill" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="CarshaltonSteve">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 C7</cards>
+<action no="3" player="CarshaltonSteve" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037356"><general><startdate>2025-07-17 07:35:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="CarshaltonSteve" chips="40" dealer="0" win="0" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796831"/>
+<player seat="6" name="oreiasccp" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="930" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="CarshaltonSteve" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="CarshaltonSteve">S10 S3</cards>
+<cards type="Pocket" player="CaboKill">D4 DK</cards>
+<cards type="Pocket" player="oreiasccp">C3 H4</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="CaboKill" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="CarshaltonSteve" type="7" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DQ C4 H8</cards>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+<game gamecode="11578037415"><general><startdate>2025-07-17 07:35:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="530" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="970" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 SQ</cards>
+<action no="3" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037430"><general><startdate>2025-07-17 07:35:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="960" dealer="0" win="130" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK CA</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ S9 S6</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="9" player="CaboKill" type="5" discard="1" dealt="1" sum="65"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037529"><general><startdate>2025-07-17 07:35:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="475" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="1,025" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ SQ</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037551"><general><startdate>2025-07-17 07:36:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="1,005" dealer="0" win="0" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="495" dealer="1" win="380" bet="495" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 HA</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="CaboKill" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">HQ D3 D5</cards>
+<action no="8" player="CaboKill" type="5" discard="1" dealt="1" sum="95"/>
+<action no="9" player="oreiasccp" type="23" sum="400"/>
+<action no="10" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037659"><general><startdate>2025-07-17 07:36:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="685" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="815" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 D10</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037676"><general><startdate>2025-07-17 07:36:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="795" dealer="0" win="190" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="705" dealer="1" win="0" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">HA H2</cards>
+<cards type="Pocket" player="oreiasccp">SK C8</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D4 D9 H8</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="9" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="11" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="30"/>
+<action no="13" player="CaboKill" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11578037787"><general><startdate>2025-07-17 07:37:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="610" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="890" dealer="1" win="70" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 D6</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037810"><general><startdate>2025-07-17 07:37:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="925" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="575" dealer="1" win="190" bet="234" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ H2</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">HA C2 H5</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="CaboKill" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="10" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="139"/>
+<action no="12" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037917"><general><startdate>2025-07-17 07:37:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="670" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="830" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 DJ</cards>
+<action no="5" player="CaboKill" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA S9 S5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CaboKill" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578037990"><general><startdate>2025-07-17 07:38:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="875" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="625" dealer="1" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 CQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">DA S8 S3</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040064"><general><startdate>2025-07-17 07:38:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="710" dealer="0" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="790" dealer="1" win="180" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 SK</cards>
+<action no="5" player="CaboKill" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 S5 H10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CaboKill" type="5" discard="1" dealt="1" sum="45"/>
+<action no="9" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="CaboKill" type="5" discard="1" dealt="1" sum="90"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040159"><general><startdate>2025-07-17 07:39:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="880" dealer="0" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="620" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK C8</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">DQ H6 H2</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="CaboKill" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="10" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="12" player="CaboKill" type="5" discard="1" dealt="1" sum="125"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040238"><general><startdate>2025-07-17 07:39:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="495" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="1,005" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 DK</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040269"><general><startdate>2025-07-17 07:39:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="1,070" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="430" dealer="1" win="130" bet="430" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA D8</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="425"/>
+<action no="6" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040296"><general><startdate>2025-07-17 07:39:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="495" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="1,005" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">DQ D5</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040329"><general><startdate>2025-07-17 07:39:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="1,070" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="430" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C4</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040346"><general><startdate>2025-07-17 07:40:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="395" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="1,105" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H6</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040364"><general><startdate>2025-07-17 07:40:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="1,170" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="330" dealer="1" win="130" bet="330" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ H6</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="325"/>
+<action no="6" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040395"><general><startdate>2025-07-17 07:40:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="395" dealer="0" win="790" bet="395" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="1,105" dealer="1" win="0" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA H6</cards>
+<cards type="Pocket" player="CaboKill">C6 C8</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="23" sum="390"/>
+<action no="7" player="CaboKill" type="3" discard="1" dealt="1" sum="210"/>
+</round>
+<round no="2"><cards type="Flop">S6 H7 D6</cards>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+<game gamecode="11578040467"><general><startdate>2025-07-17 07:40:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="710" dealer="0" win="250" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="790" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ D10</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 D3 SA</cards>
+<action no="7" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="CaboKill" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+<action no="10" player="CaboKill" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="12" player="CaboKill" type="5" discard="1" dealt="1" sum="120"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040557"><general><startdate>2025-07-17 07:41:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="665" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="835" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 C6</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040595"><general><startdate>2025-07-17 07:41:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="900" dealer="0" win="0" bet="600" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="600" dealer="1" win="1,200" bet="600" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ H9</cards>
+<cards type="Pocket" player="CaboKill">SJ HA</cards>
+<action no="5" player="oreiasccp" type="23" sum="592"/>
+<action no="6" player="CaboKill" type="3" discard="1" dealt="1" sum="512"/>
+</round>
+<round no="2"><cards type="Flop">DQ C8 D3</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="11578040639"><general><startdate>2025-07-17 07:41:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,200" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="300" dealer="1" win="176" bet="168" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C6</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="3" discard="1" dealt="1" sum="40"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 S5 D5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="CaboKill" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040684"><general><startdate>2025-07-17 07:42:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="388" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="1,112" dealer="1" win="176" bet="388" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA DJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="380"/>
+<action no="6" player="CaboKill" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040713"><general><startdate>2025-07-17 07:42:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,200" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="300" dealer="1" win="176" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 C9</cards>
+<cards type="Pocket" player="CaboKill">X X</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="292"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578040741"><general><startdate>2025-07-17 07:42:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="CaboKill" chips="388" dealer="0" win="776" bet="388" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+<player seat="6" name="oreiasccp" chips="1,112" dealer="1" win="0" bet="388" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="CaboKill" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="CaboKill">S8 S9</cards>
+<cards type="Pocket" player="oreiasccp">H3 H5</cards>
+<action no="5" player="oreiasccp" type="23" sum="380"/>
+<action no="6" player="CaboKill" type="7" discard="1" dealt="1" sum="300"/>
+</round>
+<round no="2"><cards type="Flop">C10 C9 H4</cards>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+<game gamecode="11578040801"><general><startdate>2025-07-17 07:42:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="724" dealer="0" win="0" bet="724" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796897"/>
+<player seat="10" name="CaboKill" chips="776" dealer="1" win="1,448" bet="724" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407796915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="CaboKill" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="CaboKill" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ HK</cards>
+<cards type="Pocket" player="CaboKill">DK D6</cards>
+<action no="5" player="CaboKill" type="23" discard="1" dealt="1" sum="240"/>
+<action no="6" player="oreiasccp" type="23" sum="716"/>
+<action no="7" player="CaboKill" type="3" discard="1" dealt="1" sum="476"/>
+</round>
+<round no="2"><cards type="Flop">D4 C6 C3</cards>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

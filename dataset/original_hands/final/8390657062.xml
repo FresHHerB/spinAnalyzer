@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390657062">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128361368</tablename>
+<tournamentcode>1128361367</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>35</gamecount>
+<startdate>2025-06-24 12:54:30</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530785739"><general><startdate>2025-06-24 12:54:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Skofield" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390656950"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="1,010" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Skofield" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Skofield">S7 C8</cards>
+<cards type="Pocket" player="oreiasccp">D7 H7</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Skofield" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C7 C9 H5</cards>
+<action no="6" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Skofield" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+<action no="9" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="95"/>
+<action no="11" player="Skofield" type="3" discard="1" dealt="1" sum="95"/>
+</round>
+<round no="4"><cards type="River">C5</cards>
+<action no="12" player="Skofield" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="5" sum="345"/>
+<action no="14" player="Skofield" type="7" discard="1" dealt="1" sum="345"/>
+</round>
+</game>
+<game gamecode="11530785846"><general><startdate>2025-06-24 12:55:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,010" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="490" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 C2</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="3" player="Tahi0n" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ D10 C7</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Tahi0n" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530785912"><general><startdate>2025-06-24 12:55:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="510" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="990" dealer="1" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Tahi0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">D7 C8</cards>
+<cards type="Pocket" player="oreiasccp">D2 DJ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Tahi0n" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H10 SK HJ</cards>
+<action no="5" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="9" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11530786036"><general><startdate>2025-06-24 12:56:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,030" dealer="0" win="80" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="470" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C6 S6</cards>
+<action no="3" player="Tahi0n" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="470"/>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530786084"><general><startdate>2025-06-24 12:56:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="430" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="1,070" dealer="1" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Tahi0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 C6</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HK D4 C8</cards>
+<action no="5" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530786194"><general><startdate>2025-06-24 12:56:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,090" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="410" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ H4</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530786218"><general><startdate>2025-06-24 12:56:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="390" dealer="0" win="130" bet="390" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="1,110" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 C5</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 S10 D7</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Tahi0n" type="23" discard="1" dealt="1" sum="355"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530792862"><general><startdate>2025-06-24 12:57:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,045" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="455" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 H2</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ D8 H5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Tahi0n" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530792920"><general><startdate>2025-06-24 12:57:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="490" dealer="0" win="70" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="1,010" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 H10</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tahi0n" type="23" discard="1" dealt="1" sum="485"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530792960"><general><startdate>2025-06-24 12:57:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="975" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="525" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 H5</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530792988"><general><startdate>2025-06-24 12:57:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="560" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="940" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 D6</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793009"><general><startdate>2025-06-24 12:58:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="920" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="580" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 C9</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793067"><general><startdate>2025-06-24 12:58:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="560" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="940" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 S6</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA C8 S7</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793140"><general><startdate>2025-06-24 12:58:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="975" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="525" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 C8</cards>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793169"><general><startdate>2025-06-24 12:58:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="505" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="995" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DQ SJ</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA D6 C8</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793233"><general><startdate>2025-06-24 12:58:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,030" dealer="0" win="340" bet="170" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="470" dealer="1" win="0" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C2</cards>
+<cards type="Pocket" player="Tahi0n">D7 D4</cards>
+<action no="5" player="Tahi0n" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ SK D6</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Tahi0n" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Tahi0n" type="5" discard="1" dealt="1" sum="85"/>
+<action no="12" player="oreiasccp" type="3" sum="85"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793315"><general><startdate>2025-06-24 12:59:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="300" dealer="0" win="300" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="1,200" dealer="1" win="300" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">HA H3</cards>
+<cards type="Pocket" player="oreiasccp">CA H6</cards>
+<action no="5" player="oreiasccp" type="23" sum="295"/>
+<action no="6" player="Tahi0n" type="7" discard="1" dealt="1" sum="255"/>
+</round>
+<round no="2"><cards type="Flop">D2 C10 CK</cards>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11530793384"><general><startdate>2025-06-24 12:59:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,200" dealer="0" win="0" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="300" dealer="1" win="600" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">D6 C9</cards>
+<cards type="Pocket" player="oreiasccp">S8 SJ</cards>
+<action no="5" player="Tahi0n" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 H9 D5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Tahi0n" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Tahi0n" type="5" discard="1" dealt="1" sum="215"/>
+<action no="12" player="oreiasccp" type="3" sum="215"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+<game gamecode="11530793475"><general><startdate>2025-06-24 13:00:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="600" dealer="0" win="170" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="900" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 D4</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ HJ D10</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Tahi0n" type="23" discard="1" dealt="1" sum="120"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793577"><general><startdate>2025-06-24 13:00:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="815" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="685" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 HQ</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793596"><general><startdate>2025-06-24 13:00:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="660" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="840" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 D3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793616"><general><startdate>2025-06-24 13:00:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="815" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="685" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ D3</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793636"><general><startdate>2025-06-24 13:00:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="660" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="840" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 C2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793656"><general><startdate>2025-06-24 13:00:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="805" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="695" dealer="1" win="130" bet="695" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 H4</cards>
+<action no="5" player="Tahi0n" type="23" discard="1" dealt="1" sum="690"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793690"><general><startdate>2025-06-24 13:01:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="760" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="740" dealer="1" win="130" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA CQ</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 C10 HJ</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="9" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="95"/>
+<action no="11" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793813"><general><startdate>2025-06-24 13:01:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="805" dealer="0" win="0" bet="233" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="695" dealer="1" win="466" bet="233" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ H10</cards>
+<cards type="Pocket" player="Tahi0n">C10 C5</cards>
+<action no="5" player="Tahi0n" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="150"/>
+<action no="7" player="Tahi0n" type="3" discard="1" dealt="1" sum="90"/>
+</round>
+<round no="2"><cards type="Flop">DJ SK H5</cards>
+<action no="8" player="oreiasccp" type="5" sum="78"/>
+<action no="9" player="Tahi0n" type="3" discard="1" dealt="1" sum="78"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793904"><general><startdate>2025-06-24 13:02:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="928" dealer="0" win="130" bet="195" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="572" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 DA</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 C10 C2</cards>
+<action no="7" player="Tahi0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="Tahi0n" type="5" discard="1" dealt="1" sum="130"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530793981"><general><startdate>2025-06-24 13:02:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="507" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="993" dealer="1" win="130" bet="993" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Tahi0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ H4</cards>
+<action no="5" player="Tahi0n" type="23" discard="1" dealt="1" sum="988"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794016"><general><startdate>2025-06-24 13:02:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="1,058" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="442" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 H4</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794042"><general><startdate>2025-06-24 13:02:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="407" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="1,093" dealer="1" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 D4</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 H8 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Tahi0n" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Tahi0n" type="5" discard="1" dealt="1" sum="125"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794160"><general><startdate>2025-06-24 13:03:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="1,218" dealer="0" win="0" bet="282" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="282" dealer="1" win="564" bet="282" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 CJ</cards>
+<cards type="Pocket" player="Tahi0n">H4 D4</cards>
+<action no="5" player="oreiasccp" type="23" sum="274"/>
+<action no="6" player="Tahi0n" type="3" discard="1" dealt="1" sum="194"/>
+</round>
+<round no="2"><cards type="Flop">DA D5 SA</cards>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+</round>
+<round no="4"><cards type="River">S9</cards>
+</round>
+</game>
+<game gamecode="11530794237"><general><startdate>2025-06-24 13:03:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="564" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="936" dealer="1" win="176" bet="936" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H4</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="23" discard="1" dealt="1" sum="928"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794257"><general><startdate>2025-06-24 13:03:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="1,024" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="476" dealer="1" win="176" bet="476" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 SJ</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="468"/>
+<action no="6" player="Tahi0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794296"><general><startdate>2025-06-24 13:03:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="564" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+<player seat="10" name="Tahi0n" chips="936" dealer="1" win="176" bet="936" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Tahi0n" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Tahi0n" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 H3</cards>
+<cards type="Pocket" player="Tahi0n">X X</cards>
+<action no="5" player="Tahi0n" type="23" discard="1" dealt="1" sum="928"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530794323"><general><startdate>2025-06-24 13:03:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Tahi0n" chips="1,024" dealer="0" win="952" bet="476" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657081"/>
+<player seat="6" name="oreiasccp" chips="476" dealer="1" win="0" bet="476" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390657062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Tahi0n" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Tahi0n" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK C2</cards>
+<cards type="Pocket" player="Tahi0n">D10 SK</cards>
+<action no="5" player="oreiasccp" type="23" sum="468"/>
+<action no="6" player="Tahi0n" type="3" discard="1" dealt="1" sum="388"/>
+</round>
+<round no="2"><cards type="Flop">D5 C7 HA</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+</session>

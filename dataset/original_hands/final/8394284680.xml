@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394284680">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128854055</tablename>
+<tournamentcode>1128854054</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>21</gamecount>
+<startdate>2025-06-29 11:04:23</startdate>
+<place>1</place>
+<win>€25</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11540693635"><general><startdate>2025-06-29 11:04:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Agnes99" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK S8</cards>
+<action no="3" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Agnes99" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H6 H3 DK</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540693714"><general><startdate>2025-06-29 11:04:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="500" dealer="0" win="130" bet="190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="herocal" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA D8</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="herocal" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H9 H2 S9</cards>
+<action no="6" player="herocal" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="herocal" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="9" player="herocal" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="11" player="herocal" type="5" discard="1" dealt="1" sum="130"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540693863"><general><startdate>2025-06-29 11:05:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="480" dealer="0" win="300" bet="150" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="570" dealer="0" win="0" bet="150" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">DK D10</cards>
+<cards type="Pocket" player="oreiasccp">SQ C7</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="3" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="herocal" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S6 CQ H10</cards>
+<action no="6" player="herocal" type="5" discard="1" dealt="1" sum="100"/>
+<action no="7" player="oreiasccp" type="3" sum="100"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="8" player="herocal" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="10" player="herocal" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11540693961"><general><startdate>2025-06-29 11:06:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="450" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="420" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="630" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Agnes99" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 S7</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="3" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540693985"><general><startdate>2025-06-29 11:06:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="420" dealer="0" win="40" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="620" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="herocal" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 D2</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Agnes99" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="herocal" type="23" discard="1" dealt="1" sum="70"/>
+<action no="6" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540694054"><general><startdate>2025-06-29 11:06:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="620" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="440" dealer="0" win="100" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ D4</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<action no="3" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="herocal" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C2 SJ CA</cards>
+<action no="6" player="herocal" type="5" discard="1" dealt="1" sum="50"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540694138"><general><startdate>2025-06-29 11:06:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="440" dealer="0" win="900" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="490" dealer="1" win="0" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="570" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Agnes99" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ CQ</cards>
+<cards type="Pocket" player="herocal">HA CJ</cards>
+<cards type="Pocket" player="Agnes99">C7 D7</cards>
+<action no="6" player="herocal" type="23" discard="1" dealt="1" sum="485"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Agnes99" type="7" discard="1" dealt="1" sum="405"/>
+</round>
+<round no="2"><cards type="Flop">H7 S5 C4</cards>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+</round>
+<round no="4"><cards type="River">DK</cards>
+</round>
+</game>
+<game gamecode="11540694206"><general><startdate>2025-06-29 11:07:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="50" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="550" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="900" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Agnes99" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="herocal" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 H4</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540694287"><general><startdate>2025-06-29 11:07:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="545" dealer="0" win="0" bet="75" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="880" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="75" dealer="0" win="155" bet="75" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="herocal" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">DQ D7</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ H10</cards>
+<action no="6" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="herocal" type="23" discard="1" dealt="1" sum="70"/>
+<action no="8" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C5 D3 D4</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">H7</cards>
+</round>
+</game>
+<game gamecode="11540694374"><general><startdate>2025-06-29 11:07:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="875" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="155" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="470" dealer="0" win="135" bet="99" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Agnes99" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 S9</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<action no="6" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="Agnes99" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D7 HA S8</cards>
+<action no="9" player="oreiasccp" type="5" sum="34"/>
+<action no="10" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698485"><general><startdate>2025-06-29 11:08:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="150" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="810" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Agnes99" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="herocal" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 S5</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698513"><general><startdate>2025-06-29 11:08:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="535" dealer="0" win="210" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="790" dealer="1" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="175" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="herocal" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK D8</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="6" player="Agnes99" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D7 C5 SK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Agnes99" type="5" discard="1" dealt="1" sum="30"/>
+<action no="11" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Agnes99" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="14" player="oreiasccp" type="5" sum="60"/>
+<action no="15" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698647"><general><startdate>2025-06-29 11:08:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="695" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="155" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="650" dealer="0" win="95" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Agnes99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 S7</cards>
+<action no="6" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="100"/>
+<action no="8" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698708"><general><startdate>2025-06-29 11:09:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="150" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="700" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="650" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Agnes99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="herocal" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ H5</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698749"><general><startdate>2025-06-29 11:09:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="695" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="625" dealer="1" win="115" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="180" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="herocal" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 HQ</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="herocal">X X</cards>
+<action no="6" player="Agnes99" type="23" discard="1" dealt="1" sum="80"/>
+<action no="7" player="herocal" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698807"><general><startdate>2025-06-29 11:09:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="695" dealer="0" win="0" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="155" dealer="1" win="335" bet="155" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="650" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Agnes99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">SA H3</cards>
+<cards type="Pocket" player="Agnes99">D7 CQ</cards>
+<cards type="Pocket" player="oreiasccp">S10 D2</cards>
+<action no="6" player="herocal" type="23" discard="1" dealt="1" sum="150"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Agnes99" type="3" discard="1" dealt="1" sum="110"/>
+</round>
+<round no="2"><cards type="Flop">H9 H4 D5</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">S8</cards>
+</round>
+</game>
+<game gamecode="11540698898"><general><startdate>2025-06-29 11:09:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="herocal" chips="335" dealer="0" win="175" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+<player seat="6" name="oreiasccp" chips="625" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="540" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Agnes99" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="herocal" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 H3</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Agnes99" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="herocal" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 S6 SK</cards>
+<action no="9" player="Agnes99" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="herocal" type="23" discard="1" dealt="1" sum="120"/>
+<action no="11" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540698997"><general><startdate>2025-06-29 11:10:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="620" dealer="0" win="855" bet="425" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="455" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="3" name="herocal" chips="425" dealer="0" win="0" bet="425" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284668"/>
+</players>
+</general>
+<round no="0"><action no="1" player="herocal" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="herocal" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="herocal">SK S2</cards>
+<cards type="Pocket" player="oreiasccp">DK C8</cards>
+<cards type="Pocket" player="Agnes99">X X</cards>
+<action no="6" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="herocal" type="23" discard="1" dealt="1" sum="420"/>
+<action no="8" player="oreiasccp" type="3" sum="380"/>
+</round>
+<round no="2"><cards type="Flop">C7 D10 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11540699082"><general><startdate>2025-06-29 11:10:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="450" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="6" name="oreiasccp" chips="1,050" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Agnes99" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Agnes99" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 CK SK</cards>
+<action no="7" player="Agnes99" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Agnes99" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11540699148"><general><startdate>2025-06-29 11:10:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,095" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+<player seat="10" name="Agnes99" chips="405" dealer="1" win="130" bet="405" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Agnes99" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Agnes99">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 H2</cards>
+<action no="5" player="Agnes99" type="23" discard="1" dealt="1" sum="400"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11540699178"><general><startdate>2025-06-29 11:10:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Agnes99" chips="470" dealer="0" win="0" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284712"/>
+<player seat="6" name="oreiasccp" chips="1,030" dealer="1" win="940" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394284680"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Agnes99" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Agnes99" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 H10</cards>
+<cards type="Pocket" player="Agnes99">D8 DK</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="Agnes99" type="23" discard="1" dealt="1" sum="465"/>
+<action no="7" player="oreiasccp" type="3" sum="405"/>
+</round>
+<round no="2"><cards type="Flop">S2 D6 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+</round>
+</game>
+</session>

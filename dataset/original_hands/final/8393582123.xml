@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8393582123">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128756004</tablename>
+<tournamentcode>1128756003</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-28 11:09:30</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11538701860"><general><startdate>2025-06-28 11:09:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="1,040" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="6" name="PianoHawk" chips="500" dealer="0" win="0" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582149"/>
+</players>
+</general>
+<round no="0"><action no="1" player="PianoHawk" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Freya761" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK DA</cards>
+<cards type="Pocket" player="PianoHawk">SQ DQ</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="PianoHawk" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Freya761" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H10 HJ H5</cards>
+<action no="6" player="PianoHawk" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="PianoHawk" type="23" discard="1" dealt="1" sum="210"/>
+<action no="10" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="3" sum="180"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="12" player="PianoHawk" type="5" discard="1" dealt="1" sum="250"/>
+<action no="13" player="oreiasccp" type="7" sum="250"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11538701964"><general><startdate>2025-06-28 11:10:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,040" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="460" dealer="1" win="40" bet="460" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 HA</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="3" player="Freya761" type="23" discard="1" dealt="1" sum="460"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538701996"><general><startdate>2025-06-28 11:10:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="480" dealer="0" win="320" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="1,020" dealer="1" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Freya761" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK CQ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Freya761" type="23" discard="1" dealt="1" sum="80"/>
+<action no="5" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">S10 S3 H6</cards>
+<action no="6" player="Freya761" type="5" discard="1" dealt="1" sum="80"/>
+<action no="7" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+<action no="8" player="Freya761" type="5" discard="1" dealt="1" sum="320"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702084"><general><startdate>2025-06-28 11:10:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="860" dealer="0" win="40" bet="640" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="640" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 CA</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="3" player="Freya761" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="23" sum="640"/>
+<action no="5" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702117"><general><startdate>2025-06-28 11:10:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="620" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="880" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Freya761" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 SK</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702144"><general><startdate>2025-06-28 11:11:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="900" dealer="0" win="80" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="600" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 HK</cards>
+<action no="3" player="Freya761" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C2 CK D10</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Freya761" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="23" sum="80"/>
+<action no="8" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702210"><general><startdate>2025-06-28 11:11:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="560" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="940" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Freya761" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 DK</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702239"><general><startdate>2025-06-28 11:11:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="960" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="540" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">CK H9</cards>
+<action no="3" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702275"><general><startdate>2025-06-28 11:11:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="530" dealer="0" win="0" bet="255" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="970" dealer="1" win="510" bet="255" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Freya761" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C9</cards>
+<cards type="Pocket" player="Freya761">S4 SQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ SK S5</cards>
+<action no="7" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Freya761" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="10" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="12" player="Freya761" type="5" discard="1" dealt="1" sum="65"/>
+<action no="13" player="oreiasccp" type="23" sum="190"/>
+<action no="14" player="Freya761" type="3" discard="1" dealt="1" sum="125"/>
+</round>
+</game>
+<game gamecode="11538702366"><general><startdate>2025-06-28 11:12:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,225" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="275" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Freya761" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H2</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="5" player="Freya761" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 DK S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="11" player="oreiasccp" type="5" sum="30"/>
+<action no="12" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702460"><general><startdate>2025-06-28 11:12:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="240" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="1,260" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Freya761" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 H3</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702487"><general><startdate>2025-06-28 11:12:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,240" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="260" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Freya761" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ HA</cards>
+<action no="5" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702506"><general><startdate>2025-06-28 11:12:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="240" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="1,260" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Freya761" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D4</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S9 H9 SJ</cards>
+<action no="7" player="Freya761" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702580"><general><startdate>2025-06-28 11:13:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,295" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="205" dealer="1" win="70" bet="205" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Freya761" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ H7</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="5" player="Freya761" type="23" discard="1" dealt="1" sum="200"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538702617"><general><startdate>2025-06-28 11:13:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="240" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="1,260" dealer="1" win="70" bet="240" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Freya761" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 DA</cards>
+<cards type="Pocket" player="Freya761">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="235"/>
+<action no="6" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538707344"><general><startdate>2025-06-28 11:13:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,295" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+<player seat="10" name="Freya761" chips="205" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Freya761" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 D10</cards>
+<action no="5" player="Freya761" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538707372"><general><startdate>2025-06-28 11:13:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Freya761" chips="185" dealer="0" win="0" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582239"/>
+<player seat="3" name="oreiasccp" chips="1,315" dealer="1" win="370" bet="185" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393582123"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Freya761" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Freya761" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Freya761">DQ C8</cards>
+<cards type="Pocket" player="oreiasccp">HA DJ</cards>
+<action no="5" player="oreiasccp" type="23" sum="180"/>
+<action no="6" player="Freya761" type="7" discard="1" dealt="1" sum="150"/>
+</round>
+<round no="2"><cards type="Flop">H7 S6 HJ</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+</session>

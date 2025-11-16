@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8384808665">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127557739</tablename>
+<tournamentcode>1127557738</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-16 05:43:33</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11514735400"><general><startdate>2025-06-16 05:43:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="500" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Sp1nX" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">H7 H10</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H2</cards>
+<action no="3" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="Sp1nX" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK HA D9</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Sp1nX" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514735511"><general><startdate>2025-06-16 05:44:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="560" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="YoelCG" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 HQ</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514735563"><general><startdate>2025-06-16 05:44:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="440" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="550" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="510" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+</players>
+</general>
+<round no="0"><action no="1" player="YoelCG" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">DA C10</cards>
+<cards type="Pocket" player="oreiasccp">H2 H10</cards>
+<action no="3" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="YoelCG" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 C5 C2</cards>
+<action no="6" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="8" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="20"/>
+<action no="10" player="YoelCG" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="11" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11514735664"><general><startdate>2025-06-16 05:45:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="550" dealer="0" win="90" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="550" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Sp1nX" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 H7</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<action no="3" player="YoelCG" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 D6 SJ</cards>
+<action no="6" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="8" player="Sp1nX" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="YoelCG" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="10" player="Sp1nX" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514735715"><general><startdate>2025-06-16 05:46:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="510" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="390" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="600" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="YoelCG" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 H2</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ C3 SJ</cards>
+<action no="9" player="Sp1nX" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738281"><general><startdate>2025-06-16 05:46:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="385" dealer="0" win="225" bet="110" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="640" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="475" dealer="0" win="0" bet="110" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+</players>
+</general>
+<round no="0"><action no="1" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="YoelCG" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="YoelCG">HK D9</cards>
+<cards type="Pocket" player="oreiasccp">C10 H7</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="YoelCG" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 SJ D10</cards>
+<action no="9" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="11" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="13" player="YoelCG" type="5" discard="1" dealt="1" sum="75"/>
+<action no="14" player="oreiasccp" type="3" sum="75"/>
+</round>
+</game>
+<game gamecode="11514738362"><general><startdate>2025-06-16 05:46:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="635" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="365" dealer="1" win="150" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK D10</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<action no="6" player="YoelCG" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 DK HK</cards>
+<action no="9" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="11" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S9</cards>
+<action no="13" player="Sp1nX" type="5" discard="1" dealt="1" sum="30"/>
+<action no="14" player="YoelCG" type="23" discard="1" dealt="1" sum="60"/>
+<action no="15" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738454"><general><startdate>2025-06-16 05:47:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="450" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="1" win="270" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="570" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="YoelCG" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">CJ CK</cards>
+<cards type="Pocket" player="oreiasccp">S10 DQ</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="YoelCG" type="23" discard="1" dealt="1" sum="90"/>
+<action no="9" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H5 D3 SA</cards>
+<action no="10" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="12" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="14" player="YoelCG" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="oreiasccp" type="5" sum="30"/>
+<action no="16" player="YoelCG" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11514738556"><general><startdate>2025-06-16 05:48:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="625" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="550" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="325" dealer="0" win="95" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+</players>
+</general>
+<round no="0"><action no="1" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="YoelCG" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 C9</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="YoelCG" type="23" discard="1" dealt="1" sum="80"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738574"><general><startdate>2025-06-16 05:48:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="545" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="375" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="580" dealer="0" win="175" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 C4</cards>
+<action no="6" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="80"/>
+<action no="8" player="Sp1nX" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">SQ H8 D2</cards>
+<action no="9" player="oreiasccp" type="5" sum="40"/>
+<action no="10" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738614"><general><startdate>2025-06-16 05:48:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="370" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="670" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="460" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="YoelCG" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 S5</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738656"><general><startdate>2025-06-16 05:49:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="665" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="435" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="400" dealer="0" win="95" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+</players>
+</general>
+<round no="0"><action no="1" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="YoelCG" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 S4</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="YoelCG" type="23" discard="1" dealt="1" sum="80"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738707"><general><startdate>2025-06-16 05:49:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="430" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="450" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="620" dealer="0" win="135" bet="450" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK C8</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<action no="6" player="YoelCG" type="3" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="23" sum="445"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738755"><general><startdate>2025-06-16 05:49:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="405" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="710" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="385" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="YoelCG" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="YoelCG">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 H10</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514738769"><general><startdate>2025-06-16 05:50:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="705" dealer="0" win="0" bet="350" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="350" dealer="1" win="735" bet="350" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="445" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+</players>
+</general>
+<round no="0"><action no="1" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="YoelCG" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D2 DA</cards>
+<cards type="Pocket" player="Sp1nX">SQ C9</cards>
+<cards type="Pocket" player="YoelCG">X X</cards>
+<action no="6" player="Sp1nX" type="23" discard="1" dealt="1" sum="345"/>
+<action no="7" player="YoelCG" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="285"/>
+</round>
+<round no="2"><cards type="Flop">HQ S8 S10</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+<game gamecode="11514738817"><general><startdate>2025-06-16 05:50:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Sp1nX" chips="735" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+<player seat="10" name="YoelCG" chips="410" dealer="1" win="0" bet="355" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="355" dealer="0" win="775" bet="355" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="YoelCG">S4 D4</cards>
+<cards type="Pocket" player="oreiasccp">H3 HK</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="YoelCG" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="23" sum="350"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="YoelCG" type="3" discard="1" dealt="1" sum="230"/>
+</round>
+<round no="2"><cards type="Flop">H9 CK S10</cards>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+</round>
+<round no="4"><cards type="River">D5</cards>
+</round>
+</game>
+<game gamecode="11514738872"><general><startdate>2025-06-16 05:50:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="YoelCG" chips="55" dealer="0" win="0" bet="55" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808700"/>
+<player seat="3" name="oreiasccp" chips="775" dealer="1" win="1,395" bet="670" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808665"/>
+<player seat="6" name="Sp1nX" chips="670" dealer="0" win="0" bet="670" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384808672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="YoelCG" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="YoelCG" type="2" discard="1" dealt="1" sum="50"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">CA C3</cards>
+<cards type="Pocket" player="YoelCG">D4 C2</cards>
+<cards type="Pocket" player="oreiasccp">CQ HK</cards>
+<action no="6" player="oreiasccp" type="23" sum="665"/>
+<action no="7" player="Sp1nX" type="7" discard="1" dealt="1" sum="635"/>
+</round>
+<round no="2"><cards type="Flop">SQ S9 H10</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">H9</cards>
+</round>
+</game>
+</session>

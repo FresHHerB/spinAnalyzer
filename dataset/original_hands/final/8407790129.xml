@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407790129">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130666411</tablename>
+<tournamentcode>1130666410</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>1</gamecount>
+<startdate>2025-07-17 06:53:16</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11578010550"><general><startdate>2025-07-17 06:53:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="celeste40" chips="500" dealer="0" win="1,040" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407790138"/>
+<player seat="3" name="AAcezino77" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407790123"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407790129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="celeste40" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 S3</cards>
+<cards type="Pocket" player="celeste40">CQ DQ</cards>
+<cards type="Pocket" player="AAcezino77">X X</cards>
+<action no="3" player="AAcezino77" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="celeste40" type="7" discard="1" dealt="1" sum="480"/>
+<action no="6" player="AAcezino77" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SA S9 D8</cards>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">H4</cards>
+</round>
+</game>
+</session>

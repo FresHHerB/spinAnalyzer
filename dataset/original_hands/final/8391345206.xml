@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391345206">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128454317</tablename>
+<tournamentcode>1128454316</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>7</gamecount>
+<startdate>2025-06-25 11:45:57</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532672617"><general><startdate>2025-06-25 11:46:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+<player seat="3" name="gasgas" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345172"/>
+<player seat="6" name="Amigo2015" chips="500" dealer="0" win="80" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amigo2015" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D6 DJ</cards>
+<cards type="Pocket" player="gasgas">X X</cards>
+<cards type="Pocket" player="Amigo2015">X X</cards>
+<action no="3" player="gasgas" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Amigo2015" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H7 H4 HA</cards>
+<action no="6" player="Amigo2015" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532672744"><general><startdate>2025-06-25 11:46:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="gasgas" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345172"/>
+<player seat="6" name="Amigo2015" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+<player seat="10" name="oreiasccp" chips="460" dealer="0" win="920" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="gasgas" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DK HA</cards>
+<cards type="Pocket" player="Amigo2015">X X</cards>
+<cards type="Pocket" player="gasgas">HJ DA</cards>
+<action no="3" player="Amigo2015" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="gasgas" type="23" discard="1" dealt="1" sum="500"/>
+<action no="6" player="oreiasccp" type="7" sum="400"/>
+</round>
+<round no="2"><cards type="Flop">H7 S4 C6</cards>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+</round>
+<round no="4"><cards type="River">S10</cards>
+</round>
+</game>
+<game gamecode="11532672851"><general><startdate>2025-06-25 11:47:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amigo2015" chips="540" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+<player seat="10" name="oreiasccp" chips="920" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+<player seat="3" name="gasgas" chips="40" dealer="0" win="0" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345172"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gasgas" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Amigo2015" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 C4</cards>
+<cards type="Pocket" player="Amigo2015">H5 H6</cards>
+<cards type="Pocket" player="gasgas">C10 D4</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="gasgas" type="7" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Amigo2015" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H2 DJ H9</cards>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="11532672957"><general><startdate>2025-06-25 11:47:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="920" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+<player seat="6" name="Amigo2015" chips="580" dealer="1" win="80" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amigo2015" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 HQ</cards>
+<cards type="Pocket" player="Amigo2015">X X</cards>
+<action no="3" player="Amigo2015" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C8 HA D4</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="Amigo2015" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532673043"><general><startdate>2025-06-25 11:47:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amigo2015" chips="620" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+<player seat="10" name="oreiasccp" chips="880" dealer="1" win="80" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Amigo2015" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 CQ</cards>
+<cards type="Pocket" player="Amigo2015">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="Amigo2015" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C9 DA H7</cards>
+<action no="5" player="Amigo2015" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="Amigo2015" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532673152"><general><startdate>2025-06-25 11:48:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="920" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+<player seat="6" name="Amigo2015" chips="580" dealer="1" win="130" bet="117" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Amigo2015" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Amigo2015" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 D2</cards>
+<cards type="Pocket" player="Amigo2015">X X</cards>
+<action no="5" player="Amigo2015" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">DA HA C8</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Amigo2015" type="5" discard="1" dealt="1" sum="52"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532673252"><general><startdate>2025-06-25 11:48:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Amigo2015" chips="645" dealer="0" win="0" bet="645" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345188"/>
+<player seat="10" name="oreiasccp" chips="855" dealer="1" win="1,290" bet="649" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391345206"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Amigo2015" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Amigo2015" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Amigo2015">SA C9</cards>
+<cards type="Pocket" player="oreiasccp">D10 DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="Amigo2015" type="23" discard="1" dealt="1" sum="352"/>
+<action no="7" player="oreiasccp" type="23" sum="644"/>
+<action no="8" player="Amigo2015" type="7" discard="1" dealt="1" sum="288"/>
+</round>
+<round no="2"><cards type="Flop">H10 H5 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+</round>
+<round no="4"><cards type="River">S7</cards>
+</round>
+</game>
+</session>

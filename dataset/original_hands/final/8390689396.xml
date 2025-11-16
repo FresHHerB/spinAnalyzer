@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390689396">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128365378</tablename>
+<tournamentcode>1128365377</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>28</gamecount>
+<startdate>2025-06-24 14:06:58</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530869070"><general><startdate>2025-06-24 14:07:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="EamonnC123" chips="500" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="EamonnC123" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 C6</cards>
+<cards type="Pocket" player="EamonnC123">C5 DK</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="3" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="EamonnC123" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S6 CQ H9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D5</cards>
+<action no="10" player="oreiasccp" type="5" sum="20"/>
+<action no="11" player="EamonnC123" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+</game>
+<game gamecode="11530869178"><general><startdate>2025-06-24 14:07:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="440" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+</players>
+</general>
+<round no="0"><action no="1" player="EamonnC123" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="koLuniEx40" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 H4</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="EamonnC123" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CK D10 H10</cards>
+<action no="6" player="EamonnC123" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869279"><general><startdate>2025-06-24 14:08:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="560" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="460" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="480" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H2</cards>
+<cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="3" player="EamonnC123" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="koLuniEx40" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869363"><general><startdate>2025-06-24 14:08:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="EamonnC123" chips="460" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="540" dealer="0" win="80" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="EamonnC123" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 S8</cards>
+<cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="3" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="EamonnC123" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S9 D2 D3</cards>
+<action no="6" player="oreiasccp" type="5" sum="29"/>
+<action no="7" player="EamonnC123" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869435"><general><startdate>2025-06-24 14:08:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="500" dealer="0" win="200" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="580" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="420" dealer="0" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+</players>
+</general>
+<round no="0"><action no="1" player="EamonnC123" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="koLuniEx40" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 S8</cards>
+<cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="EamonnC123" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 C9 H4</cards>
+<action no="6" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="koLuniEx40" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="EamonnC123" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="9" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="koLuniEx40" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="EamonnC123" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="12" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="koLuniEx40" type="5" discard="1" dealt="1" sum="200"/>
+<action no="14" player="EamonnC123" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869614"><general><startdate>2025-06-24 14:09:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="580" dealer="0" win="370" bet="160" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="320" dealer="1" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="600" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 SJ</cards>
+<cards type="Pocket" player="EamonnC123">C7 D7</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="3" player="EamonnC123" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="koLuniEx40" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ D2 S3</cards>
+<action no="6" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="30"/>
+<action no="8" player="EamonnC123" type="3" discard="1" dealt="1" sum="30"/>
+<action no="9" player="koLuniEx40" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="10" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="110"/>
+<action no="12" player="EamonnC123" type="3" discard="1" dealt="1" sum="110"/>
+<action no="13" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+<action no="15" player="EamonnC123" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869810"><general><startdate>2025-06-24 14:09:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="EamonnC123" chips="160" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="550" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="790" dealer="0" win="75" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="EamonnC123" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="EamonnC123" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 CA</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="6" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="155"/>
+<action no="8" player="EamonnC123" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869843"><general><startdate>2025-06-24 14:09:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="545" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="830" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="125" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+</players>
+</general>
+<round no="0"><action no="1" player="EamonnC123" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="EamonnC123" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="koLuniEx40" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C9</cards>
+<cards type="Pocket" player="EamonnC123">X X</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="EamonnC123" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530869879"><general><startdate>2025-06-24 14:10:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="825" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="3" name="EamonnC123" chips="105" dealer="1" win="0" bet="105" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689271"/>
+<player seat="6" name="koLuniEx40" chips="570" dealer="0" win="275" bet="175" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="EamonnC123" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="koLuniEx40" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 D9</cards>
+<cards type="Pocket" player="EamonnC123">DJ CJ</cards>
+<cards type="Pocket" player="koLuniEx40">D7 H6</cards>
+<action no="6" player="EamonnC123" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="koLuniEx40" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 D5 S10</cards>
+<action no="9" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="EamonnC123" type="5" discard="1" dealt="1" sum="30"/>
+<action no="12" player="koLuniEx40" type="3" discard="1" dealt="1" sum="30"/>
+<action no="13" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="14" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="oreiasccp" type="4" sum="0"/>
+<action no="16" player="EamonnC123" type="5" discard="1" dealt="1" sum="40"/>
+<action no="17" player="koLuniEx40" type="23" discard="1" dealt="1" sum="110"/>
+<action no="18" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+</round>
+</game>
+<game gamecode="11530875284"><general><startdate>2025-06-24 14:11:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="760" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="740" dealer="1" win="130" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 D8</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D2 D10 SK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="koLuniEx40" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875398"><general><startdate>2025-06-24 14:11:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="805" dealer="0" win="210" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="695" dealer="1" win="0" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S2 SA</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="koLuniEx40" type="23" discard="1" dealt="1" sum="100"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">HK H9 SJ</cards>
+<action no="8" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="10" player="koLuniEx40" type="5" discard="1" dealt="1" sum="80"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875516"><general><startdate>2025-06-24 14:11:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="590" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="910" dealer="1" win="170" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 SK</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C9 S5 H9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="koLuniEx40" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875589"><general><startdate>2025-06-24 14:12:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="995" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="505" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 D9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875619"><general><startdate>2025-06-24 14:12:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,020" dealer="1" win="90" bet="1,020" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 S3</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="1,015"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875656"><general><startdate>2025-06-24 14:12:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="1,065" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="435" dealer="1" win="90" bet="435" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK D5</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="430"/>
+<action no="6" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875763"><general><startdate>2025-06-24 14:12:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="480" dealer="0" win="960" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,020" dealer="1" win="0" bet="1,020" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA D10</cards>
+<cards type="Pocket" player="koLuniEx40">SK S6</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="1,015"/>
+<action no="6" player="oreiasccp" type="7" sum="435"/>
+</round>
+<round no="2"><cards type="Flop">S8 S2 HQ</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11530875875"><general><startdate>2025-06-24 14:13:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="540" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="960" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ C4</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875916"><general><startdate>2025-06-24 14:13:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="935" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="565" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 S7</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530875968"><general><startdate>2025-06-24 14:13:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="610" dealer="0" win="1,220" bet="610" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="890" dealer="1" win="0" bet="610" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">S6 H6</cards>
+<cards type="Pocket" player="oreiasccp">S8 CA</cards>
+<action no="5" player="oreiasccp" type="23" sum="605"/>
+<action no="6" player="koLuniEx40" type="7" discard="1" dealt="1" sum="545"/>
+</round>
+<round no="2"><cards type="Flop">H5 C6 D9</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">H4</cards>
+</round>
+</game>
+<game gamecode="11530876054"><general><startdate>2025-06-24 14:13:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="280" dealer="0" win="130" bet="280" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,220" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK SQ</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="koLuniEx40" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="275"/>
+<action no="7" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876143"><general><startdate>2025-06-24 14:13:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="1,155" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="345" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 S3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876172"><general><startdate>2025-06-24 14:13:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="310" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,190" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 HQ</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876206"><general><startdate>2025-06-24 14:14:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="1,155" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="345" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 CJ</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876242"><general><startdate>2025-06-24 14:14:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="310" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,190" dealer="1" win="130" bet="1,190" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 S6</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="1,185"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876280"><general><startdate>2025-06-24 14:14:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="1,255" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="245" dealer="1" win="130" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ DA</cards>
+<cards type="Pocket" player="koLuniEx40">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="240"/>
+<action no="6" player="koLuniEx40" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876345"><general><startdate>2025-06-24 14:14:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="310" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,190" dealer="1" win="250" bet="325" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 H10</cards>
+<action no="5" player="koLuniEx40" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 H8 D3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="koLuniEx40" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="koLuniEx40" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="koLuniEx40" type="5" discard="1" dealt="1" sum="200"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876511"><general><startdate>2025-06-24 14:15:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="koLuniEx40" chips="1,315" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+<player seat="10" name="oreiasccp" chips="185" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="koLuniEx40" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 C3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530876536"><general><startdate>2025-06-24 14:15:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="150" dealer="0" win="0" bet="150" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689396"/>
+<player seat="6" name="koLuniEx40" chips="1,350" dealer="1" win="300" bet="1,350" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390689304"/>
+</players>
+</general>
+<round no="0"><action no="1" player="koLuniEx40" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="koLuniEx40" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="koLuniEx40">D6 H9</cards>
+<cards type="Pocket" player="oreiasccp">D7 D9</cards>
+<action no="5" player="koLuniEx40" type="23" discard="1" dealt="1" sum="1,345"/>
+<action no="6" player="oreiasccp" type="7" sum="85"/>
+</round>
+<round no="2"><cards type="Flop">C3 H2 S4</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">DK</cards>
+</round>
+</game>
+</session>

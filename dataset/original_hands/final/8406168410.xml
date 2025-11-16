@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8406168410">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130458520</tablename>
+<tournamentcode>1130458519</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>25</gamecount>
+<startdate>2025-07-15 07:44:06</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11573754262"><general><startdate>2025-07-15 07:44:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="100" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="pantherbook53" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ CK</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="3" player="Yatagarasu1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754332"><general><startdate>2025-07-15 07:44:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Yatagarasu1" chips="460" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="560" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="480" dealer="0" win="80" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Yatagarasu1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 D5</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="pantherbook53" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="Yatagarasu1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D3 D7 CK</cards>
+<action no="6" player="pantherbook53" type="5" discard="1" dealt="1" sum="80"/>
+<action no="7" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754408"><general><startdate>2025-07-15 07:45:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="560" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="520" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="420" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Yatagarasu1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 C5</cards>
+<action no="3" player="pantherbook53" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D5 HQ SJ</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="pantherbook53" type="5" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="pantherbook53" type="5" discard="1" dealt="1" sum="45"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754485"><general><startdate>2025-07-15 07:45:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="570" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="410" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="520" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="pantherbook53" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 C6</cards>
+<action no="3" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754521"><general><startdate>2025-07-15 07:45:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Yatagarasu1" chips="410" dealer="0" win="90" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="550" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Yatagarasu1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C9 SK</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Yatagarasu1" type="23" discard="1" dealt="1" sum="140"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754562"><general><startdate>2025-07-15 07:45:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="540" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="460" dealer="0" win="100" bet="50" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Yatagarasu1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">H6 H10</cards>
+<cards type="Pocket" player="oreiasccp">D7 H7</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="3" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Yatagarasu1" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="50"/>
+<action no="6" player="Yatagarasu1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S3 C10 SJ</cards>
+<action no="7" player="Yatagarasu1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="Yatagarasu1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="11" player="Yatagarasu1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754654"><general><startdate>2025-07-15 07:46:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="540" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="510" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="450" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="pantherbook53" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ SJ</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<action no="6" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="60"/>
+<action no="8" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754688"><general><startdate>2025-07-15 07:46:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Yatagarasu1" chips="505" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="490" dealer="1" win="150" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="505" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="pantherbook53" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Yatagarasu1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 CQ</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Yatagarasu1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">H8 DJ D3</cards>
+<action no="9" player="Yatagarasu1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="30"/>
+<action no="11" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754763"><general><startdate>2025-07-15 07:47:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="575" dealer="0" win="0" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="485" dealer="1" win="330" bet="305" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="440" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Yatagarasu1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D8</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="6" player="pantherbook53" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C8 S9 SA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="pantherbook53" type="5" discard="1" dealt="1" sum="90"/>
+<action no="11" player="oreiasccp" type="3" sum="90"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="pantherbook53" type="5" discard="1" dealt="1" sum="150"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754838"><general><startdate>2025-07-15 07:47:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="660" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="420" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="420" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="pantherbook53" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S3</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="6" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754864"><general><startdate>2025-07-15 07:47:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Yatagarasu1" chips="415" dealer="0" win="75" bet="415" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="400" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="685" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="pantherbook53" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Yatagarasu1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ C5</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="pantherbook53" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="Yatagarasu1" type="23" discard="1" dealt="1" sum="410"/>
+<action no="9" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573754914"><general><startdate>2025-07-15 07:48:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="395" dealer="0" win="795" bet="395" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="650" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="455" dealer="0" win="0" bet="455" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Yatagarasu1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA C6</cards>
+<cards type="Pocket" player="Yatagarasu1">S8 S5</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="6" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Yatagarasu1" type="23" discard="1" dealt="1" sum="450"/>
+<action no="8" player="oreiasccp" type="7" sum="360"/>
+</round>
+<round no="2"><cards type="Flop">C8 D6 S3</cards>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+</round>
+<round no="4"><cards type="River">HA</cards>
+</round>
+</game>
+<game gamecode="11573754976"><general><startdate>2025-07-15 07:48:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="645" dealer="0" win="301" bet="211" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="3" name="Yatagarasu1" chips="60" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="795" dealer="0" win="0" bet="148" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="pantherbook53" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 CJ</cards>
+<cards type="Pocket" player="Yatagarasu1">X X</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="6" player="Yatagarasu1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="80"/>
+<action no="8" player="pantherbook53" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">DQ D8 SQ</cards>
+<action no="9" player="oreiasccp" type="5" sum="63"/>
+<action no="10" player="pantherbook53" type="23" discard="1" dealt="1" sum="126"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755031"><general><startdate>2025-07-15 07:48:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Yatagarasu1" chips="55" dealer="0" win="0" bet="55" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168371"/>
+<player seat="6" name="oreiasccp" chips="647" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="798" dealer="0" win="115" bet="55" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Yatagarasu1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="pantherbook53" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="Yatagarasu1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Yatagarasu1">H2 H3</cards>
+<cards type="Pocket" player="oreiasccp">H9 H5</cards>
+<cards type="Pocket" player="pantherbook53">C8 D6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="pantherbook53" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="Yatagarasu1" type="7" discard="1" dealt="1" sum="10"/>
+<action no="9" player="pantherbook53" type="3" discard="1" dealt="1" sum="10"/>
+</round>
+<round no="2"><cards type="Flop">H7 C10 S7</cards>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+</round>
+<round no="4"><cards type="River">D5</cards>
+</round>
+</game>
+<game gamecode="11573755092"><general><startdate>2025-07-15 07:49:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="642" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="858" dealer="1" win="250" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 D8</cards>
+<cards type="Pocket" player="pantherbook53">S5 D6</cards>
+<action no="5" player="pantherbook53" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 S10 SJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="pantherbook53" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="pantherbook53" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H6</cards>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+<action no="14" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755174"><general><startdate>2025-07-15 07:49:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="983" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="6" name="oreiasccp" chips="517" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="pantherbook53" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 HK D6</cards>
+<action no="7" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755204"><general><startdate>2025-07-15 07:49:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="562" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="938" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 CQ</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="5" player="pantherbook53" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA H5 HK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="pantherbook53" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755240"><general><startdate>2025-07-15 07:49:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="983" dealer="0" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="6" name="oreiasccp" chips="517" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="pantherbook53" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 D6</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D8 C10 C9</cards>
+<action no="7" player="pantherbook53" type="5" discard="1" dealt="1" sum="40"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755278"><general><startdate>2025-07-15 07:50:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="472" dealer="0" win="210" bet="181" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="1,028" dealer="1" win="0" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK DJ</cards>
+<action no="5" player="pantherbook53" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="pantherbook53" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C3 S3 D5</cards>
+<action no="8" player="oreiasccp" type="5" sum="76"/>
+<action no="9" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755335"><general><startdate>2025-07-15 07:50:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="923" dealer="0" win="130" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="6" name="oreiasccp" chips="577" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="pantherbook53" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 S10</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="pantherbook53" type="23" discard="1" dealt="1" sum="150"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755367"><general><startdate>2025-07-15 07:50:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="512" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="988" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 H4</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="5" player="pantherbook53" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SK C2 DQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="pantherbook53" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755392"><general><startdate>2025-07-15 07:50:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="1,053" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="6" name="oreiasccp" chips="447" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="pantherbook53" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 S4</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573755405"><general><startdate>2025-07-15 07:50:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="412" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="1,088" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 DA</cards>
+<cards type="Pocket" player="pantherbook53">X X</cards>
+<action no="5" player="pantherbook53" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573759082"><general><startdate>2025-07-15 07:50:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="pantherbook53" chips="1,053" dealer="0" win="250" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+<player seat="6" name="oreiasccp" chips="447" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="pantherbook53" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="pantherbook53">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 C4</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 HQ SK</cards>
+<action no="7" player="pantherbook53" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="pantherbook53" type="23" discard="1" dealt="1" sum="120"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573759124"><general><startdate>2025-07-15 07:51:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="322" dealer="0" win="0" bet="322" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168410"/>
+<player seat="10" name="pantherbook53" chips="1,178" dealer="1" win="644" bet="322" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406168424"/>
+</players>
+</general>
+<round no="0"><action no="1" player="pantherbook53" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="pantherbook53" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 HK</cards>
+<cards type="Pocket" player="pantherbook53">C10 HQ</cards>
+<action no="5" player="pantherbook53" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="317"/>
+<action no="7" player="pantherbook53" type="3" discard="1" dealt="1" sum="257"/>
+</round>
+<round no="2"><cards type="Flop">SQ C6 D10</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+</session>

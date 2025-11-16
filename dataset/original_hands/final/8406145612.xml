@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8406145612">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130453938</tablename>
+<tournamentcode>1130453937</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>18</gamecount>
+<startdate>2025-07-15 05:34:52</startdate>
+<place>1</place>
+<win>€15</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11573681929"><general><startdate>2025-07-15 05:35:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Khungo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 H5</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573681975"><general><startdate>2025-07-15 05:35:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="134" bet="62" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="490" dealer="1" win="0" bet="62" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 H5</cards>
+<cards type="Pocket" player="Julianadro1">CA C10</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<action no="3" player="Julianadro1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H7 DK C4</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Julianadro1" type="5" discard="1" dealt="1" sum="22"/>
+<action no="8" player="oreiasccp" type="3" sum="22"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682130"><general><startdate>2025-07-15 05:36:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="428" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="572" dealer="0" win="40" bet="428" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Julianadro1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">X X</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 DA</cards>
+<action no="3" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="428"/>
+<action no="5" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682176"><general><startdate>2025-07-15 05:36:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="592" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="408" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Khungo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 C7</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682198"><general><startdate>2025-07-15 05:36:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="592" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="398" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ S6</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="3" player="Julianadro1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682235"><general><startdate>2025-07-15 05:36:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="428" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="572" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Julianadro1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 H3</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="3" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682261"><general><startdate>2025-07-15 05:36:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Khungo" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="562" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="438" dealer="0" win="40" bet="438" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Khungo" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 C9</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Julianadro1" type="23" discard="1" dealt="1" sum="438"/>
+<action no="5" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682305"><general><startdate>2025-07-15 05:37:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="562" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="458" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Khungo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Khungo" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 S7</cards>
+<cards type="Pocket" player="Khungo">X X</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="6" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Khungo" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682346"><general><startdate>2025-07-15 05:37:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="453" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="6" name="Khungo" chips="460" dealer="1" win="0" bet="460" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145594"/>
+<player seat="10" name="oreiasccp" chips="587" dealer="0" win="955" bet="587" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Khungo" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Julianadro1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Khungo">HA D7</cards>
+<cards type="Pocket" player="oreiasccp">H10 D10</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="6" player="Khungo" type="23" discard="1" dealt="1" sum="455"/>
+<action no="7" player="oreiasccp" type="7" sum="567"/>
+<action no="8" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ CJ C3</cards>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+<game gamecode="11573682403"><general><startdate>2025-07-15 05:37:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="418" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="10" name="oreiasccp" chips="1,082" dealer="1" win="70" bet="418" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Julianadro1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="413"/>
+<action no="6" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573682428"><general><startdate>2025-07-15 05:37:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,117" dealer="0" win="70" bet="383" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="383" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Julianadro1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 HA</cards>
+<action no="5" player="Julianadro1" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="378"/>
+<action no="7" player="Julianadro1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11573684964"><general><startdate>2025-07-15 05:38:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="348" dealer="0" win="70" bet="89" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="10" name="oreiasccp" chips="1,152" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Julianadro1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK SA</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 S4 S6</cards>
+<action no="7" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="11" player="Julianadro1" type="5" discard="1" dealt="1" sum="54"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573685032"><general><startdate>2025-07-15 05:38:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,117" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="383" dealer="1" win="70" bet="383" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Julianadro1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK C6</cards>
+<action no="5" player="Julianadro1" type="23" discard="1" dealt="1" sum="378"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573685060"><general><startdate>2025-07-15 05:38:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="418" dealer="0" win="0" bet="112" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="10" name="oreiasccp" chips="1,082" dealer="1" win="224" bet="112" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Julianadro1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">S7 S3</cards>
+<cards type="Pocket" player="oreiasccp">C10 H10</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H5 D7 CK</cards>
+<action no="7" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="Julianadro1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="10" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="12" player="Julianadro1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="5" sum="47"/>
+<action no="14" player="Julianadro1" type="3" discard="1" dealt="1" sum="47"/>
+</round>
+</game>
+<game gamecode="11573685141"><general><startdate>2025-07-15 05:39:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,194" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="306" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Julianadro1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 H6</cards>
+<cards type="Pocket" player="Julianadro1">X X</cards>
+<action no="5" player="Julianadro1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 D9 DK</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Julianadro1" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11573685189"><general><startdate>2025-07-15 05:39:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="351" dealer="0" win="702" bet="351" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="10" name="oreiasccp" chips="1,149" dealer="1" win="0" bet="351" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Julianadro1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK C7</cards>
+<cards type="Pocket" player="Julianadro1">HA D6</cards>
+<action no="5" player="oreiasccp" type="23" sum="346"/>
+<action no="6" player="Julianadro1" type="7" discard="1" dealt="1" sum="306"/>
+</round>
+<round no="2"><cards type="Flop">S2 C3 S8</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">C6</cards>
+</round>
+</game>
+<game gamecode="11573685231"><general><startdate>2025-07-15 05:40:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="798" dealer="0" win="744" bet="372" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+<player seat="3" name="Julianadro1" chips="702" dealer="1" win="0" bet="372" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Julianadro1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Julianadro1">S5 D10</cards>
+<cards type="Pocket" player="oreiasccp">DJ D7</cards>
+<action no="5" player="Julianadro1" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C5 S6 H4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Julianadro1" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="Julianadro1" type="5" discard="1" dealt="1" sum="131"/>
+<action no="12" player="oreiasccp" type="3" sum="131"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="13" player="oreiasccp" type="5" sum="156"/>
+<action no="14" player="Julianadro1" type="3" discard="1" dealt="1" sum="156"/>
+</round>
+</game>
+<game gamecode="11573685328"><general><startdate>2025-07-15 05:40:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Julianadro1" chips="330" dealer="0" win="0" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145545"/>
+<player seat="10" name="oreiasccp" chips="1,170" dealer="1" win="660" bet="330" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8406145612"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Julianadro1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Julianadro1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SK SA</cards>
+<cards type="Pocket" player="Julianadro1">CA C6</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Julianadro1" type="23" discard="1" dealt="1" sum="325"/>
+<action no="7" player="oreiasccp" type="3" sum="285"/>
+</round>
+<round no="2"><cards type="Flop">S9 H5 SJ</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+</session>

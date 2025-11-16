@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8389848398">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128246046</tablename>
+<tournamentcode>1128246045</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>1</gamecount>
+<startdate>2025-06-23 05:50:04</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11528519636"><general><startdate>2025-06-23 05:50:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389848398"/>
+<player seat="10" name="Jubbles69" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389848420"/>
+<player seat="3" name="lynx707" chips="500" dealer="0" win="1,000" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8389848347"/>
+</players>
+</general>
+<round no="0"><action no="1" player="lynx707" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Jubbles69">X X</cards>
+<cards type="Pocket" player="lynx707">SA C4</cards>
+<cards type="Pocket" player="oreiasccp">D7 H7</cards>
+<action no="3" player="Jubbles69" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="lynx707" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="50"/>
+<action no="6" player="lynx707" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D3 HA C6</cards>
+<action no="7" player="lynx707" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="25"/>
+<action no="9" player="lynx707" type="23" discard="1" dealt="1" sum="450"/>
+<action no="10" player="oreiasccp" type="7" sum="425"/>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+</session>

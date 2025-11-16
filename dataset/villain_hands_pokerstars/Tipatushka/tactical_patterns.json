@@ -1,0 +1,124 @@
+{
+  "villain": "Tipatushka",
+  "total_hands": 3573,
+  "preflop": {
+    "total_hands": 3573,
+    "was_pfr": 257,
+    "limped": 2848,
+    "folded_preflop": 0,
+    "total_decisions": 0,
+    "pfr_pct": 7.1928351525328855,
+    "limp_pct": 79.70892807164847
+  },
+  "flop": {
+    "hands_with_flop": 1738,
+    "cbet_opportunities": 117,
+    "cbet_taken": 83,
+    "cbet_pct": 70.94017094017094,
+    "cbet_by_texture": {
+      "monotone": {
+        "opportunities": 7,
+        "taken": 3,
+        "pct": 42.857142857142854
+      },
+      "two_tone": {
+        "opportunities": 68,
+        "taken": 48,
+        "pct": 70.58823529411765
+      },
+      "rainbow": {
+        "opportunities": 42,
+        "taken": 32,
+        "pct": 76.19047619047619
+      },
+      "paired": {
+        "opportunities": 16,
+        "taken": 9,
+        "pct": 56.25
+      },
+      "unpaired": {
+        "opportunities": 101,
+        "taken": 74,
+        "pct": 73.26732673267327
+      },
+      "connected": {
+        "opportunities": 8,
+        "taken": 5,
+        "pct": 62.5
+      },
+      "dry": {
+        "opportunities": 69,
+        "taken": 47,
+        "pct": 68.11594202898551
+      },
+      "wet": {
+        "opportunities": 48,
+        "taken": 36,
+        "pct": 75.0
+      }
+    },
+    "cbet_by_spr": {
+      "high": {
+        "opportunities": 0,
+        "taken": 0,
+        "pct": 0
+      },
+      "medium": {
+        "opportunities": 23,
+        "taken": 18,
+        "pct": 78.26086956521739
+      },
+      "low": {
+        "opportunities": 94,
+        "taken": 65,
+        "pct": 69.14893617021278
+      }
+    },
+    "probe_opportunities": 984,
+    "probe_taken": 308,
+    "probe_pct": 31.300813008130078,
+    "checkraise_count": 40,
+    "donk_count": 8
+  },
+  "turn_river": {
+    "hands_with_turn": 1265,
+    "hands_with_river": 1033,
+    "single_barrel": 66,
+    "double_barrel": 23,
+    "triple_barrel": 2,
+    "barrel_distribution": {
+      "0": 3482,
+      "1": 66,
+      "3": 2,
+      "2": 23
+    },
+    "cbet_then_check_turn": 30,
+    "cbet_then_check_turn_opportunities": 54,
+    "give_up_pct": 55.55555555555556
+  },
+  "situational": {
+    "by_spr": {
+      "high": {
+        "count": 445,
+        "avg_aggression": 0.0,
+        "cbet_pct": 0
+      },
+      "medium": {
+        "count": 1100,
+        "avg_aggression": 0.024545454545454544,
+        "cbet_pct": 78.26086956521739
+      },
+      "low": {
+        "count": 2028,
+        "avg_aggression": 0.04487179487179487,
+        "cbet_pct": 69.14893617021278
+      }
+    },
+    "stack_depth_distribution": {
+      "medium": 913,
+      "very_shallow": 1591,
+      "shallow": 908,
+      "deep": 161
+    }
+  }
+}

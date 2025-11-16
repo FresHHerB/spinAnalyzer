@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407798691">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130668332</tablename>
+<tournamentcode>1130668331</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>26</gamecount>
+<startdate>2025-07-17 07:42:57</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11578040916"><general><startdate>2025-07-17 07:43:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="500" dealer="0" win="0" bet="155" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="500" dealer="0" win="310" bet="155" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="brianmarkham" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="brianmarkham">D5 H2</cards>
+<cards type="Pocket" player="MikeWazowski1">H9 DJ</cards>
+<cards type="Pocket" player="oreiasccp">DK H7</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D9 D6 C4</cards>
+<action no="6" player="MikeWazowski1" type="5" discard="1" dealt="1" sum="25"/>
+<action no="7" player="brianmarkham" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="MikeWazowski1" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="brianmarkham" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="10" player="MikeWazowski1" type="5" discard="1" dealt="1" sum="70"/>
+<action no="11" player="brianmarkham" type="3" discard="1" dealt="1" sum="70"/>
+</round>
+</game>
+<game gamecode="11578041070"><general><startdate>2025-07-17 07:43:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="655" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="345" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+</players>
+</general>
+<round no="0"><action no="1" player="brianmarkham" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 C10</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<action no="3" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041138"><general><startdate>2025-07-17 07:44:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="655" dealer="0" win="50" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="335" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">H2 HA</cards>
+<cards type="Pocket" player="brianmarkham">D8 SK</cards>
+<cards type="Pocket" player="oreiasccp">C2 SQ</cards>
+<action no="3" player="brianmarkham" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 S5 S9</cards>
+<action no="6" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="10" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041214"><general><startdate>2025-07-17 07:44:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="315" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="685" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="brianmarkham" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 D4</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ H4 H2</cards>
+<action no="6" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="8" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="brianmarkham" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041308"><general><startdate>2025-07-17 07:45:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="75" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="665" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="335" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+</players>
+</general>
+<round no="0"><action no="1" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="brianmarkham" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 D9</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<action no="6" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 D8 D7</cards>
+<action no="9" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="30"/>
+<action no="11" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041398"><general><startdate>2025-07-17 07:45:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="660" dealer="0" win="90" bet="660" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="300" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ H8</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<action no="6" player="brianmarkham" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="655"/>
+<action no="9" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041490"><general><startdate>2025-07-17 07:46:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="265" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="520" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="715" dealer="0" win="75" bet="715" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="brianmarkham" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H6 S4</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="710"/>
+<action no="8" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041547"><general><startdate>2025-07-17 07:46:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="515" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="755" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="230" dealer="0" win="135" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+</players>
+</general>
+<round no="0"><action no="1" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="brianmarkham" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 S7</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<action no="6" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 D3 SK</cards>
+<action no="9" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="11" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="5" sum="30"/>
+<action no="13" player="brianmarkham" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="14" player="brianmarkham" type="5" discard="1" dealt="1" sum="60"/>
+<action no="15" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041633"><general><startdate>2025-07-17 07:47:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="750" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="300" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="450" dealer="0" win="105" bet="450" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C8 SK</cards>
+<action no="6" player="brianmarkham" type="3" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="23" sum="445"/>
+<action no="8" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041660"><general><startdate>2025-07-17 07:47:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="265" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="520" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="715" dealer="0" win="95" bet="715" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="brianmarkham" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 D8</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="710"/>
+<action no="8" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041688"><general><startdate>2025-07-17 07:47:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="515" dealer="0" win="95" bet="220" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="765" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="220" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+</players>
+</general>
+<round no="0"><action no="1" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="brianmarkham" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ D5</cards>
+<action no="6" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="23" sum="215"/>
+<action no="9" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578041749"><general><startdate>2025-07-17 07:47:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="760" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="175" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="565" dealer="0" win="135" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 C9</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<action no="6" player="brianmarkham" type="3" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+<action no="8" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 C10 C8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="15" player="oreiasccp" type="5" sum="40"/>
+<action no="16" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="17" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578045676"><general><startdate>2025-07-17 07:48:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="130" dealer="0" win="265" bet="130" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="655" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="715" dealer="0" win="0" bet="715" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="brianmarkham" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 S6</cards>
+<cards type="Pocket" player="MikeWazowski1">SK S3</cards>
+<cards type="Pocket" player="brianmarkham">D6 D5</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="710"/>
+<action no="8" player="brianmarkham" type="7" discard="1" dealt="1" sum="85"/>
+</round>
+<round no="2"><cards type="Flop">H9 C5 S4</cards>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+<game gamecode="11578045726"><general><startdate>2025-07-17 07:48:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="650" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="585" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="265" dealer="0" win="95" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+</players>
+</general>
+<round no="0"><action no="1" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="brianmarkham" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 CJ</cards>
+<action no="6" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="brianmarkham" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 H5 D7</cards>
+<action no="9" player="brianmarkham" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="11" player="brianmarkham" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578045812"><general><startdate>2025-07-17 07:49:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="580" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="6" name="brianmarkham" chips="315" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="605" dealer="0" win="195" bet="580" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="brianmarkham">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 SA</cards>
+<action no="6" player="brianmarkham" type="3" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="23" sum="575"/>
+<action no="8" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="9" player="brianmarkham" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578045840"><general><startdate>2025-07-17 07:49:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="brianmarkham" chips="250" dealer="0" win="0" bet="250" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798687"/>
+<player seat="10" name="oreiasccp" chips="735" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="515" dealer="0" win="505" bet="250" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="brianmarkham" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="brianmarkham" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="brianmarkham">DJ CA</cards>
+<cards type="Pocket" player="MikeWazowski1">CJ HJ</cards>
+<cards type="Pocket" player="oreiasccp">C5 CQ</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="120"/>
+<action no="8" player="brianmarkham" type="23" discard="1" dealt="1" sum="245"/>
+<action no="9" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="125"/>
+</round>
+<round no="2"><cards type="Flop">D10 S6 SQ</cards>
+</round>
+<round no="3"><cards type="Turn">H10</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+<game gamecode="11578045895"><general><startdate>2025-07-17 07:49:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="730" dealer="0" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="770" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK D9</cards>
+<cards type="Pocket" player="MikeWazowski1">H8 SJ</cards>
+<action no="5" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 D10 C4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046002"><general><startdate>2025-07-17 07:50:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="705" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="10" name="oreiasccp" chips="795" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 D5</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 H7 H8</cards>
+<action no="7" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046053"><general><startdate>2025-07-17 07:50:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="860" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="640" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 DQ</cards>
+<cards type="Pocket" player="MikeWazowski1">X X</cards>
+<action no="5" player="MikeWazowski1" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046072"><general><startdate>2025-07-17 07:50:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="605" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="10" name="oreiasccp" chips="895" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046091"><general><startdate>2025-07-17 07:50:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="860" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="640" dealer="1" win="130" bet="640" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 H9</cards>
+<action no="5" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="635"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046106"><general><startdate>2025-07-17 07:50:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="705" dealer="0" win="550" bet="275" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="10" name="oreiasccp" chips="795" dealer="1" win="0" bet="275" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">D10 H9</cards>
+<cards type="Pocket" player="oreiasccp">C8 DQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="120"/>
+<action no="6" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S2 SJ H10</cards>
+<action no="7" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="MikeWazowski1" type="5" discard="1" dealt="1" sum="150"/>
+<action no="10" player="oreiasccp" type="3" sum="150"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="11" player="MikeWazowski1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046173"><general><startdate>2025-07-17 07:51:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="520" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="980" dealer="1" win="176" bet="980" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 C7</cards>
+<action no="5" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="972"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046195"><general><startdate>2025-07-17 07:51:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="1,068" dealer="0" win="96" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="10" name="oreiasccp" chips="432" dealer="1" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 H9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046217"><general><startdate>2025-07-17 07:51:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="384" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+<player seat="3" name="MikeWazowski1" chips="1,116" dealer="1" win="176" bet="1,116" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="MikeWazowski1" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="MikeWazowski1">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 S4</cards>
+<action no="5" player="MikeWazowski1" type="23" discard="1" dealt="1" sum="1,108"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11578046240"><general><startdate>2025-07-17 07:51:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="MikeWazowski1" chips="1,204" dealer="0" win="592" bet="296" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798672"/>
+<player seat="10" name="oreiasccp" chips="296" dealer="1" win="0" bet="296" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407798691"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="MikeWazowski1" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="MikeWazowski1" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 HA</cards>
+<cards type="Pocket" player="MikeWazowski1">HK C2</cards>
+<action no="5" player="oreiasccp" type="23" sum="288"/>
+<action no="6" player="MikeWazowski1" type="3" discard="1" dealt="1" sum="208"/>
+</round>
+<round no="2"><cards type="Flop">CJ D2 D8</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">D9</cards>
+</round>
+</game>
+</session>

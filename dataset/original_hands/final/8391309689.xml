@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391309689">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128450037</tablename>
+<tournamentcode>1128450036</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-25 10:01:59</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532588531"><general><startdate>2025-06-25 10:02:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309689"/>
+<player seat="6" name="6SP9" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309699"/>
+<player seat="10" name="klemenperc" chips="500" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309707"/>
+</players>
+</general>
+<round no="0"><action no="1" player="klemenperc" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 D3</cards>
+<cards type="Pocket" player="klemenperc">X X</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="3" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="klemenperc" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532588551"><general><startdate>2025-06-25 10:02:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="6SP9" chips="500" dealer="0" win="960" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309699"/>
+<player seat="10" name="klemenperc" chips="520" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309707"/>
+<player seat="3" name="oreiasccp" chips="480" dealer="0" win="0" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391309689"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="6SP9" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">HJ D10</cards>
+<cards type="Pocket" player="klemenperc">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 H9</cards>
+<action no="3" player="klemenperc" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="6SP9" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S10 H10 D9</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="6SP9" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="6SP9" type="5" discard="1" dealt="1" sum="90"/>
+<action no="10" player="oreiasccp" type="3" sum="90"/>
+</round>
+<round no="4"><cards type="River">C2</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="6SP9" type="5" discard="1" dealt="1" sum="350"/>
+<action no="13" player="oreiasccp" type="7" sum="330"/>
+</round>
+</game>
+</session>

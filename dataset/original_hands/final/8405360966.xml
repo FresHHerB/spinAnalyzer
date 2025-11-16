@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405360966">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130349633</tablename>
+<tournamentcode>1130349632</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>4</gamecount>
+<startdate>2025-07-14 05:05:00</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11571566485"><general><startdate>2025-07-14 05:05:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="FernandesTime" chips="500" dealer="0" win="100" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360864"/>
+<player seat="6" name="untouchable3" chips="500" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360931"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360966"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="FernandesTime" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="FernandesTime">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 H5</cards>
+<cards type="Pocket" player="untouchable3">X X</cards>
+<action no="3" player="untouchable3" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="FernandesTime" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SJ H6 H2</cards>
+<action no="6" player="FernandesTime" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="untouchable3" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="8" player="FernandesTime" type="5" discard="1" dealt="1" sum="25"/>
+<action no="9" player="untouchable3" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="4"><cards type="River">S4</cards>
+<action no="10" player="FernandesTime" type="5" discard="1" dealt="1" sum="75"/>
+<action no="11" player="untouchable3" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571566559"><general><startdate>2025-07-14 05:05:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="untouchable3" chips="455" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360931"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360966"/>
+<player seat="3" name="FernandesTime" chips="555" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360864"/>
+</players>
+</general>
+<round no="0"><action no="1" player="FernandesTime" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="untouchable3" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="FernandesTime">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 H2</cards>
+<cards type="Pocket" player="untouchable3">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="FernandesTime" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571566598"><general><startdate>2025-07-14 05:05:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="490" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360966"/>
+<player seat="3" name="FernandesTime" chips="545" dealer="1" win="90" bet="62" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360864"/>
+<player seat="6" name="untouchable3" chips="465" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360931"/>
+</players>
+</general>
+<round no="0"><action no="1" player="untouchable3" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="untouchable3">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK D6</cards>
+<cards type="Pocket" player="FernandesTime">X X</cards>
+<action no="3" player="FernandesTime" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="untouchable3" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S3 H9 HJ</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="FernandesTime" type="5" discard="1" dealt="1" sum="22"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571566656"><general><startdate>2025-07-14 05:06:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="FernandesTime" chips="595" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360864"/>
+<player seat="6" name="untouchable3" chips="455" dealer="1" win="920" bet="450" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360931"/>
+<player seat="10" name="oreiasccp" chips="450" dealer="0" win="0" bet="450" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405360966"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="FernandesTime" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="FernandesTime">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 CA</cards>
+<cards type="Pocket" player="untouchable3">SJ SA</cards>
+<action no="3" player="untouchable3" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="450"/>
+<action no="5" player="FernandesTime" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="untouchable3" type="3" discard="1" dealt="1" sum="410"/>
+</round>
+<round no="2"><cards type="Flop">DJ H7 S9</cards>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+</round>
+<round no="4"><cards type="River">H6</cards>
+</round>
+</game>
+</session>

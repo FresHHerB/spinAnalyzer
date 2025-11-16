@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394954129">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128952142</tablename>
+<tournamentcode>1128952141</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>23</gamecount>
+<startdate>2025-06-30 10:44:36</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11542844889"><general><startdate>2025-06-30 10:44:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="100" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="10" name="designstorm27" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954141"/>
+</players>
+</general>
+<round no="0"><action no="1" player="designstorm27" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="propheticstone7" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HA H4</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="designstorm27">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="designstorm27" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 C9 CA</cards>
+<action no="6" player="designstorm27" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="25"/>
+<action no="8" player="designstorm27" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542844952"><general><startdate>2025-06-30 10:45:07</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="560" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="10" name="designstorm27" chips="460" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954141"/>
+<player seat="3" name="propheticstone7" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="designstorm27">X X</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 C2</cards>
+<action no="3" player="designstorm27" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542844972"><general><startdate>2025-06-30 10:45:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="designstorm27" chips="490" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954141"/>
+<player seat="3" name="propheticstone7" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="540" dealer="0" win="120" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="designstorm27" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="designstorm27">X X</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 CK</cards>
+<action no="3" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="designstorm27" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S3 DK DA</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="designstorm27" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="designstorm27" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845040"><general><startdate>2025-06-30 10:45:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="470" dealer="0" win="860" bet="430" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="600" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="10" name="designstorm27" chips="430" dealer="0" win="0" bet="430" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954141"/>
+</players>
+</general>
+<round no="0"><action no="1" player="designstorm27" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="propheticstone7" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="designstorm27">D10 SK</cards>
+<cards type="Pocket" player="oreiasccp">HQ D6</cards>
+<cards type="Pocket" player="propheticstone7">H9 C10</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="designstorm27" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C9 S9 H4</cards>
+<action no="6" player="designstorm27" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="propheticstone7" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="8" player="designstorm27" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="propheticstone7" type="23" discard="1" dealt="1" sum="50"/>
+<action no="10" player="designstorm27" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="11" player="designstorm27" type="5" discard="1" dealt="1" sum="320"/>
+<action no="12" player="propheticstone7" type="3" discard="1" dealt="1" sum="320"/>
+</round>
+</game>
+<game gamecode="11542845152"><general><startdate>2025-06-30 10:46:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="600" dealer="0" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="900" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 DK</cards>
+<cards type="Pocket" player="propheticstone7">S8 HK</cards>
+<action no="3" player="propheticstone7" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 C3 H9</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845266"><general><startdate>2025-06-30 10:46:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="880" dealer="0" win="0" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="620" dealer="1" win="138" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="propheticstone7" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ HJ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="propheticstone7" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H9 D10 CJ</cards>
+<action no="5" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="29"/>
+<action no="7" player="propheticstone7" type="3" discard="1" dealt="1" sum="29"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="8" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="101"/>
+<action no="10" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845400"><general><startdate>2025-06-30 10:47:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="689" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="811" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 D7</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ HQ H10</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845507"><general><startdate>2025-06-30 10:47:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="846" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="654" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 D3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845528"><general><startdate>2025-06-30 10:47:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="634" dealer="0" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="866" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ DQ</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S8 D8 DJ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="23" sum="90"/>
+<action no="10" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845589"><general><startdate>2025-06-30 10:48:08</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="801" dealer="0" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="699" dealer="1" win="220" bet="165" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">DA D9</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 HQ CA</cards>
+<action no="7" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="propheticstone7" type="23" discard="1" dealt="1" sum="75"/>
+<action no="10" player="oreiasccp" type="3" sum="45"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="11" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="13" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="5" sum="55"/>
+<action no="15" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845708"><general><startdate>2025-06-30 10:48:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="809" dealer="0" win="70" bet="691" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="691" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 DA</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="686"/>
+<action no="7" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845746"><general><startdate>2025-06-30 10:48:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="656" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="844" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 D2</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845762"><general><startdate>2025-06-30 10:49:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="819" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="681" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ S10</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845797"><general><startdate>2025-06-30 10:49:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="636" dealer="0" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="864" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">S9 S2</cards>
+<cards type="Pocket" player="oreiasccp">S8 S7</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ HQ H9</cards>
+<action no="7" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="propheticstone7" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="10" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="12" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845880"><general><startdate>2025-06-30 10:49:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="779" dealer="0" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="721" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 S8</cards>
+<cards type="Pocket" player="propheticstone7">D3 D8</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HJ H8 DQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="propheticstone7" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">C4</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845959"><general><startdate>2025-06-30 10:50:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="636" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="864" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 C2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542845984"><general><startdate>2025-06-30 10:50:05</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="839" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="661" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 S3</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="propheticstone7" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542846037"><general><startdate>2025-06-30 10:50:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="706" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="794" dealer="1" win="170" bet="209" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 S4</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D4 C10</cards>
+<action no="7" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="propheticstone7" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="10" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="124"/>
+<action no="12" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542846123"><general><startdate>2025-06-30 10:50:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="879" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="621" dealer="1" win="250" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="propheticstone7">DJ D10</cards>
+<cards type="Pocket" player="oreiasccp">D4 C6</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 D9 S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="5" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542851210"><general><startdate>2025-06-30 10:51:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="746" dealer="0" win="130" bet="746" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="754" dealer="1" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 HK</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="propheticstone7" type="23" discard="1" dealt="1" sum="741"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542851236"><general><startdate>2025-06-30 10:51:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="689" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="811" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D8 H7</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CQ C3 S4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="propheticstone7" type="5" discard="1" dealt="1" sum="120"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542851313"><general><startdate>2025-06-30 10:51:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="propheticstone7" chips="876" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+<player seat="6" name="oreiasccp" chips="624" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="propheticstone7" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 H6</cards>
+<cards type="Pocket" player="propheticstone7">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H9 HJ D9</cards>
+<action no="7" player="propheticstone7" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="propheticstone7" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542851345"><general><startdate>2025-06-30 10:51:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="689" dealer="0" win="0" bet="689" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954129"/>
+<player seat="3" name="propheticstone7" chips="811" dealer="1" win="1,378" bet="689" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394954120"/>
+</players>
+</general>
+<round no="0"><action no="1" player="propheticstone7" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="propheticstone7" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA D3</cards>
+<cards type="Pocket" player="propheticstone7">CQ C10</cards>
+<action no="5" player="propheticstone7" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="23" sum="684"/>
+<action no="7" player="propheticstone7" type="3" discard="1" dealt="1" sum="624"/>
+</round>
+<round no="2"><cards type="Flop">S7 HA HK</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+</session>

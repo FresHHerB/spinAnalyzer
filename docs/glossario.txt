@@ -1,0 +1,97 @@
+Glossário técnico de termos de Poker para análise de mãos
+Posições
+Small Blind (SB) – Jogador que está imediatamente à esquerda do Dealer (botão), paga a pequena cega. Critério: o script identifica o jogador que postou metade do big blind antes do flop
+
+.
+Big Blind (BB) – Jogador à esquerda do SB, paga a grande cega (100% do blind). Critério: jogador que postou 100% do blind pré-flop
+
+.
+Button (BTN ou Dealer) – Último a agir no pré-flop. Critério: posição do dealer (botão) no histórico, atua por último em todas as ruas (sem contar blinds).
+Cutoff (CO) – Posição imediatamente à direita do botão. Critério: senta um à direita do dealer (último a agir após o botão)
+
+.
+Under The Gun (UTG) – Primeiro a agir no pré-flop (logo após o big blind). Critério: assento imediatamente à esquerda do BB
+
+. (Em mesas de 3‑max, UTG pode coincidir com o próprio botão; em 6‑max ou 9‑max seria o jogador após BB.)
+Middle Position (MP) / Hijack (HJ) – Posicionamentos intermediários entre UTG e CO em mesas maiores. Critério: assentos conforme o número de jogadores (ex. UTG+1, UTG+2, Hijack antes do Cutoff). Não aplicável em 3‑max, mas relevante em análises gerais.
+Tipos de board (textura do flop)
+Monitore a textura do flop (primeiras 3 cartas comunitárias) para identificar quão coordenada ou perigosa ela é. Por exemplo, o flop K♥-9♥-5♥ é monótono (todas as cartas do mesmo naipe)
+
+
+Figura: Exemplo de flop monotono (K♥-9♥-5♥).
+Monotone board (mesa monotona) – Flop com 3 cartas do mesmo naipe
+
+. Detecção: todas as cartas comunitárias têm o mesmo naipe.
+Rainbow board (mesa arco-íris) – Flop com 3 naipes distintos
+
+. Detecção: nenhum naipe se repete entre as cartas comunitárias.
+Two-tone board (mesa dois naipes) – Flop com exatamente duas cartas de um naipe e uma de outro. Detecção: há exatamente 2 cartas de um naipe e 1 de outro entre as comunitárias.
+Paired board (board pareado) – Flop que contém um par (duas cartas de mesmo valor). Detecção: pelo menos dois cartões comunitários têm mesmo rank.
+Connected board (mesa conectada) – Flop com cartas em sequência ou muito próximas (permitindo straights). Detecção: em geral, (valor mais alto – valor mais baixo) ≤ 4 entre as 3 cartas. Por exemplo, 5-7-8 (diferenca 8–5=3) é conectado; 2-6-7 (7–2=5) não é.
+Dry board (mesa seca) – Flop pouco coordenado, sem draws aparentes (sem flush ou straight draw fácil)
+
+. Detecção: flop arco-íris e (valor máximo – valor mínimo) alto (p.ex. K-7-2 )
+Wet board (mesa molhada/coordenada) – Flop com muitas possibilidades de draw (flush ou straight)
+
+. Detecção: pelo menos duas cartas do mesmo naipe ou valores próximos (ex.: 7♦-8♥-9♥ ).
+Tipos de mão pré-flop
+Pocket Pair (Par de mão) – Duas cartas iniciais do mesmo valor (AA, 22, etc.)
+
+. Detecção: as duas hole cards têm mesmo rank.
+Suited (Naipadas) – Duas cartas iniciais do mesmo naipe. Detecção: as hole cards têm naipe idêntico.
+Offsuit (De naipes diferentes) – Hole cards com naipes distintos. Detecção: as hole cards têm naipes diferentes.
+Suited Connector (Conectores Naipados) – Duas cartas iniciais do mesmo naipe e sequenciais (ex.: 8♠-9♠). Detecção: naipes iguais e diferença de valor = 1.
+One-gap Connector (Conectores com gap 1) – Mesmaipe, mas com diferença de 2 no valor (ex.: J♣-9♣). Detecção: naipes iguais e diferença de valor = 2. (Equivale a um “gap” de 1 entre elas.)
+Broadway Cards – Cartas altas de 10 até A. Mãos broadway incluem combinações como AK, QT, JQ, etc.
+
+. Detecção: cada carta ≥ 10 (T, J, Q, K, A).
+Broadway Suited – Coadjuvantes broadway do mesmo naipe (ex.: K♠-Q♠). Detecção: como Broadway e cartas naipadas.
+Suited Aces (Ax) – A(ás) com outro carta do mesmo naipe (ex.: A♦-7♦). Detecção: presença de A e naipes iguais.
+Offsuit Broadway (Broadway offsuit) – Duas cartas broadway mas de naipes diferentes. Detecção: cada carta ≥10, mas naipes distintos.
+Tipos de combinação de draws
+Flush Draw (Projeto de Flush) – Possibilidade de completar um flush. Um player tem 4 do mesmo naipe entre hole + flop
+
+. Detecção: hole cards e flop combinam para 4 cartas de igual naipe.
+Backdoor Flush Draw (Projeto de Flush pelo Turn+River) – Situação onde, após o flop, é necessário rodar naipes nos turn e river para completar flush. Exemplo: flop contém apenas 2 do mesmo naipe, one hole card do mesmo; faltarão 2 cartas daquele naipe
+
+. Detecção: atualmente há 3 cartas de um naipe entre hole+flop.
+Open-Ended Straight Draw (OESD) – Sequência interna com 4 cartas em ordem, faltando um nas duas pontas. Ex.: 5-6-7-8 pode virar straight com 4 ou 9
+
+. Detecção: hole+comunitárias formam 4 cards consecutivos; a sequência pode ser finalizada por 2 ranks (ex., gap de 1 em cada extremidade).
+Inside Straight Draw (Gutshot ou Belly Buster) – Faltando uma carta no meio de uma seqüência de 5. Ex.: 7-8-10-9 (precisa um 6 ou J) é gutshot. Detecção: hole+comunitárias dão 4 cartas com lacuna interna; só um valor completa (4 outs)
+
+.
+Double Belly Buster (Double Gutshot) – Dois possíveis outs internos separados. Exemplo: mão + flop em que faltam duas diferentes cartas médias para fazer straight
+
+. Detecção: há duas lacunas independentes na sequência de 5 cartas (total 8 outs).
+Combo Draw (Projeto Duplo) – Possuir simultaneamente flush draw e straight draw
+
+. Exemplo: hole possui 8♥9♥ e flop J♥7♦5♥ (tem flush draw de copas e open-ended straight draw). Detecção: as hole + flop contêm 4 do mesmo naipe e 4 em sequência (8 outs).
+Wheel Draw – Possibilidade de fazer sequência 5‑4‑3‑2‑A. Exemplo: hole com A-3 e flop contendo 4-5; faltam 2 para wheel. Detecção: hole+flop têm A, 2,3,4 ou 5 em configuração que faltaria um extremo (desenho marginal).
+Ações (sequências de apostas e tipos de bet)
+Open-Raise (Abrir com raise) – Primeira ação agressiva no pré-flop. Detecção: um jogador aumenta logo após as cecas, sem ter havido raise anterior.
+Limp – Ingressar no pote pré-flop dando call no big blind em vez de raise. Detecção: no pré-flop, jogador que paga exatamente o valor do BB sem raise anterior.
+Flat Call (Cold Call) – Pagar um raise sem ter investido antes na rodada (chamar de fora). Detecção: jogador dá call a um raise após o raise inicial, sem ter chamado ou raisado antes naquela rodada.
+3-Bet (Re-raise) – Um raise feito depois de um raise inicial (terceiro movimento de aposta). Detecção: no pré-flop, alguém aumenta após um raise já ter ocorrido. (Por exemplo: Limp, R, 3-bet).
+4-Bet, 5-Bet, etc. – Continuação de re-raises pré-flop (4ª, 5ª aposta). Detecção: sequência de raises no pré-flop acima do terceiro.
+Fold (Desistir) – Não é aposta, mas ação comum: sair da mão. Detecção: jogador desiste em qualquer street.
+Continuation Bet (C-Bet) – Aposta feita no flop pelo jogador que levou a última ação agressiva pré-flop
+
+. Detecção: se o pré-flop raiser aposta no flop.
+Check-Raise – Jogador verifica para induzir aposta do oponente e então faz raise. Detecção: em uma mesma rua, jogador A dá check, jogador B aposta, então A aumenta (raise). Wikipédia: “jogador inicialmente checa com intenção de raisar caso outro aposte”
+
+.
+Double Barrel (Turn Barrel) – Apostar no flop e novamente no turn. Detecção: mesmo jogador aposta no flop e repete aposta no turn sem dar check entre elas.
+Triple Barrel (River Barrel) – Apostar no flop, turn e river. Detecção: mesmo jogador aposta em todas as três ruas sem interrupção (flop→turn→river).
+Donk Bet – Aposta por quem não tinha iniciativa na rodada anterior
+
+. Exemplo: no flop, quem não foi pre-flop aggressor inicia a aposta. Detecção: flop, o jogador que não deu a última aposta pré-flop faz a primeira aposta (donk).
+Check-Back (Check-Check) – O jogador que poderia apostar opta por checar e outro jogador também dá check. Detecção: todos dão check consecutivamente em uma rua, sem apostas.
+Overbet – Aposta maior que o tamanho do pote
+
+. Detecção: valor apostado > pot atual.
+Probe Bet – Aposta feita contra um jogador agressor anterior que deu check em uma rua. Detecção: uma aposta seguida depois que o pré-flop agressor dá check; ou seja, aposta em OTR (older turn) para testar.
+Float – Pagar flop bet fraco com intenção de roubar no turn. Detecção (heurístico): no flop, jogador dá call ao invés de raise, e no turn aposta contra o oponente que apostou no flop. Pode exigir tracking de intenção.
+Squeeze – Re-raise pré-flop contra pelo menos um limper (sem chamada entre). Detecção: limps seguidos de um raise único grande por terceira pessoa, geralmente sem chamados intermediários.
+All-In (Apostar Tudo) – Colocar todas as fichas no pote. Detecção: tamanho da aposta = stack atual do jogador (todas as fichas). Pode ocorrer pré ou pós-flop.
+Slowplay – Viver uma mão forte passivamente (checando ou calling para induzir apostas) para extrair valor depois. Detecção: não é trivial de scriptar, mas tipicamente jogador com mão muito forte opta por checar/call em vez de apostar forte; requer análise de showdown ou história.

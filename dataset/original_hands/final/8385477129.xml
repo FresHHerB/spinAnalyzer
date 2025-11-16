@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385477129">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127658458</tablename>
+<tournamentcode>1127658457</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>12</gamecount>
+<startdate>2025-06-17 06:37:12</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516733659"><general><startdate>2025-06-17 06:37:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="BHaTypeHakypeH" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="3" name="Zaranit" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BHaTypeHakypeH" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Zaranit">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 C2</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<action no="3" player="Zaranit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="BHaTypeHakypeH" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516733681"><general><startdate>2025-06-17 06:37:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Zaranit" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="520" dealer="1" win="0" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="480" dealer="0" win="980" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BHaTypeHakypeH" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Zaranit" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Zaranit">X X</cards>
+<cards type="Pocket" player="oreiasccp">CQ DA</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">HJ DJ</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="BHaTypeHakypeH" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="Zaranit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="23" sum="480"/>
+<action no="7" player="BHaTypeHakypeH" type="7" discard="1" dealt="1" sum="420"/>
+</round>
+<round no="2"><cards type="Flop">D6 C7 CA</cards>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+</round>
+<round no="4"><cards type="River">H8</cards>
+</round>
+</game>
+<game gamecode="11516733731"><general><startdate>2025-06-17 06:38:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="40" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="980" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="3" name="Zaranit" chips="480" dealer="0" win="0" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Zaranit" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Zaranit">H9 SQ</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 S4</cards>
+<action no="3" player="BHaTypeHakypeH" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Zaranit" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="oreiasccp" type="7" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C3 HA C8</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+<game gamecode="11516733770"><general><startdate>2025-06-17 06:38:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="BHaTypeHakypeH" chips="980" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="3" name="Zaranit" chips="440" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="80" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="BHaTypeHakypeH" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 DJ</cards>
+<cards type="Pocket" player="Zaranit">X X</cards>
+<action no="3" player="Zaranit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516733799"><general><startdate>2025-06-17 06:38:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Zaranit" chips="440" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="70" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="990" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BHaTypeHakypeH" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Zaranit" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Zaranit">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 D5</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="BHaTypeHakypeH" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="Zaranit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S5 H9 D8</cards>
+<action no="6" player="BHaTypeHakypeH" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Zaranit" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="BHaTypeHakypeH" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="Zaranit" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516733882"><general><startdate>2025-06-17 06:39:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="70" dealer="0" win="140" bet="70" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="1,010" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="3" name="Zaranit" chips="420" dealer="0" win="0" bet="420" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Zaranit" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 DQ</cards>
+<cards type="Pocket" player="Zaranit">C7 HQ</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<action no="3" player="BHaTypeHakypeH" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Zaranit" type="23" discard="1" dealt="1" sum="420"/>
+<action no="5" player="oreiasccp" type="7" sum="50"/>
+</round>
+<round no="2"><cards type="Flop">HK S8 DA</cards>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+</round>
+<round no="4"><cards type="River">D4</cards>
+</round>
+</game>
+<game gamecode="11516733956"><general><startdate>2025-06-17 06:39:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="BHaTypeHakypeH" chips="1,010" dealer="0" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="3" name="Zaranit" chips="350" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="140" dealer="0" win="285" bet="140" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Zaranit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="BHaTypeHakypeH" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BHaTypeHakypeH">C6 HQ</cards>
+<cards type="Pocket" player="Zaranit">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 H5</cards>
+<action no="6" player="Zaranit" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="135"/>
+<action no="8" player="BHaTypeHakypeH" type="3" discard="1" dealt="1" sum="105"/>
+</round>
+<round no="2"><cards type="Flop">C3 S4 S9</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11516733998"><general><startdate>2025-06-17 06:39:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Zaranit" chips="345" dealer="0" win="0" bet="345" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477062"/>
+<player seat="6" name="oreiasccp" chips="285" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="870" dealer="0" win="695" bet="345" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Zaranit" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="BHaTypeHakypeH" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Zaranit" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Zaranit">HK D4</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">D3 D5</cards>
+<cards type="Pocket" player="oreiasccp">CQ H4</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="BHaTypeHakypeH" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="Zaranit" type="23" discard="1" dealt="1" sum="340"/>
+<action no="9" player="BHaTypeHakypeH" type="3" discard="1" dealt="1" sum="280"/>
+</round>
+<round no="2"><cards type="Flop">D9 H6 S4</cards>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+</round>
+<round no="4"><cards type="River">H3</cards>
+</round>
+</game>
+<game gamecode="11516734064"><general><startdate>2025-06-17 06:40:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="280" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="1,220" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BHaTypeHakypeH" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 C9</cards>
+<action no="5" player="BHaTypeHakypeH" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516734083"><general><startdate>2025-06-17 06:40:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="BHaTypeHakypeH" chips="1,255" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="6" name="oreiasccp" chips="245" dealer="1" win="70" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="BHaTypeHakypeH" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 HQ</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="240"/>
+<action no="6" player="BHaTypeHakypeH" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516734102"><general><startdate>2025-06-17 06:40:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="280" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+<player seat="10" name="BHaTypeHakypeH" chips="1,220" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+</players>
+</general>
+<round no="0"><action no="1" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="BHaTypeHakypeH" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 HQ</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">X X</cards>
+<action no="5" player="BHaTypeHakypeH" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516734121"><general><startdate>2025-06-17 06:40:48</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="BHaTypeHakypeH" chips="1,200" dealer="0" win="600" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477145"/>
+<player seat="6" name="oreiasccp" chips="300" dealer="1" win="0" bet="300" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385477129"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="BHaTypeHakypeH" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="BHaTypeHakypeH" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 DA</cards>
+<cards type="Pocket" player="BHaTypeHakypeH">C9 SQ</cards>
+<action no="5" player="oreiasccp" type="23" sum="295"/>
+<action no="6" player="BHaTypeHakypeH" type="3" discard="1" dealt="1" sum="265"/>
+</round>
+<round no="2"><cards type="Flop">D4 DQ C2</cards>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+</session>

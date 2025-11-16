@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385573362">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127674440</tablename>
+<tournamentcode>1127674439</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>29</gamecount>
+<startdate>2025-06-17 12:54:43</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11517015296"><general><startdate>2025-06-17 12:54:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 S10</cards>
+<cards type="Pocket" player="Scorpionatom">HJ H2</cards>
+<cards type="Pocket" player="314SOS">X X</cards>
+<action no="3" player="314SOS" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Scorpionatom" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 C4 S7</cards>
+<action no="6" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D3</cards>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H4</cards>
+<action no="10" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11517015409"><general><startdate>2025-06-17 12:55:23</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="314SOS" chips="500" dealer="0" win="80" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="520" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="314SOS" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 HQ</cards>
+<action no="3" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="314SOS" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517015461"><general><startdate>2025-06-17 12:55:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="480" dealer="0" win="100" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="540" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+</players>
+</general>
+<round no="0"><action no="1" player="314SOS" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Scorpionatom" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK H6</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="314SOS" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">CJ DK C3</cards>
+<action no="6" player="314SOS" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Scorpionatom" type="5" discard="1" dealt="1" sum="50"/>
+<action no="8" player="314SOS" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517015631"><general><startdate>2025-06-17 12:56:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="530" dealer="0" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK H5</cards>
+<cards type="Pocket" player="Scorpionatom">CK H9</cards>
+<action no="3" player="314SOS" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Scorpionatom" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H3 H4 HJ</cards>
+<action no="6" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S6</cards>
+<action no="10" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11517015733"><general><startdate>2025-06-17 12:56:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="314SOS" chips="490" dealer="0" win="0" bet="280" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="550" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="460" dealer="0" win="560" bet="280" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="314SOS" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">H6 H2</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">C7 H8</cards>
+<action no="3" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="40"/>
+<action no="5" player="314SOS" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DA H7 S5</cards>
+<action no="6" player="oreiasccp" type="5" sum="20"/>
+<action no="7" player="314SOS" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="314SOS" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="314SOS" type="5" discard="1" dealt="1" sum="160"/>
+<action no="13" player="oreiasccp" type="3" sum="160"/>
+</round>
+</game>
+<game gamecode="11517015990"><general><startdate>2025-06-17 12:57:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="550" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="740" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="210" dealer="0" win="75" bet="210" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+</players>
+</general>
+<round no="0"><action no="1" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="314SOS" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Scorpionatom" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 D8</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="314SOS" type="23" discard="1" dealt="1" sum="205"/>
+<action no="8" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517016050"><general><startdate>2025-06-17 12:57:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="735" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="250" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="515" dealer="0" win="135" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Scorpionatom" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 HQ</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="6" player="314SOS" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Scorpionatom" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D7 H4 C7</cards>
+<action no="9" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="11" player="Scorpionatom" type="5" discard="1" dealt="1" sum="30"/>
+<action no="12" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="4"><cards type="River">H8</cards>
+<action no="13" player="Scorpionatom" type="5" discard="1" dealt="1" sum="120"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517016169"><general><startdate>2025-06-17 12:58:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="314SOS" chips="245" dealer="0" win="247" bet="245" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="585" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="670" dealer="0" win="248" bet="245" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="314SOS" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">CA D4</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 D8</cards>
+<action no="6" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="240"/>
+<action no="8" player="314SOS" type="7" discard="1" dealt="1" sum="210"/>
+</round>
+<round no="2"><cards type="Flop">S10 C9 C7</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11517016246"><general><startdate>2025-06-17 12:58:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="580" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="673" dealer="1" win="150" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="247" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+</players>
+</general>
+<round no="0"><action no="1" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="314SOS" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Scorpionatom" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ HA</cards>
+<cards type="Pocket" player="Scorpionatom">S10 D9</cards>
+<action no="6" player="oreiasccp" type="23" sum="60"/>
+<action no="7" player="314SOS" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Scorpionatom" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C7 C3 D8</cards>
+<action no="9" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="11" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="13" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11517016378"><general><startdate>2025-06-17 12:59:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="758" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="3" name="314SOS" chips="227" dealer="1" win="115" bet="227" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="515" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Scorpionatom" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 D9</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="314SOS">X X</cards>
+<action no="6" player="314SOS" type="23" discard="1" dealt="1" sum="222"/>
+<action no="7" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517016425"><general><startdate>2025-06-17 12:59:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="314SOS" chips="297" dealer="0" win="0" bet="297" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573306"/>
+<player seat="6" name="Scorpionatom" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="713" dealer="0" win="599" bet="297" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="314SOS" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="314SOS" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="314SOS">C6 CQ</cards>
+<cards type="Pocket" player="oreiasccp">H8 H6</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="6" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="292"/>
+<action no="8" player="314SOS" type="7" discard="1" dealt="1" sum="252"/>
+</round>
+<round no="2"><cards type="Flop">H5 D7 C9</cards>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+</round>
+</game>
+<game gamecode="11517016508"><general><startdate>2025-06-17 12:59:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="485" dealer="0" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="1,015" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 CA</cards>
+<cards type="Pocket" player="Scorpionatom">D5 SK</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H7 D8 S5</cards>
+<action no="7" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="9" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="11" player="Scorpionatom" type="5" discard="1" dealt="1" sum="40"/>
+<action no="12" player="oreiasccp" type="3" sum="40"/>
+</round>
+</game>
+<game gamecode="11517022701"><general><startdate>2025-06-17 12:59:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="930" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="570" dealer="1" win="90" bet="570" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 D2</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="Scorpionatom" type="23" discard="1" dealt="1" sum="565"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517022737"><general><startdate>2025-06-17 13:00:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="615" dealer="0" win="180" bet="90" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="885" dealer="1" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">DK S10</cards>
+<cards type="Pocket" player="oreiasccp">D5 DA</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C3 C6 H2</cards>
+<action no="7" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="9" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">HK</cards>
+<action no="11" player="Scorpionatom" type="5" discard="1" dealt="1" sum="45"/>
+<action no="12" player="oreiasccp" type="3" sum="45"/>
+</round>
+</game>
+<game gamecode="11517022850"><general><startdate>2025-06-17 13:00:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="795" dealer="0" win="90" bet="45" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="705" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">H10 S2</cards>
+<cards type="Pocket" player="oreiasccp">DJ D8</cards>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DQ H8 H7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517022934"><general><startdate>2025-06-17 13:00:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="660" dealer="0" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="840" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 S8</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Scorpionatom" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517022993"><general><startdate>2025-06-17 13:01:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="795" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="705" dealer="1" win="130" bet="65" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">H8 C6</cards>
+<cards type="Pocket" player="oreiasccp">C4 C3</cards>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 S6 C7</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023105"><general><startdate>2025-06-17 13:01:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="770" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="730" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 D10</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023133"><general><startdate>2025-06-17 13:01:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="695" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="805" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S6 S10</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023157"><general><startdate>2025-06-17 13:01:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="770" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="730" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 H10</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023174"><general><startdate>2025-06-17 13:01:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="695" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="805" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 HJ</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C4 D2 C9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Scorpionatom" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023269"><general><startdate>2025-06-17 13:02:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="870" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="630" dealer="1" win="130" bet="630" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">H8 SK</cards>
+<action no="5" player="oreiasccp" type="23" sum="625"/>
+<action no="6" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023315"><general><startdate>2025-06-17 13:02:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="695" dealer="0" win="250" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="805" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H6 D9</cards>
+<cards type="Pocket" player="Scorpionatom">H3 D5</cards>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="30"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 S10 C4</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Scorpionatom" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Scorpionatom" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023430"><general><startdate>2025-06-17 13:02:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="680" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="820" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 S6</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023452"><general><startdate>2025-06-17 13:02:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="785" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="715" dealer="1" win="130" bet="715" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 DK</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="Scorpionatom" type="23" discard="1" dealt="1" sum="710"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023495"><general><startdate>2025-06-17 13:03:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="780" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="720" dealer="1" win="176" bet="720" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">SK DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="712"/>
+<action no="6" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023541"><general><startdate>2025-06-17 13:03:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="808" dealer="0" win="176" bet="328" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="692" dealer="1" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 HA</cards>
+<cards type="Pocket" player="Scorpionatom">X X</cards>
+<action no="5" player="Scorpionatom" type="3" discard="1" dealt="1" sum="40"/>
+<action no="6" player="oreiasccp" type="23" sum="320"/>
+<action no="7" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023586"><general><startdate>2025-06-17 13:03:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Scorpionatom" chips="604" dealer="0" win="0" bet="88" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+<player seat="10" name="oreiasccp" chips="896" dealer="1" win="176" bet="604" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="8"/>
+<action no="2" player="Scorpionatom" type="15" discard="1" dealt="1" sum="8"/>
+<action no="3" player="oreiasccp" type="1" sum="40"/>
+<action no="4" player="Scorpionatom" type="2" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="Scorpionatom">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ D5</cards>
+<action no="5" player="oreiasccp" type="23" sum="596"/>
+<action no="6" player="Scorpionatom" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11517023620"><general><startdate>2025-06-17 13:03:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="984" dealer="0" win="1,032" bet="516" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573362"/>
+<player seat="6" name="Scorpionatom" chips="516" dealer="1" win="0" bet="516" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385573339"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Scorpionatom" type="15" discard="1" dealt="1" sum="8"/>
+<action no="2" player="oreiasccp" type="15" sum="8"/>
+<action no="3" player="Scorpionatom" type="1" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="2" sum="80"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H10 CK</cards>
+<cards type="Pocket" player="Scorpionatom">H9 S10</cards>
+<action no="5" player="Scorpionatom" type="23" discard="1" dealt="1" sum="508"/>
+<action no="6" player="oreiasccp" type="3" sum="428"/>
+</round>
+<round no="2"><cards type="Flop">CJ D6 S6</cards>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+</round>
+<round no="4"><cards type="River">C4</cards>
+</round>
+</game>
+</session>

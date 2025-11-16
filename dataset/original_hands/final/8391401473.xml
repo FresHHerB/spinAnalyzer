@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8391401473">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128461916</tablename>
+<tournamentcode>1128461915</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>20</gamecount>
+<startdate>2025-06-25 14:04:13</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11532816144"><general><startdate>2025-06-25 14:04:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="500" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="500" dealer="0" win="240" bet="268" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="AVicent" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 CA</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="bmw397" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="AVicent" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S5 HQ S8</cards>
+<action no="6" player="bmw397" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="AVicent" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="9" player="bmw397" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="12" player="bmw397" type="5" discard="1" dealt="1" sum="168"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816280"><general><startdate>2025-06-25 14:05:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="640" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="460" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bmw397">X X</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ S7</cards>
+<action no="3" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816301"><general><startdate>2025-06-25 14:05:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="640" dealer="0" win="0" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="450" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="410" dealer="0" win="180" bet="170" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bmw397" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<cards type="Pocket" player="oreiasccp">DK DJ</cards>
+<action no="3" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="bmw397" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D2 D9 C4</cards>
+<action no="6" player="oreiasccp" type="5" sum="30"/>
+<action no="7" player="bmw397" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="8" player="oreiasccp" type="5" sum="80"/>
+<action no="9" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816391"><general><startdate>2025-06-25 14:05:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="450" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="550" dealer="0" win="80" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="AVicent" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S5 CJ</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="bmw397" type="23" discard="1" dealt="1" sum="40"/>
+<action no="5" player="AVicent" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">SQ H4 CA</cards>
+<action no="6" player="bmw397" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816464"><general><startdate>2025-06-25 14:05:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="590" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="410" dealer="0" win="160" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 D4</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="3" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="AVicent" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">DQ CQ H4</cards>
+<action no="6" player="AVicent" type="5" discard="1" dealt="1" sum="30"/>
+<action no="7" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="8" player="AVicent" type="5" discard="1" dealt="1" sum="80"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816634"><general><startdate>2025-06-25 14:06:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="590" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="490" dealer="1" win="150" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="420" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="bmw397" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 SJ</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="AVicent" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="bmw397" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">S4 D7 CA</cards>
+<action no="9" player="bmw397" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="AVicent" type="5" discard="1" dealt="1" sum="45"/>
+<action no="11" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816706"><general><startdate>2025-06-25 14:06:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="575" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="525" dealer="0" win="75" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bmw397" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="AVicent" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ C7</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="bmw397" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="AVicent" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ S3 S10</cards>
+<action no="9" player="bmw397" type="5" discard="1" dealt="1" sum="60"/>
+<action no="10" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816760"><general><startdate>2025-06-25 14:07:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="395" dealer="0" win="810" bet="395" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="565" dealer="1" win="0" bet="395" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="540" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="AVicent" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 H7</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">S6 C6</cards>
+<action no="6" player="bmw397" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C9 HJ D6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="bmw397" type="5" discard="1" dealt="1" sum="60"/>
+<action no="11" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="bmw397" type="5" discard="1" dealt="1" sum="60"/>
+<action no="14" player="oreiasccp" type="23" sum="240"/>
+<action no="15" player="bmw397" type="3" discard="1" dealt="1" sum="180"/>
+</round>
+<round no="4"><cards type="River">S7</cards>
+</round>
+</game>
+<game gamecode="11532816860"><general><startdate>2025-06-25 14:07:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="170" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="520" dealer="1" win="90" bet="520" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="810" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="bmw397" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 S5</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="AVicent" type="23" discard="1" dealt="1" sum="515"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816939"><general><startdate>2025-06-25 14:07:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="575" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="790" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="135" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bmw397" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="AVicent" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S7 H10</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816967"><general><startdate>2025-06-25 14:07:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="785" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="115" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="600" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="AVicent" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 H5</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532816992"><general><startdate>2025-06-25 14:08:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="110" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="580" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="810" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="bmw397" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 H9</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532817045"><general><startdate>2025-06-25 14:08:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="575" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="790" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="135" dealer="0" win="75" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bmw397" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="AVicent" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 S7</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="bmw397" type="23" discard="1" dealt="1" sum="130"/>
+<action no="8" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532817098"><general><startdate>2025-06-25 14:08:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="785" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="175" dealer="1" win="115" bet="175" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="540" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="AVicent" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 S9</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="bmw397" type="23" discard="1" dealt="1" sum="170"/>
+<action no="7" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532817143"><general><startdate>2025-06-25 14:08:42</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="245" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="515" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="740" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="bmw397" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 D3</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<action no="6" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11532817178"><general><startdate>2025-06-25 14:08:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="510" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="715" dealer="1" win="115" bet="510" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="275" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bmw397" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="AVicent" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="bmw397">X X</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 HA</cards>
+<action no="6" player="oreiasccp" type="23" sum="505"/>
+<action no="7" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532817228"><general><startdate>2025-06-25 14:09:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="785" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="250" dealer="1" win="275" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="465" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="AVicent" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="bmw397">HK SK</cards>
+<cards type="Pocket" player="oreiasccp">S2 H8</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<action no="6" player="bmw397" type="3" discard="1" dealt="1" sum="40"/>
+<action no="7" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SQ S7 S6</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="bmw397" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="bmw397" type="5" discard="1" dealt="1" sum="40"/>
+<action no="13" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+<action no="15" player="bmw397" type="5" discard="1" dealt="1" sum="40"/>
+<action no="16" player="oreiasccp" type="3" sum="40"/>
+</round>
+</game>
+<game gamecode="11532827193"><general><startdate>2025-06-25 14:09:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bmw397" chips="400" dealer="0" win="805" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="440" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="660" dealer="0" win="0" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="bmw397" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="bmw397">SA DJ</cards>
+<cards type="Pocket" player="oreiasccp">H3 DA</cards>
+<cards type="Pocket" player="AVicent">X X</cards>
+<action no="6" player="AVicent" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="395"/>
+<action no="8" player="bmw397" type="7" discard="1" dealt="1" sum="355"/>
+</round>
+<round no="2"><cards type="Flop">SJ D2 CA</cards>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+</round>
+<round no="4"><cards type="River">H5</cards>
+</round>
+</game>
+<game gamecode="11532827258"><general><startdate>2025-06-25 14:09:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="AVicent" chips="435" dealer="0" win="255" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+<player seat="3" name="oreiasccp" chips="260" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="805" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="bmw397" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="AVicent" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C10</cards>
+<cards type="Pocket" player="AVicent">C7 SQ</cards>
+<cards type="Pocket" player="bmw397">S9 C8</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="bmw397" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="AVicent" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA H7 CK</cards>
+<action no="9" player="bmw397" type="5" discard="1" dealt="1" sum="80"/>
+<action no="10" player="AVicent" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="11" player="bmw397" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="AVicent" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="13" player="bmw397" type="4" discard="1" dealt="1" sum="0"/>
+<action no="14" player="AVicent" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11532827359"><general><startdate>2025-06-25 14:10:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="255" dealer="0" win="0" bet="255" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401473"/>
+<player seat="6" name="bmw397" chips="680" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401486"/>
+<player seat="10" name="AVicent" chips="565" dealer="0" win="515" bet="565" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8391401487"/>
+</players>
+</general>
+<round no="0"><action no="1" player="AVicent" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="bmw397" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="AVicent" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="AVicent">SJ H7</cards>
+<cards type="Pocket" player="oreiasccp">DA D5</cards>
+<cards type="Pocket" player="bmw397">X X</cards>
+<action no="6" player="bmw397" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="AVicent" type="23" discard="1" dealt="1" sum="560"/>
+<action no="8" player="oreiasccp" type="7" sum="210"/>
+</round>
+<round no="2"><cards type="Flop">C6 D2 H2</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+</round>
+</game>
+</session>

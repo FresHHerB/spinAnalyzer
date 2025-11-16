@@ -1,0 +1,198 @@
+📚 Spin Analyzer – “Guia Prime”
+Manual completo para transformar XML iPoker ➜ dataset analítico ➜ modelo que entende o “raciocínio street‑a‑street” do jogador
+
+Índice
+Objetivo & Visão de Produto
+
+Glossário de Termos de Poker & Analytics
+
+Arquitetura de Diretórios & Ambiente
+
+Pipeline ETL – Visão de Alto Nível
+
+Esquema de Dados (Tabelas)
+
+Camada de Features
+
+Vectorização & Modelagem
+
+Road‑map de Execução
+
+Boas Práticas, Armadilhas & FAQ
+
+<a id="1"></a>
+
+1 ▪ Objetivo & Visão
+Missão: criar um pipeline que lê históricos brutos, reconstrói cada decisão com contexto total (stack, pot, textura) e treina um modelo Transformer que antecipa a próxima ação do hero ou classifica padrões de um vilão.
+
+Valor entregue:
+
+Stakeholder	Ganho
+Jogador	Relatórios de leaks, perfis de oponentes, “coach” automático
+Analista	Dataset limpo, query‑able, pronto para dashboards
+Data‑Scientist	Pipelines reproduzíveis + features densas
+
+<a id="2"></a>
+
+2 ▪ Glossário Essencial
+Termo	Definição curta	Importância para features
+SPR (Stack‑to‑Pot Ratio)	eff_stack / pot no início da street	Define agressividade ótima
+Board Texture	“Seco” (A‑7‑2 rainbow) vs “molhado” (J‑T‑9 ♥♠♥)	Conduz c‑bet size, check‑raise freq
+Made Class	Categoria de mão (top pair, straight…)	Rótulo alvo p/ bluff vs value
+Draw Class	Type of draw (flush, gutshot, combo)	Determina equity & semi‑bluff spots
+Position	IP (in‑position) ou OOP (out‑of‑position)	Fator crítico de range & size
+Action Encoding	BET_33, BET_66, JAM… (padronizado)	Token para modelo prever
+Hero/Vilão	Foco da predição (hero) vs oponentes	Necessário p/ rótulos corretos
+PHH	Poker‑Hand‑History unificado (phh‑std)	Fonte canônica depois do parsing
+
+<a id="3"></a>
+
+3 ▪ Arquitetura de Diretórios & Ambiente
+bash
+Copiar
+Editar
+spinAnalyzer/
+├─ .venv/               # Python 3.11 venv
+├─ pokerkit/            # repo editable
+├─ phh-std/             # repo editable
+├─ dataset/
+│   ├─ original_hands/ipoker/*.xml
+│   ├─ phh/*.phh               ← ETAPA A
+│   ├─ actions/*.parquet       ← ETAPA B1
+│   ├─ street_features/*.parquet ← ETAPA B2
+│   └─ vectors/*.npy           ← ETAPA C
+└─ notebooks/
+    ├─ 01_xml_to_phh.ipynb
+    ├─ 02_phh_to_features.ipynb
+    └─ 03_train_transformer.ipynb
+Kernel Jupyter: Python (spinAnalyzer)
+Bootstrap pronto: instala Python 3.11, cria venv, registra kernel, clona libs.
+
+<a id="4"></a>
+
+4 ▪ Pipeline ETL
+Fase	Script/Notebook	Input ➜ Output	Tool‑core
+A. Parsing	01_xml_to_phh.ipynb	XML ➜ PHH	phh‑std
+B1. Ações	02_phh_to_features.ipynb (parte 1)	PHH ➜ t_actions.parquet	PokerKit
+B2. Street Feats	02_phh_to_features.ipynb (parte 2)	PHH ➜ t_street_features.parquet	PokerKit + calc. próprias
+C. Vectorização	03_train_transformer.ipynb	Parquet ➜ .npy / .pt	pandas / NumPy
+D. Treino	(mesmo 03)	vetores ➜ model.ckpt	PyTorch / HF Transformers
+
+<a id="5"></a>
+
+5 ▪ Esquema de Dados
+5.1 hands (granularidade: 1 mão)
+col	dtype	origem	descrição
+hand_id	int64	PHH tag	único
+session_id	int64	XML	p/ juntar multi‑table
+date_utc	ts	XML	início
+table_name	str	XML	
+stakes	str	“€0.05/€0.10”	
+ante_bb	float	calc	ante / BB
+players	json	PHH	lista de {seat, name, stack0}
+hero_name	str	config	
+winner_names	list	PHH	
+
+5.2 actions (1 linha = 1 ação)
+col	dtype	notas
+hand_id, step_idx	PK	
+player_seat / name	…	
+street	ENUM {PREFLOP,FLOP,TURN,RIVER}	
+action_type	RAISE, CALL, POST_SB…	
+amount_bb	float	
+pot_bb_before	float	
+eff_stack_bb_before	float	
+board_cards	str	
+hole_cards_known	str / NULL	
+
+5.3 street_features (1 linha = (hero, street))
+col	exemplo
+hand_id, street, hero_pos	123, FLOP, BTN
+hero_cards	['9h','7h']
+board_cards	['Th','8h','3c']
+board_class	WET / DRY / PAIRED…
+fd_flag	1/0
+sd_type	GUTSHOT / OPEN_END /
+combo_draw_flag	1
+made_class	NO_PAIR / TOP_PAIR / FLUSH…
+spr_bucket	LOW / MED / HIGH
+pot_size	7.5bb
+action_taken	BET_66 / X / XR…
+result_showdown	WIN / LOSE / NA
+equity_vs_random	0.38
+villain_aggr_line	XR✓ / c/c
+
+5.4 player_stats (agg por jogador)
+col	descrição
+vpip, pfr, 3bet_pct	contagem a partir de actions
+cbet_flop_pct, fold2cbet	…
+payoff_mean, payoff_std	ganhos em bb
+hands_sampled	densidade
+
+<a id="6"></a>
+
+6 ▪ Features Detalhadas
+Categoria	Campo	Como obter
+Board‑texture	paired_board, monotone, connectedness_idx	heurística sobre board_cards
+Draws	fd_flag, sd_type, combo_draw_flag	PokerKit → outs / flush‑draw
+Made	made_class	Hand.strength() (high card, pair, …)
+SPR/Pot	spr, pot_size	via GameState
+Posição	hero_pos, in_position_bool	assento relativo ao botão
+Linha Anterior	prev_aggr_line_code	string compacta de ações
+Equity	equity_vs_range	Monte‑Carlo 1 k iters (opcional)
+Outcome	result_showdown, pot_won_bb	final da mão
+
+Buckets (ex.: spr_bucket) são mapeados por corte: LOW < 2, MED 2‑6, HIGH > 6.
+
+<a id="7"></a>
+
+7 ▪ Vectorização & Modelo
+Vocabulário
+
+Tokens para ações (BET_33, BET_66, JAM, X)
+
+Tokens para features discretas (POS_BTN, SPR_LOW, BOARD_WET).
+
+[<CLS>, <SEP>, <MASK>]
+
+Sequência
+
+text
+Copiar
+Editar
+<CLS> PREFLOP  ...  <SEP>  FLOP  ...  <SEP>  TURN ...
+step_idx vira posição absoluta.
+
+Embedding
+
+Discretos → nn.Embedding.
+
+Valores contínuos → LayerNorm(Linear(x)).
+
+Cabeçote de saída
+
+MLM: softmax sobre vocabulário de ações.
+
+ou tripla regressão (size, action_type, fold_flag).
+
+<a id="8"></a>
+
+8 ▪ Road‑map (S‑prints)
+Semana	Meta tangível
+S1	Parser XML → PHH 100 % mãos • unit‑tests
+S2	GameState builder + cálculo de SPR & texture
+S3	t_actions & t_street_features Parquet, 50 k linhas
+S4	Tokenizer + baseline BERT‑tiny, treinar 10 epochs
+S5	Dash “Hero leak finder” (c‑bet, 3‑bet freq)
+S6+	Hiperparam tuning, equity features, clusterização vilões
+
+<a id="9"></a>
+
+9 ▪ Boas Práticas & Armadilhas
+✔ FAÇA	✖ NÃO FAÇA
+Versione datasets com DuckDB + _vYYYYMMDD	Salvar CSV gigantes (I/O lento)
+Use Monte‑Carlo equity apenas para flop/turn	Rodar 1 k sims para cada decisão (custo)
+Verifique stack e pot após cada ação (bug catch)	Assumir que amount_bb está sempre certo
+Separe “treino/val” por sessão (não por mão)	Vazamento temporal
+Armazene PHH cru para auditoria	Sobrescrever XML fonte
+Logue hash do PHH na tabela features	Perder rastreabilidade

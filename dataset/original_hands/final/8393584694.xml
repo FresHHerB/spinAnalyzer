@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8393584694">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128756304</tablename>
+<tournamentcode>1128756303</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>17</gamecount>
+<startdate>2025-06-28 11:16:03</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11538707910"><general><startdate>2025-06-28 11:16:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="500" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="6SP9" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 H3</cards>
+<action no="3" player="gundaRajjj" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538707973"><general><startdate>2025-06-28 11:16:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="480" dealer="0" win="100" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="gundaRajjj" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 CQ</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="6SP9" type="23" discard="1" dealt="1" sum="480"/>
+<action no="5" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708039"><general><startdate>2025-06-28 11:16:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="450" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="540" dealer="1" win="320" bet="360" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="510" dealer="0" win="0" bet="140" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gundaRajjj" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 D8</cards>
+<action no="3" player="6SP9" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="gundaRajjj" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">HQ H4 S3</cards>
+<action no="6" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="6SP9" type="5" discard="1" dealt="1" sum="20"/>
+<action no="9" player="gundaRajjj" type="3" discard="1" dealt="1" sum="20"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="11" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="6SP9" type="5" discard="1" dealt="1" sum="80"/>
+<action no="13" player="gundaRajjj" type="3" discard="1" dealt="1" sum="80"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="14" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+<action no="15" player="6SP9" type="5" discard="1" dealt="1" sum="220"/>
+<action no="16" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708239"><general><startdate>2025-06-28 11:17:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="720" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="370" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="410" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="6SP9" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">S3 H6</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="3" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708263"><general><startdate>2025-06-28 11:18:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="370" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="400" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="730" dealer="0" win="100" bet="50" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="gundaRajjj" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">D7 HK</cards>
+<cards type="Pocket" player="gundaRajjj">S7 DJ</cards>
+<cards type="Pocket" player="oreiasccp">H7 S4</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="6SP9" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="gundaRajjj" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D3 CQ S3</cards>
+<action no="6" player="6SP9" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+<action no="8" player="6SP9" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">D6</cards>
+<action no="10" player="6SP9" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708406"><general><startdate>2025-06-28 11:18:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="400" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="780" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="320" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gundaRajjj" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 HK</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<action no="6" player="6SP9" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708468"><general><startdate>2025-06-28 11:19:10</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="835" dealer="0" win="45" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="300" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="365" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="6SP9" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 H3</cards>
+<action no="6" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708492"><general><startdate>2025-06-28 11:19:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="295" dealer="0" win="0" bet="147" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="345" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="860" dealer="0" win="299" bet="371" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="6SP9" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="gundaRajjj" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 S3</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="6SP9" type="23" discard="1" dealt="1" sum="60"/>
+<action no="8" player="gundaRajjj" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D5 H7 D4</cards>
+<action no="9" player="6SP9" type="5" discard="1" dealt="1" sum="82"/>
+<action no="10" player="gundaRajjj" type="3" discard="1" dealt="1" sum="82"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="11" player="6SP9" type="5" discard="1" dealt="1" sum="224"/>
+<action no="12" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708605"><general><startdate>2025-06-28 11:19:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="340" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="1,012" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="148" dealer="0" win="75" bet="148" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gundaRajjj" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">S7 D5</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="6" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gundaRajjj" type="23" discard="1" dealt="1" sum="143"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708653"><general><startdate>2025-06-28 11:19:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="1,007" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="188" dealer="1" win="411" bet="188" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="305" dealer="0" win="0" bet="305" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="6SP9" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">HQ D7</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 D10</cards>
+<action no="6" player="gundaRajjj" type="23" discard="1" dealt="1" sum="183"/>
+<action no="7" player="oreiasccp" type="7" sum="285"/>
+<action no="8" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 DQ H2</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">CK</cards>
+</round>
+</game>
+<game gamecode="11538708713"><general><startdate>2025-06-28 11:20:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="411" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="117" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="972" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="6SP9" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="gundaRajjj" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">C2 C4</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538708733"><general><startdate>2025-06-28 11:20:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="112" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="947" dealer="1" win="0" bet="947" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="441" dealer="0" win="927" bet="441" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gundaRajjj" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">H10 H8</cards>
+<cards type="Pocket" player="oreiasccp">C3 S10</cards>
+<cards type="Pocket" player="gundaRajjj">HA DA</cards>
+<action no="6" player="6SP9" type="23" discard="1" dealt="1" sum="942"/>
+<action no="7" player="gundaRajjj" type="7" discard="1" dealt="1" sum="416"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CK CQ D9</cards>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+</round>
+<round no="4"><cards type="River">C7</cards>
+</round>
+</game>
+<game gamecode="11538708811"><general><startdate>2025-06-28 11:20:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="506" dealer="0" win="0" bet="67" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="927" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="67" dealer="0" win="139" bet="67" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="6SP9" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">DK S4</cards>
+<cards type="Pocket" player="oreiasccp">H5 HJ</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<action no="6" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="7" sum="42"/>
+<action no="8" player="6SP9" type="3" discard="1" dealt="1" sum="22"/>
+</round>
+<round no="2"><cards type="Flop">H7 DJ H3</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+<game gamecode="11538708887"><general><startdate>2025-06-28 11:21:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="922" dealer="0" win="0" bet="439" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="139" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="439" dealer="0" win="883" bet="439" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="6SP9" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="gundaRajjj" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 C4</cards>
+<cards type="Pocket" player="gundaRajjj">D9 D4</cards>
+<cards type="Pocket" player="6SP9">D7 C6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="6SP9" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="gundaRajjj" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S6 S8 C7</cards>
+<action no="9" player="6SP9" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="gundaRajjj" type="5" discard="1" dealt="1" sum="40"/>
+<action no="11" player="6SP9" type="23" discard="1" dealt="1" sum="394"/>
+<action no="12" player="gundaRajjj" type="3" discard="1" dealt="1" sum="354"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">D3</cards>
+</round>
+</game>
+<game gamecode="11538709018"><general><startdate>2025-06-28 11:21:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="134" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="883" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="483" dealer="0" win="95" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+</players>
+</general>
+<round no="0"><action no="1" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="gundaRajjj" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 C9</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">X X</cards>
+<action no="6" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="gundaRajjj" type="3" discard="1" dealt="1" sum="20"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DA CJ C10</cards>
+<action no="9" player="gundaRajjj" type="5" discard="1" dealt="1" sum="40"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11538709074"><general><startdate>2025-06-28 11:22:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="6SP9" chips="878" dealer="0" win="115" bet="878" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+<player seat="6" name="gundaRajjj" chips="533" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="89" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="6SP9" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="gundaRajjj">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S2</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="6" player="gundaRajjj" type="3" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="6SP9" type="23" discard="1" dealt="1" sum="873"/>
+<action no="9" player="gundaRajjj" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11538715546"><general><startdate>2025-06-28 11:22:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="gundaRajjj" chips="488" dealer="0" win="314" bet="282" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584662"/>
+<player seat="10" name="oreiasccp" chips="64" dealer="1" win="0" bet="64" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584694"/>
+<player seat="3" name="6SP9" chips="948" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8393584613"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="gundaRajjj" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="6SP9" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="gundaRajjj" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="6SP9">X X</cards>
+<cards type="Pocket" player="gundaRajjj">CJ SJ</cards>
+<cards type="Pocket" player="oreiasccp">S2 D8</cards>
+<action no="6" player="oreiasccp" type="7" sum="59"/>
+<action no="7" player="6SP9" type="3" discard="1" dealt="1" sum="30"/>
+<action no="8" player="gundaRajjj" type="23" discard="1" dealt="1" sum="120"/>
+<action no="9" player="6SP9" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">H4 D9 S9</cards>
+<action no="10" player="6SP9" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="gundaRajjj" type="5" discard="1" dealt="1" sum="157"/>
+<action no="12" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+</session>

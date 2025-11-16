@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8387666146">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127959379</tablename>
+<tournamentcode>1127959378</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-20 09:02:18</startdate>
+<place>1</place>
+<win>€25</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11522675945"><general><startdate>2025-06-20 09:02:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="1,040" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666146"/>
+<player seat="10" name="6SP9" chips="500" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666155"/>
+<player seat="3" name="GUCCIKEPS" chips="500" dealer="0" win="0" bet="500" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666135"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GUCCIKEPS" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 C10</cards>
+<cards type="Pocket" player="GUCCIKEPS">D10 HA</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="3" player="6SP9" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="GUCCIKEPS" type="23" discard="1" dealt="1" sum="500"/>
+<action no="5" player="oreiasccp" type="7" sum="480"/>
+<action no="6" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DJ HQ D3</cards>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">C5</cards>
+</round>
+</game>
+<game gamecode="11522676000"><general><startdate>2025-06-20 09:02:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="6SP9" chips="460" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666155"/>
+<player seat="6" name="oreiasccp" chips="1,040" dealer="1" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666146"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="6SP9" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 SK</cards>
+<cards type="Pocket" player="6SP9">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="6SP9" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11522676045"><general><startdate>2025-06-20 09:03:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,060" dealer="0" win="880" bet="440" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666146"/>
+<player seat="10" name="6SP9" chips="440" dealer="1" win="0" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8387666155"/>
+</players>
+</general>
+<round no="0"><action no="1" player="6SP9" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HK S8</cards>
+<cards type="Pocket" player="6SP9">D10 D8</cards>
+<action no="3" player="6SP9" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H8 HA C8</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="6SP9" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="23" sum="50"/>
+<action no="8" player="6SP9" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="9" player="oreiasccp" type="5" sum="100"/>
+<action no="10" player="6SP9" type="23" discard="1" dealt="1" sum="200"/>
+<action no="11" player="oreiasccp" type="23" sum="370"/>
+<action no="12" player="6SP9" type="7" discard="1" dealt="1" sum="170"/>
+</round>
+<round no="4"><cards type="River">D6</cards>
+</round>
+</game>
+</session>

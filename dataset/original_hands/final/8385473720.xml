@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8385473720">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127657740</tablename>
+<tournamentcode>1127657739</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>26</gamecount>
+<startdate>2025-06-17 06:09:35</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11516718607"><general><startdate>2025-06-17 06:09:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 D7</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516718633"><general><startdate>2025-06-17 06:09:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="280" bet="135" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="490" dealer="1" win="0" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">CA C4</cards>
+<cards type="Pocket" player="oreiasccp">S3 SQ</cards>
+<action no="3" player="Sp1nX" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S9 S10 S5</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="Sp1nX" type="5" discard="1" dealt="1" sum="22"/>
+<action no="8" player="oreiasccp" type="3" sum="22"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="Sp1nX" type="5" discard="1" dealt="1" sum="73"/>
+<action no="11" player="oreiasccp" type="3" sum="73"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+<action no="13" player="Sp1nX" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516718719"><general><startdate>2025-06-17 06:10:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="355" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="645" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Sp1nX" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D9 H6</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="3" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724639"><general><startdate>2025-06-17 06:10:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="635" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="365" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D5 H8</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724652"><general><startdate>2025-06-17 06:10:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="635" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="355" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="510" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 H2</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="3" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="GinkobilobAA" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HQ SK H6</cards>
+<action no="6" player="GinkobilobAA" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724683"><general><startdate>2025-06-17 06:11:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="355" dealer="0" win="710" bet="355" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="530" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="615" dealer="0" win="0" bet="355" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Sp1nX" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">HA C7</cards>
+<cards type="Pocket" player="oreiasccp">S8 H8</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="3" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="44"/>
+<action no="5" player="Sp1nX" type="23" discard="1" dealt="1" sum="355"/>
+<action no="6" player="oreiasccp" type="3" sum="311"/>
+</round>
+<round no="2"><cards type="Flop">H9 DA CA</cards>
+</round>
+<round no="3"><cards type="Turn">D7</cards>
+</round>
+<round no="4"><cards type="River">H5</cards>
+</round>
+</game>
+<game gamecode="11516724741"><general><startdate>2025-06-17 06:11:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="530" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="260" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="710" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="oreiasccp">D5 H4</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Sp1nX" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="GinkobilobAA" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA S2 D9</cards>
+<action no="6" player="Sp1nX" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724789"><general><startdate>2025-06-17 06:11:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="260" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="730" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="510" dealer="0" win="80" bet="40" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">D9 CK</cards>
+<cards type="Pocket" player="GinkobilobAA">C2 D6</cards>
+<action no="3" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="GinkobilobAA" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C8 S8 DQ</cards>
+<action no="6" player="GinkobilobAA" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="3" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="8" player="GinkobilobAA" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S2</cards>
+<action no="10" player="GinkobilobAA" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724873"><general><startdate>2025-06-17 06:12:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="730" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="550" dealer="1" win="90" bet="550" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="220" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA S6</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="545"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724892"><general><startdate>2025-06-17 06:12:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="605" dealer="0" win="165" bet="605" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="200" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="695" dealer="0" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">S4 S5</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="23" discard="1" dealt="1" sum="75"/>
+<action no="8" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="600"/>
+<action no="9" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724926"><general><startdate>2025-06-17 06:12:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="195" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="615" dealer="1" win="90" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="690" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D3 S6</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="Sp1nX" type="23" discard="1" dealt="1" sum="60"/>
+<action no="7" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516724948"><general><startdate>2025-06-17 06:13:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="670" dealer="0" win="0" bet="160" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="670" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="160" dealer="0" win="325" bet="160" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 SQ</cards>
+<cards type="Pocket" player="Sp1nX">D6 CA</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="155"/>
+<action no="8" player="Sp1nX" type="3" discard="1" dealt="1" sum="125"/>
+</round>
+<round no="2"><cards type="Flop">DQ CQ CK</cards>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+</round>
+</game>
+<game gamecode="11516724987"><general><startdate>2025-06-17 06:13:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="665" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="325" dealer="1" win="90" bet="325" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="510" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 C8</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="oreiasccp" type="23" sum="320"/>
+<action no="7" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725025"><general><startdate>2025-06-17 06:13:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="380" dealer="0" win="75" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="630" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">S5 CA</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="GinkobilobAA" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="oreiasccp" type="23" sum="375"/>
+<action no="9" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725067"><general><startdate>2025-06-17 06:13:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="485" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="595" dealer="1" win="115" bet="595" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="420" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">S2 HA</cards>
+<action no="6" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="590"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725104"><general><startdate>2025-06-17 06:14:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="665" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="395" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="440" dealer="0" win="95" bet="440" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 D3</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="23" discard="1" dealt="1" sum="435"/>
+<action no="8" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725136"><general><startdate>2025-06-17 06:14:24</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="390" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="490" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="620" dealer="0" win="95" bet="620" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C9 DQ</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="615"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725175"><general><startdate>2025-06-17 06:14:40</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="485" dealer="0" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="670" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="345" dealer="0" win="175" bet="129" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H7 D9</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="80"/>
+<action no="8" player="Sp1nX" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">DJ CK D6</cards>
+<action no="9" player="oreiasccp" type="5" sum="44"/>
+<action no="10" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725222"><general><startdate>2025-06-17 06:15:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="665" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="435" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="400" dealer="0" win="95" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 D9</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="23" discard="1" dealt="1" sum="395"/>
+<action no="8" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725242"><general><startdate>2025-06-17 06:15:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="430" dealer="0" win="55" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="450" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="620" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S3 HA</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725259"><general><startdate>2025-06-17 06:15:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="445" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="595" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="460" dealer="0" win="95" bet="445" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="20"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 H6</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="6" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="440"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725276"><general><startdate>2025-06-17 06:15:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="590" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="510" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="400" dealer="0" win="95" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="oreiasccp">HK C9</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="23" discard="1" dealt="1" sum="395"/>
+<action no="8" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11516725309"><general><startdate>2025-06-17 06:15:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="505" dealer="0" win="0" bet="450" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="450" dealer="1" win="925" bet="450" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="545" dealer="0" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="20"/>
+<action no="5" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DJ SJ</cards>
+<cards type="Pocket" player="GinkobilobAA">X X</cards>
+<cards type="Pocket" player="Sp1nX">SA S4</cards>
+<action no="6" player="Sp1nX" type="23" discard="1" dealt="1" sum="445"/>
+<action no="7" player="GinkobilobAA" type="0" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="3" sum="405"/>
+</round>
+<round no="2"><cards type="Flop">D4 D3 CK</cards>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+</round>
+<round no="4"><cards type="River">H4</cards>
+</round>
+</game>
+<game gamecode="11516725348"><general><startdate>2025-06-17 06:16:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Sp1nX" chips="925" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="520" dealer="1" win="102" bet="520" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="55" dealer="0" win="83" bet="55" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="30"/>
+<action no="5" player="Sp1nX" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">X X</cards>
+<cards type="Pocket" player="GinkobilobAA">HK H6</cards>
+<cards type="Pocket" player="oreiasccp">D4 DK</cards>
+<action no="6" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="515"/>
+<action no="7" player="oreiasccp" type="7" sum="20"/>
+<action no="8" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA H3 S9</cards>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+</round>
+</game>
+<game gamecode="11516725401"><general><startdate>2025-06-17 06:16:19</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="GinkobilobAA" chips="557" dealer="0" win="1,119" bet="557" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+<player seat="6" name="oreiasccp" chips="83" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="860" dealer="0" win="0" bet="860" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="Sp1nX" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="GinkobilobAA" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="GinkobilobAA">SA C9</cards>
+<cards type="Pocket" player="oreiasccp">D2 HJ</cards>
+<cards type="Pocket" player="Sp1nX">S5 C6</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="Sp1nX" type="23" discard="1" dealt="1" sum="855"/>
+<action no="8" player="GinkobilobAA" type="7" discard="1" dealt="1" sum="492"/>
+</round>
+<round no="2"><cards type="Flop">D10 D3 S9</cards>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="11516725439"><general><startdate>2025-06-17 06:16:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="78" dealer="0" win="0" bet="78" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473720"/>
+<player seat="10" name="Sp1nX" chips="303" dealer="1" win="0" bet="303" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473730"/>
+<player seat="3" name="GinkobilobAA" chips="1,119" dealer="0" win="684" bet="1,119" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8385473686"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GinkobilobAA" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Sp1nX" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="GinkobilobAA" type="1" discard="1" dealt="1" sum="30"/>
+<action no="5" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Sp1nX">S5 DK</cards>
+<cards type="Pocket" player="GinkobilobAA">C3 CQ</cards>
+<cards type="Pocket" player="oreiasccp">H7 C4</cards>
+<action no="6" player="Sp1nX" type="23" discard="1" dealt="1" sum="298"/>
+<action no="7" player="GinkobilobAA" type="23" discard="1" dealt="1" sum="1,114"/>
+<action no="8" player="oreiasccp" type="7" sum="13"/>
+</round>
+<round no="2"><cards type="Flop">C6 HQ H6</cards>
+</round>
+<round no="3"><cards type="Turn">D4</cards>
+</round>
+<round no="4"><cards type="River">D8</cards>
+</round>
+</game>
+</session>

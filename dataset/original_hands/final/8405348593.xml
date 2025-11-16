@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8405348593">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130348057</tablename>
+<tournamentcode>1130348055</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>13</gamecount>
+<startdate>2025-07-14 04:13:57</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11571531705"><general><startdate>2025-07-14 04:14:13</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="buttonjewel3" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348649"/>
+<player seat="10" name="wallicy233" chips="500" dealer="1" win="50" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="buttonjewel3" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA H2</cards>
+<cards type="Pocket" player="buttonjewel3">X X</cards>
+<cards type="Pocket" player="wallicy233">X X</cards>
+<action no="3" player="wallicy233" type="23" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="buttonjewel3" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571531745"><general><startdate>2025-07-14 04:14:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="530" dealer="0" win="180" bet="90" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="70" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="6" name="buttonjewel3" chips="480" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348649"/>
+</players>
+</general>
+<round no="0"><action no="1" player="buttonjewel3" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="wallicy233" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="buttonjewel3">X X</cards>
+<cards type="Pocket" player="oreiasccp">H9 CQ</cards>
+<cards type="Pocket" player="wallicy233">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="buttonjewel3" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="wallicy233" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">S7 H3 C7</cards>
+<action no="6" player="buttonjewel3" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="30"/>
+<action no="9" player="buttonjewel3" type="0" discard="1" dealt="1" sum="0"/>
+<action no="10" player="wallicy233" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="11" player="wallicy233" type="5" discard="1" dealt="1" sum="20"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571531797"><general><startdate>2025-07-14 04:14:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="420" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="6" name="buttonjewel3" chips="440" dealer="1" win="0" bet="130" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348649"/>
+<player seat="10" name="wallicy233" chips="640" dealer="0" win="280" bet="130" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallicy233" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">C8 HA</cards>
+<cards type="Pocket" player="oreiasccp">S7 D3</cards>
+<cards type="Pocket" player="buttonjewel3">S9 HJ</cards>
+<action no="3" player="buttonjewel3" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="wallicy233" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="buttonjewel3" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">CA D7 S8</cards>
+<action no="7" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="buttonjewel3" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S5</cards>
+<action no="9" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="buttonjewel3" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="11" player="wallicy233" type="5" discard="1" dealt="1" sum="70"/>
+<action no="12" player="buttonjewel3" type="3" discard="1" dealt="1" sum="70"/>
+</round>
+</game>
+<game gamecode="11571531851"><general><startdate>2025-07-14 04:15:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="buttonjewel3" chips="310" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348649"/>
+<player seat="10" name="wallicy233" chips="790" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="400" dealer="0" win="60" bet="400" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="buttonjewel3" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="buttonjewel3">X X</cards>
+<cards type="Pocket" player="oreiasccp">HA H2</cards>
+<cards type="Pocket" player="wallicy233">X X</cards>
+<action no="3" player="wallicy233" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="23" sum="400"/>
+<action no="5" player="buttonjewel3" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="wallicy233" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571531875"><general><startdate>2025-07-14 04:15:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="770" dealer="0" win="620" bet="290" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="440" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="6" name="buttonjewel3" chips="290" dealer="0" win="0" bet="290" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348649"/>
+</players>
+</general>
+<round no="0"><action no="1" player="buttonjewel3" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="wallicy233" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK D10</cards>
+<cards type="Pocket" player="wallicy233">H8 DA</cards>
+<cards type="Pocket" player="buttonjewel3">H10 DK</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="buttonjewel3" type="23" discard="1" dealt="1" sum="290"/>
+<action no="5" player="wallicy233" type="3" discard="1" dealt="1" sum="270"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D4 C8 C7</cards>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+</round>
+<round no="4"><cards type="River">CA</cards>
+</round>
+</game>
+<game gamecode="11571531929"><general><startdate>2025-07-14 04:15:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="0" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="10" name="wallicy233" chips="1,100" dealer="1" win="120" bet="180" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallicy233" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 H4</cards>
+<action no="3" player="wallicy233" type="3" discard="1" dealt="1" sum="10"/>
+<action no="4" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA SK H8</cards>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+<action no="6" player="wallicy233" type="5" discard="1" dealt="1" sum="40"/>
+<action no="7" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C7</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="wallicy233" type="5" discard="1" dealt="1" sum="120"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571532006"><general><startdate>2025-07-14 04:16:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="1,160" dealer="0" win="190" bet="285" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="340" dealer="1" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="wallicy233" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D10 D8</cards>
+<cards type="Pocket" player="wallicy233">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="wallicy233" type="23" discard="1" dealt="1" sum="90"/>
+<action no="7" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C2 S9 D6</cards>
+<action no="8" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="10" player="wallicy233" type="5" discard="1" dealt="1" sum="190"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571532043"><general><startdate>2025-07-14 04:16:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="245" dealer="0" win="490" bet="245" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="10" name="wallicy233" chips="1,255" dealer="1" win="0" bet="245" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="wallicy233" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H3 CJ</cards>
+<cards type="Pocket" player="wallicy233">D7 DJ</cards>
+<action no="5" player="wallicy233" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CA DK S3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SJ</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="wallicy233" type="5" discard="1" dealt="1" sum="70"/>
+<action no="11" player="oreiasccp" type="23" sum="210"/>
+<action no="12" player="wallicy233" type="3" discard="1" dealt="1" sum="140"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+</round>
+</game>
+<game gamecode="11571532110"><general><startdate>2025-07-14 04:17:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="1,010" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="wallicy233" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 H3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11571532118"><general><startdate>2025-07-14 04:17:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="470" dealer="0" win="940" bet="470" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="10" name="wallicy233" chips="1,030" dealer="1" win="0" bet="470" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="wallicy233" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">HJ DK</cards>
+<cards type="Pocket" player="oreiasccp">C10 D9</cards>
+<action no="5" player="wallicy233" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">C8 S9 HQ</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="wallicy233" type="5" discard="1" dealt="1" sum="190"/>
+<action no="9" player="oreiasccp" type="7" sum="375"/>
+<action no="10" player="wallicy233" type="3" discard="1" dealt="1" sum="185"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+</round>
+<round no="4"><cards type="River">D7</cards>
+</round>
+</game>
+<game gamecode="11571532196"><general><startdate>2025-07-14 04:18:01</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="560" dealer="0" win="1,120" bet="560" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="940" dealer="1" win="0" bet="560" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="wallicy233" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">D3 DJ</cards>
+<cards type="Pocket" player="oreiasccp">C10 DA</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="wallicy233" type="23" discard="1" dealt="1" sum="555"/>
+<action no="7" player="oreiasccp" type="3" sum="495"/>
+</round>
+<round no="2"><cards type="Flop">H8 D2 S7</cards>
+</round>
+<round no="3"><cards type="Turn">D6</cards>
+</round>
+<round no="4"><cards type="River">C3</cards>
+</round>
+</game>
+<game gamecode="11571532232"><general><startdate>2025-07-14 04:18:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="380" dealer="0" win="90" bet="380" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+<player seat="10" name="wallicy233" chips="1,120" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+</players>
+</general>
+<round no="0"><action no="1" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="wallicy233" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S4 CK</cards>
+<cards type="Pocket" player="wallicy233">X X</cards>
+<action no="5" player="wallicy233" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="375"/>
+<action no="7" player="wallicy233" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11571532250"><general><startdate>2025-07-14 04:18:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="wallicy233" chips="1,075" dealer="0" win="850" bet="1,075" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348690"/>
+<player seat="3" name="oreiasccp" chips="425" dealer="1" win="0" bet="425" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8405348593"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="wallicy233" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="wallicy233" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="wallicy233">H7 H2</cards>
+<cards type="Pocket" player="oreiasccp">DJ HQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">CJ H10 H6</cards>
+<action no="7" player="wallicy233" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="wallicy233" type="23" discard="1" dealt="1" sum="80"/>
+<action no="10" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="11" player="wallicy233" type="5" discard="1" dealt="1" sum="250"/>
+<action no="12" player="oreiasccp" type="3" sum="250"/>
+</round>
+<round no="4"><cards type="River">D8</cards>
+<action no="13" player="wallicy233" type="5" discard="1" dealt="1" sum="700"/>
+<action no="14" player="oreiasccp" type="7" sum="50"/>
+</round>
+</game>
+</session>

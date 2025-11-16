@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8384850236">
+<general>
+<client_version>24.7.1.16</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127566236</tablename>
+<tournamentcode>1127566235</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>4</gamecount>
+<startdate>2025-06-16 09:52:36</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11514871953"><general><startdate>2025-06-16 09:52:51</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bladewild563" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850249"/>
+<player seat="10" name="Alchemik13" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850252"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850236"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bladewild563" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ SA</cards>
+<cards type="Pocket" player="bladewild563">X X</cards>
+<cards type="Pocket" player="Alchemik13">X X</cards>
+<action no="3" player="Alchemik13" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="60"/>
+<action no="5" player="bladewild563" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514871981"><general><startdate>2025-06-16 09:53:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Alchemik13" chips="500" dealer="0" win="260" bet="125" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850252"/>
+<player seat="3" name="oreiasccp" chips="520" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850236"/>
+<player seat="6" name="bladewild563" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850249"/>
+</players>
+</general>
+<round no="0"><action no="1" player="bladewild563" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Alchemik13" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bladewild563">X X</cards>
+<cards type="Pocket" player="Alchemik13">C9 DK</cards>
+<cards type="Pocket" player="oreiasccp">S7 S8</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="bladewild563" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="Alchemik13" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C6 HJ S10</cards>
+<action no="6" player="Alchemik13" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="Alchemik13" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="9" player="Alchemik13" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="11" player="Alchemik13" type="5" discard="1" dealt="1" sum="65"/>
+<action no="12" player="oreiasccp" type="3" sum="65"/>
+</round>
+</game>
+<game gamecode="11514872048"><general><startdate>2025-06-16 09:53:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="395" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850236"/>
+<player seat="6" name="bladewild563" chips="470" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850249"/>
+<player seat="10" name="Alchemik13" chips="635" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850252"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Alchemik13" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Alchemik13">X X</cards>
+<cards type="Pocket" player="bladewild563">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ C2</cards>
+<action no="3" player="bladewild563" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Alchemik13" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11514872078"><general><startdate>2025-06-16 09:53:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="bladewild563" chips="470" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850249"/>
+<player seat="10" name="Alchemik13" chips="625" dealer="1" win="830" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850252"/>
+<player seat="3" name="oreiasccp" chips="405" dealer="0" win="0" bet="405" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8384850236"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="bladewild563" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="bladewild563">X X</cards>
+<cards type="Pocket" player="Alchemik13">SJ CA</cards>
+<cards type="Pocket" player="oreiasccp">HA C10</cards>
+<action no="3" player="Alchemik13" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="405"/>
+<action no="5" player="bladewild563" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="Alchemik13" type="3" discard="1" dealt="1" sum="365"/>
+</round>
+<round no="2"><cards type="Flop">DK H10 D6</cards>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+</round>
+<round no="4"><cards type="River">S5</cards>
+</round>
+</game>
+</session>

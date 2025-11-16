@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8386895272">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1127853857</tablename>
+<tournamentcode>1127853856</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-19 06:30:48</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11520622585"><general><startdate>2025-06-19 06:31:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895272"/>
+<player seat="3" name="rommenik1" chips="500" dealer="1" win="50" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895257"/>
+<player seat="6" name="Sp1nX" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895266"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Sp1nX" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="rommenik1">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 S4</cards>
+<cards type="Pocket" player="Sp1nX">X X</cards>
+<action no="3" player="rommenik1" type="23" discard="1" dealt="1" sum="80"/>
+<action no="4" player="Sp1nX" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11520622599"><general><startdate>2025-06-19 06:31:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="rommenik1" chips="530" dealer="0" win="0" bet="490" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895257"/>
+<player seat="6" name="Sp1nX" chips="490" dealer="1" win="1,460" bet="490" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895266"/>
+<player seat="10" name="oreiasccp" chips="480" dealer="0" win="0" bet="480" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8386895272"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="rommenik1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA D7</cards>
+<cards type="Pocket" player="rommenik1">C9 HA</cards>
+<cards type="Pocket" player="Sp1nX">H7 C7</cards>
+<action no="3" player="Sp1nX" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="480"/>
+<action no="5" player="rommenik1" type="3" discard="1" dealt="1" sum="460"/>
+<action no="6" player="Sp1nX" type="7" discard="1" dealt="1" sum="450"/>
+<action no="7" player="rommenik1" type="3" discard="1" dealt="1" sum="10"/>
+</round>
+<round no="2"><cards type="Flop">S2 SQ H6</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+</round>
+</game>
+</session>

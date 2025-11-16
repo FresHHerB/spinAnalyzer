@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390601281">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128353359</tablename>
+<tournamentcode>1128353358</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>5</gamecount>
+<startdate>2025-06-24 10:12:37</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530631180"><general><startdate>2025-06-24 10:12:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="tararira11" chips="500" dealer="0" win="230" bet="225" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601199"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="1" win="0" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601281"/>
+<player seat="3" name="saiger1" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601085"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="tararira11" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D7 D10</cards>
+<cards type="Pocket" player="tararira11">X X</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="tararira11" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C5 S10 CQ</cards>
+<action no="6" player="tararira11" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="tararira11" type="23" discard="1" dealt="1" sum="70"/>
+<action no="9" player="oreiasccp" type="3" sum="50"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="10" player="tararira11" type="5" discard="1" dealt="1" sum="115"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530631305"><general><startdate>2025-06-24 10:13:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="390" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601281"/>
+<player seat="3" name="saiger1" chips="490" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601085"/>
+<player seat="6" name="tararira11" chips="620" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601199"/>
+</players>
+</general>
+<round no="0"><action no="1" player="tararira11" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="tararira11">X X</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D3 H2</cards>
+<action no="3" player="saiger1" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="tararira11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530631336"><general><startdate>2025-06-24 10:13:39</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="saiger1" chips="520" dealer="0" win="0" bet="135" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601085"/>
+<player seat="6" name="tararira11" chips="610" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601199"/>
+<player seat="10" name="oreiasccp" chips="370" dealer="0" win="270" bet="135" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601281"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="saiger1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="tararira11">X X</cards>
+<cards type="Pocket" player="oreiasccp">SJ SK</cards>
+<cards type="Pocket" player="saiger1">D2 HK</cards>
+<action no="3" player="tararira11" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="23" sum="50"/>
+<action no="5" player="saiger1" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C9 DQ S2</cards>
+<action no="6" player="oreiasccp" type="5" sum="25"/>
+<action no="7" player="saiger1" type="3" discard="1" dealt="1" sum="25"/>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+<action no="9" player="saiger1" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="10" player="oreiasccp" type="5" sum="60"/>
+<action no="11" player="saiger1" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+</game>
+<game gamecode="11530631436"><general><startdate>2025-06-24 10:14:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="tararira11" chips="610" dealer="0" win="0" bet="50" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601199"/>
+<player seat="10" name="oreiasccp" chips="505" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601281"/>
+<player seat="3" name="saiger1" chips="385" dealer="0" win="100" bet="75" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601085"/>
+</players>
+</general>
+<round no="0"><action no="1" player="saiger1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="tararira11" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 DJ</cards>
+<cards type="Pocket" player="tararira11">X X</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="saiger1" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="tararira11" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">SJ D7 H7</cards>
+<action no="6" player="saiger1" type="5" discard="1" dealt="1" sum="25"/>
+<action no="7" player="tararira11" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530631484"><general><startdate>2025-06-24 10:14:31</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="505" dealer="0" win="0" bet="505" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601281"/>
+<player seat="3" name="saiger1" chips="435" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601085"/>
+<player seat="6" name="tararira11" chips="560" dealer="0" win="1,010" bet="560" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390601199"/>
+</players>
+</general>
+<round no="0"><action no="1" player="tararira11" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="tararira11">HA S8</cards>
+<cards type="Pocket" player="saiger1">X X</cards>
+<cards type="Pocket" player="oreiasccp">D4 S4</cards>
+<action no="3" player="saiger1" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="tararira11" type="23" discard="1" dealt="1" sum="560"/>
+<action no="5" player="oreiasccp" type="7" sum="485"/>
+</round>
+<round no="2"><cards type="Flop">CA C6 S10</cards>
+</round>
+<round no="3"><cards type="Turn">DQ</cards>
+</round>
+<round no="4"><cards type="River">H8</cards>
+</round>
+</game>
+</session>

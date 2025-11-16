@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394901535">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128943311</tablename>
+<tournamentcode>1128943310</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>2</gamecount>
+<startdate>2025-06-30 06:27:48</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11542694838"><general><startdate>2025-06-30 06:28:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="peryshark1" chips="500" dealer="0" win="210" bet="163" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901557"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="100" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901535"/>
+<player seat="6" name="MoneyReaper" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901543"/>
+</players>
+</general>
+<round no="0"><action no="1" player="MoneyReaper" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="peryshark1" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="peryshark1">X X</cards>
+<cards type="Pocket" player="oreiasccp">HJ H9</cards>
+<cards type="Pocket" player="MoneyReaper">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+<action no="5" player="peryshark1" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">C5 S8 H4</cards>
+<action no="6" player="peryshark1" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="peryshark1" type="23" discard="1" dealt="1" sum="60"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="10" player="peryshark1" type="5" discard="1" dealt="1" sum="63"/>
+<action no="11" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542694951"><general><startdate>2025-06-30 06:28:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="400" dealer="0" win="0" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901535"/>
+<player seat="6" name="MoneyReaper" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901543"/>
+<player seat="10" name="peryshark1" chips="610" dealer="0" win="800" bet="400" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394901557"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peryshark1" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="MoneyReaper">X X</cards>
+<cards type="Pocket" player="peryshark1">SA C10</cards>
+<cards type="Pocket" player="oreiasccp">H7 DA</cards>
+<action no="3" player="MoneyReaper" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="peryshark1" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="23" sum="400"/>
+<action no="6" player="peryshark1" type="3" discard="1" dealt="1" sum="380"/>
+</round>
+<round no="2"><cards type="Flop">DQ SQ H9</cards>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+</session>

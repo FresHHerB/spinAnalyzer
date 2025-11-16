@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8392269269">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128577816</tablename>
+<tournamentcode>1128577815</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>24</gamecount>
+<startdate>2025-06-26 18:04:21</startdate>
+<place>1</place>
+<win>€10</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11535143842"><general><startdate>2025-06-26 18:04:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="d0nsamag0n" chips="500" dealer="0" win="0" bet="71" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+<player seat="6" name="Drew180" chips="500" dealer="1" win="0" bet="71" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="500" dealer="0" win="213" bet="71" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">S3 H3</cards>
+<cards type="Pocket" player="d0nsamag0n">H8 H10</cards>
+<cards type="Pocket" player="oreiasccp">D9 DQ</cards>
+<action no="3" player="Drew180" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="3" sum="30"/>
+<action no="5" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">DK C8 H9</cards>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+<action no="7" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="Drew180" type="5" discard="1" dealt="1" sum="31"/>
+<action no="9" player="oreiasccp" type="3" sum="31"/>
+<action no="10" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="31"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+<action no="14" player="oreiasccp" type="4" sum="0"/>
+<action no="15" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="16" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144116"><general><startdate>2025-06-26 18:05:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="429" dealer="0" win="120" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="642" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="3" name="d0nsamag0n" chips="429" dealer="0" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Drew180" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">HQ C10</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="30"/>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">D10 C7 CK</cards>
+<action no="6" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="9" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="12" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="Drew180" type="5" discard="1" dealt="1" sum="80"/>
+<action no="14" player="oreiasccp" type="0" sum="0"/>
+<action no="15" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144368"><general><startdate>2025-06-26 18:06:11</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="602" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="3" name="d0nsamag0n" chips="389" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+<player seat="6" name="Drew180" chips="509" dealer="0" win="40" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H4 DJ</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Drew180" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C7 S2 S6</cards>
+<action no="6" player="Drew180" type="5" discard="1" dealt="1" sum="20"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144464"><general><startdate>2025-06-26 18:06:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="d0nsamag0n" chips="389" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+<player seat="6" name="Drew180" chips="529" dealer="1" win="50" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="582" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C8 HK</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="d0nsamag0n">X X</cards>
+<action no="3" player="Drew180" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535144528"><general><startdate>2025-06-26 18:06:36</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="559" dealer="0" win="0" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="572" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="3" name="d0nsamag0n" chips="369" dealer="0" win="195" bet="95" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+</players>
+</general>
+<round no="0"><action no="1" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="15" sum="5"/>
+<action no="4" player="d0nsamag0n" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="Drew180" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">HK H4</cards>
+<cards type="Pocket" player="Drew180">H10 S9</cards>
+<cards type="Pocket" player="oreiasccp">H2 H8</cards>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+<action no="7" player="d0nsamag0n" type="3" discard="1" dealt="1" sum="15"/>
+<action no="8" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D10 CK HJ</cards>
+<action no="9" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="30"/>
+<action no="10" player="Drew180" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+<action no="11" player="d0nsamag0n" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">DA</cards>
+<action no="13" player="d0nsamag0n" type="5" discard="1" dealt="1" sum="30"/>
+<action no="14" player="Drew180" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+</game>
+<game gamecode="11535144736"><general><startdate>2025-06-26 18:07:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="567" dealer="0" win="466" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="3" name="d0nsamag0n" chips="469" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+<player seat="6" name="Drew180" chips="464" dealer="0" win="467" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="Drew180" type="1" discard="1" dealt="1" sum="15"/>
+<action no="5" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="d0nsamag0n">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ DA</cards>
+<cards type="Pocket" player="Drew180">SA DJ</cards>
+<action no="6" player="d0nsamag0n" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="Drew180" type="23" discard="1" dealt="1" sum="459"/>
+<action no="8" player="oreiasccp" type="3" sum="429"/>
+</round>
+<round no="2"><cards type="Flop">HA S8 S5</cards>
+</round>
+<round no="3"><cards type="Turn">D5</cards>
+</round>
+<round no="4"><cards type="River">C8</cards>
+</round>
+</game>
+<game gamecode="11535158763"><general><startdate>2025-06-26 18:07:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="d0nsamag0n" chips="464" dealer="0" win="0" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269117"/>
+<player seat="6" name="Drew180" chips="467" dealer="1" win="0" bet="5" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="569" dealer="0" win="933" bet="464" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="d0nsamag0n" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="4" player="oreiasccp" type="1" sum="15"/>
+<action no="5" player="d0nsamag0n" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">CJ SJ</cards>
+<cards type="Pocket" player="d0nsamag0n">D9 DA</cards>
+<action no="6" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="23" sum="75"/>
+<action no="8" player="d0nsamag0n" type="23" discard="1" dealt="1" sum="459"/>
+<action no="9" player="oreiasccp" type="3" sum="384"/>
+</round>
+<round no="2"><cards type="Flop">S10 C5 H3</cards>
+</round>
+<round no="3"><cards type="Turn">S4</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+<game gamecode="11535158908"><general><startdate>2025-06-26 18:07:56</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="462" dealer="0" win="0" bet="98" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,038" dealer="1" win="196" bet="98" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">C9 SJ</cards>
+<cards type="Pocket" player="oreiasccp">HA SK</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="Drew180" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">D2 C10 C2</cards>
+<action no="7" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="9" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="5" sum="33"/>
+<action no="11" player="Drew180" type="3" discard="1" dealt="1" sum="33"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+<action no="12" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="13" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159016"><general><startdate>2025-06-26 18:08:16</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,136" dealer="0" win="160" bet="120" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="364" dealer="1" win="0" bet="80" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 D10</cards>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="23" sum="75"/>
+<action no="7" player="Drew180" type="3" discard="1" dealt="1" sum="45"/>
+</round>
+<round no="2"><cards type="Flop">DA S6 H3</cards>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159091"><general><startdate>2025-06-26 18:08:29</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="284" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,216" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">H10 C2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159127"><general><startdate>2025-06-26 18:08:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,196" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="304" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S8 H6</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA CQ DA</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Drew180" type="5" discard="1" dealt="1" sum="30"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159200"><general><startdate>2025-06-26 18:08:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="339" dealer="0" win="90" bet="339" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,161" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">D7 D9</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Drew180" type="23" discard="1" dealt="1" sum="334"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159251"><general><startdate>2025-06-26 18:08:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,116" dealer="0" win="170" bet="146" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="384" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C7 S8</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">C6 CK S9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="Drew180" type="5" discard="1" dealt="1" sum="40"/>
+<action no="9" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+<action no="10" player="oreiasccp" type="5" sum="61"/>
+<action no="11" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159398"><general><startdate>2025-06-26 18:09:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="299" dealer="0" win="90" bet="299" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,201" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 H2</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Drew180" type="23" discard="1" dealt="1" sum="294"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159465"><general><startdate>2025-06-26 18:09:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,156" dealer="0" win="90" bet="344" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="344" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">CA H4</cards>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="339"/>
+<action no="7" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159524"><general><startdate>2025-06-26 18:09:38</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="299" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,201" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 C9</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">HA C10 HQ</cards>
+<action no="7" player="Drew180" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159614"><general><startdate>2025-06-26 18:09:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,246" dealer="0" win="90" bet="105" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="254" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">D10 DQ</cards>
+<action no="5" player="Drew180" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159671"><general><startdate>2025-06-26 18:10:03</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="209" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,291" dealer="1" win="90" bet="209" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">DJ D8</cards>
+<action no="5" player="oreiasccp" type="23" sum="204"/>
+<action no="6" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159721"><general><startdate>2025-06-26 18:10:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,336" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="164" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 SJ</cards>
+<action no="5" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159753"><general><startdate>2025-06-26 18:10:17</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="139" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,361" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 C8</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159785"><general><startdate>2025-06-26 18:10:22</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,336" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="164" dealer="1" win="90" bet="164" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 C6</cards>
+<cards type="Pocket" player="Drew180">X X</cards>
+<action no="5" player="Drew180" type="23" discard="1" dealt="1" sum="159"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159856"><general><startdate>2025-06-26 18:10:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="209" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,291" dealer="1" win="90" bet="209" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">X X</cards>
+<cards type="Pocket" player="oreiasccp">SQ C5</cards>
+<action no="5" player="oreiasccp" type="23" sum="204"/>
+<action no="6" player="Drew180" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11535159964"><general><startdate>2025-06-26 18:10:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="oreiasccp" chips="1,336" dealer="0" win="0" bet="164" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+<player seat="6" name="Drew180" chips="164" dealer="1" win="328" bet="164" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="Drew180" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">D3 HA</cards>
+<cards type="Pocket" player="oreiasccp">D5 D7</cards>
+<action no="5" player="Drew180" type="23" discard="1" dealt="1" sum="159"/>
+<action no="6" player="oreiasccp" type="3" sum="99"/>
+</round>
+<round no="2"><cards type="Flop">CK H3 H6</cards>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+</round>
+<round no="4"><cards type="River">DA</cards>
+</round>
+</game>
+<game gamecode="11535160079"><general><startdate>2025-06-26 18:11:06</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="Drew180" chips="328" dealer="0" win="0" bet="328" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269239"/>
+<player seat="10" name="oreiasccp" chips="1,172" dealer="1" win="656" bet="328" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8392269269"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="Drew180" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="Drew180" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="Drew180">S8 SA</cards>
+<cards type="Pocket" player="oreiasccp">H4 H6</cards>
+<action no="5" player="oreiasccp" type="23" sum="323"/>
+<action no="6" player="Drew180" type="7" discard="1" dealt="1" sum="263"/>
+</round>
+<round no="2"><cards type="Flop">D4 D2 D10</cards>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+</round>
+<round no="4"><cards type="River">C9</cards>
+</round>
+</game>
+</session>

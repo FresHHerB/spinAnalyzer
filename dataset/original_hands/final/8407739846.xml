@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8407739846">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1130657608</tablename>
+<tournamentcode>1130657607</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€15</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>19</gamecount>
+<startdate>2025-07-17 03:31:38</startdate>
+<place>2</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11577877579"><general><startdate>2025-07-17 03:31:53</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="10" name="nevmyster90" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739915"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OkeAAro" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">X X</cards>
+<cards type="Pocket" player="nevmyster90">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 SJ</cards>
+<action no="3" player="nevmyster90" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577877611"><general><startdate>2025-07-17 03:32:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="nevmyster90" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739915"/>
+<player seat="3" name="oreiasccp" chips="490" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="510" dealer="0" win="100" bet="510" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="nevmyster90" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="nevmyster90">X X</cards>
+<cards type="Pocket" player="oreiasccp">S10 S9</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="OkeAAro" type="23" discard="1" dealt="1" sum="510"/>
+<action no="5" player="nevmyster90" type="0" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577877667"><general><startdate>2025-07-17 03:32:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="450" dealer="0" win="120" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="570" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="10" name="nevmyster90" chips="480" dealer="0" win="0" bet="60" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739915"/>
+</players>
+</general>
+<round no="0"><action no="1" player="nevmyster90" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="nevmyster90">C6 HQ</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<cards type="Pocket" player="oreiasccp">C3 C9</cards>
+<action no="3" player="OkeAAro" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="nevmyster90" type="3" discard="1" dealt="1" sum="10"/>
+<action no="5" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D8 C4 DK</cards>
+<action no="6" player="nevmyster90" type="4" discard="1" dealt="1" sum="0"/>
+<action no="7" player="oreiasccp" type="5" sum="20"/>
+<action no="8" player="nevmyster90" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="9" player="nevmyster90" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+<action no="11" player="nevmyster90" type="5" discard="1" dealt="1" sum="20"/>
+<action no="12" player="oreiasccp" type="3" sum="20"/>
+</round>
+</game>
+<game gamecode="11577877790"><general><startdate>2025-07-17 03:32:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="570" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="10" name="nevmyster90" chips="420" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739915"/>
+<player seat="3" name="oreiasccp" chips="510" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OkeAAro" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="nevmyster90">X X</cards>
+<cards type="Pocket" player="oreiasccp">H2 S4</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="3" player="nevmyster90" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577877823"><general><startdate>2025-07-17 03:32:58</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="nevmyster90" chips="420" dealer="0" win="0" bet="420" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739915"/>
+<player seat="3" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="580" dealer="0" win="840" bet="580" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="nevmyster90" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="nevmyster90">HA C10</cards>
+<cards type="Pocket" player="OkeAAro">DA HK</cards>
+<cards type="Pocket" player="oreiasccp">S7 C9</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="OkeAAro" type="23" discard="1" dealt="1" sum="50"/>
+<action no="5" player="nevmyster90" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="OkeAAro" type="23" discard="1" dealt="1" sum="580"/>
+<action no="7" player="nevmyster90" type="7" discard="1" dealt="1" sum="340"/>
+</round>
+<round no="2"><cards type="Flop">S3 D9 SQ</cards>
+</round>
+<round no="3"><cards type="Turn">CJ</cards>
+</round>
+<round no="4"><cards type="River">D7</cards>
+</round>
+</game>
+<game gamecode="11577877949"><general><startdate>2025-07-17 03:33:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="500" dealer="0" win="80" bet="500" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="1,000" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HJ DJ</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="3" player="OkeAAro" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="500"/>
+<action no="5" player="OkeAAro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577877999"><general><startdate>2025-07-17 03:33:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="960" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="540" dealer="1" win="40" bet="20" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="OkeAAro" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CK C7</cards>
+<cards type="Pocket" player="OkeAAro">HQ D4</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H2 CJ D9</cards>
+<action no="5" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="7" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="9" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878124"><general><startdate>2025-07-17 03:34:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="560" dealer="0" win="560" bet="280" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="940" dealer="1" win="0" bet="280" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">C6 DJ</cards>
+<cards type="Pocket" player="oreiasccp">S4 SJ</cards>
+<action no="5" player="OkeAAro" type="3" discard="1" dealt="1" sum="15"/>
+<action no="6" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D6 H3 S2</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="OkeAAro" type="5" discard="1" dealt="1" sum="35"/>
+<action no="9" player="oreiasccp" type="3" sum="35"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+<action no="11" player="OkeAAro" type="5" discard="1" dealt="1" sum="90"/>
+<action no="12" player="oreiasccp" type="3" sum="90"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="13" player="oreiasccp" type="5" sum="120"/>
+<action no="14" player="OkeAAro" type="3" discard="1" dealt="1" sum="120"/>
+</round>
+</game>
+<game gamecode="11577878297"><general><startdate>2025-07-17 03:34:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="660" dealer="0" win="70" bet="35" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="840" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">D3 C9</cards>
+<cards type="Pocket" player="oreiasccp">CA C7</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S3 HK SQ</cards>
+<action no="7" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="9" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="10" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="4"><cards type="River">CQ</cards>
+<action no="11" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="12" player="oreiasccp" type="4" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878402"><general><startdate>2025-07-17 03:35:25</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="805" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="695" dealer="1" win="130" bet="110" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H8 DK</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="5" player="OkeAAro" type="23" discard="1" dealt="1" sum="60"/>
+<action no="6" player="oreiasccp" type="3" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">C5 SQ D9</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="OkeAAro" type="5" discard="1" dealt="1" sum="45"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878458"><general><startdate>2025-07-17 03:35:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="760" dealer="0" win="70" bet="760" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="740" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 D2</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="OkeAAro" type="23" discard="1" dealt="1" sum="755"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878501"><general><startdate>2025-07-17 03:35:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="705" dealer="0" win="170" bet="85" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="795" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">D5 D9</cards>
+<cards type="Pocket" player="oreiasccp">S10 H8</cards>
+<action no="5" player="OkeAAro" type="23" discard="1" dealt="1" sum="80"/>
+<action no="6" player="oreiasccp" type="3" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">H9 HJ H3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="9" player="oreiasccp" type="4" sum="0"/>
+<action no="10" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="4"><cards type="River">C10</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878591"><general><startdate>2025-07-17 03:36:15</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="710" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="790" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CJ S5</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">H6 SA CQ</cards>
+<action no="7" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="OkeAAro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878678"><general><startdate>2025-07-17 03:36:37</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="835" dealer="0" win="316" bet="358" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="665" dealer="1" win="0" bet="158" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA HA</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="5" player="OkeAAro" type="3" discard="1" dealt="1" sum="20"/>
+<action no="6" player="oreiasccp" type="23" sum="100"/>
+<action no="7" player="OkeAAro" type="3" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">S10 D2 SJ</cards>
+<action no="8" player="oreiasccp" type="5" sum="53"/>
+<action no="9" player="OkeAAro" type="3" discard="1" dealt="1" sum="53"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="10" player="oreiasccp" type="5" sum="200"/>
+<action no="11" player="OkeAAro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878758"><general><startdate>2025-07-17 03:37:00</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="507" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="993" dealer="1" win="90" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">X X</cards>
+<cards type="Pocket" player="oreiasccp">D6 D5</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">SJ DJ C3</cards>
+<action no="7" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="OkeAAro" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11577878819"><general><startdate>2025-07-17 03:37:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="1,038" dealer="0" win="0" bet="462" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="462" dealer="1" win="924" bet="462" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">DA S3</cards>
+<cards type="Pocket" player="OkeAAro">HA S9</cards>
+<action no="5" player="OkeAAro" type="23" discard="1" dealt="1" sum="457"/>
+<action no="6" player="oreiasccp" type="3" sum="417"/>
+</round>
+<round no="2"><cards type="Flop">CQ DJ C10</cards>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+</round>
+<round no="4"><cards type="River">D9</cards>
+</round>
+</game>
+<game gamecode="11577878885"><general><startdate>2025-07-17 03:37:33</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="924" dealer="0" win="418" bet="924" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="576" dealer="1" win="0" bet="209" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">X X</cards>
+<cards type="Pocket" player="oreiasccp">S8 S3</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D2 C7 CA</cards>
+<action no="7" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="40"/>
+<action no="9" player="OkeAAro" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="3"><cards type="Turn">S10</cards>
+<action no="10" player="OkeAAro" type="4" discard="1" dealt="1" sum="0"/>
+<action no="11" player="oreiasccp" type="5" sum="124"/>
+<action no="12" player="OkeAAro" type="23" discard="1" dealt="1" sum="839"/>
+<action no="13" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577879052"><general><startdate>2025-07-17 03:38:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="oreiasccp" chips="367" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+<player seat="6" name="OkeAAro" chips="1,133" dealer="1" win="130" bet="1,133" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+</players>
+</general>
+<round no="0"><action no="1" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="OkeAAro" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 S4</cards>
+<cards type="Pocket" player="OkeAAro">X X</cards>
+<action no="5" player="OkeAAro" type="23" discard="1" dealt="1" sum="1,128"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11577884914"><general><startdate>2025-07-17 03:38:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="OkeAAro" chips="1,198" dealer="0" win="604" bet="302" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739901"/>
+<player seat="3" name="oreiasccp" chips="302" dealer="1" win="0" bet="302" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8407739846"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="OkeAAro" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="OkeAAro" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="OkeAAro">HK C4</cards>
+<cards type="Pocket" player="oreiasccp">SJ S4</cards>
+<action no="5" player="oreiasccp" type="23" sum="297"/>
+<action no="6" player="OkeAAro" type="3" discard="1" dealt="1" sum="237"/>
+</round>
+<round no="2"><cards type="Flop">S10 D2 H10</cards>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">SA</cards>
+</round>
+</game>
+</session>

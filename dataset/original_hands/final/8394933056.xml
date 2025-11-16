@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8394933056">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128948600</tablename>
+<tournamentcode>1128948599</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€25</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>34</gamecount>
+<startdate>2025-06-30 09:19:44</startdate>
+<place>1</place>
+<win>€25</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11542783951"><general><startdate>2025-06-30 09:19:59</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="10" name="Janelle17" chips="500" dealer="1" win="0" bet="158" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933072"/>
+<player seat="3" name="peonsky" chips="500" dealer="0" win="336" bet="393" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 SJ</cards>
+<cards type="Pocket" player="Janelle17">X X</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="3" player="Janelle17" type="3" discard="1" dealt="1" sum="20"/>
+<action no="4" player="peonsky" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+<action no="6" player="Janelle17" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">C10 C7 S7</cards>
+<action no="7" player="peonsky" type="5" discard="1" dealt="1" sum="98"/>
+<action no="8" player="Janelle17" type="3" discard="1" dealt="1" sum="98"/>
+</round>
+<round no="3"><cards type="Turn">H8</cards>
+<action no="9" player="peonsky" type="5" discard="1" dealt="1" sum="235"/>
+<action no="10" player="Janelle17" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784028"><general><startdate>2025-06-30 09:20:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Janelle17" chips="342" dealer="0" win="0" bet="342" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933072"/>
+<player seat="3" name="peonsky" chips="678" dealer="1" win="694" bet="342" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Janelle17" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Janelle17">C4 HJ</cards>
+<cards type="Pocket" player="oreiasccp">H4 C6</cards>
+<cards type="Pocket" player="peonsky">CA DK</cards>
+<action no="3" player="peonsky" type="23" discard="1" dealt="1" sum="60"/>
+<action no="4" player="oreiasccp" type="0" sum="0"/>
+<action no="5" player="Janelle17" type="23" discard="1" dealt="1" sum="342"/>
+<action no="6" player="peonsky" type="3" discard="1" dealt="1" sum="282"/>
+</round>
+<round no="2"><cards type="Flop">D5 S4 HK</cards>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+</round>
+<round no="4"><cards type="River">H10</cards>
+</round>
+</game>
+<game gamecode="11542784089"><general><startdate>2025-06-30 09:20:47</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="1,030" dealer="0" win="138" bet="207" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="470" dealer="1" win="0" bet="69" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="peonsky" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">HQ DJ</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="3" player="oreiasccp" type="23" sum="40"/>
+<action no="4" player="peonsky" type="3" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="2"><cards type="Flop">H9 C4 C9</cards>
+<action no="5" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="6" player="oreiasccp" type="5" sum="29"/>
+<action no="7" player="peonsky" type="23" discard="1" dealt="1" sum="167"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784167"><general><startdate>2025-06-30 09:21:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="401" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="1,099" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 CA</cards>
+<action no="3" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784187"><general><startdate>2025-06-30 09:21:20</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="1,089" dealer="0" win="0" bet="1,089" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="411" dealer="1" win="822" bet="411" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="peonsky" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S9 CA</cards>
+<cards type="Pocket" player="peonsky">HK H5</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="peonsky" type="23" discard="1" dealt="1" sum="1,089"/>
+<action no="5" player="oreiasccp" type="7" sum="391"/>
+</round>
+<round no="2"><cards type="Flop">DJ D6 D3</cards>
+</round>
+<round no="3"><cards type="Turn">C8</cards>
+</round>
+<round no="4"><cards type="River">H4</cards>
+</round>
+</game>
+<game gamecode="11542784254"><general><startdate>2025-06-30 09:21:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="822" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="678" dealer="1" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SJ CJ</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="3" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784274"><general><startdate>2025-06-30 09:21:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="668" dealer="0" win="96" bet="115" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="832" dealer="1" win="0" bet="48" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="peonsky" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C4 HA</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="3" player="oreiasccp" type="3" sum="10"/>
+<action no="4" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">D3 S4 D8</cards>
+<action no="5" player="peonsky" type="5" discard="1" dealt="1" sum="28"/>
+<action no="6" player="oreiasccp" type="3" sum="28"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="7" player="peonsky" type="5" discard="1" dealt="1" sum="67"/>
+<action no="8" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784310"><general><startdate>2025-06-30 09:22:04</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="784" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="716" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">S10 D5</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784337"><general><startdate>2025-06-30 09:22:12</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="696" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="804" dealer="1" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">S6 HK</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784360"><general><startdate>2025-06-30 09:22:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="839" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="661" dealer="1" win="70" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">H5 S6</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784389"><general><startdate>2025-06-30 09:22:30</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="696" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="804" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">D8 S3</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784406"><general><startdate>2025-06-30 09:22:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="784" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="716" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 H4</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784427"><general><startdate>2025-06-30 09:22:41</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="696" dealer="0" win="70" bet="696" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="804" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H5 C4</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="15"/>
+<action no="6" player="peonsky" type="23" discard="1" dealt="1" sum="691"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784456"><general><startdate>2025-06-30 09:22:52</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="769" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="731" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CQ C2</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784480"><general><startdate>2025-06-30 09:23:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="711" dealer="0" win="312" bet="374" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="789" dealer="1" win="0" bet="156" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C3 C10</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="60"/>
+<action no="6" player="peonsky" type="3" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="2"><cards type="Flop">HK D6 H10</cards>
+<action no="7" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+<action no="9" player="peonsky" type="5" discard="1" dealt="1" sum="91"/>
+<action no="10" player="oreiasccp" type="3" sum="91"/>
+</round>
+<round no="4"><cards type="River">S5</cards>
+<action no="11" player="peonsky" type="5" discard="1" dealt="1" sum="218"/>
+<action no="12" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784572"><general><startdate>2025-06-30 09:23:34</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="633" dealer="0" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="867" dealer="1" win="70" bet="95" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H2 H6</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784596"><general><startdate>2025-06-30 09:23:43</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="902" dealer="0" win="40" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="598" dealer="1" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="15"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 H9</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784619"><general><startdate>2025-06-30 09:23:49</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="578" dealer="0" win="286" bet="143" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="922" dealer="1" win="0" bet="143" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="15"/>
+<action no="4" player="oreiasccp" type="2" sum="30"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C6 C4</cards>
+<cards type="Pocket" player="peonsky">SQ CK</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="90"/>
+<action no="6" player="oreiasccp" type="3" sum="60"/>
+</round>
+<round no="2"><cards type="Flop">D4 C2 C3</cards>
+<action no="7" player="oreiasccp" type="4" sum="0"/>
+<action no="8" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="9" player="oreiasccp" type="5" sum="48"/>
+<action no="10" player="peonsky" type="3" discard="1" dealt="1" sum="48"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="11" player="oreiasccp" type="4" sum="0"/>
+<action no="12" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784686"><general><startdate>2025-06-30 09:24:09</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="779" dealer="0" win="170" bet="204" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="721" dealer="1" win="0" bet="85" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA SK</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="23" sum="80"/>
+<action no="6" player="peonsky" type="3" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="2"><cards type="Flop">D2 S8 D4</cards>
+<action no="7" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="4" sum="0"/>
+</round>
+<round no="3"><cards type="Turn">C6</cards>
+<action no="9" player="peonsky" type="5" discard="1" dealt="1" sum="119"/>
+<action no="10" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784744"><general><startdate>2025-06-30 09:24:28</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="636" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="864" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">H4 D4</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784770"><general><startdate>2025-06-30 09:24:35</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="839" dealer="0" win="90" bet="839" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="661" dealer="1" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 CQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="peonsky" type="23" discard="1" dealt="1" sum="834"/>
+<action no="7" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784800"><general><startdate>2025-06-30 09:24:46</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="616" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="884" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SQ H3</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784824"><general><startdate>2025-06-30 09:24:54</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="929" dealer="0" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="571" dealer="1" win="250" bet="250" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C5 C8</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="peonsky" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">S5 H4 D6</cards>
+<action no="8" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="9" player="oreiasccp" type="5" sum="125"/>
+<action no="10" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784891"><general><startdate>2025-06-30 09:25:18</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="696" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="804" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">H3 C10</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784933"><general><startdate>2025-06-30 09:25:32</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="779" dealer="0" win="250" bet="300" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="721" dealer="1" win="0" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">C10 CQ</cards>
+<action no="5" player="oreiasccp" type="3" sum="20"/>
+<action no="6" player="peonsky" type="23" discard="1" dealt="1" sum="120"/>
+<action no="7" player="oreiasccp" type="3" sum="80"/>
+</round>
+<round no="2"><cards type="Flop">S2 CK SK</cards>
+<action no="8" player="peonsky" type="5" discard="1" dealt="1" sum="175"/>
+<action no="9" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784967"><general><startdate>2025-06-30 09:25:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="596" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="904" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">C5 CK</cards>
+<action no="5" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542784985"><general><startdate>2025-06-30 09:25:50</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="879" dealer="0" win="50" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="621" dealer="1" win="0" bet="25" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="20"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">S9 H2</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785000"><general><startdate>2025-06-30 09:25:55</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="596" dealer="0" win="0" bet="45" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="904" dealer="1" win="90" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="20"/>
+<action no="4" player="oreiasccp" type="2" sum="40"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">D2 S7</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="120"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785021"><general><startdate>2025-06-30 09:26:02</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="949" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="551" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">CA CQ</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">S7 D7 DQ</cards>
+<action no="7" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785059"><general><startdate>2025-06-30 09:26:14</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="616" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="884" dealer="1" win="130" bet="185" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">D4 CK</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785084"><general><startdate>2025-06-30 09:26:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="949" dealer="0" win="70" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="551" dealer="1" win="0" bet="35" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C10 H2</cards>
+<cards type="Pocket" player="peonsky">X X</cards>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785100"><general><startdate>2025-06-30 09:26:26</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="516" dealer="0" win="1,032" bet="516" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="984" dealer="1" win="0" bet="516" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">SK C9</cards>
+<cards type="Pocket" player="oreiasccp">S5 H5</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="180"/>
+<action no="6" player="oreiasccp" type="23" sum="511"/>
+<action no="7" player="peonsky" type="3" discard="1" dealt="1" sum="331"/>
+</round>
+<round no="2"><cards type="Flop">C4 D7 C7</cards>
+</round>
+<round no="3"><cards type="Turn">S7</cards>
+</round>
+<round no="4"><cards type="River">H10</cards>
+</round>
+</game>
+<game gamecode="11542785154"><general><startdate>2025-06-30 09:26:44</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="peonsky" chips="468" dealer="0" win="0" bet="65" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+<player seat="6" name="oreiasccp" chips="1,032" dealer="1" win="130" bet="125" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="15" sum="5"/>
+<action no="2" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="3" player="oreiasccp" type="1" sum="30"/>
+<action no="4" player="peonsky" type="2" discard="1" dealt="1" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="peonsky">X X</cards>
+<cards type="Pocket" player="oreiasccp">H7 D8</cards>
+<action no="5" player="oreiasccp" type="3" sum="30"/>
+<action no="6" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK S6 DQ</cards>
+<action no="7" player="peonsky" type="4" discard="1" dealt="1" sum="0"/>
+<action no="8" player="oreiasccp" type="5" sum="60"/>
+<action no="9" player="peonsky" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11542785197"><general><startdate>2025-06-30 09:26:57</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="1,097" dealer="0" win="806" bet="403" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394933056"/>
+<player seat="3" name="peonsky" chips="403" dealer="1" win="0" bet="403" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8394932990"/>
+</players>
+</general>
+<round no="0"><action no="1" player="peonsky" type="15" discard="1" dealt="1" sum="5"/>
+<action no="2" player="oreiasccp" type="15" sum="5"/>
+<action no="3" player="peonsky" type="1" discard="1" dealt="1" sum="30"/>
+<action no="4" player="oreiasccp" type="2" sum="60"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">C2 S2</cards>
+<cards type="Pocket" player="peonsky">D5 HK</cards>
+<action no="5" player="peonsky" type="23" discard="1" dealt="1" sum="398"/>
+<action no="6" player="oreiasccp" type="3" sum="338"/>
+</round>
+<round no="2"><cards type="Flop">SA H9 CA</cards>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+</round>
+</game>
+</session>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="8390686440">
+<general>
+<client_version>25.1.1.13</client_version>
+<mode>real</mode>
+<gametype>Holdem NL</gametype>
+<tablename>Twister €5 SNG, 1128365085</tablename>
+<tournamentcode>1128365084</tournamentcode>
+<tournamentname>Twister €5 SNG</tournamentname>
+<buyin>€0 + €0.35 + €4.65</buyin>
+<totalbuyin>€5</totalbuyin>
+<rewarddrawn>€10</rewarddrawn>
+<tournamentcurrency>EUR</tournamentcurrency>
+<currency>EUR</currency>
+<nickname>oreiasccp</nickname>
+<gamecount>3</gamecount>
+<startdate>2025-06-24 14:01:05</startdate>
+<place>3</place>
+<win>€0</win>
+<tablesize>3</tablesize>
+</general>
+<game gamecode="11530860546"><general><startdate>2025-06-24 14:01:21</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="3" name="Rhai" chips="500" dealer="0" win="20" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686353"/>
+<player seat="6" name="oreiasccp" chips="500" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686440"/>
+<player seat="10" name="Danydan126" chips="500" dealer="0" win="0" bet="10" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686446"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Danydan126" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="Rhai" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Danydan126">X X</cards>
+<cards type="Pocket" player="oreiasccp">C4 D6</cards>
+<action no="3" player="oreiasccp" type="0" sum="0"/>
+<action no="4" player="Danydan126" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+</game>
+<game gamecode="11530860561"><general><startdate>2025-06-24 14:01:27</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="6" name="oreiasccp" chips="500" dealer="0" win="0" bet="20" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686440"/>
+<player seat="10" name="Danydan126" chips="490" dealer="1" win="0" bet="0" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686446"/>
+<player seat="3" name="Rhai" chips="510" dealer="0" win="40" bet="60" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686353"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Rhai" type="1" discard="1" dealt="1" sum="10"/>
+<action no="2" player="oreiasccp" type="2" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">H9 D3</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Danydan126">X X</cards>
+<action no="3" player="Danydan126" type="0" discard="1" dealt="1" sum="0"/>
+<action no="4" player="Rhai" type="23" discard="1" dealt="1" sum="60"/>
+<action no="5" player="oreiasccp" type="0" sum="0"/>
+</round>
+</game>
+<game gamecode="11530860624"><general><startdate>2025-06-24 14:01:45</startdate>
+<round>1</round>
+<failsafecounter/>
+<players><player seat="10" name="Danydan126" chips="490" dealer="0" win="1,000" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686446"/>
+<player seat="3" name="Rhai" chips="530" dealer="1" win="0" bet="40" muck="1" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686353"/>
+<player seat="6" name="oreiasccp" chips="480" dealer="0" win="0" bet="480" muck="0" rebuy="0" addon="0" merge="0" rebuychips="0" reg_code="8390686440"/>
+</players>
+</general>
+<round no="0"><action no="1" player="oreiasccp" type="1" sum="10"/>
+<action no="2" player="Danydan126" type="2" discard="1" dealt="1" sum="20"/>
+</round>
+<round no="1"><cards type="Pocket" player="oreiasccp">SA S2</cards>
+<cards type="Pocket" player="Rhai">X X</cards>
+<cards type="Pocket" player="Danydan126">HQ HK</cards>
+<action no="3" player="Rhai" type="23" discard="1" dealt="1" sum="40"/>
+<action no="4" player="oreiasccp" type="23" sum="480"/>
+<action no="5" player="Danydan126" type="3" discard="1" dealt="1" sum="460"/>
+<action no="6" player="Rhai" type="0" discard="1" dealt="1" sum="0"/>
+</round>
+<round no="2"><cards type="Flop">DK C6 H4</cards>
+</round>
+<round no="3"><cards type="Turn">SK</cards>
+</round>
+<round no="4"><cards type="River">H8</cards>
+</round>
+</game>
+</session>
