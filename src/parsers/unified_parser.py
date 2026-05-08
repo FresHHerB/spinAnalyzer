@@ -64,14 +64,15 @@ class UnifiedParser:
             return HandFormat.XML_IPOKER
 
         if ext in [".txt", ".log"]:
-            # Verificar conteúdo para distinguir PokerStars de iPoker
+            # Read more than one line — PokerStars files often start
+            # with a "Hand #N:" pre-header before "PokerStars Hand #".
             with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
-                first_line = f.readline()
+                head = f.read(2048)
 
-                if "PokerStars Hand #" in first_line:
-                    return HandFormat.TXT_POKERSTARS
-                elif "GAME #" in first_line:
-                    return HandFormat.TXT_IPOKER
+            if "PokerStars Hand #" in head:
+                return HandFormat.TXT_POKERSTARS
+            if "GAME #" in head:
+                return HandFormat.TXT_IPOKER
 
         if ext == ".phh":
             return HandFormat.PHH
@@ -172,25 +173,26 @@ class UnifiedParser:
     # ============================================
 
     def _parse_xml_ipoker(self, file_path: Path, filters: Optional[Dict]) -> List[Path]:
-        """
-        Parser para XML do iPoker
-
-        Delega para o parser existente (simplificado aqui)
-        """
+        """Parser for iPoker session XML files (one session = many <game>s)."""
         try:
             import xml.etree.ElementTree as ET
 
             tree = ET.parse(file_path)
             root = tree.getroot()
 
-            # Contar mãos
+            # Hero name lives in the session-level <general><nickname>.
+            session_general = root.find('./general')
+            hero_name = ''
+            if session_general is not None:
+                nick = session_general.find('nickname')
+                if nick is not None and nick.text:
+                    hero_name = nick.text.strip()
+
             games = root.findall('.//game')
             self.stats['total_hands'] += len(games)
 
             phh_files = []
-
             for game in games:
-                # Verificar se é HU
                 if filters and filters.get('heads_up_only', False):
                     players = game.findall('.//player')
                     if len(players) != 2:
@@ -198,17 +200,12 @@ class UnifiedParser:
 
                 self.stats['hu_hands'] += 1
 
-                # Converter para PHH
-                phh_data = self._xml_game_to_phh(game)
-
+                phh_data = self._xml_game_to_phh(game, hero_name=hero_name)
                 if phh_data:
-                    # Salvar PHH
                     hand_id = phh_data['metadata']['hand_id']
                     phh_path = self.output_dir / f"{hand_id}.phh"
-
                     with open(phh_path, 'wb') as f:
                         tomli_w.dump(phh_data, f)
-
                     phh_files.append(phh_path)
                     self.stats['converted'] += 1
 
@@ -392,45 +389,167 @@ class UnifiedParser:
     # HELPERS - CONVERTERS
     # ============================================
 
-    def _xml_game_to_phh(self, game_element) -> Optional[Dict]:
-        """
-        Converte elemento <game> do XML iPoker para formato PHH
+    # iPoker XML action type → PHH verb. Verified against
+    # dataset/original_hands/final/*.xml in this repo.
+    _XML_ACTION_TYPE_MAP = {
+        '0': 'fold',
+        '1': 'posts_sb',
+        '2': 'posts_bb',
+        '3': 'call',
+        '4': 'check',
+        '5': 'bet',
+        '7': 'all_in',
+        '15': 'ante',
+        '23': 'raise',
+    }
+    # iPoker round numbering → PHH street. Round 0 holds antes/blinds
+    # (preflop), round 1 holds preflop hole + actions.
+    _XML_ROUND_TO_STREET = {
+        '0': 'preflop',
+        '1': 'preflop',
+        '2': 'flop',
+        '3': 'turn',
+        '4': 'river',
+    }
 
-        (Simplificado - versão completa usaria o código de etl_process.ipynb)
+    def _xml_game_to_phh(self, game_element, hero_name: str = '') -> Optional[Dict]:
+        """Convert one <game> element from iPoker XML into a PHH dict.
+
+        The game element structure (verified):
+            <game gamecode="X">
+              <general>
+                <players>
+                  <player seat="N" name="..." chips="..." dealer="0|1" win="..." muck="0|1"/>
+                </players>
+              </general>
+              <round no="0"><action no="..." player="..." type="15" sum="5"/>...</round>  # antes
+              <round no="1"><cards type="Pocket" player="X">RANK SUIT</cards>... <action .../></round>
+              <round no="2"><cards type="Flop">...</cards><action .../></round>
+              ...
+            </game>
         """
         try:
-            # Extrair metadados
             hand_id = game_element.get('gamecode', '')
+            if not hand_id:
+                return None
 
-            # Extrair jogadores
+            def _parse_num(s: str) -> float:
+                """iPoker uses ',' as thousands separator (e.g. '1,460')."""
+                if not s:
+                    return 0.0
+                try:
+                    return float(s.replace(',', ''))
+                except ValueError:
+                    return 0.0
+
+            # Players (per-game <general><players><player ...>)
             players = []
-            for player_elem in game_element.findall('.//player'):
+            for player_elem in game_element.findall('./general/players/player'):
                 players.append({
                     'name': player_elem.get('name', ''),
                     'seat': int(player_elem.get('seat', '0')),
-                    'stack': float(player_elem.get('chips', '0')),
-                    'is_btn': player_elem.get('dealer', '') == 'true'
+                    'stack': _parse_num(player_elem.get('chips', '0')),
+                    'is_btn': player_elem.get('dealer', '0') == '1',
                 })
+            if len(players) < 2:
+                return None
 
-            # Estrutura PHH básica
+            # Showdown winners (player has win > 0 AND muck == 0)
+            winners: list[str] = []
+            for player_elem in game_element.findall('./general/players/player'):
+                if _parse_num(player_elem.get('win', '0')) > 0 and player_elem.get('muck', '0') == '0':
+                    winners.append(player_elem.get('name', ''))
+
+            # Walk rounds, build actions stream + capture sb/bb/ante.
+            actions: list[dict] = []
+            sb_amount = 0.0
+            bb_amount = 0.0
+            ante_amount = 0.0
+            shown_hands: list[dict] = []
+
+            for round_elem in game_element.findall('./round'):
+                round_no = round_elem.get('no', '')
+                street = self._XML_ROUND_TO_STREET.get(round_no)
+                if street is None:
+                    continue
+
+                # Cards events first within a round.
+                for cards_elem in round_elem.findall('./cards'):
+                    card_type = (cards_elem.get('type') or '').lower()
+                    raw_text = (cards_elem.text or '').strip()
+                    if not raw_text or raw_text.upper() == 'X X':
+                        # Hole cards present but unrevealed for this player.
+                        if card_type == 'pocket':
+                            actions.append({
+                                'event': 'cards',
+                                'street': 'preflop',
+                                'cards': [],
+                                'player': cards_elem.get('player', ''),
+                            })
+                        continue
+                    parts = raw_text.split()
+                    cards = [self._normalize_card(c) for c in parts if c.upper() != 'X']
+                    if card_type == 'pocket':
+                        player_name = cards_elem.get('player', '')
+                        # Filter out the placeholder X-cards
+                        cards = [c for c in cards if c and c != 'X']
+                        actions.append({
+                            'event': 'cards',
+                            'street': 'preflop',
+                            'cards': cards,
+                            'player': player_name,
+                        })
+                        if cards and len(cards) == 2:
+                            shown_hands.append({
+                                'player': player_name,
+                                'cards': cards,
+                            })
+                    elif card_type in ('flop', 'turn', 'river'):
+                        actions.append({
+                            'event': 'cards',
+                            'street': card_type,
+                            'cards': cards,
+                        })
+
+                # Then action events.
+                for action_elem in round_elem.findall('./action'):
+                    type_code = action_elem.get('type', '')
+                    verb = self._XML_ACTION_TYPE_MAP.get(type_code)
+                    if verb is None:
+                        continue
+                    amount = _parse_num(action_elem.get('sum', '0'))
+                    actions.append({
+                        'event': 'action',
+                        'street': street,
+                        'player': action_elem.get('player', ''),
+                        'action': verb,
+                        'amount': amount,
+                    })
+                    # Capture blind/ante amounts as we see them.
+                    if verb == 'ante' and amount > 0 and ante_amount == 0:
+                        ante_amount = amount
+                    elif verb == 'posts_sb' and amount > 0 and sb_amount == 0:
+                        sb_amount = amount
+                    elif verb == 'posts_bb' and amount > 0 and bb_amount == 0:
+                        bb_amount = amount
+
             phh_data = {
                 'metadata': {
                     'hand_id': hand_id,
                     'game': 'NLHE',
                     'room': 'iPoker',
-                    'sb': 0.0,
-                    'bb': 0.0,
-                    'ante': 0.0,
-                    'hero': ''
+                    'sb': sb_amount,
+                    'bb': bb_amount,
+                    'ante': ante_amount,
+                    'hero': hero_name,
                 },
                 'players': players,
-                'actions': [],
-                'showdown': {'winners': [], 'hands': []}
+                'actions': actions,
+                'showdown': {
+                    'winners': winners,
+                    'hands': shown_hands,
+                },
             }
-
-            # TODO: Implementação completa de parsing de ações
-            # Por ora, retornar estrutura básica
-
             return phh_data
 
         except Exception as e:
@@ -438,38 +557,229 @@ class UnifiedParser:
             return None
 
     def _pokerstars_hand_to_phh(self, hand_text: str) -> Optional[Dict]:
-        """
-        Converte texto de mão do PokerStars para formato PHH
+        """Convert one PokerStars hand history block into a PHH dict.
 
-        (Simplificado - versão completa usaria test_pokerstars_parser.py)
+        Format observed (verified against
+        dataset/original_hands/ps/handHistory-*.txt):
+
+            PokerStars Hand #ID: ... Hold'em No Limit - Level I (sb/bb) - ...
+            Table '...' N-max Seat #N is the button
+            Seat N: NAME (X in chips)
+            NAME: posts small blind X
+            NAME: posts big blind X
+            *** HOLE CARDS ***
+            Dealt to NAME [c1 c2]
+            NAME: folds | checks | calls X | bets X | raises X to Y [and is all-in]
+            *** FLOP *** [c c c]
+            *** TURN *** [c c c] [c]
+            *** RIVER *** [c c c c] [c]
+            *** SHOW DOWN ***
+            NAME: shows [c c] (...)
+            NAME collected X from pot
         """
         try:
-            # Extrair hand ID
             hand_id_match = re.search(r"PokerStars Hand #(\d+):", hand_text)
             if not hand_id_match:
                 return None
-
             hand_id = hand_id_match.group(1)
 
-            # Estrutura PHH básica
+            # Stake level: "Level I (10/20)"
+            stake_match = re.search(r"\((\d+)/(\d+)\)", hand_text)
+            sb = float(stake_match.group(1)) if stake_match else 0.0
+            bb = float(stake_match.group(2)) if stake_match else 0.0
+
+            # Button seat: "Seat #X is the button"
+            button_match = re.search(r"Seat #(\d+) is the button", hand_text)
+            button_seat = int(button_match.group(1)) if button_match else 0
+
+            # Players: "Seat N: NAME (X in chips)"
+            players: list[dict] = []
+            for m in re.finditer(
+                r"^Seat (\d+): (\S+) \((\d+(?:\.\d+)?) in chips\)",
+                hand_text,
+                re.MULTILINE,
+            ):
+                seat = int(m.group(1))
+                players.append({
+                    'name': m.group(2),
+                    'seat': seat,
+                    'stack': float(m.group(3)),
+                    'is_btn': seat == button_seat,
+                })
+            if len(players) < 2:
+                return None
+
+            # Hero: "Dealt to NAME [c1 c2]"
+            hero_match = re.search(r"Dealt to (\S+) \[(\S+) (\S+)\]", hand_text)
+            hero_name = hero_match.group(1) if hero_match else ''
+            hero_cards = (
+                [hero_match.group(2), hero_match.group(3)] if hero_match else []
+            )
+
+            # Build action stream by parsing each line in order.
+            actions: list[dict] = []
+            ante_amount = 0.0
+            current_street = 'preflop'
+            hero_dealt = False
+
+            for line in hand_text.split('\n'):
+                line = line.rstrip()
+                if not line:
+                    continue
+
+                # Street markers
+                if line.startswith('*** HOLE CARDS ***'):
+                    # Emit hero hole-cards event right after this marker
+                    if hero_match and not hero_dealt:
+                        actions.append({
+                            'event': 'cards',
+                            'street': 'preflop',
+                            'cards': hero_cards,
+                            'player': hero_name,
+                        })
+                        hero_dealt = True
+                    continue
+                m = re.match(r"\*\*\* FLOP \*\*\* \[(\S+) (\S+) (\S+)\]", line)
+                if m:
+                    current_street = 'flop'
+                    actions.append({
+                        'event': 'cards',
+                        'street': 'flop',
+                        'cards': [m.group(1), m.group(2), m.group(3)],
+                    })
+                    continue
+                m = re.match(r"\*\*\* TURN \*\*\* \[\S+ \S+ \S+\] \[(\S+)\]", line)
+                if m:
+                    current_street = 'turn'
+                    actions.append({
+                        'event': 'cards',
+                        'street': 'turn',
+                        'cards': [m.group(1)],
+                    })
+                    continue
+                m = re.match(r"\*\*\* RIVER \*\*\* \[\S+ \S+ \S+ \S+\] \[(\S+)\]", line)
+                if m:
+                    current_street = 'river'
+                    actions.append({
+                        'event': 'cards',
+                        'street': 'river',
+                        'cards': [m.group(1)],
+                    })
+                    continue
+                if line.startswith('*** SHOW DOWN ***'):
+                    current_street = 'river'  # showdown is post-river
+                    continue
+                if line.startswith('*** SUMMARY ***'):
+                    break
+
+                # Action verbs
+                m = re.match(r"(\S+): posts the ante (\d+(?:\.\d+)?)", line)
+                if m:
+                    amt = float(m.group(2))
+                    actions.append({
+                        'event': 'action', 'street': 'preflop',
+                        'player': m.group(1), 'action': 'ante', 'amount': amt,
+                    })
+                    if ante_amount == 0:
+                        ante_amount = amt
+                    continue
+                m = re.match(r"(\S+): posts small blind (\d+(?:\.\d+)?)", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': 'preflop',
+                        'player': m.group(1), 'action': 'posts_sb',
+                        'amount': float(m.group(2)),
+                    })
+                    continue
+                m = re.match(r"(\S+): posts big blind (\d+(?:\.\d+)?)", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': 'preflop',
+                        'player': m.group(1), 'action': 'posts_bb',
+                        'amount': float(m.group(2)),
+                    })
+                    continue
+                m = re.match(r"(\S+): folds", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': current_street,
+                        'player': m.group(1), 'action': 'fold', 'amount': 0.0,
+                    })
+                    continue
+                m = re.match(r"(\S+): checks", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': current_street,
+                        'player': m.group(1), 'action': 'check', 'amount': 0.0,
+                    })
+                    continue
+                m = re.match(r"(\S+): calls (\d+(?:\.\d+)?)(?:.*and is all-in)?", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': current_street,
+                        'player': m.group(1),
+                        'action': 'call_allin' if 'all-in' in line else 'call',
+                        'amount': float(m.group(2)),
+                    })
+                    continue
+                m = re.match(r"(\S+): bets (\d+(?:\.\d+)?)(?:.*and is all-in)?", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': current_street,
+                        'player': m.group(1),
+                        'action': 'bet',  # pokerkit_adapter handles all-in fallback
+                        'amount': float(m.group(2)),
+                    })
+                    continue
+                m = re.match(r"(\S+): raises \d+(?:\.\d+)? to (\d+(?:\.\d+)?)(?:.*and is all-in)?", line)
+                if m:
+                    actions.append({
+                        'event': 'action', 'street': current_street,
+                        'player': m.group(1),
+                        'action': 'raise',
+                        'amount': float(m.group(2)),  # 'to' total
+                    })
+                    continue
+                m = re.match(r"(\S+): shows \[(\S+) (\S+)\]", line)
+                if m:
+                    if m.group(1) != hero_name:  # hero already emitted earlier
+                        actions.append({
+                            'event': 'cards',
+                            'street': 'preflop',  # holdings are preflop info
+                            'cards': [m.group(2), m.group(3)],
+                            'player': m.group(1),
+                        })
+                    continue
+
+            # Showdown: collect winners ("X collected Y from pot") and shown
+            winners: list[str] = []
+            for m in re.finditer(r"(\S+) collected (\d+(?:\.\d+)?) from pot", hand_text):
+                if m.group(1) not in winners:
+                    winners.append(m.group(1))
+            shown: list[dict] = []
+            for m in re.finditer(r"(\S+): shows \[(\S+) (\S+)\]", hand_text):
+                shown.append({
+                    'player': m.group(1),
+                    'cards': [m.group(2), m.group(3)],
+                })
+
             phh_data = {
                 'metadata': {
                     'hand_id': hand_id,
                     'game': 'NLHE',
                     'room': 'PokerStars',
-                    'sb': 0.0,
-                    'bb': 0.0,
-                    'ante': 0.0,
-                    'hero': ''
+                    'sb': sb,
+                    'bb': bb,
+                    'ante': ante_amount,
+                    'hero': hero_name,
                 },
-                'players': [],
-                'actions': [],
-                'showdown': {'winners': [], 'hands': []}
+                'players': players,
+                'actions': actions,
+                'showdown': {
+                    'winners': winners,
+                    'hands': shown,
+                },
             }
-
-            # TODO: Implementação completa de parsing
-            # Por ora, retornar estrutura básica
-
             return phh_data
 
         except Exception as e:
