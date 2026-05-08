@@ -123,6 +123,21 @@ class SearchByActionPathRequest(BaseModel):
     k: int = Field(default=50, ge=1, le=500)
 
 
+class SearchBySpotRequest(BaseModel):
+    """Mode A: server-side vector built from picker components."""
+
+    villain_name: str
+    street: str = "flop"
+    villain_position: str = "OOP"  # IP / OOP (postflop) or BTN / BB (preflop)
+    board_cards: list[str] = Field(default_factory=list)
+    pot_bb: float = Field(default=10.0, ge=0)
+    eff_stack_bb: float = Field(default=50.0, ge=0)
+    bet_size_pot_pct: float | None = None
+    villain_hand_strength: str | None = None
+    aggressor: str | None = None  # 'hero' / 'villain' / None
+    k: int = Field(default=50, ge=1, le=500)
+
+
 class SearchResponse(BaseModel):
     query: dict[str, Any]
     total: int

@@ -178,6 +178,29 @@ def test_search_by_action_path(client: TestClient) -> None:
 
 
 @pytest.mark.integration
+def test_search_by_spot_builder(client: TestClient) -> None:
+    villains = client.get("/api/v2/villains").json()["villains"]
+    name = villains[0]["name"]
+    r = client.post(
+        "/api/v2/search/by-spot-builder",
+        json={
+            "villain_name": name,
+            "street": "flop",
+            "villain_position": "OOP",
+            "board_cards": ["Kh", "9d", "4c"],
+            "pot_bb": 10.0,
+            "eff_stack_bb": 50.0,
+            "bet_size_pot_pct": 66.0,
+            "aggressor": "hero",
+            "k": 10,
+        },
+    )
+    assert r.status_code == 200
+    body = r.json()
+    assert body["total"] >= 0  # may be 0 if villain has no flop DPs
+
+
+@pytest.mark.integration
 def test_villain_sizing(client: TestClient) -> None:
     villains = client.get("/api/v2/villains").json()["villains"]
     # Find a villain with at least one bet
