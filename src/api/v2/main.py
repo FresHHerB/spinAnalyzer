@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from src.api.v2 import deps
 from src.api.v2.models import HealthResponse
-from src.api.v2.routers import decisions, hands, search, villains
+from src.api.v2.routers import decisions, hands, jobs, search, upload, villains
 from src.config.settings import settings
 
 app = FastAPI(
@@ -30,6 +30,8 @@ app.include_router(villains.router, prefix=prefix)
 app.include_router(hands.router, prefix=prefix)
 app.include_router(decisions.router, prefix=prefix)
 app.include_router(search.router, prefix=prefix)
+app.include_router(upload.router, prefix=prefix)
+app.include_router(jobs.router, prefix=prefix)
 
 
 @app.get("/", tags=["general"])
