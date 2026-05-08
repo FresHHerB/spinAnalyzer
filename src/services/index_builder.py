@@ -90,7 +90,13 @@ class IndexBuilder:
 
             decision_points_file = Path("dataset/decision_points/decision_points_vectorized.parquet")
             decision_points_file.parent.mkdir(parents=True, exist_ok=True)
-            df_decision_points.to_parquet(decision_points_file, index=False)
+
+            # Fix struct columns for Parquet compatibility
+            df_to_save = df_decision_points.copy()
+            if 'board_texture' in df_to_save.columns:
+                df_to_save['board_texture'] = df_to_save['board_texture'].astype(str)
+
+            df_to_save.to_parquet(decision_points_file, index=False)
 
             logger.success(f"✓ Saved {len(df_decision_points)} decision points to {decision_points_file}")
 
