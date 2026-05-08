@@ -1,0 +1,106 @@
+players = [
+    { name = "oreiasccp", seat = 3, stack = 1139.0, is_btn = true },
+    { name = "MoneyReaper", seat = 6, stack = 361.0, is_btn = false },
+]
+
+[metadata]
+hand_id = "11577871479"
+timestamp = "2025-07-16 22:32:04"
+game = "NLHE"
+room = "iPoker"
+sb = 30.0
+bb = 60.0
+ante = 5.0
+hero = "oreiasccp"
+
+[table]
+name = "Twister €5 SNG, 1130657191"
+size = 2
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "MoneyReaper"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "posts_sb"
+amount = 30.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "MoneyReaper"
+action = "posts_bb"
+amount = 60.0
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = [
+    "Qs",
+    "8s",
+]
+player = "oreiasccp"
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = [
+    "Jd",
+    "8h",
+]
+player = "MoneyReaper"
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "raise"
+amount = 356.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "MoneyReaper"
+action = "call_allin"
+amount = 296.0
+
+[[actions]]
+event = "cards"
+street = "flop"
+cards = [
+    "Ks",
+    "Ac",
+    "3d",
+]
+
+[[actions]]
+event = "cards"
+street = "turn"
+cards = [
+    "Js",
+]
+
+[[actions]]
+event = "cards"
+street = "river"
+cards = [
+    "Td",
+]
+
+[showdown]
+winners = [
+    "oreiasccp",
+]

@@ -1,0 +1,106 @@
+players = [
+    { name = "domikan1", seat = 6, stack = 40.0, is_btn = false },
+    { name = "oreiasccp", seat = 3, stack = 1460.0, is_btn = true },
+]
+
+[metadata]
+hand_id = "11514545608"
+timestamp = "2025-06-16 01:34:31"
+game = "NLHE"
+room = "iPoker"
+sb = 20.0
+bb = 35.0
+ante = 5.0
+hero = "oreiasccp"
+
+[table]
+name = "Twister €0.25 SNG, 1127547098"
+size = 2
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "domikan1"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "posts_sb"
+amount = 20.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "domikan1"
+action = "posts_bb"
+amount = 35.0
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = [
+    "9s",
+    "4h",
+]
+player = "domikan1"
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = [
+    "3h",
+    "Qh",
+]
+player = "oreiasccp"
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "call"
+amount = 15.0
+
+[[actions]]
+event = "cards"
+street = "flop"
+cards = [
+    "9h",
+    "7h",
+    "9c",
+]
+
+[[actions]]
+event = "cards"
+street = "turn"
+cards = [
+    "Ad",
+]
+
+[[actions]]
+event = "cards"
+street = "river"
+cards = [
+    "7d",
+]
+
+[showdown]
+winners = [
+    "domikan1",
+]
+
+[[showdown.hands]]
+player = "domikan1"
+cards = [
+    "9s",
+    "4h",
+]

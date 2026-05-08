@@ -57,6 +57,7 @@ Thumbs.db
 # Generated data files
 *.parquet
 *.phh
+!tests/fixtures/hands/*.phh
 dataset/phh_hands/*
 !dataset/phh_hands/.gitkeep
 dataset/decision_points/*

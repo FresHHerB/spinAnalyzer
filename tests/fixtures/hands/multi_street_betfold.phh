@@ -1,0 +1,152 @@
+players = [
+    { name = "domikan1", seat = 6, stack = 595.0, is_btn = false },
+    { name = "oreiasccp", seat = 3, stack = 905.0, is_btn = true },
+]
+
+[metadata]
+hand_id = "11514545395"
+timestamp = "2025-06-16 01:33:18"
+game = "NLHE"
+room = "iPoker"
+sb = 20.0
+bb = 40.0
+ante = 5.0
+hero = "oreiasccp"
+
+[table]
+name = "Twister €0.25 SNG, 1127547098"
+size = 2
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "domikan1"
+action = "ante"
+amount = 5.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "posts_sb"
+amount = 20.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "domikan1"
+action = "posts_bb"
+amount = 40.0
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = [
+    "Td",
+    "7d",
+]
+player = "oreiasccp"
+
+[[actions]]
+event = "cards"
+street = "preflop"
+cards = []
+player = "domikan1"
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "oreiasccp"
+action = "call"
+amount = 20.0
+
+[[actions]]
+event = "action"
+street = "preflop"
+player = "domikan1"
+action = "check"
+amount = 0.0
+
+[[actions]]
+event = "cards"
+street = "flop"
+cards = [
+    "4c",
+    "7s",
+    "Js",
+]
+
+[[actions]]
+event = "action"
+street = "flop"
+player = "domikan1"
+action = "check"
+amount = 0.0
+
+[[actions]]
+event = "action"
+street = "flop"
+player = "oreiasccp"
+action = "check"
+amount = 0.0
+
+[[actions]]
+event = "cards"
+street = "turn"
+cards = [
+    "5d",
+]
+
+[[actions]]
+event = "action"
+street = "turn"
+player = "domikan1"
+action = "check"
+amount = 0.0
+
+[[actions]]
+event = "action"
+street = "turn"
+player = "oreiasccp"
+action = "bet"
+amount = 40.0
+
+[[actions]]
+event = "action"
+street = "turn"
+player = "domikan1"
+action = "call"
+amount = 40.0
+
+[[actions]]
+event = "cards"
+street = "river"
+cards = [
+    "6s",
+]
+
+[[actions]]
+event = "action"
+street = "river"
+player = "domikan1"
+action = "bet"
+amount = 212.0
+
+[[actions]]
+event = "action"
+street = "river"
+player = "oreiasccp"
+action = "fold"
+amount = 0.0
+
+[showdown]
+winners = [
+    "domikan1",
+]
