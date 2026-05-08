@@ -10,7 +10,7 @@ from pathlib import Path
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.api.range_analysis import (
+from src.api.legacy.range_analysis_v1 import (
     analyze_range_distribution,
     categorize_hand_strength,
     get_range_category

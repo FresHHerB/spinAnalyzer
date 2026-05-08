@@ -20,7 +20,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.indexing.build_indices import IndexBuilder
 from src.vectorization.vectorizer import Vectorizer
-from src.api.models import (
+from src.api.legacy.models_v1 import (
     SimilaritySearchRequest,
     ContextSearchRequest,
     SearchResult,
@@ -34,7 +34,7 @@ from src.api.models import (
     RangeAnalysisRequest,
     RangeAnalysisResponse,
 )
-from src.api.file_upload import router as upload_router
+from src.api.legacy.file_upload_v1 import router as upload_router
 
 # Global state
 app_state = {
@@ -585,7 +585,7 @@ async def analyze_range(request: RangeAnalysisRequest):
     start_time = time.perf_counter()
 
     try:
-        from src.api.range_analysis import analyze_range_distribution
+        from src.api.legacy.range_analysis_v1 import analyze_range_distribution
 
         df = app_state["df"]
 

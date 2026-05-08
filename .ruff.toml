@@ -1,0 +1,26 @@
+target-version = "py310"
+line-length = 100
+extend-exclude = [
+    "src/api/legacy",
+    "src/context/context_extractor.py",
+    "src/vectorization/vectorizer.py",
+    "src/services/index_builder.py",
+    "src/api/range_analysis.py",
+    "src/parsers/unified_parser.py",
+    "src/indexing/build_indices.py",
+    "src/__init__.py",
+    "src/parsers/__init__.py",
+    "src/context/__init__.py",
+    "src/vectorization/__init__.py",
+    "src/indexing/__init__.py",
+    "src/api/__init__.py",
+    "frontend",
+    "dataset/legacy",
+]
+
+[lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "SIM", "PL", "RUF"]
+ignore = ["E501", "PLR0913", "PLR0911", "PLR0912", "PLR0915"]
+
+[lint.per-file-ignores]
+"tests/*" = ["PLR2004", "S101", "PLR0915"]
