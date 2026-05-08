@@ -1,0 +1,97 @@
+# Full-stack v2 deployment: API + ARQ worker + Redis + frontend-v2.
+# Run with:
+#     docker compose -f docker-compose.v2.yml up --build
+
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: spin-redis
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: spin-api
+    command:
+      [
+        "uvicorn",
+        "src.api.v2.main:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8000",
+      ]
+    ports:
+      - "8000:8000"
+    environment:
+      PYTHONUNBUFFERED: "1"
+      REDIS_URL: redis://redis:6379/0
+      DATA_DIR: /app/dataset
+      INDICES_DIR: /app/indices
+      PHH_DIR: /app/dataset/phh_hands
+      DPS_DIR: /app/dataset/dps
+      PROFILES_PATH: /app/dataset/villain_profiles/profiles.parquet
+      LOG_LEVEL: INFO
+    volumes:
+      - ./dataset:/app/dataset
+      - ./indices:/app/indices
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/v2/health')",
+        ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: spin-worker
+    command: ["arq", "src.workers.arq_worker.WorkerSettings"]
+    environment:
+      PYTHONUNBUFFERED: "1"
+      REDIS_URL: redis://redis:6379/0
+      DATA_DIR: /app/dataset
+      INDICES_DIR: /app/indices
+      PHH_DIR: /app/dataset/phh_hands
+      DPS_DIR: /app/dataset/dps
+      PROFILES_PATH: /app/dataset/villain_profiles/profiles.parquet
+      LOG_LEVEL: INFO
+    volumes:
+      - ./dataset:/app/dataset
+      - ./indices:/app/indices
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend-v2
+      dockerfile: Dockerfile
+    container_name: spin-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  redis_data:

@@ -68,3 +68,26 @@ filterwarnings = [
     # adapter compensates but pokerkit warns from inside its verifier.
     "ignore:A card being dealt.*is not recommended.*:UserWarning:pokerkit",
 ]
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "src/api/legacy/*",
+    "src/__init__.py",
+    "src/*/__init__.py",
+    # v1 modules superseded by v2
+    "src/context/context_extractor.py",
+    "src/vectorization/vectorizer.py",
+    "src/services/index_builder.py",
+]
+
+[tool.coverage.report]
+fail_under = 75
+show_missing = true
+skip_covered = false
+exclude_lines = [
+    "pragma: no cover",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+]
