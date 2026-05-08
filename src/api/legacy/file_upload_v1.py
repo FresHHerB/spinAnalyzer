@@ -80,7 +80,7 @@ def process_uploaded_file(
             logger.info("Recarregando dados no backend...")
 
             # Import locally to avoid circular import
-            from src.api.main import reload_data
+            from src.api.legacy.main_v1 import reload_data
 
             reload_summary = reload_data()
             processing_jobs[job_id]["reload_stats"] = reload_summary

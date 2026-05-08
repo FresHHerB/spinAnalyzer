@@ -11,7 +11,7 @@ import numpy as np
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.api.main import app
+from src.api.legacy.main_v1 import app
 
 
 @pytest.mark.asyncio
